@@ -1,0 +1,264 @@
+==========
+An anonymous reader writes "A Turkish hacking ring has broken into 2 sensitive US Army servers, according to a new investigation uncovered by InformationWeek.
+The hackers, who go by the name 'm0sted' and are based in Turkey, penetrated servers at the Army's McAlester Ammunition Plant in Oklahoma in January.
+Users attempting to access the site were redirected to a page featuring a climate-change protest.
+In Sept, 2007, the hackers breached Army Corps of Engineers servers.
+That hack sent users to a page containing anti-American and anti-Israeli rhetoric.
+==========
+The hackers used simple SQL Server injection techniques to gain access.
+That's troubling because it shows a major Army security lapse, and also the ability to bypass supposedly sophisticated Defense Department tools and procedures designed to prevent such breaches.
+when you are busy trying to defend against the most advanced crackers around, and whatever complex tools they are using, its probably easy to overlook the simpler stuff
+as usual, military contracting companies provided over-hyped shoddy work to the military, who either didn't know better or didn't care.Of course, I thought it was going to be as simple as knowing that the password was "Joshua".
+All your base are belong to us
+That's troubling because it shows a major Army security lapse, and also the ability to bypass supposedly sophisticated Defense Department tools and procedures designed to prevent such breaches.Who know where these outward facing servers reside?
+Having outward websites vandalized says nothing about the security of an organizations networks.
+The US Army uses Windows servers?
+If they want to prove a point they have to stop targeting US Defense facilities.
+Hack a serious portal like Slashdot if you can!
+Ha!
+A lot of defense spending is basically taxpayers helping out some overpaid well-connected idiots.
+Pardon the rant, but can anyone tell me why we're still having people write code that is subject to SQL injection attacks?I mean, sometimes potential buffer overflows in C/C++ programs can be tricky to notice.
+Writing threading code that's not subject to deadlock or starvation can often be a challenge.But isn't code that's subject to SQL injection attacks just blindingly, amazingly obvious at first glance?
+So much for Information Week being reasoned and sensible.
+"Equally troubling is the fact that the hacks appear to have originated outside the United States.
+Turkey is known to harbor significant elements of the al-Qaida network.
+It was not clear if "m0sted" has links to the terrorist group.
+" Hooray for sensationalism!
+I'm just playing devil's advocate but who puts their public website inside their defences?I know it is an extremely common practice in this country to actually put sites like these on standard third party hosting services e.g.
+Rackspace.They set them up to be as secure as other e-commerce sites, so fairly secure, but without having to poke holes in a nice heavy firewall.
+I didn't bother to RTFA, but summary is inflamatory at best.A public-facing, high-profile perception server gets compromised?
+That's not news.Let's say it is news for a minute.
+What was the budget for this public-facing project?
+This is not a "major Army security lapse" by any stretch of the imagination.Of course, my line of thinking wouldn't be widely accepted because it ignores the emotional response that the summary probably provokes in most people.
+A chain is not stronger than it's weakest link.A simple and powerful principle when dealing with security, whatever side of the law or order you are.
+==========
+1. good tactics2.
+the ability to adapt new tactics as previously good tactics become irrelevantone way a tactic becomes irrelevant is changing battlefield conditions.
+you don't fight in a swamp the way you fight in a desert, for instancewell, the internet is valid battlefield.
+and you fight on it with new tactics.
+it remains to be seen now if the us military understands that1.
+it needs to take this battlefield seriously2.
+it can develop good tactics to fight on this battlefieldbut as it stands now, a bunch of teenagers are thoroughly and repeatedly trouncing the us military
+This is what you get when you recruit kids out of high school and renege on the promise of the money they will get for joining up.
+It is communism-on-a-stick.
+Where is the motivation to do well
+I think using SQL injection hasn't qualified as "hacking" since it showed up on XKCD.
+How do you know the code was recently written?
+More likely, the app was written years ago, before the phrase "sql injection" was even coined.
+Um...no.If they had managed to get passed a single firewall or router, I would be impressed.
+As it stands, they redirected links on a public facing webserver...yawn.
+I work with hundreds of other IT techs who's job it is to monitor the Army network down to every single interface and we do it 24/7.
+Hmm... Not surprised.
+Makes my balls itch.
+I'd like you to stop by my work and bludgeon a few developers of mine over the head, if you would.
+Seems they're all too busy posting on a site called "BackSlash" or something to check their code.
+==========
+The US military is pretty much incapable of fighting a guerrilla war where the combatents are intermixed with civilians and civilian casualties are forbidden.
+It made Vietnam very difficult and it has made Iraq difficult as well.What we have is a guerrilla war against hackers where they are effectiely shielded in most cases by the ISP and their own country's law enforcement.
+The end result is almost an unwinnable war.We are winning in Iraq by ending the use of civilians as shields.
+We won in Vietnam by separating the combatants from the civilians.
+It is going to take that sort of effort to win against hackers, crackers and identity thieves.
+Unfortunately, right now the effort required to do this is intense enough that it is many, many times the losses so far.
+So I don't think they are going to do anything until the losses mount up a lot more.What makes this worse is in order to effectively combat these people it is going to take either the cooperation of foreign law enforcement or just going around them.
+Neither one is going to make these other countries want to be our friends, but they seem to be happy with the hackers running around doing whatever.
+Start by protecting against the simple stuff and work up.
+Oh no, they redirected web users.
+My goodness, does this mean we'll see missles flying overhead soon?
+Seriously, every department in the world has trojans in some form "inside the network".
+But retrieving the secretaries mail and retrieving classified information are different things.
+Albeit, redirecting users IS a mediocre risk, but since when does /.
+care about mediocre over-hyped news?
+It appears the servers in question were used for serving up web sites.
+Probably publicly-facing web sites.
+So, what sensitive information was at risk?
+There are already regulations about what content can be approved to sit on a DoD server with a publicly-facing web site.
+Cue a new cold war information protection policy!
+Dibs on the grey goo defense!
+Again?Slashdot requires you to wait longer between hitting 'reply' and submitting a comment.It's been 17 seconds since you hit 'reply'.Chances are, you're behind a firewall or proxy, or clicked the Back button to accidentally reuse a form.
+Please try again.
+If the problem persists, and all other options have been tried, contact the site administrator.So, what do I need to do, type really really slow?
+Sounds like little more than defacing public military websites to boost their "1337" egos.
+The real hacks, the serious ones, are the ones you never hear about because the perpetrators are smart enough to not go around publicly proclaiming that they broke in.
+I have worked with the U.S. Army "Network Engineers".
+I was apalled at their lack of knowledge and understanding of security.
+I don't know what I've been toldBut Army server's are quickly pwnedYou don't need some high-tech decryption machineJust a string with a semi-colon in betweenI don't know what I will findWhen good Army hacker's have resignedWe'll have a good laugh when some bored kid in ChinaPosts photos of Gen. Petraeus with a vagina
+These were not "Army" sites and they are not maintained or administered by soldiers.
+One is for a munitions plant where the government owns the facility but it is leased to a private company who operates it for the government.
+The other is for the Corps of Engineers, the guys who do things like make sure dams don't have any leaks.
+The Royal Navy now uses Windows for Warships :-
+The US I presume that's who you're referring to won in Vietnam?
+By whose estimation?
+Yeah, that's pretty terrible.
+You can be equally unclear if they had links to Nazism, or the Republican National Committee.
+Too bad spinspotter dotbombed - http://spinspotter.com/ spinspotter.com
+come on people, sql injection attack == hackers?
+plz
+web server defraud is only for even more sad audience who thinks its a form of haking
+I'm just playing devil's advocate but who puts their public website inside their defences?
+George W. Bush thats who
+Continuing the military analogy...  What great battles have been won purely by defense?
+Denying yourself he ability to "reach out and touch someone", will always give the advantage to those  who seek to blow you up -- or to bring your server down.
+Sorry, but either you watched too many movies or you failed all your history classes.No matter what Rambo, Forest Gump and Doctor Manhattan did, the US lost the war in Vietnam.
+I didn't know the Viet Cong was operating in Iraq.
+?Maybe you can package your comment as the payload of an SQL injection?
+As mentioned by other posters, since we don't know how old the system is, we can't really measure it against "modern" perceptions.In addition, they could be a victim of this kind of thing: Contractor:  We'd like to make a prototype for a web site that will do XYZ.
+Govt: K, here's some cash.
+Contractor:  Here's a prototype, now can we have some cash to convert it from a prototype into a real system?
+Govt: Nah.
+I'd have to fill out a lot of paperwork for that.
+We'll just use the prototype.
+?Who says it's behind their real defenses?Look, it's a web server on the Internet.
+It's gonna need at least a firewall.
+Just like if they used Rackspace to host it and you were behind Rackspace's firewall.
+But there's also gonna be additional defenses for other systems.And, btw, anything that's on the server is gonna be unclassified or somebody's goin' to jail regardless of the breach.
+What you have is a few teenagers writing graffiti on the army bulletin board located outside the base.
+And yes, the War on Vandals is likely unwinnable.
+However, you might try declaring War on Exaggeration.We won in Vietnam by separating the combatants from the civilians.
+You didn't win in Vietnam, you lost and fled.
+Not really.
+Do you have any idea just how many computers have .mil addresses?
+If somebody screwed up on the configuration for an infinitesimally small percentage of them, that's still a lot of systems open to attack.
+And the script kiddies will get lucky.But the US military also doesn't talk about their own "cyber" offensive and defensive capabilities for obvious reasons.
+Which leads to the erroneous presumption that such capabilities don't exist.Besides, these kinds of stories are great for getting additional funding for somebody's pet project.
+Much like Kennedy's complaining about the "Missile Gap" when he beat Nixon.
+No such gap existed, but it let Kennedy spend a lot of money fixing the gap.
+We won in Vietnam by separating the combatants from the civilians.Are you Ho Chi Minh?
+Devil's advocate?
+Every comment here is already against the admins of the servers...
+==========
+It is not people still writting such code, it is people still using such code.
+A website that has accumulated information and that has been working correctly for 10 years is not something most people are willing to rewrite.
+Take off every 'Information Aggressor Squadron'!
+"most advanced" and Microsoft?
+Giggles :  Gary McKinnon showed the way in :
+They used to work for the US mil, but hated it so much.
+Now they sell their skills back at 3X the price as contractors and do not get treated like trash.
+Small tip, US mil, treat your men and woman right.
+Wait... we won Vietnam?
+"We won in Vietnam"ummmmm.. assuming you're not Vietnamese, you lost that war.
+So long as the work involves "hack" and "US Government",  it doesn't matter what really happened.
+Remember, both the US and now Canada are trying to convince us that Cyberwars are more dangerous then "conventional" war and they need more examples to justify their outrageous budgets.
+*@users.slashdot.org will not fall for it but *.gov and *.gc.ca are.
+For a site ran by and for geeks /.
+has really gone down hill.When the jscript isn't crapping out or running my cpu to the roof, or my comments disappear completely provided I can actually get it to post.They really have to learn a lot about accessibility and basic scripting and stop all these redicilous changes like removing the comment count like nobody would notice.I'm seconds away from finding a better homepage, If it wasn't for the Idle section I wouldn't even be here now.
+Is this a parallel universe or something ?
+Wait, who and when won Vietnam?
+I thought the US ran with its tail between its legs?
+is that you Charlie?
+We are winning in Iraq
+We won in Vietnam
+lol wut
+Oh no, a web page.If somebody were able to get into SIPRnet, that would be proving a point.
+Not that we would hear about it, probably.Put your pants back on, this is bullshit.
+It could have been written by a newbie programmer.
+A lot of ODBC/JDBC/Insert DB connector tutorials I saw even a few years ago do dodgy stuff like string concatenation with the user input instead of proper parametrization.
+Even at uni the databases lecturer didn't mention parameter queries while teaching about JDBC.
+All his examples joined strings.
+Parameters should have been one of the first things he mentioned about DB programming and not using them in an assignment should have been an auto-fail.
+==========
+Make your time!
+HAHAHAHAHA
+So I don't think they are going to do anExcuse me?
+The US did not win the Vietnam War, unless the US was aiming to make Vietnam a communist country and have lots of casualties.
+when you are busy trying to defend against the most advanced crackers around
+Are you serious?
+Are you really going to parrot that asinine "hacker vs. cracker" bullshit in 2009?
+You're like one of those stranded Japanese soldiers who thinks World War II is still going on.
+Changing wording to create fiction in the hope that somebody gullible will hand over some cash is not the way to fight this increasingly organised and increasingly common criminal activity, but unfortunately that is how the current head of the NSA and others scrambling for funding are doing it.
+One such idiot full of cyberhype recently showed he knew less about Trojans than anyone with even a passing knowlege of european culture let alone a computer professional ie.
+the Trojan horse lets the other nasty stuff in.
+Forget the "guerrilla war against hackers" bullshit since the people we really want to catch are fraudsters, money launderers and the occassional trespasser onto military networks which makes them a spy and not some "cyberterrorist".
+When we escalate the words into the realm of fantasy you end up with pointless running around in circles trying to catch fantastic supervillians that may not exist instead of looking at reality and catching those that do exist.
+==========
+Seems we don't have to know much about the situation to know one thing... a "major Army security lapse" is more like, say, strategic radio comm in the clear, close enough to be intercepted by the enemy, and results in casualties.A public facing website that gets script-kiddied by some asshat from Turkey that thinks exploiting a site by SQL injection is Uber-L33t is not a major lapse.
+I'm pretty sure this is not weighing heavily on some 5-star's mind.
+Like everything else this system was built by the lowest bidder.
+That's doubtful at the best of times, but for the sake of argument entertain you.by ending the use of civilians as shields.
+No you haven't.
+There hasn't been any noticeable decrease in violence, just less reporting of it.
+Just because the US army has the media on a tight leash doesn't mean that you're winning, in fact this is about the only lesson the US armed forces learned in Vietnam and in my opinion the most useless one taught.We won in Vietnam
+Ahh yes, we've all seen the famous "victory in Vietnam" photo.
+==========
+You know the one where all the people are rushing to the roof of the US embassy to get on the last chopper out of Saigon.by separating the combatants from the civilians.
+Once again, you did no such thing.
+The US didnt know about half the double agents inside the South Vietnamese government and army until after the NVA rocked up in Saigon and pat them on the back.
+Reality is on line 1 for you.
+It also wants to know how this got modded up.
+Anti-climate change and anti-Israeli sites?
+Why didn't they at least do something funny, like redirect to goatse?
+This story would be so much better if it were 'Hackers Rick-Roll US Army Servers' or something along those lines.
+WTF?!
+I must have woken up in a parallel universe or something.
+Who are you?
+It's the fault of subpar developers.
+I have some of them in my company, tried to teach them, but nothing works.
+I still encounter some bad queries here and there in their code.
+Add lack of ANY programming/indenting style and you have today's web programming.
+WTF?!
+I must have woken up in a parallel universe.by separating the combatants from the civilians.Yeah right, carpet bombing the jungle with napalm is just that, a surgical strike just on the bad guys.
+where $X = "nuclear missle", "strategic bomber", "wmd", "UAV", "cyberspace";Remember Citiziens, your duty is to cower at all time and pay your tithes to your feudal masters.Remember Citizens, thinking is for anti-State terrorists, so report all thinkers to your local Homeland Security officer.
+Army's McAlester Ammunition Plant in Oklahoma ... Users attempting to access the site were redirected to a page featuring a climate-change protest.Who the hell would visit a Ammunition Plant website?
+Full disclosure: I lol'd.Screw the US military pussies.
+Shouldn't that be "crackers" or "cyber-criminals"?Are we giving up on resisting the bastardization of the word hacker?
+Also annoying is that recently the "Moderate" button no longer appears when I use Firefox which is all the time  It's there if I use IE but if you thing I'm using that rubbish to surf the web you're crazy!
+It's only a bloody HTML button for "Bob"s sake!So for the third week running here I am browsing away with 20 moderator points ready for use but, without using IE, no way to use them.Bring back the old Slashcode that's what I say - or at least the good bits.
+but sir we are upgrading your systems to windblast 7anyway I say good, buy some more of microsoft so you will be hacked to hell you army morons
+I have personal experience with DoD networks and there is nothing particularly sophisticated about their tools and procedures.
+Security of classified material comes from keeping it offline altogether and there is a difference between "sensitive" and "classified" material.
+I do agree that fighting hacker is guerilla warfare that our government is not capable of fighting and for them the fight cannot be won.
+They don't underdstand that tatics and most of their cool toys don't work against an enemy such has this.
+On two points you are tottaly wrong.
+Yes we ended the use of civilians as shields.
+We ended this by changing the term "Civilians" to "Enemy Combatants".
+No matter what "term" you use to call them the people we are killing is the local population.
+You can call them Enemy Combatants but it doesn't change the fact they are women and children.We won in Vietnam by separating the combatants from the civilians.Dude  we lost that stupid war!
+I know I was there!
+The reason we lost was we could not separate the combatants from the civilians because the Combatants WERE!
+the civilians!
+No one except the poloticat eliete wanted us their.
+They are a happy thriving peaceful country now that we are gone.The one thing the US Military has yet to figure out is you can win a war against an "Army" but you cannot win a war against a "People" except by completely wiping them out.
+Yes and you must kill them all.
+If you leave a few they have babies and then you have a bunch of pissed off Grand kids in a few hundred years.
+Ask any American Indian.
+After over 500 years they still give the US Government a headache.Please as a Vietnam Vet I ask you to not ever make the statement again that we won that fucking war.
+We didn't.
+I lost a lot of good friends for nothing except to make a few people rich.
+This was nothing more than a simple-minded attack on a handful of public websites containing NO classified data.The U.S. military follows a rigid security discipline of having separate network for secure "black" and non-secure "red" traffic.
+There is NO PHYSICAL CONNECTION between these networks, and there is NO connection between the black networks and the Internet.This article was right up there with Swine Flu II: Pure sensationalism.
+Or this could be a simple technique by the information security agents to create a sort of "honeypot" for hackers to target so they can keep the serious information out of the crosshairs.
+Such as the F-35
+Nuclear Silos!
+I really hope not.
+But this so called cyberwarfare that previous posters are talking about that requires outlandish budgets because it's supposedly more dangerous than real warfare is only dangerous when you link weapons to computers.
+And here we are sitting on top of tens of thousands of nuclear bombs controlled by computers, and building airplanes and tanks and robots with guns.
+It doesn't matter if they're linked to the internet or not.
+The fact remains they have radio receivers that can give commands to shoot and kill people.
+Please stop listing cyber-graffiti and start talking about the serious problems.
+except the bases in Turkey!
+We won in Vietnam?
+If they had TSA agents standing at all the firewalls, making each packet take off it's shoes before proceeding - this could have been stopped.
+I completely agree.
+==========
+All of my SQL variables are escaped IMMEDIATELY before the executed code.
+This way, you can look at any SQL code I've written and instantly know if it's secure or not.
+I would call this code "obviously secure" at least the SQL part is.
+It may still contain bugs, but SQL injection won't be possible.
+I've seen several other safety mechanisms that escape any variables before sending them to SQL-related functions, but looking inside the function instead of the caller you really don't know what data you have and whether it is safe or not.
+I think secure code should be obviously secure.
+Of course there are those buffer overflow problems and threading etc like you mention, but how about quit using sprintf and instead use snprintf?
+WTF?  And don't give me that "If I know I'm just printing a simple variable and I know how long it is, then it's OK" crap either.
+Ever seen a calculator come up with a wrong answer that was really close?
+Like 3.99897876 instead of 4?
+I have.
+And we all know that there have been widely-used CPUs with math processor errors.
+If your code isn't obviously secure, I argue that it's not secure.
+Especially if you aren't the only developer in the pipeline.
+We all organize this code differently in our own heads and what makes sense to one dev is confusing to another.
+If the code is obviously secure, most of that is eliminated anyways.
+Mods: I don't think this is flamebait; or at least, I never intended it to be.
+I'm just surprised... generally organizations that care about security above other issues tend to go with a Unix-based system.
+I never said there wasn't a place for Windows servers, just that I'm kinda surprised that the army apparently prefers them over *nix.
+==========
+You didn't win in Vietnam.
+And you are not winning in Iraq.
+==========

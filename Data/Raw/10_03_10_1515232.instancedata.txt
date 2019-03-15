@@ -1,0 +1,1989 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article10_03_10_1515232</id>
+	<title>LHC Will Be Shut Down In 2011 Because of "Mistake"</title>
+	<author>CmdrTaco</author>
+	<datestamp>1268237040000</datestamp>
+	<htmltext><a href="http://www.astroengine.com/" rel="nofollow">astroengine</a> follows up to a story about <a href="http://slashdot.org/story/10/02/03/2319222/">the LHC shutting down</a> that seems to have hit all the news replicators today.   <i>"It's to be expected when pushing the frontiers of physics, but the LHC's epic 'will it or won't it' saga continues. Due to an unforeseen construction mistake, <a href="http://news.discovery.com/space/the-lhc-to-shut-down-again.html">the LHC will cease experiments for a year</a> (starting around late-2011) so repairs and upgrades can be carried out. For now, accelerated particles will have a maximum energy of 7TeV (half the power of the LHC's design maximum), which is ample for at least 18 months of experiments before shutdown."</i></htmltext>
+<tokenext>astroengine follows up to a story about the LHC shutting down that seems to have hit all the news replicators today .
+" It 's to be expected when pushing the frontiers of physics , but the LHC 's epic 'will it or wo n't it ' saga continues .
+Due to an unforeseen construction mistake , the LHC will cease experiments for a year ( starting around late-2011 ) so repairs and upgrades can be carried out .
+For now , accelerated particles will have a maximum energy of 7TeV ( half the power of the LHC 's design maximum ) , which is ample for at least 18 months of experiments before shutdown .
+"</tokentext>
+<sentencetext>astroengine follows up to a story about the LHC shutting down that seems to have hit all the news replicators today.
+"It's to be expected when pushing the frontiers of physics, but the LHC's epic 'will it or won't it' saga continues.
+Due to an unforeseen construction mistake, the LHC will cease experiments for a year (starting around late-2011) so repairs and upgrades can be carried out.
+For now, accelerated particles will have a maximum energy of 7TeV (half the power of the LHC's design maximum), which is ample for at least 18 months of experiments before shutdown.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427562</id>
+	<title>The timestream protects itself</title>
+	<author>hoggoth</author>
+	<datestamp>1268242800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Once again, the timestream moves to protect itself. If they continue attempting to create Higgs-Boson particles at the LHC, we will find ourselves inhabiting an increasingly unlikely reality. Construction accidents, birds dropping baguettes into the particle beam, anything can happen to prevent this.</p><p>Mark my word, something improbable will happen to the LHC near the end of this repair work.</p><p>We should harness this power to direct the future time stream and create a drive that uses these disturbed probabilities. We can call it the 'improbability drive'.</p></htmltext>
+<tokenext>Once again , the timestream moves to protect itself .
+If they continue attempting to create Higgs-Boson particles at the LHC , we will find ourselves inhabiting an increasingly unlikely reality .
+Construction accidents , birds dropping baguettes into the particle beam , anything can happen to prevent this.Mark my word , something improbable will happen to the LHC near the end of this repair work.We should harness this power to direct the future time stream and create a drive that uses these disturbed probabilities .
+We can call it the 'improbability drive' .</tokentext>
+<sentencetext>Once again, the timestream moves to protect itself.
+If they continue attempting to create Higgs-Boson particles at the LHC, we will find ourselves inhabiting an increasingly unlikely reality.
+Construction accidents, birds dropping baguettes into the particle beam, anything can happen to prevent this.Mark my word, something improbable will happen to the LHC near the end of this repair work.We should harness this power to direct the future time stream and create a drive that uses these disturbed probabilities.
+We can call it the 'improbability drive'.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427338</id>
+	<title>Re:Apparently, This is Not Unusual At All</title>
+	<author>Monkeedude1212</author>
+	<datestamp>1268241720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Sounds like one of those recursive quantum anomalies the LHC is designed to unravel...</p></div><p>Actually, we've taken George Lucas' idea of a Death Star and built a giant Laser producing facility on the crust of our planet. Some minor set backs, of course, but we will have the power to destroy an entire planet soon enough. This whole "Quantum Physics" thing was just to get all the physicists on board, since most of them actually favour Star Trek.</p></div>
+	</htmltext>
+<tokenext>Sounds like one of those recursive quantum anomalies the LHC is designed to unravel...Actually , we 've taken George Lucas ' idea of a Death Star and built a giant Laser producing facility on the crust of our planet .
+Some minor set backs , of course , but we will have the power to destroy an entire planet soon enough .
+This whole " Quantum Physics " thing was just to get all the physicists on board , since most of them actually favour Star Trek .</tokentext>
+<sentencetext>Sounds like one of those recursive quantum anomalies the LHC is designed to unravel...Actually, we've taken George Lucas' idea of a Death Star and built a giant Laser producing facility on the crust of our planet.
+Some minor set backs, of course, but we will have the power to destroy an entire planet soon enough.
+This whole "Quantum Physics" thing was just to get all the physicists on board, since most of them actually favour Star Trek.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427182</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430096</id>
+	<title>Re:You know things are bad when ...</title>
+	<author>sgt\_doom</author>
+	<datestamp>1268254680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>In future Russia, LHCs will not exist......(sorry, I had to sneak that one in!).</p></htmltext>
+<tokenext>In future Russia , LHCs will not exist...... ( sorry , I had to sneak that one in !
+) .</tokentext>
+<sentencetext>In future Russia, LHCs will not exist......(sorry, I had to sneak that one in!
+).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428150</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427192</id>
+	<title>Re:You know things are bad when ...</title>
+	<author>Pojut</author>
+	<datestamp>1268241120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Much thanks to you, fellow poster!</p></htmltext>
+<tokenext>Much thanks to you , fellow poster !</tokentext>
+<sentencetext>Much thanks to you, fellow poster!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428948</id>
+	<title>Re:Hmmm...</title>
+	<author>bluie-</author>
+	<datestamp>1268249400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Don't you mean, 'prevents' humanity?</htmltext>
+<tokenext>Do n't you mean , 'prevents ' humanity ?</tokentext>
+<sentencetext>Don't you mean, 'prevents' humanity?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427148</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429882</id>
+	<title>Re:You know things are bad when ...</title>
+	<author>Anonymous</author>
+	<datestamp>1268253780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I have this feeling, as if I used to live in a dream or an alternate reality, where the plan was to start the LHC at full power immediately, and that everything was going according to schedule. Then I was told that a shutdown had been the plan all along, and it was as if it HAD indeed been the plan all along! Hmm.. Must be some bad coffee.</p></htmltext>
+<tokenext>I have this feeling , as if I used to live in a dream or an alternate reality , where the plan was to start the LHC at full power immediately , and that everything was going according to schedule .
+Then I was told that a shutdown had been the plan all along , and it was as if it HAD indeed been the plan all along !
+Hmm.. Must be some bad coffee .</tokentext>
+<sentencetext>I have this feeling, as if I used to live in a dream or an alternate reality, where the plan was to start the LHC at full power immediately, and that everything was going according to schedule.
+Then I was told that a shutdown had been the plan all along, and it was as if it HAD indeed been the plan all along!
+Hmm.. Must be some bad coffee.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428700</id>
+	<title>LHC Construction</title>
+	<author>Anonymous</author>
+	<datestamp>1268248320000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>I'm sorry, I don't have references, but someone was explaining to me that the parts and construction for the LHC are excessively shoddy. He mentioned the size of the magnets and, I believe, mentioned that they weren't really tested before being put in place. His beef was that the whole thing is basically just a huge money sinkhole and may not ever produce the kinds of results it promises.</p></htmltext>
+<tokenext>I 'm sorry , I do n't have references , but someone was explaining to me that the parts and construction for the LHC are excessively shoddy .
+He mentioned the size of the magnets and , I believe , mentioned that they were n't really tested before being put in place .
+His beef was that the whole thing is basically just a huge money sinkhole and may not ever produce the kinds of results it promises .</tokentext>
+<sentencetext>I'm sorry, I don't have references, but someone was explaining to me that the parts and construction for the LHC are excessively shoddy.
+He mentioned the size of the magnets and, I believe, mentioned that they weren't really tested before being put in place.
+His beef was that the whole thing is basically just a huge money sinkhole and may not ever produce the kinds of results it promises.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427388</id>
+	<title>You mean the time paradoxes....</title>
+	<author>gestalt\_n\_pepper</author>
+	<datestamp>1268242020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>prevented this thing from blowing up the universe again? Man, this is worse than last night's "Lost" episode.</p></htmltext>
+<tokenext>prevented this thing from blowing up the universe again ?
+Man , this is worse than last night 's " Lost " episode .</tokentext>
+<sentencetext>prevented this thing from blowing up the universe again?
+Man, this is worse than last night's "Lost" episode.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427182</id>
+	<title>Apparently, This is Not Unusual At All</title>
+	<author>Anonymous</author>
+	<datestamp>1268241060000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>...at least according to the article at the end of the supplied link.  Quoting a Prof. Brian Cox, "ALL particle accelerators have 6 - 12 month regular shutdowns for maintenance and upgrades. That's how complex machines are operated!"</p><p>Now, I know slashdot readers don't read the articles, and I've become accustomed to the editors not reading the articles, but this situation implies that even the submitter of the article didn't read the article.</p><p>How is that even possible?</p><p>Sounds like one of those recursive quantum anomalies the LHC is designed to unravel...</p></htmltext>
+<tokenext>...at least according to the article at the end of the supplied link .
+Quoting a Prof. Brian Cox , " ALL particle accelerators have 6 - 12 month regular shutdowns for maintenance and upgrades .
+That 's how complex machines are operated !
+" Now , I know slashdot readers do n't read the articles , and I 've become accustomed to the editors not reading the articles , but this situation implies that even the submitter of the article did n't read the article.How is that even possible ? Sounds like one of those recursive quantum anomalies the LHC is designed to unravel.. .</tokentext>
+<sentencetext>...at least according to the article at the end of the supplied link.
+Quoting a Prof. Brian Cox, "ALL particle accelerators have 6 - 12 month regular shutdowns for maintenance and upgrades.
+That's how complex machines are operated!
+"Now, I know slashdot readers don't read the articles, and I've become accustomed to the editors not reading the articles, but this situation implies that even the submitter of the article didn't read the article.How is that even possible?Sounds like one of those recursive quantum anomalies the LHC is designed to unravel...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429968</id>
+	<title>Re:The timestream protects itself</title>
+	<author>IICV</author>
+	<datestamp>1268254080000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>That's not how it works at all - we only experience the realities in which the LHC hasn't destroyed reality. All other realities have been destroyed, so we're not around to experience them. No timestream editing required.</p><p>That's also why you aren't dead - you are not around to experience all of the realities in which you are dead, so you never will.</p><p>On a more rational note: in order for unlikely events to happen, you need time and space. The more space you have, the less time it takes for something unlikely to happen in that space. The LHC is an incredibly delicate, incredibly closely monitored, extremely large thing (there's 17 miles of some of the highest tech stuff ever in there). Of course weird stuff is going to happen to it.</p></htmltext>
+<tokenext>That 's not how it works at all - we only experience the realities in which the LHC has n't destroyed reality .
+All other realities have been destroyed , so we 're not around to experience them .
+No timestream editing required.That 's also why you are n't dead - you are not around to experience all of the realities in which you are dead , so you never will.On a more rational note : in order for unlikely events to happen , you need time and space .
+The more space you have , the less time it takes for something unlikely to happen in that space .
+The LHC is an incredibly delicate , incredibly closely monitored , extremely large thing ( there 's 17 miles of some of the highest tech stuff ever in there ) .
+Of course weird stuff is going to happen to it .</tokentext>
+<sentencetext>That's not how it works at all - we only experience the realities in which the LHC hasn't destroyed reality.
+All other realities have been destroyed, so we're not around to experience them.
+No timestream editing required.That's also why you aren't dead - you are not around to experience all of the realities in which you are dead, so you never will.On a more rational note: in order for unlikely events to happen, you need time and space.
+The more space you have, the less time it takes for something unlikely to happen in that space.
+The LHC is an incredibly delicate, incredibly closely monitored, extremely large thing (there's 17 miles of some of the highest tech stuff ever in there).
+Of course weird stuff is going to happen to it.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427562</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429368</id>
+	<title>they ran out of black holes during construction</title>
+	<author>swschrad</author>
+	<datestamp>1268251500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>it seems a number of them were hijacked by some pirates who have been distributing them to would-be journalists.</p></htmltext>
+<tokenext>it seems a number of them were hijacked by some pirates who have been distributing them to would-be journalists .</tokentext>
+<sentencetext>it seems a number of them were hijacked by some pirates who have been distributing them to would-be journalists.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427962</id>
+	<title>Should have have hired the Prius engineers</title>
+	<author>HermDog</author>
+	<datestamp>1268244660000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext>Now there's a crew who know how to make an unstoppable accelerator!</htmltext>
+<tokenext>Now there 's a crew who know how to make an unstoppable accelerator !</tokentext>
+<sentencetext>Now there's a crew who know how to make an unstoppable accelerator!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427266</id>
+	<title>nonstory: its obviously nothing but</title>
+	<author>circletimessquare</author>
+	<datestamp>1268241420000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>the usual saboteurs from the future, trying to preserving their pathetic little doomed timeline</p></htmltext>
+<tokenext>the usual saboteurs from the future , trying to preserving their pathetic little doomed timeline</tokentext>
+<sentencetext>the usual saboteurs from the future, trying to preserving their pathetic little doomed timeline</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428894</id>
+	<title>Re:so sick of this</title>
+	<author>The End Of Days</author>
+	<datestamp>1268249220000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>If you are American, then I guess your assumption that Americans fly off the handle for no reason is a pretty good one, considering.  If you're not, take a look in the mirror.</p><p>Either way, thanks for the laugh. Sputtering rage is probably the second funniest thing in the world, next to dudes getting punched in the beanbag.</p></htmltext>
+<tokenext>If you are American , then I guess your assumption that Americans fly off the handle for no reason is a pretty good one , considering .
+If you 're not , take a look in the mirror.Either way , thanks for the laugh .
+Sputtering rage is probably the second funniest thing in the world , next to dudes getting punched in the beanbag .</tokentext>
+<sentencetext>If you are American, then I guess your assumption that Americans fly off the handle for no reason is a pretty good one, considering.
+If you're not, take a look in the mirror.Either way, thanks for the laugh.
+Sputtering rage is probably the second funniest thing in the world, next to dudes getting punched in the beanbag.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431276</id>
+	<title>Re:You know things are bad when ...</title>
+	<author>Anonymous</author>
+	<datestamp>1268217120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>6-12 months is usually for an upgrade (a short one, CERN is calling it an engineering shutdown). A typical shutdown is 1-3 months depending on lab. For comparison sake a typical shutdown is 6 weeks every year at FNAL (that's sort of an average over many years, there have been 3 month shutdowns and two years between them in cases). At SPring-8 they run a typical workday (not 24/7) and have some down time each night and tend to have shutdowns last 4 weeks after two years. They don't really do upgrades, FNAL had one in the era of the tevatron. An upgrade tends to have a different new run afterward and tends to be at least 18 months, often 2 years or more. I thought that CERN was going to do another run after the upgrade at higher energy. They were originally planning on a long upgrade beginning at the end of 2012. Last I heard that got moved-up 6 months or so. It's not a big deal, it always happens that shutdowns get moved around. There is a delicate balancing act where you need to give people enough time to prepare but not go so long that things start breaking. Shutdowns and upgrades are VERY busy times.</p></htmltext>
+<tokenext>6-12 months is usually for an upgrade ( a short one , CERN is calling it an engineering shutdown ) .
+A typical shutdown is 1-3 months depending on lab .
+For comparison sake a typical shutdown is 6 weeks every year at FNAL ( that 's sort of an average over many years , there have been 3 month shutdowns and two years between them in cases ) .
+At SPring-8 they run a typical workday ( not 24/7 ) and have some down time each night and tend to have shutdowns last 4 weeks after two years .
+They do n't really do upgrades , FNAL had one in the era of the tevatron .
+An upgrade tends to have a different new run afterward and tends to be at least 18 months , often 2 years or more .
+I thought that CERN was going to do another run after the upgrade at higher energy .
+They were originally planning on a long upgrade beginning at the end of 2012 .
+Last I heard that got moved-up 6 months or so .
+It 's not a big deal , it always happens that shutdowns get moved around .
+There is a delicate balancing act where you need to give people enough time to prepare but not go so long that things start breaking .
+Shutdowns and upgrades are VERY busy times .</tokentext>
+<sentencetext>6-12 months is usually for an upgrade (a short one, CERN is calling it an engineering shutdown).
+A typical shutdown is 1-3 months depending on lab.
+For comparison sake a typical shutdown is 6 weeks every year at FNAL (that's sort of an average over many years, there have been 3 month shutdowns and two years between them in cases).
+At SPring-8 they run a typical workday (not 24/7) and have some down time each night and tend to have shutdowns last 4 weeks after two years.
+They don't really do upgrades, FNAL had one in the era of the tevatron.
+An upgrade tends to have a different new run afterward and tends to be at least 18 months, often 2 years or more.
+I thought that CERN was going to do another run after the upgrade at higher energy.
+They were originally planning on a long upgrade beginning at the end of 2012.
+Last I heard that got moved-up 6 months or so.
+It's not a big deal, it always happens that shutdowns get moved around.
+There is a delicate balancing act where you need to give people enough time to prepare but not go so long that things start breaking.
+Shutdowns and upgrades are VERY busy times.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427206</id>
+	<title>Not News.</title>
+	<author>pz</author>
+	<datestamp>1268241180000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>As the linked article points out, this so-called news is just lazy journalism of a long-ago announced planned shutdown for routine maintenance and upgrading.</p><p>This should never have made it to the front page here.  Is it too much to ask that the editors at Slashdot at least GLANCE at the linked articles?</p></htmltext>
+<tokenext>As the linked article points out , this so-called news is just lazy journalism of a long-ago announced planned shutdown for routine maintenance and upgrading.This should never have made it to the front page here .
+Is it too much to ask that the editors at Slashdot at least GLANCE at the linked articles ?</tokentext>
+<sentencetext>As the linked article points out, this so-called news is just lazy journalism of a long-ago announced planned shutdown for routine maintenance and upgrading.This should never have made it to the front page here.
+Is it too much to ask that the editors at Slashdot at least GLANCE at the linked articles?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427476</id>
+	<title>Misleading words</title>
+	<author>Anonymous</author>
+	<datestamp>1268242500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>It may be due to semantics, but the headline is still inappropriate. I interpreted "shut down" as "dismantling," as if it were used in "shut down the NASA space program." The summary clarifies the issue without sadisticly making you RTFA for it, but the heart attack has already happened.</p><p>Well, news sources normally do this. It's just important to remember to never take anything as real unless you've read it AND cross referenced it thoroughly. Coming to slashdot does not count as a control-making space: cross-references usually mean talking with people who have the same belief, unless you're browsing at low thresholds or some dissenter post is modded insightful by luck.</p></htmltext>
+<tokenext>It may be due to semantics , but the headline is still inappropriate .
+I interpreted " shut down " as " dismantling , " as if it were used in " shut down the NASA space program .
+" The summary clarifies the issue without sadisticly making you RTFA for it , but the heart attack has already happened.Well , news sources normally do this .
+It 's just important to remember to never take anything as real unless you 've read it AND cross referenced it thoroughly .
+Coming to slashdot does not count as a control-making space : cross-references usually mean talking with people who have the same belief , unless you 're browsing at low thresholds or some dissenter post is modded insightful by luck .</tokentext>
+<sentencetext>It may be due to semantics, but the headline is still inappropriate.
+I interpreted "shut down" as "dismantling," as if it were used in "shut down the NASA space program.
+" The summary clarifies the issue without sadisticly making you RTFA for it, but the heart attack has already happened.Well, news sources normally do this.
+It's just important to remember to never take anything as real unless you've read it AND cross referenced it thoroughly.
+Coming to slashdot does not count as a control-making space: cross-references usually mean talking with people who have the same belief, unless you're browsing at low thresholds or some dissenter post is modded insightful by luck.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427288</id>
+	<title>Agile Construction</title>
+	<author>Anonymous</author>
+	<datestamp>1268241540000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>Now we need someone to pipe up that if they used Agile Methodology when building the LHC, none of the design issues would have happened.</htmltext>
+<tokenext>Now we need someone to pipe up that if they used Agile Methodology when building the LHC , none of the design issues would have happened .</tokentext>
+<sentencetext>Now we need someone to pipe up that if they used Agile Methodology when building the LHC, none of the design issues would have happened.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427342</id>
+	<title>Re:2012?</title>
+	<author>Anonymous</author>
+	<datestamp>1268241720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Prepare for unforeseen consequences.</p></htmltext>
+<tokenext>Prepare for unforeseen consequences .</tokentext>
+<sentencetext>Prepare for unforeseen consequences.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427212</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431810</id>
+	<title>Re:so sick of this</title>
+	<author>Anonymous</author>
+	<datestamp>1268219460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><i>for those people (probablly americans) stop critising the LHC becuase its bigger than the accelerator at fermilab. thats like kids arguing over who has a better skateboard.</i> </p><p>Fuck you and your eurotrash idea that you're qualified to speak for 350+ million Americans.</p><p>You pompous, arrogant lout.</p></htmltext>
+<tokenext>for those people ( probablly americans ) stop critising the LHC becuase its bigger than the accelerator at fermilab .
+thats like kids arguing over who has a better skateboard .
+Fuck you and your eurotrash idea that you 're qualified to speak for 350 + million Americans.You pompous , arrogant lout .</tokentext>
+<sentencetext>for those people (probablly americans) stop critising the LHC becuase its bigger than the accelerator at fermilab.
+thats like kids arguing over who has a better skateboard.
+Fuck you and your eurotrash idea that you're qualified to speak for 350+ million Americans.You pompous, arrogant lout.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429146</id>
+	<title>Re:Hmmm...</title>
+	<author>c++0xFF</author>
+	<datestamp>1268250360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Oh, so it's an anomaly in the space-time continuum, getting larger as it goes backwards in time, eventually preventing the existence of life on Earth?  Once again, life imitates Star Trek...</p></htmltext>
+<tokenext>Oh , so it 's an anomaly in the space-time continuum , getting larger as it goes backwards in time , eventually preventing the existence of life on Earth ?
+Once again , life imitates Star Trek.. .</tokentext>
+<sentencetext>Oh, so it's an anomaly in the space-time continuum, getting larger as it goes backwards in time, eventually preventing the existence of life on Earth?
+Once again, life imitates Star Trek...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427148</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427438</id>
+	<title>Re:Agile Construction</title>
+	<author>theshowmecanuck</author>
+	<datestamp>1268242260000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext>Given the way Agile is usually implemented, it would have then made a detour under London before making it back to Switzerland. Kind of like the famous <a href="http://treebeard31.files.wordpress.com/2008/08/what-the-customer-actually-wanted.jpg" title="wordpress.com">cartoon</a> [wordpress.com]... especially the documentation part. Nice legs...</htmltext>
+<tokenext>Given the way Agile is usually implemented , it would have then made a detour under London before making it back to Switzerland .
+Kind of like the famous cartoon [ wordpress.com ] ... especially the documentation part .
+Nice legs.. .</tokentext>
+<sentencetext>Given the way Agile is usually implemented, it would have then made a detour under London before making it back to Switzerland.
+Kind of like the famous cartoon [wordpress.com]... especially the documentation part.
+Nice legs...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427288</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427336</id>
+	<title>LHC Forever</title>
+	<author>flagg9483</author>
+	<datestamp>1268241660000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>I hear that a level in the next Duke Nukem will take place in LHC facility.  A PS3/360 trophy/achievement will be rewarded for finding the secret door to the main ring, repairing damage caused by mutated aliens, and escaping through a black hole created by incompetent CERN scientists.</htmltext>
+<tokenext>I hear that a level in the next Duke Nukem will take place in LHC facility .
+A PS3/360 trophy/achievement will be rewarded for finding the secret door to the main ring , repairing damage caused by mutated aliens , and escaping through a black hole created by incompetent CERN scientists .</tokentext>
+<sentencetext>I hear that a level in the next Duke Nukem will take place in LHC facility.
+A PS3/360 trophy/achievement will be rewarded for finding the secret door to the main ring, repairing damage caused by mutated aliens, and escaping through a black hole created by incompetent CERN scientists.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31450850</id>
+	<title>The contractor?</title>
+	<author>Anonymous</author>
+	<datestamp>1268404920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I wonder if Areva is somehow involved with this project...</p><p><a href="http://www.neimagazine.com/story.asp?sc=2052909" title="neimagazine.com" rel="nofollow">http://www.neimagazine.com/story.asp?sc=2052909</a> [neimagazine.com]<br><a href="http://www.tvo.fi/www/page/2986/" title="www.tvo.fi" rel="nofollow">http://www.tvo.fi/www/page/2986/</a> [www.tvo.fi]</p></htmltext>
+<tokenext>I wonder if Areva is somehow involved with this project...http : //www.neimagazine.com/story.asp ? sc = 2052909 [ neimagazine.com ] http : //www.tvo.fi/www/page/2986/ [ www.tvo.fi ]</tokentext>
+<sentencetext>I wonder if Areva is somehow involved with this project...http://www.neimagazine.com/story.asp?sc=2052909 [neimagazine.com]http://www.tvo.fi/www/page/2986/ [www.tvo.fi]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428932</id>
+	<title>Re:The mayans were right!</title>
+	<author>Anonymous</author>
+	<datestamp>1268249340000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>QUICK, everybody out of the Universe!</p><p>*FLWOOP*</p></htmltext>
+<tokenext>QUICK , everybody out of the Universe !
+* FLWOOP *</tokentext>
+<sentencetext>QUICK, everybody out of the Universe!
+*FLWOOP*</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427452</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430324</id>
+	<title>Re:Apparently, This is Not Unusual At All</title>
+	<author>Shimbo</author>
+	<datestamp>1268212620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Quoting a Prof. Brian Cox, "ALL particle accelerators have 6 - 12 month regular shutdowns for maintenance and upgrades. That's how complex machines are operated!"</p></div><p>That is rather like a Formula One driver saying, "ALL cars need a complete engine overhaul several times a year."</p></div>
+	</htmltext>
+<tokenext>Quoting a Prof. Brian Cox , " ALL particle accelerators have 6 - 12 month regular shutdowns for maintenance and upgrades .
+That 's how complex machines are operated !
+" That is rather like a Formula One driver saying , " ALL cars need a complete engine overhaul several times a year .
+"</tokentext>
+<sentencetext>Quoting a Prof. Brian Cox, "ALL particle accelerators have 6 - 12 month regular shutdowns for maintenance and upgrades.
+That's how complex machines are operated!
+"That is rather like a Formula One driver saying, "ALL cars need a complete engine overhaul several times a year.
+"
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427182</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428194</id>
+	<title>Re:You know things are bad when ...</title>
+	<author>alexborges</author>
+	<datestamp>1268245860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The higgs bosson has learned to play our media.</p><p>It sure is smarter than some presidents.</p></htmltext>
+<tokenext>The higgs bosson has learned to play our media.It sure is smarter than some presidents .</tokentext>
+<sentencetext>The higgs bosson has learned to play our media.It sure is smarter than some presidents.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429174</id>
+	<title>Re:so sick of this</title>
+	<author>earlymon</author>
+	<datestamp>1268250420000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p><div class="quote"><p>for those people (probablly americans) stop critising the LHC becuase its bigger than the accelerator at fermilab. thats like kids arguing over who has a better skateboard.</p></div><p>Yes, it's exactly like that.</p><p>You seem to not understand that our TVs, sound systems, sports cars and particle accelerators are simply the adult extensions of our skateboards.</p><p><div class="quote"><p>KEEP YOUR OPINION TO YOURSELF.</p></div><p> <b> <i>Why?</i> </b>  It's called freedom of speech - perhaps you've heard of it.</p><p>You certainly seem to think that you have it, by virtue of the protocols you've issued.</p><p>News flash - since the beginning of time people have freely expressed opinion without regard for fact - and this is never more true than when the speaker is convinced that they <i>are</i> expressing facts.  Now, I wasn't around at the beginning of time, so far as I recall, but it's my opinion that that behavior has been occurring for at least that long and is therefore neither limited to Americans nor to Fermilab fans.</p><p>My other opinion is that you're probably upset that Fermilab isn't in Europe and that you're simply jealous that you're missing out on all the fun.</p><p>But you are providing plenty - for me anyway.  This snippet is simply priceless:</p><p><div class="quote"><p>quite frankly i'm so sick of people critisising the LHC, especially the people at fermilab. firstly most people don;t know a damn thing about particle physics...</p></div><p>Uh - ok - would those be the people at Fermilab that don't know a damn thing?</p><p>BTW - my skateboard has something like 300 BHP, a gazillion ft-lbs of torque, and gets 21 miles per gallon when cruising at just over 100 miles per hour, when cruising that way for about 2 to 2.5 hours at a stretch. And as soon as I translate a gazillion ft-lbs into SI, I'll get back to you on what that means - or - I'll just wait for an opinion from Illinois on that.</p><p>Meanwhile, in my opinion, this sounds pretty cool:</p><p><a href="http://www.fnal.gov/pub/today/archive\_2010/today10-03-10Column\_readmore.html" title="fnal.gov">http://www.fnal.gov/pub/today/archive\_2010/today10-03-10Column\_readmore.html</a> [fnal.gov]</p><p>And almost finally, in my opinion, I deserve extra crunchy mod points just for avoiding the whole bigger vs. keeping it up line of jokes in response to your post (which given that there is NO NEWS in TFA, makes your complaint even funnier).</p><p><div class="quote"><p>NOT IMPORTANT</p></div><p>That's the worst sig ever.  In my opinion, you should have a higher opinion of yourself, even if that current sig summarizes the opinions in your post perfectly.</p><p>I think you should cheer up now and have a fabulous day, but that's just another one of my opinions.</p></div>
+	</htmltext>
+<tokenext>for those people ( probablly americans ) stop critising the LHC becuase its bigger than the accelerator at fermilab .
+thats like kids arguing over who has a better skateboard.Yes , it 's exactly like that.You seem to not understand that our TVs , sound systems , sports cars and particle accelerators are simply the adult extensions of our skateboards.KEEP YOUR OPINION TO YOURSELF .
+Why ? It 's called freedom of speech - perhaps you 've heard of it.You certainly seem to think that you have it , by virtue of the protocols you 've issued.News flash - since the beginning of time people have freely expressed opinion without regard for fact - and this is never more true than when the speaker is convinced that they are expressing facts .
+Now , I was n't around at the beginning of time , so far as I recall , but it 's my opinion that that behavior has been occurring for at least that long and is therefore neither limited to Americans nor to Fermilab fans.My other opinion is that you 're probably upset that Fermilab is n't in Europe and that you 're simply jealous that you 're missing out on all the fun.But you are providing plenty - for me anyway .
+This snippet is simply priceless : quite frankly i 'm so sick of people critisising the LHC , especially the people at fermilab .
+firstly most people don ; t know a damn thing about particle physics...Uh - ok - would those be the people at Fermilab that do n't know a damn thing ? BTW - my skateboard has something like 300 BHP , a gazillion ft-lbs of torque , and gets 21 miles per gallon when cruising at just over 100 miles per hour , when cruising that way for about 2 to 2.5 hours at a stretch .
+And as soon as I translate a gazillion ft-lbs into SI , I 'll get back to you on what that means - or - I 'll just wait for an opinion from Illinois on that.Meanwhile , in my opinion , this sounds pretty cool : http : //www.fnal.gov/pub/today/archive \ _2010/today10-03-10Column \ _readmore.html [ fnal.gov ] And almost finally , in my opinion , I deserve extra crunchy mod points just for avoiding the whole bigger vs. keeping it up line of jokes in response to your post ( which given that there is NO NEWS in TFA , makes your complaint even funnier ) .NOT IMPORTANTThat 's the worst sig ever .
+In my opinion , you should have a higher opinion of yourself , even if that current sig summarizes the opinions in your post perfectly.I think you should cheer up now and have a fabulous day , but that 's just another one of my opinions .</tokentext>
+<sentencetext>for those people (probablly americans) stop critising the LHC becuase its bigger than the accelerator at fermilab.
+thats like kids arguing over who has a better skateboard.Yes, it's exactly like that.You seem to not understand that our TVs, sound systems, sports cars and particle accelerators are simply the adult extensions of our skateboards.KEEP YOUR OPINION TO YOURSELF.
+Why?   It's called freedom of speech - perhaps you've heard of it.You certainly seem to think that you have it, by virtue of the protocols you've issued.News flash - since the beginning of time people have freely expressed opinion without regard for fact - and this is never more true than when the speaker is convinced that they are expressing facts.
+Now, I wasn't around at the beginning of time, so far as I recall, but it's my opinion that that behavior has been occurring for at least that long and is therefore neither limited to Americans nor to Fermilab fans.My other opinion is that you're probably upset that Fermilab isn't in Europe and that you're simply jealous that you're missing out on all the fun.But you are providing plenty - for me anyway.
+This snippet is simply priceless:quite frankly i'm so sick of people critisising the LHC, especially the people at fermilab.
+firstly most people don;t know a damn thing about particle physics...Uh - ok - would those be the people at Fermilab that don't know a damn thing?BTW - my skateboard has something like 300 BHP, a gazillion ft-lbs of torque, and gets 21 miles per gallon when cruising at just over 100 miles per hour, when cruising that way for about 2 to 2.5 hours at a stretch.
+And as soon as I translate a gazillion ft-lbs into SI, I'll get back to you on what that means - or - I'll just wait for an opinion from Illinois on that.Meanwhile, in my opinion, this sounds pretty cool:http://www.fnal.gov/pub/today/archive\_2010/today10-03-10Column\_readmore.html [fnal.gov]And almost finally, in my opinion, I deserve extra crunchy mod points just for avoiding the whole bigger vs. keeping it up line of jokes in response to your post (which given that there is NO NEWS in TFA, makes your complaint even funnier).NOT IMPORTANTThat's the worst sig ever.
+In my opinion, you should have a higher opinion of yourself, even if that current sig summarizes the opinions in your post perfectly.I think you should cheer up now and have a fabulous day, but that's just another one of my opinions.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429966</id>
+	<title>Government "science" is so predictable...</title>
+	<author>AlexLibman</author>
+	<datestamp>1268254080000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>It does have to cost a lot of money and create a lot of crony jobs.</p><p>It does NOT have to provide a return on investment or tangible benefit of any kind.</p><p>If you don't agree with how the government spends you money, then you're just a flat-earth creationist cannibal child rapist who needs to STFU.</p></htmltext>
+<tokenext>It does have to cost a lot of money and create a lot of crony jobs.It does NOT have to provide a return on investment or tangible benefit of any kind.If you do n't agree with how the government spends you money , then you 're just a flat-earth creationist cannibal child rapist who needs to STFU .</tokentext>
+<sentencetext>It does have to cost a lot of money and create a lot of crony jobs.It does NOT have to provide a return on investment or tangible benefit of any kind.If you don't agree with how the government spends you money, then you're just a flat-earth creationist cannibal child rapist who needs to STFU.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428674</id>
+	<title>Re:Not News.</title>
+	<author>Anonymous</author>
+	<datestamp>1268248200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Planned a while ago, yes, but routine? No. This is a scheduled shutdown to fix a design error.  Design errors shouldn't be considered routine.</p></htmltext>
+<tokenext>Planned a while ago , yes , but routine ?
+No. This is a scheduled shutdown to fix a design error .
+Design errors should n't be considered routine .</tokentext>
+<sentencetext>Planned a while ago, yes, but routine?
+No. This is a scheduled shutdown to fix a design error.
+Design errors shouldn't be considered routine.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427206</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427310</id>
+	<title>It would have been news if...</title>
+	<author>Anonymous</author>
+	<datestamp>1268241600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>it were a foreseen construction mistake.</p></htmltext>
+<tokenext>it were a foreseen construction mistake .</tokentext>
+<sentencetext>it were a foreseen construction mistake.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427810</id>
+	<title>we were asking for it</title>
+	<author>Anonymous</author>
+	<datestamp>1268243880000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>As a physicist, all I can say is we've been asking for this kind of press.</p><p>When you hype the bejeezus out of the shiny new multi-billion dollar tool, it's reasonable for the people who paid for it to expect results.  It is jarring when people hear for over a decade about the great results that will come out of an experiment, and then later hear that we have to spend ~50\% of the time doing maintenance on the equipment, and the first few years just testing it.  I know this is the way things work, this is the way my (much, much smaller) experiments work.  This is not a complaint about the science, or being careful.  This is a complaint about politics, funding structures and a lack of ability across fields to communicate effectively with the general public.  We can't keep doing this to ourselves if we want the public to trust us.  We have to manage the media better.</p><p>To begin with, the great achievement of the LHC *is* the LHC, not the search for the Higgs boson.  It's enough that this is the most complicated, impressive, advanced piece of technology on the planet, and that it required input at the cutting edge from nearly every major field of physics.  Just like the point of going to the moon was to go to the moon, not to bring back moon rocks.</p></htmltext>
+<tokenext>As a physicist , all I can say is we 've been asking for this kind of press.When you hype the bejeezus out of the shiny new multi-billion dollar tool , it 's reasonable for the people who paid for it to expect results .
+It is jarring when people hear for over a decade about the great results that will come out of an experiment , and then later hear that we have to spend ~ 50 \ % of the time doing maintenance on the equipment , and the first few years just testing it .
+I know this is the way things work , this is the way my ( much , much smaller ) experiments work .
+This is not a complaint about the science , or being careful .
+This is a complaint about politics , funding structures and a lack of ability across fields to communicate effectively with the general public .
+We ca n't keep doing this to ourselves if we want the public to trust us .
+We have to manage the media better.To begin with , the great achievement of the LHC * is * the LHC , not the search for the Higgs boson .
+It 's enough that this is the most complicated , impressive , advanced piece of technology on the planet , and that it required input at the cutting edge from nearly every major field of physics .
+Just like the point of going to the moon was to go to the moon , not to bring back moon rocks .</tokentext>
+<sentencetext>As a physicist, all I can say is we've been asking for this kind of press.When you hype the bejeezus out of the shiny new multi-billion dollar tool, it's reasonable for the people who paid for it to expect results.
+It is jarring when people hear for over a decade about the great results that will come out of an experiment, and then later hear that we have to spend ~50\% of the time doing maintenance on the equipment, and the first few years just testing it.
+I know this is the way things work, this is the way my (much, much smaller) experiments work.
+This is not a complaint about the science, or being careful.
+This is a complaint about politics, funding structures and a lack of ability across fields to communicate effectively with the general public.
+We can't keep doing this to ourselves if we want the public to trust us.
+We have to manage the media better.To begin with, the great achievement of the LHC *is* the LHC, not the search for the Higgs boson.
+It's enough that this is the most complicated, impressive, advanced piece of technology on the planet, and that it required input at the cutting edge from nearly every major field of physics.
+Just like the point of going to the moon was to go to the moon, not to bring back moon rocks.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429168</id>
+	<title>Don't be fooled...</title>
+	<author>theswimmingbird</author>
+	<datestamp>1268250420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>They must be filming the sequel to Howard the Duck during the year it's shut down. I'm pumped!</htmltext>
+<tokenext>They must be filming the sequel to Howard the Duck during the year it 's shut down .
+I 'm pumped !</tokentext>
+<sentencetext>They must be filming the sequel to Howard the Duck during the year it's shut down.
+I'm pumped!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427582</id>
+	<title>Put the Toyota engineers in charge</title>
+	<author>PinchDuck</author>
+	<datestamp>1268242860000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Then it will never stop.</p></htmltext>
+<tokenext>Then it will never stop .</tokentext>
+<sentencetext>Then it will never stop.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427614</id>
+	<title>18 months of Experiments at 7TeV!!!</title>
+	<author>Lord Lode</author>
+	<datestamp>1268242980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>That means 18 months of experiments at the highest particle accelerator power ever! Isn't that exciting?</p><p>Who is most likely to find the Higgs boson then? The LHC, or the Tevatron?</p></htmltext>
+<tokenext>That means 18 months of experiments at the highest particle accelerator power ever !
+Is n't that exciting ? Who is most likely to find the Higgs boson then ?
+The LHC , or the Tevatron ?</tokentext>
+<sentencetext>That means 18 months of experiments at the highest particle accelerator power ever!
+Isn't that exciting?Who is most likely to find the Higgs boson then?
+The LHC, or the Tevatron?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429980</id>
+	<title>Re:LHC is the new Tower of Babel</title>
+	<author>Anonymous</author>
+	<datestamp>1268254140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I highly doubt that our work on the LHC is likely to have us all struck so that we speak different languages and can no longer communicate with each other. I mean asdne aeacen adseset scnetst sdsdnegls?</p><p>sdentif sheypicalita klenucvilitus!</p></htmltext>
+<tokenext>I highly doubt that our work on the LHC is likely to have us all struck so that we speak different languages and can no longer communicate with each other .
+I mean asdne aeacen adseset scnetst sdsdnegls ? sdentif sheypicalita klenucvilitus !</tokentext>
+<sentencetext>I highly doubt that our work on the LHC is likely to have us all struck so that we speak different languages and can no longer communicate with each other.
+I mean asdne aeacen adseset scnetst sdsdnegls?sdentif sheypicalita klenucvilitus!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427330</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431504</id>
+	<title>Re:so sick of this</title>
+	<author>ceoyoyo</author>
+	<datestamp>1268218140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>A lot of the people at Fermilab are LHC collaborators.  They're helping build the LHC, and will use it when it is built.  I haven't seen a criticism of the LHC from anyone at Fermilab.  If there was, that person would presumably know bit about particle physics, since he or she works at one of the largest particle accelerators in the world.</p><p>Is your post a bad "leave Britney alone" parody?</p></htmltext>
+<tokenext>A lot of the people at Fermilab are LHC collaborators .
+They 're helping build the LHC , and will use it when it is built .
+I have n't seen a criticism of the LHC from anyone at Fermilab .
+If there was , that person would presumably know bit about particle physics , since he or she works at one of the largest particle accelerators in the world.Is your post a bad " leave Britney alone " parody ?</tokentext>
+<sentencetext>A lot of the people at Fermilab are LHC collaborators.
+They're helping build the LHC, and will use it when it is built.
+I haven't seen a criticism of the LHC from anyone at Fermilab.
+If there was, that person would presumably know bit about particle physics, since he or she works at one of the largest particle accelerators in the world.Is your post a bad "leave Britney alone" parody?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427740</id>
+	<title>The author is full of $\%!) in at least one way</title>
+	<author>Icaarus</author>
+	<datestamp>1268243640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>From the Author's Website: (follow the link that is the author's name)</p><blockquote><div><p>Slashdot  I guess I should just fess up and take the blame- I created Slashdot a long time ago, and now it seems to have grown into something pretty amazing. Come on down and check it out for news about Linux, Open Source Software, Legos, Games, Star Wars, Science, Technology and pretty much anything else that falls into the "News for Nerds, Stuff that Matters" umbrella.</p></div></blockquote><p>So we already know this lune does not know how to read, and that he just posts to flame-bait. Could it be that he also is a slanderous, wretched, troll who seeks to dishonour the nerds we covet. I would prefer to think that then to think that the creator of this website is in fact an illiterate fabulist. </p><p>If the above quote is false, I say<nobr> <wbr></nobr>/. should sue the poster. If the above quote is true I say we should all boycott that which has been mutated by its own author beyond recognition. </p></div>
+	</htmltext>
+<tokenext>From the Author 's Website : ( follow the link that is the author 's name ) Slashdot I guess I should just fess up and take the blame- I created Slashdot a long time ago , and now it seems to have grown into something pretty amazing .
+Come on down and check it out for news about Linux , Open Source Software , Legos , Games , Star Wars , Science , Technology and pretty much anything else that falls into the " News for Nerds , Stuff that Matters " umbrella.So we already know this lune does not know how to read , and that he just posts to flame-bait .
+Could it be that he also is a slanderous , wretched , troll who seeks to dishonour the nerds we covet .
+I would prefer to think that then to think that the creator of this website is in fact an illiterate fabulist .
+If the above quote is false , I say / .
+should sue the poster .
+If the above quote is true I say we should all boycott that which has been mutated by its own author beyond recognition .</tokentext>
+<sentencetext>From the Author's Website: (follow the link that is the author's name)Slashdot  I guess I should just fess up and take the blame- I created Slashdot a long time ago, and now it seems to have grown into something pretty amazing.
+Come on down and check it out for news about Linux, Open Source Software, Legos, Games, Star Wars, Science, Technology and pretty much anything else that falls into the "News for Nerds, Stuff that Matters" umbrella.So we already know this lune does not know how to read, and that he just posts to flame-bait.
+Could it be that he also is a slanderous, wretched, troll who seeks to dishonour the nerds we covet.
+I would prefer to think that then to think that the creator of this website is in fact an illiterate fabulist.
+If the above quote is false, I say /.
+should sue the poster.
+If the above quote is true I say we should all boycott that which has been mutated by its own author beyond recognition. 
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427152</id>
+	<title>How is this news?</title>
+	<author>bucky0</author>
+	<datestamp>1268240940000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>The plan for a while now was always to have a period of running at lower power/luminosity then a long shutdown to completely fix the error that caused the incident in 2008. Last december the plan was for a 5 month run this year and a year long shutdown, and they changed that in early february to a 18-24 month run and year long shutdown.</p></htmltext>
+<tokenext>The plan for a while now was always to have a period of running at lower power/luminosity then a long shutdown to completely fix the error that caused the incident in 2008 .
+Last december the plan was for a 5 month run this year and a year long shutdown , and they changed that in early february to a 18-24 month run and year long shutdown .</tokentext>
+<sentencetext>The plan for a while now was always to have a period of running at lower power/luminosity then a long shutdown to completely fix the error that caused the incident in 2008.
+Last december the plan was for a 5 month run this year and a year long shutdown, and they changed that in early february to a 18-24 month run and year long shutdown.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427664</id>
+	<title>fuck3r</title>
+	<author>Anonymous</author>
+	<datestamp>1268243280000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>-1</modscore>
+	<htmltext><A HREF="http://goat.cx/" title="goat.cx" rel="nofollow">the longest o r CondUcted at MIT</a> [goat.cx]</htmltext>
+<tokenext>the longest o r CondUcted at MIT [ goat.cx ]</tokentext>
+<sentencetext>the longest o r CondUcted at MIT [goat.cx]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427128</id>
+	<title>Re:You know things are bad when ...</title>
+	<author>Cornwallis</author>
+	<datestamp>1268240820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Now I wish<nobr> <wbr></nobr>/. would close the thread to prevent inane follow-up (like mine).</p></htmltext>
+<tokenext>Now I wish / .
+would close the thread to prevent inane follow-up ( like mine ) .</tokentext>
+<sentencetext>Now I wish /.
+would close the thread to prevent inane follow-up (like mine).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431228</id>
+	<title>Re:The mayans were right!</title>
+	<author>aBaldrich</author>
+	<datestamp>1268216940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Nah, it's the real life version of Duke Nukem.</htmltext>
+<tokenext>Nah , it 's the real life version of Duke Nukem .</tokentext>
+<sentencetext>Nah, it's the real life version of Duke Nukem.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427452</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429366</id>
+	<title>Re:Misleading words</title>
+	<author>omnichad</author>
+	<datestamp>1268251500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Wrong.  Shut down is what people call it when something goes down for maintenance.</p></htmltext>
+<tokenext>Wrong .
+Shut down is what people call it when something goes down for maintenance .</tokentext>
+<sentencetext>Wrong.
+Shut down is what people call it when something goes down for maintenance.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427476</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427420</id>
+	<title>Some phrases you do not want to hear at same time</title>
+	<author>Anonymous</author>
+	<datestamp>1268242080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>""The standard phrase is that the LHC is its own prototype," Dr. Steve Myers, director of the particle smasher, told the BBC today.</p><p>"Due to an unforeseen construction mistake"...</p><p>Wind it up to 11, guys!  What could possibly go wrong?</p></htmltext>
+<tokenext>" " The standard phrase is that the LHC is its own prototype , " Dr. Steve Myers , director of the particle smasher , told the BBC today .
+" Due to an unforeseen construction mistake " ...Wind it up to 11 , guys !
+What could possibly go wrong ?</tokentext>
+<sentencetext>""The standard phrase is that the LHC is its own prototype," Dr. Steve Myers, director of the particle smasher, told the BBC today.
+"Due to an unforeseen construction mistake"...Wind it up to 11, guys!
+What could possibly go wrong?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428334</id>
+	<title>Re:Misleading words</title>
+	<author>Anonymous</author>
+	<datestamp>1268246580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>shutdown -r +777600</p></htmltext>
+<tokenext>shutdown -r + 777600</tokentext>
+<sentencetext>shutdown -r +777600</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427476</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31435672</id>
+	<title>Quantum News Posts...</title>
+	<author>EricTheO</author>
+	<datestamp>1268301960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Once you read an article about the LHC the state of the facts change.</p></htmltext>
+<tokenext>Once you read an article about the LHC the state of the facts change .</tokentext>
+<sentencetext>Once you read an article about the LHC the state of the facts change.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427410</id>
+	<title>Two words</title>
+	<author>binarylarry</author>
+	<datestamp>1268242080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Resonance Cascade.</p></htmltext>
+<tokenext>Resonance Cascade .</tokentext>
+<sentencetext>Resonance Cascade.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430760</id>
+	<title>Re:so sick of this</title>
+	<author>mcgrew</author>
+	<datestamp>1268214660000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>quite frankly i'm so sick of people critisising the LHC, especially the people at fermilab. firstly most people don;t know a damn thing about particle physics </i></p><p>People at fermilab don't know a damned thing about particle physics? LMAO, Somebody please mod parent funny!</p></htmltext>
+<tokenext>quite frankly i 'm so sick of people critisising the LHC , especially the people at fermilab .
+firstly most people don ; t know a damn thing about particle physics People at fermilab do n't know a damned thing about particle physics ?
+LMAO , Somebody please mod parent funny !</tokentext>
+<sentencetext>quite frankly i'm so sick of people critisising the LHC, especially the people at fermilab.
+firstly most people don;t know a damn thing about particle physics People at fermilab don't know a damned thing about particle physics?
+LMAO, Somebody please mod parent funny!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428200</id>
+	<title>Re:Not News.</title>
+	<author>Attila Dimedici</author>
+	<datestamp>1268245860000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><div class="quote"><p>Is it too much to ask that the editors at Slashdot at least GLANCE at the linked articles?</p></div><p>If Congresscritters can't be expected to read bills before they vote on them why would you expect editors at Slashdot to view articles before they make the front page?</p></div>
+	</htmltext>
+<tokenext>Is it too much to ask that the editors at Slashdot at least GLANCE at the linked articles ? If Congresscritters ca n't be expected to read bills before they vote on them why would you expect editors at Slashdot to view articles before they make the front page ?</tokentext>
+<sentencetext>Is it too much to ask that the editors at Slashdot at least GLANCE at the linked articles?If Congresscritters can't be expected to read bills before they vote on them why would you expect editors at Slashdot to view articles before they make the front page?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427206</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427650</id>
+	<title>I Blame Time Travelers.</title>
+	<author>Anonymous</author>
+	<datestamp>1268243220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Apparently by making the LHC work we will cause some disaster so time travelers from an alternate future make sure it stays broken so the disaster will not happen.  That or God just doesn't want to be found.</p></htmltext>
+<tokenext>Apparently by making the LHC work we will cause some disaster so time travelers from an alternate future make sure it stays broken so the disaster will not happen .
+That or God just does n't want to be found .</tokentext>
+<sentencetext>Apparently by making the LHC work we will cause some disaster so time travelers from an alternate future make sure it stays broken so the disaster will not happen.
+That or God just doesn't want to be found.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431632</id>
+	<title>Re:Not News.</title>
+	<author>Anonymous</author>
+	<datestamp>1268218620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><i>Is it too much to ask that the editors at Slashdot at least GLANCE at the linked articles?</i> </p><p>Asked and answered.</p><p>Many times daily.</p></htmltext>
+<tokenext>Is it too much to ask that the editors at Slashdot at least GLANCE at the linked articles ?
+Asked and answered.Many times daily .</tokentext>
+<sentencetext>Is it too much to ask that the editors at Slashdot at least GLANCE at the linked articles?
+Asked and answered.Many times daily.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427206</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428222</id>
+	<title>Re:Go Fermi!!!</title>
+	<author>Anonymous</author>
+	<datestamp>1268245980000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Dont worry. The Fermi works very well and will continue to work</p><p>However, I cant see why would you deem "secure" a work envirnoment that subjects you to gigantic and powerful electromagnetic fields plus you are confined quite in the same location as some really interesting radioactive material.</p><p>For a physic, barring actual spacewalking, its about as hardcore as it gets.</p></htmltext>
+<tokenext>Dont worry .
+The Fermi works very well and will continue to workHowever , I cant see why would you deem " secure " a work envirnoment that subjects you to gigantic and powerful electromagnetic fields plus you are confined quite in the same location as some really interesting radioactive material.For a physic , barring actual spacewalking , its about as hardcore as it gets .</tokentext>
+<sentencetext>Dont worry.
+The Fermi works very well and will continue to workHowever, I cant see why would you deem "secure" a work envirnoment that subjects you to gigantic and powerful electromagnetic fields plus you are confined quite in the same location as some really interesting radioactive material.For a physic, barring actual spacewalking, its about as hardcore as it gets.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427102</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428202</id>
+	<title>Re:The timestream protects itself</title>
+	<author>gestalt\_n\_pepper</author>
+	<datestamp>1268245920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Does this mean we're gradually increasing improbability in the universe? This would *so* explain Microsoft Windows.</p></htmltext>
+<tokenext>Does this mean we 're gradually increasing improbability in the universe ?
+This would * so * explain Microsoft Windows .</tokentext>
+<sentencetext>Does this mean we're gradually increasing improbability in the universe?
+This would *so* explain Microsoft Windows.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427562</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427102</id>
+	<title>Go Fermi!!!</title>
+	<author>BobZee1</author>
+	<datestamp>1268240760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>This is good news to me because I like job security and the longer Fermi is rocking, the longer I am rocking.</htmltext>
+<tokenext>This is good news to me because I like job security and the longer Fermi is rocking , the longer I am rocking .</tokentext>
+<sentencetext>This is good news to me because I like job security and the longer Fermi is rocking, the longer I am rocking.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31433296</id>
+	<title>Re:we were asking for it</title>
+	<author>glwtta</author>
+	<datestamp>1268229600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><i>Just like the point of going to the moon was to go to the moon, not to bring back moon rocks.</i>
+<br> <br>
+Well, ideally we wanted diamonds, or sherbet.</htmltext>
+<tokenext>Just like the point of going to the moon was to go to the moon , not to bring back moon rocks .
+Well , ideally we wanted diamonds , or sherbet .</tokentext>
+<sentencetext>Just like the point of going to the moon was to go to the moon, not to bring back moon rocks.
+Well, ideally we wanted diamonds, or sherbet.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427810</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31434196</id>
+	<title>Ok...</title>
+	<author>Puppet Master</author>
+	<datestamp>1268238660000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>so the movie <a href="http://www.imdb.com/title/tt1190080/" title="imdb.com">2012</a> [imdb.com] was off by a year.</htmltext>
+<tokenext>so the movie 2012 [ imdb.com ] was off by a year .</tokentext>
+<sentencetext>so the movie 2012 [imdb.com] was off by a year.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427508</id>
+	<title>Re:2012?</title>
+	<author>oracleofbargth</author>
+	<datestamp>1268242620000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext>I know, I wouldn't want to be blamed for that movie either.</htmltext>
+<tokenext>I know , I would n't want to be blamed for that movie either .</tokentext>
+<sentencetext>I know, I wouldn't want to be blamed for that movie either.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427156</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428002</id>
+	<title>Re:The mayans were right!</title>
+	<author>Anonymous</author>
+	<datestamp>1268244840000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>There is no such Mayan prophecy: 2012 only coincides with the beginning of a new 144,000 year period (a b'ak'tun). Just like westerners have periods of a thousand years (millennium) or a hundred years (century), the Mayans have periods of 144,000 years. The Mayan calendar refers to events well after the beginning of the new b'ak'tun so this whole doomsday prophecy is basically on the same level of New Age bs as y2k.</p><p>See: http://en.wikipedia.org/wiki/Maya\_calendar</p></htmltext>
+<tokenext>There is no such Mayan prophecy : 2012 only coincides with the beginning of a new 144,000 year period ( a b'ak'tun ) .
+Just like westerners have periods of a thousand years ( millennium ) or a hundred years ( century ) , the Mayans have periods of 144,000 years .
+The Mayan calendar refers to events well after the beginning of the new b'ak'tun so this whole doomsday prophecy is basically on the same level of New Age bs as y2k.See : http : //en.wikipedia.org/wiki/Maya \ _calendar</tokentext>
+<sentencetext>There is no such Mayan prophecy: 2012 only coincides with the beginning of a new 144,000 year period (a b'ak'tun).
+Just like westerners have periods of a thousand years (millennium) or a hundred years (century), the Mayans have periods of 144,000 years.
+The Mayan calendar refers to events well after the beginning of the new b'ak'tun so this whole doomsday prophecy is basically on the same level of New Age bs as y2k.See: http://en.wikipedia.org/wiki/Maya\_calendar</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427452</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427196</id>
+	<title>doom</title>
+	<author>rubycodez</author>
+	<datestamp>1268241180000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>What this really means is that after scheduled maintenance of 2011 (which now includes bolstering against quench damage), the LHC will be slowly brought to full power in 2012.  Reaching full power at the end of 2012.  December 2012.  Need I say more?</p></htmltext>
+<tokenext>What this really means is that after scheduled maintenance of 2011 ( which now includes bolstering against quench damage ) , the LHC will be slowly brought to full power in 2012 .
+Reaching full power at the end of 2012 .
+December 2012 .
+Need I say more ?</tokentext>
+<sentencetext>What this really means is that after scheduled maintenance of 2011 (which now includes bolstering against quench damage), the LHC will be slowly brought to full power in 2012.
+Reaching full power at the end of 2012.
+December 2012.
+Need I say more?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31443674</id>
+	<title>Re:so sick of this</title>
+	<author>AmeliaMurderBot</author>
+	<datestamp>1268300160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>You just insulted a whole country. I hope you realize that you should correct your own failings before stereotyping people born in America, and trust me, in those three lines I see at least three failings. You're lazy, ignorant, angry and hypocritical. "keep your opinion to yourself"? What makes you think anyone cares about your ill informed and prejudiced opinion? And I see that everyone else has a similar view of you to me. You're a moron.</htmltext>
+<tokenext>You just insulted a whole country .
+I hope you realize that you should correct your own failings before stereotyping people born in America , and trust me , in those three lines I see at least three failings .
+You 're lazy , ignorant , angry and hypocritical .
+" keep your opinion to yourself " ?
+What makes you think anyone cares about your ill informed and prejudiced opinion ?
+And I see that everyone else has a similar view of you to me .
+You 're a moron .</tokentext>
+<sentencetext>You just insulted a whole country.
+I hope you realize that you should correct your own failings before stereotyping people born in America, and trust me, in those three lines I see at least three failings.
+You're lazy, ignorant, angry and hypocritical.
+"keep your opinion to yourself"?
+What makes you think anyone cares about your ill informed and prejudiced opinion?
+And I see that everyone else has a similar view of you to me.
+You're a moron.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429532</id>
+	<title>it's "intents and purposes"</title>
+	<author>anonymousJUGGERNAUT</author>
+	<datestamp>1268252220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Your sig contains a malapropism - the expression is "for all intents and purposes," not "intensive purposes."  Perhaps it's part of the anti-grammar joke? If so, sorry for being humorless.</htmltext>
+<tokenext>Your sig contains a malapropism - the expression is " for all intents and purposes , " not " intensive purposes .
+" Perhaps it 's part of the anti-grammar joke ?
+If so , sorry for being humorless .</tokentext>
+<sentencetext>Your sig contains a malapropism - the expression is "for all intents and purposes," not "intensive purposes.
+"  Perhaps it's part of the anti-grammar joke?
+If so, sorry for being humorless.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427526</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428622</id>
+	<title>Re:You know things are bad when ...</title>
+	<author>chord.wav</author>
+	<datestamp>1268247960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Someone it's playing with Time. That copy of text just wasn't there when the editors saw the article.</p></htmltext>
+<tokenext>Someone it 's playing with Time .
+That copy of text just was n't there when the editors saw the article .</tokentext>
+<sentencetext>Someone it's playing with Time.
+That copy of text just wasn't there when the editors saw the article.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428568</id>
+	<title>Re:Hmmm...</title>
+	<author>precariousgray</author>
+	<datestamp>1268247600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>How long do we have before it goes further back and destroys humanity?</p></div><p>Too long.
+<br> <br>
+<i>[There is a smirk, after which the petting of the white cat begins.]</i></p></div>
+	</htmltext>
+<tokenext>How long do we have before it goes further back and destroys humanity ? Too long .
+[ There is a smirk , after which the petting of the white cat begins .
+]</tokentext>
+<sentencetext>How long do we have before it goes further back and destroys humanity?Too long.
+[There is a smirk, after which the petting of the white cat begins.
+]
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427148</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428150</id>
+	<title>Re:You know things are bad when ...</title>
+	<author>Anonymous</author>
+	<datestamp>1268245620000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext>Obviously the effect which is stopping the LHC from operating works by propagating a "ripple" back in time. Hence, the article summary WAS accurate at the time of submission, but then the ripple reached January and made the shutdown part of the original plan.
+
+It all makes sense!</htmltext>
+<tokenext>Obviously the effect which is stopping the LHC from operating works by propagating a " ripple " back in time .
+Hence , the article summary WAS accurate at the time of submission , but then the ripple reached January and made the shutdown part of the original plan .
+It all makes sense !</tokentext>
+<sentencetext>Obviously the effect which is stopping the LHC from operating works by propagating a "ripple" back in time.
+Hence, the article summary WAS accurate at the time of submission, but then the ripple reached January and made the shutdown part of the original plan.
+It all makes sense!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430052</id>
+	<title>Re:You know things are bad when ...</title>
+	<author>Anonymous</author>
+	<datestamp>1268254440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>Obviously the effect which is stopping the LHC from operating works by propagating a "ripple" back in time. Hence, the article summary WAS accurate at the time of submission, but then the ripple reached January and made the shutdown part of the original plan.</p><p>It all makes sense!</p></div><p>Lost any ships in the triangle recently?</p></div>
+	</htmltext>
+<tokenext>Obviously the effect which is stopping the LHC from operating works by propagating a " ripple " back in time .
+Hence , the article summary WAS accurate at the time of submission , but then the ripple reached January and made the shutdown part of the original plan.It all makes sense ! Lost any ships in the triangle recently ?</tokentext>
+<sentencetext>Obviously the effect which is stopping the LHC from operating works by propagating a "ripple" back in time.
+Hence, the article summary WAS accurate at the time of submission, but then the ripple reached January and made the shutdown part of the original plan.It all makes sense!Lost any ships in the triangle recently?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428150</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428168</id>
+	<title>Really, it's hedging 2012 bets</title>
+	<author>drumcat</author>
+	<datestamp>1268245680000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext>I see right through this.  They don't want LHC running when the Mayan calendar ends...</htmltext>
+<tokenext>I see right through this .
+They do n't want LHC running when the Mayan calendar ends.. .</tokentext>
+<sentencetext>I see right through this.
+They don't want LHC running when the Mayan calendar ends...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428108</id>
+	<title>Oops</title>
+	<author>Anonymous</author>
+	<datestamp>1268245320000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Is a four letter word around the LHC.</p></htmltext>
+<tokenext>Is a four letter word around the LHC .</tokentext>
+<sentencetext>Is a four letter word around the LHC.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431126</id>
+	<title>Unforeseen Consequences</title>
+	<author>Anonymous</author>
+	<datestamp>1268216340000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Mr Freeman, prepare for unforeseen consequences.</p></htmltext>
+<tokenext>Mr Freeman , prepare for unforeseen consequences .</tokentext>
+<sentencetext>Mr Freeman, prepare for unforeseen consequences.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31440666</id>
+	<title>Will it be flooded by global warming?</title>
+	<author>niftymitch</author>
+	<datestamp>1268333460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I find it astounding that a project this large is not matched by a global climate and weather project.
+<p>
+While good physics is important at one level it will not directly feed and heal those that need it.
+</p><p>
+It is true that some social issues are in the way but this blue marble is so understudied and so important to all of us.</p></htmltext>
+<tokenext>I find it astounding that a project this large is not matched by a global climate and weather project .
+While good physics is important at one level it will not directly feed and heal those that need it .
+It is true that some social issues are in the way but this blue marble is so understudied and so important to all of us .</tokentext>
+<sentencetext>I find it astounding that a project this large is not matched by a global climate and weather project.
+While good physics is important at one level it will not directly feed and heal those that need it.
+It is true that some social issues are in the way but this blue marble is so understudied and so important to all of us.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31432280</id>
+	<title>Re:Agile Construction - SCRUM</title>
+	<author>Anonymous</author>
+	<datestamp>1268222160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Yesterday:<br>
+&nbsp; &nbsp; Tried to find the Higgs-Boson particles</p><p>Today:<br>
+&nbsp; &nbsp; Try to find the Higgs-Boson particles</p><p>Whats holding me up:<br>
+&nbsp; &nbsp; Higgs-Boson particles</p></htmltext>
+<tokenext>Yesterday : Â   Â   Tried to find the Higgs-Boson particlesToday : Â   Â   Try to find the Higgs-Boson particlesWhats holding me up : Â   Â   Higgs-Boson particles</tokentext>
+<sentencetext>Yesterday:
+Â  Â  Tried to find the Higgs-Boson particlesToday:
+Â  Â  Try to find the Higgs-Boson particlesWhats holding me up:
+Â  Â  Higgs-Boson particles</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427288</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430512</id>
+	<title>2012</title>
+	<author>Master Moose</author>
+	<datestamp>1268213460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Maybe this is the doomsday machine! This error could be the only thing stopping our existance from ending. If we shut it down in late 2011, and send a year fixing bugs then re-start it in late 2012 - OMG the Mayans were right!</p></htmltext>
+<tokenext>Maybe this is the doomsday machine !
+This error could be the only thing stopping our existance from ending .
+If we shut it down in late 2011 , and send a year fixing bugs then re-start it in late 2012 - OMG the Mayans were right !</tokentext>
+<sentencetext>Maybe this is the doomsday machine!
+This error could be the only thing stopping our existance from ending.
+If we shut it down in late 2011, and send a year fixing bugs then re-start it in late 2012 - OMG the Mayans were right!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316</id>
+	<title>so sick of this</title>
+	<author>tomp1000</author>
+	<datestamp>1268241660000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext>quite frankly i'm so sick of people critisising the LHC, especially the people at fermilab.
+firstly most people don;t know a damn thing about particle physics (this includes me but I have a relative expert on hand to answer my queries) unless you have some knowledge of beyond degree level particle physics or know someone who does quite well. KEEP YOUR OPINION TO YOURSELF. <br>
+
+for those people (probablly americans) stop critising the LHC becuase its bigger than the accelerator at fermilab. thats like kids arguing over who has a better skateboard. NOT IMPORTANT</htmltext>
+<tokenext>quite frankly i 'm so sick of people critisising the LHC , especially the people at fermilab .
+firstly most people don ; t know a damn thing about particle physics ( this includes me but I have a relative expert on hand to answer my queries ) unless you have some knowledge of beyond degree level particle physics or know someone who does quite well .
+KEEP YOUR OPINION TO YOURSELF .
+for those people ( probablly americans ) stop critising the LHC becuase its bigger than the accelerator at fermilab .
+thats like kids arguing over who has a better skateboard .
+NOT IMPORTANT</tokentext>
+<sentencetext>quite frankly i'm so sick of people critisising the LHC, especially the people at fermilab.
+firstly most people don;t know a damn thing about particle physics (this includes me but I have a relative expert on hand to answer my queries) unless you have some knowledge of beyond degree level particle physics or know someone who does quite well.
+KEEP YOUR OPINION TO YOURSELF.
+for those people (probablly americans) stop critising the LHC becuase its bigger than the accelerator at fermilab.
+thats like kids arguing over who has a better skateboard.
+NOT IMPORTANT</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429690</id>
+	<title>Re:The timestream protects itself</title>
+	<author>O-Deka-K</author>
+	<datestamp>1268252940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>If they continue attempting to create Higgs-Boson particles at the LHC, we will find ourselves inhabiting an increasingly unlikely reality.</p></div><p>There is another theory which states that this has already happened.</p></div>
+	</htmltext>
+<tokenext>If they continue attempting to create Higgs-Boson particles at the LHC , we will find ourselves inhabiting an increasingly unlikely reality.There is another theory which states that this has already happened .</tokentext>
+<sentencetext>If they continue attempting to create Higgs-Boson particles at the LHC, we will find ourselves inhabiting an increasingly unlikely reality.There is another theory which states that this has already happened.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427562</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427648</id>
+	<title>Re:so sick of this</title>
+	<author>Anonymous</author>
+	<datestamp>1268243220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Wow you're an idiot.  Am I also not allowed to criticize Iraq war because I don't have a degree in military history, or the Federal budget because I don't have a degree in economics?</p><p>The headline says there was a construction "mistake".  Not a design mistake, but a construction mistake; it seems perfectly reasonable to criticize that.</p></htmltext>
+<tokenext>Wow you 're an idiot .
+Am I also not allowed to criticize Iraq war because I do n't have a degree in military history , or the Federal budget because I do n't have a degree in economics ? The headline says there was a construction " mistake " .
+Not a design mistake , but a construction mistake ; it seems perfectly reasonable to criticize that .</tokentext>
+<sentencetext>Wow you're an idiot.
+Am I also not allowed to criticize Iraq war because I don't have a degree in military history, or the Federal budget because I don't have a degree in economics?The headline says there was a construction "mistake".
+Not a design mistake, but a construction mistake; it seems perfectly reasonable to criticize that.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427526</id>
+	<title>Re:Hmmm...</title>
+	<author>istartedi</author>
+	<datestamp>1268242680000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><p> <em>How long do we have before it goes further back and destroys humanity?
+</em> </p><p>At least until yesterday.</p></htmltext>
+<tokenext>How long do we have before it goes further back and destroys humanity ?
+At least until yesterday .</tokentext>
+<sentencetext> How long do we have before it goes further back and destroys humanity?
+At least until yesterday.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427148</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427148</id>
+	<title>Hmmm...</title>
+	<author>Monkeedude1212</author>
+	<datestamp>1268240940000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>That Higgs Boson is finding more and more creative ways... Seems this time it went so far back as to flaw the LHC's design.</p><p>How long do we have before it goes further back and destroys humanity?</p></htmltext>
+<tokenext>That Higgs Boson is finding more and more creative ways... Seems this time it went so far back as to flaw the LHC 's design.How long do we have before it goes further back and destroys humanity ?</tokentext>
+<sentencetext>That Higgs Boson is finding more and more creative ways... Seems this time it went so far back as to flaw the LHC's design.How long do we have before it goes further back and destroys humanity?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428220</id>
+	<title>They collapsed the false vacuum</title>
+	<author>argent</author>
+	<datestamp>1268245980000</datestamp>
+	<modclass>Redundant</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It's pretty obvious that what's happening is that every time they start it up at full power, it collapses the false vacuum and instantly destroys the universe. So the only versions of the state vector we can observe are the ones in which the LHC never ramps up all the way, because we've been destroyed in the rest of them...</p></htmltext>
+<tokenext>It 's pretty obvious that what 's happening is that every time they start it up at full power , it collapses the false vacuum and instantly destroys the universe .
+So the only versions of the state vector we can observe are the ones in which the LHC never ramps up all the way , because we 've been destroyed in the rest of them.. .</tokentext>
+<sentencetext>It's pretty obvious that what's happening is that every time they start it up at full power, it collapses the false vacuum and instantly destroys the universe.
+So the only versions of the state vector we can observe are the ones in which the LHC never ramps up all the way, because we've been destroyed in the rest of them...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427156</id>
+	<title>2012?</title>
+	<author>jimpop</author>
+	<datestamp>1268240940000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>I, for one, think they are just scared of being blamed for 2012.<nobr> <wbr></nobr>:-)</p></htmltext>
+<tokenext>I , for one , think they are just scared of being blamed for 2012. : - )</tokentext>
+<sentencetext>I, for one, think they are just scared of being blamed for 2012. :-)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31442950</id>
+	<title>Re:so sick of this</title>
+	<author>tomp1000</author>
+	<datestamp>1268298120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>mate you just cross analysed my rant in great detail. I may not be mensa material but at least i have a life outside my mothers basement</htmltext>
+<tokenext>mate you just cross analysed my rant in great detail .
+I may not be mensa material but at least i have a life outside my mothers basement</tokentext>
+<sentencetext>mate you just cross analysed my rant in great detail.
+I may not be mensa material but at least i have a life outside my mothers basement</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429174</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429200</id>
+	<title>Re:Hmmm...</title>
+	<author>Anonymous</author>
+	<datestamp>1268250480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>To the mods who modded this "overrated," I actually laughed out loud (for maybe 2 seconds).  So if you didn't think it was funny, then perhaps it isn't for you, but it was funny.</p></htmltext>
+<tokenext>To the mods who modded this " overrated , " I actually laughed out loud ( for maybe 2 seconds ) .
+So if you did n't think it was funny , then perhaps it is n't for you , but it was funny .</tokentext>
+<sentencetext>To the mods who modded this "overrated," I actually laughed out loud (for maybe 2 seconds).
+So if you didn't think it was funny, then perhaps it isn't for you, but it was funny.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427526</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427452</id>
+	<title>The mayans were right!</title>
+	<author>Anonymous</author>
+	<datestamp>1268242380000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext>It will be late 2012 before the LHC gets to full power? Hmmmmmmmm.... Awfully forboding to me.</htmltext>
+<tokenext>It will be late 2012 before the LHC gets to full power ?
+Hmmmmmmmm.... Awfully forboding to me .</tokentext>
+<sentencetext>It will be late 2012 before the LHC gets to full power?
+Hmmmmmmmm.... Awfully forboding to me.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431480</id>
+	<title>This IS how you manage the public</title>
+	<author>snowwrestler</author>
+	<datestamp>1268218080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The LHC got built, right? It's functioning, right? Mission accomplished, my friend.</p><p>PR is not about being well-understood, it's about getting a desired, concrete result. The public is largely stupid and fickle. If you let little PR blips like this bother you, you'll never accomplish anything great. Ultimately if the LHC delivers new science, that is all anyone in future history will remember it for. It's aggravating to read bad press but most of it just doesn't matter over time.</p><p>The space race and moon landing projects had HUGE problems for years--rockets failing very publicly, shutdowns and delays, even the death of 3 astronauts. What is remembered now? While the deaths are remembered and regretted, the number one thing that people remember is that we <a href="http://store.theonion.com/product/holy-shit-man-walks-on-fucking-moon-1969,158/" title="theonion.com">walked on the fucking moon</a> [theonion.com]. How many people today could tell you how many failed launches the Saturn V had? Who cares?</p></htmltext>
+<tokenext>The LHC got built , right ?
+It 's functioning , right ?
+Mission accomplished , my friend.PR is not about being well-understood , it 's about getting a desired , concrete result .
+The public is largely stupid and fickle .
+If you let little PR blips like this bother you , you 'll never accomplish anything great .
+Ultimately if the LHC delivers new science , that is all anyone in future history will remember it for .
+It 's aggravating to read bad press but most of it just does n't matter over time.The space race and moon landing projects had HUGE problems for years--rockets failing very publicly , shutdowns and delays , even the death of 3 astronauts .
+What is remembered now ?
+While the deaths are remembered and regretted , the number one thing that people remember is that we walked on the fucking moon [ theonion.com ] .
+How many people today could tell you how many failed launches the Saturn V had ?
+Who cares ?</tokentext>
+<sentencetext>The LHC got built, right?
+It's functioning, right?
+Mission accomplished, my friend.PR is not about being well-understood, it's about getting a desired, concrete result.
+The public is largely stupid and fickle.
+If you let little PR blips like this bother you, you'll never accomplish anything great.
+Ultimately if the LHC delivers new science, that is all anyone in future history will remember it for.
+It's aggravating to read bad press but most of it just doesn't matter over time.The space race and moon landing projects had HUGE problems for years--rockets failing very publicly, shutdowns and delays, even the death of 3 astronauts.
+What is remembered now?
+While the deaths are remembered and regretted, the number one thing that people remember is that we walked on the fucking moon [theonion.com].
+How many people today could tell you how many failed launches the Saturn V had?
+Who cares?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427810</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429928</id>
+	<title>Re:2012?</title>
+	<author>mcgrew</author>
+	<datestamp>1268253900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>No, I'm afraid 2012 is my fault. I'm eligible to retire in 2012.</p></htmltext>
+<tokenext>No , I 'm afraid 2012 is my fault .
+I 'm eligible to retire in 2012 .</tokentext>
+<sentencetext>No, I'm afraid 2012 is my fault.
+I'm eligible to retire in 2012.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427156</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31434730</id>
+	<title>Inaccurate summary? Talk about inaccurate headline</title>
+	<author>Provocateur</author>
+	<datestamp>1268245380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It's <i>shutdown -rF</i>, fool!</p></htmltext>
+<tokenext>It 's shutdown -rF , fool !</tokentext>
+<sentencetext>It's shutdown -rF, fool!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427212</id>
+	<title>Re:2012?</title>
+	<author>0racle</author>
+	<datestamp>1268241240000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>Then they're doing it wrong. They're going to shutdown late 2011 for about a year. That means they should be up and running again around<nobr> <wbr></nobr>...<br>...<br>...<br> <b>December 2012</b> <br> <br> <br>Be afraid. Gordon, you're needed in the experiment room.</htmltext>
+<tokenext>Then they 're doing it wrong .
+They 're going to shutdown late 2011 for about a year .
+That means they should be up and running again around ......... December 2012 Be afraid .
+Gordon , you 're needed in the experiment room .</tokentext>
+<sentencetext>Then they're doing it wrong.
+They're going to shutdown late 2011 for about a year.
+That means they should be up and running again around ......... December 2012   Be afraid.
+Gordon, you're needed in the experiment room.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427156</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072</id>
+	<title>You know things are bad when ...</title>
+	<author>dtmos</author>
+	<datestamp>1268240640000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>... the article linked in the story starts off by debunking the submission.</p><blockquote><div><p> <strong>UPDATE (March 10, 12:45am PST):</strong> With thanks to Prof. Jon Butterworth, member of the ATLAS collaboration at the LHC, I've been informed that the plan to shut down the LHC for an extended period of time <a href="http://twitter.com/jonmbutterworth/statuses/10262556707" title="twitter.com">was actually announced in early February by Dr. Steve Myers</a> [twitter.com] after the LHC Performance Workshop, in Chamonix, France. So rather than this being a sudden development, it is part of a planned shutdown.</p><p>Prof. Brian Cox, also an ATLAS physicist, <a href="http://twitter.com/ProfBrianCox/status/10263155146" title="twitter.com">confirmed this fact via Twitter</a> [twitter.com]:</p><blockquote><div><p>There is nothing wrong with LHC - lazy journalism. Schedule announced in Jan, 18 months physics, 12 month engineering shutdown afterwards.</p></div> </blockquote><p>Cox pointed out that <a href="http://twitter.com/ProfBrianCox/status/10263338968" title="twitter.com">accelerator shutdowns are more routine</a> [twitter.com] than the BBC article (the source of this blog post) suggests:</p><blockquote><div><p>ALL particle accelerators have 6 - 12 month regular shutdowns for maintenance and upgrades. That's how complex machines are operated!</p></div></blockquote></div> </blockquote></div>
+	</htmltext>
+<tokenext>... the article linked in the story starts off by debunking the submission .
+UPDATE ( March 10 , 12 : 45am PST ) : With thanks to Prof. Jon Butterworth , member of the ATLAS collaboration at the LHC , I 've been informed that the plan to shut down the LHC for an extended period of time was actually announced in early February by Dr. Steve Myers [ twitter.com ] after the LHC Performance Workshop , in Chamonix , France .
+So rather than this being a sudden development , it is part of a planned shutdown.Prof .
+Brian Cox , also an ATLAS physicist , confirmed this fact via Twitter [ twitter.com ] : There is nothing wrong with LHC - lazy journalism .
+Schedule announced in Jan , 18 months physics , 12 month engineering shutdown afterwards .
+Cox pointed out that accelerator shutdowns are more routine [ twitter.com ] than the BBC article ( the source of this blog post ) suggests : ALL particle accelerators have 6 - 12 month regular shutdowns for maintenance and upgrades .
+That 's how complex machines are operated !</tokentext>
+<sentencetext>... the article linked in the story starts off by debunking the submission.
+UPDATE (March 10, 12:45am PST): With thanks to Prof. Jon Butterworth, member of the ATLAS collaboration at the LHC, I've been informed that the plan to shut down the LHC for an extended period of time was actually announced in early February by Dr. Steve Myers [twitter.com] after the LHC Performance Workshop, in Chamonix, France.
+So rather than this being a sudden development, it is part of a planned shutdown.Prof.
+Brian Cox, also an ATLAS physicist, confirmed this fact via Twitter [twitter.com]:There is nothing wrong with LHC - lazy journalism.
+Schedule announced in Jan, 18 months physics, 12 month engineering shutdown afterwards.
+Cox pointed out that accelerator shutdowns are more routine [twitter.com] than the BBC article (the source of this blog post) suggests:ALL particle accelerators have 6 - 12 month regular shutdowns for maintenance and upgrades.
+That's how complex machines are operated! 
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31452780</id>
+	<title>Re:so sick of this</title>
+	<author>Script Cat</author>
+	<datestamp>1268414940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>My skateboard has eight wheels.</htmltext>
+<tokenext>My skateboard has eight wheels .</tokentext>
+<sentencetext>My skateboard has eight wheels.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429174</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427736</id>
+	<title>Re:so sick of this</title>
+	<author>Anonymous</author>
+	<datestamp>1268243580000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>-1</modscore>
+	<htmltext><blockquote><div><p>blahblahblah<nobr> <wbr></nobr>...quite frankly i'm so sick of people critisising the LHC<nobr> <wbr></nobr>... KEEP YOUR OPINION TO YOURSELF.
+for those people (probablly americans) stop critising the LHC<nobr> <wbr></nobr>... more blahblahblah</p></div>
+</blockquote><p>
+Shut up, asshole.
+</p><p>
+Oh, LHC sucks.</p></div>
+	</htmltext>
+<tokenext>blahblahblah ...quite frankly i 'm so sick of people critisising the LHC ... KEEP YOUR OPINION TO YOURSELF .
+for those people ( probablly americans ) stop critising the LHC ... more blahblahblah Shut up , asshole .
+Oh , LHC sucks .</tokentext>
+<sentencetext>blahblahblah ...quite frankly i'm so sick of people critisising the LHC ... KEEP YOUR OPINION TO YOURSELF.
+for those people (probablly americans) stop critising the LHC ... more blahblahblah
+
+Shut up, asshole.
+Oh, LHC sucks.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430744</id>
+	<title>Re:USA #1! (Seems More and More Rare)</title>
+	<author>Anonymous</author>
+	<datestamp>1268214600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Urm No. Even at half powed the LHC is more powerful than Fermilab. Sorry, my little jingoist.</p></htmltext>
+<tokenext>Urm No .
+Even at half powed the LHC is more powerful than Fermilab .
+Sorry , my little jingoist .</tokentext>
+<sentencetext>Urm No.
+Even at half powed the LHC is more powerful than Fermilab.
+Sorry, my little jingoist.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428518</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427712</id>
+	<title>We are saved once more</title>
+	<author>MrTripps</author>
+	<datestamp>1268243460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>The invasion by giant ants from another dimension opened by a gateway created by a particle accelerator is prevented once again. Such is the plot of Einstein's Bridge by John Cramer. Luckily the SSC was never built. West Texas has enough problems with fire ants without the giant alien kind.</htmltext>
+<tokenext>The invasion by giant ants from another dimension opened by a gateway created by a particle accelerator is prevented once again .
+Such is the plot of Einstein 's Bridge by John Cramer .
+Luckily the SSC was never built .
+West Texas has enough problems with fire ants without the giant alien kind .</tokentext>
+<sentencetext>The invasion by giant ants from another dimension opened by a gateway created by a particle accelerator is prevented once again.
+Such is the plot of Einstein's Bridge by John Cramer.
+Luckily the SSC was never built.
+West Texas has enough problems with fire ants without the giant alien kind.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427824</id>
+	<title>Re:Hmmm...</title>
+	<author>Anonymous</author>
+	<datestamp>1268243940000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><div class="quote"><p>That Higgs Boson is finding more and more creative ways... Seems this time it went so far back as to flaw the LHC's design.</p><p>How long do we have before it goes further back and destroys humanity?</p></div><p>If some time-traveling something doesn't want to be found, why not just send back a dead nuke with a note attached that reads</p><p><div class="quote"><p>Dear asshole:</p><p>
+&nbsp; &nbsp; &nbsp; &nbsp; Leave us alone.</p><p>Your truly,<br>The Future</p></div></div>
+	</htmltext>
+<tokenext>That Higgs Boson is finding more and more creative ways... Seems this time it went so far back as to flaw the LHC 's design.How long do we have before it goes further back and destroys humanity ? If some time-traveling something does n't want to be found , why not just send back a dead nuke with a note attached that readsDear asshole : Â   Â   Â   Â   Leave us alone.Your truly,The Future</tokentext>
+<sentencetext>That Higgs Boson is finding more and more creative ways... Seems this time it went so far back as to flaw the LHC's design.How long do we have before it goes further back and destroys humanity?If some time-traveling something doesn't want to be found, why not just send back a dead nuke with a note attached that readsDear asshole:
+Â  Â  Â  Â  Leave us alone.Your truly,The Future
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427148</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429642</id>
+	<title>Re:Hmmm...</title>
+	<author>mcgrew</author>
+	<datestamp>1268252760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>That Higgs Boson is finding more and more creative ways... Seems this time it went so far back as to flaw the LHC's design. How long do we have before it goes further back and destroys humanity?</i></p><p>Oh, hell, now I have to write a sequel to <a href="http://slashdot.org/~mcgrew/journal/241840" title="slashdot.org">this.</a> [slashdot.org]</p></htmltext>
+<tokenext>That Higgs Boson is finding more and more creative ways... Seems this time it went so far back as to flaw the LHC 's design .
+How long do we have before it goes further back and destroys humanity ? Oh , hell , now I have to write a sequel to this .
+[ slashdot.org ]</tokentext>
+<sentencetext>That Higgs Boson is finding more and more creative ways... Seems this time it went so far back as to flaw the LHC's design.
+How long do we have before it goes further back and destroys humanity?Oh, hell, now I have to write a sequel to this.
+[slashdot.org]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427148</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31446078</id>
+	<title>Wrong Dept Name</title>
+	<author>Anonymous</author>
+	<datestamp>1268308920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Surely this should come from the "end of the end of the world as we know it dept."</p></htmltext>
+<tokenext>Surely this should come from the " end of the end of the world as we know it dept .
+"</tokentext>
+<sentencetext>Surely this should come from the "end of the end of the world as we know it dept.
+"</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427628</id>
+	<title>Energy</title>
+	<author>superzerg</author>
+	<datestamp>1268243100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>For now, accelerated particles will have a maximum energy of 7TeV (half the power of the LHC's design maximum)</p></div><p>The design energy for LHC particles is 7TeV, which means 17TeV energy in center of mass during collision. The planned particles energy is 3.5TeV until 2011 which make 7TeV in center of mass.</p></div>
+	</htmltext>
+<tokenext>For now , accelerated particles will have a maximum energy of 7TeV ( half the power of the LHC 's design maximum ) The design energy for LHC particles is 7TeV , which means 17TeV energy in center of mass during collision .
+The planned particles energy is 3.5TeV until 2011 which make 7TeV in center of mass .</tokentext>
+<sentencetext>For now, accelerated particles will have a maximum energy of 7TeV (half the power of the LHC's design maximum)The design energy for LHC particles is 7TeV, which means 17TeV energy in center of mass during collision.
+The planned particles energy is 3.5TeV until 2011 which make 7TeV in center of mass.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427330</id>
+	<title>LHC is the new Tower of Babel</title>
+	<author>Anonymous</author>
+	<datestamp>1268241660000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext>It's one of the world's most ambitious projects. Not surprisingly, its construction and operation can be problematic from time to time.</htmltext>
+<tokenext>It 's one of the world 's most ambitious projects .
+Not surprisingly , its construction and operation can be problematic from time to time .</tokentext>
+<sentencetext>It's one of the world's most ambitious projects.
+Not surprisingly, its construction and operation can be problematic from time to time.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428518</id>
+	<title>USA #1!  (Seems More and More Rare)</title>
+	<author>Anonymous</author>
+	<datestamp>1268247420000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>0</modscore>
+	<htmltext>And the United States of America once again has the world's most powerful particle accelerator and collider located at Fermilab... for now.
+<br> <br>
+Look, with the current administration, the cuts to the science budget, the cancelation of deep space exploration and the dismantling of the American enterprise, it's getting rarer and rarer that there's ANYTHING worth mentioning in the US.  At least we can have one thing that's nice for a little bit.</htmltext>
+<tokenext>And the United States of America once again has the world 's most powerful particle accelerator and collider located at Fermilab... for now .
+Look , with the current administration , the cuts to the science budget , the cancelation of deep space exploration and the dismantling of the American enterprise , it 's getting rarer and rarer that there 's ANYTHING worth mentioning in the US .
+At least we can have one thing that 's nice for a little bit .</tokentext>
+<sentencetext>And the United States of America once again has the world's most powerful particle accelerator and collider located at Fermilab... for now.
+Look, with the current administration, the cuts to the science budget, the cancelation of deep space exploration and the dismantling of the American enterprise, it's getting rarer and rarer that there's ANYTHING worth mentioning in the US.
+At least we can have one thing that's nice for a little bit.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31443880</id>
+	<title>Re:so sick of this</title>
+	<author>AmeliaMurderBot</author>
+	<datestamp>1268300820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Y'know what's funny about all this? You owned Tom. This is funny cause it's Tom, and although he tells you that you're living in your mothers basement, he know's that's where he'll live for the rest of his life.
+Wait, you made him look stupid more than once (not that he didn't do a sufficient job of that himself) ?? Marry me?</htmltext>
+<tokenext>Y'know what 's funny about all this ?
+You owned Tom .
+This is funny cause it 's Tom , and although he tells you that you 're living in your mothers basement , he know 's that 's where he 'll live for the rest of his life .
+Wait , you made him look stupid more than once ( not that he did n't do a sufficient job of that himself ) ? ?
+Marry me ?</tokentext>
+<sentencetext>Y'know what's funny about all this?
+You owned Tom.
+This is funny cause it's Tom, and although he tells you that you're living in your mothers basement, he know's that's where he'll live for the rest of his life.
+Wait, you made him look stupid more than once (not that he didn't do a sufficient job of that himself) ??
+Marry me?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429174</parent>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430744
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428518
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_45</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31443880
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429174
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430324
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427182
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427192
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431480
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427810
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_36</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428168
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430760
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428222
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427102
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428568
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427148
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_39</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428200
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427206
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_42</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428948
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427148
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_38</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428202
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427562
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428674
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427206
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_35</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430096
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428150
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429366
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427476
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_34</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31432280
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427288
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_25</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428622
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427824
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427148
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_40</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31433296
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427810
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_28</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431504
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_33</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427342
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427212
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427156
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429532
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427526
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427148
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428334
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427476
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427438
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427288
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_46</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429146
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427148
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427508
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427156
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_43</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429882
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_26</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429690
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427562
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430052
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428150
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429980
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427330
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428002
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427452
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427648
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427338
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427182
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_44</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431276
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_37</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429928
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427156
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431810
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428894
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_41</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431632
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427206
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31443674
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_29</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429200
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427526
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427148
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_32</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427128
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_47</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429968
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427562
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31452780
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429174
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427736
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_31</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428194
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_27</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431228
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427452
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_48</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428932
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427452
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_30</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31442950
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429174
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_10_1515232_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429642
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427148
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427420
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427614
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427102
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428222
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427148
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429642
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429146
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428568
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427526
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429200
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429532
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428948
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427824
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427330
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429980
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427072
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428622
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431276
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429882
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427192
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428194
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427128
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428168
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428150
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430096
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430052
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427562
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429968
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429690
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428202
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427266
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427452
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431228
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428932
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428002
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428518
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430744
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427650
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427182
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427338
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430324
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427196
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427810
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431480
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31433296
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427336
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427288
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31432280
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427438
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428220
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427410
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428700
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427316
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429174
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31443880
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31442950
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31452780
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31443674
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431810
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427648
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31430760
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431504
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427736
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428894
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427476
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428334
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429366
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427156
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427212
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427342
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31429928
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427508
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_10_1515232.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31427206
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31431632
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428674
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_10_1515232.31428200
+</commentlist>
+</conversation>

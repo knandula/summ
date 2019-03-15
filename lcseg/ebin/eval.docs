@@ -1,0 +1,7 @@
+#!/usr/bin/perl
+
+my $seg = './baseline.pl -n 10';
+
+foreach(@ARGV) {
+	print `./eval.oneDoc "$seg" $_`;
+}

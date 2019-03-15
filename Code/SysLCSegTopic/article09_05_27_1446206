@@ -1,0 +1,291 @@
+T1 1 kdawson : KentuckyFC writes "We're all familiar with GPS.
+T1 2 kdawson : It consists of a network of satellites that each broadcast a time signal.
+T1 3 kdawson : A receiver on Earth can then work out its position in three-dimensional space by comparing the arrival times of the signals from at least three satellites.
+T1 4 kdawson : That's handy, but it only works on Earth.
+T2 5 kdawson : Now astronomers say that the millisecond signals from a network of pulsars could allow GPS-style navigation on a galactic scale.
+T2 6 kdawson : They propose using four pulsars that form a rough tetrahedron with the Solar System at its center, and a co-ordinate system with its origin at 00:00 on 1 January 2001 at the focal point of the Interplanetary Scintillation Array, the radio telescope near Cambridge in the UK that first observed pulsars.
+T2 7 kdawson : The additional complexity of working with signals over these distances is that relativity has to be taken into account (which is why the origin is defined as a point in space-time rather than just space).
+T2 8 kdawson : The pulsar GPS system should allow users to determine their position in space-time anywhere in the galaxy to within a few nanoseconds, which corresponds to an accuracy of about a meter.
+T2 9 kdawson : " Pulsars slow down over time, and the arXiv paper doesn't seem to mention this.
+T2 10 kdawson : The paper is mainly about establishing a coordinate system and a reference selection of pulsars.
+T2 11 kdawson : Any proposed Galactic Positioning System would have to take the slowing into account, and since it is poorly understood and not completely predictable, this would limit accuracy.
+T2 12 The\_mad\_linguist : At this point, I'd normally be ranting about how the G in GPS stands for "Global", and that the summary is making an awful analogy, but then I realized that "Galactic" also begins with a G.And then I realized that that still doesn't make "Galactic Global Positioning System" any better.
+T2 13 BadAnalogyGuy : Is there anyone who can help me figure out something to do with my Pulsar's wiper blades?
+T2 14 Anonymous1 : First pulse
+T2 15 Anonymous3 : ...that uses metric pulsars.
+T2 16 Anonymous4 : I see a problem with this immediately:Unlike the global positioning system, the pulsars are always going to be moving relative to each other and to your position AND the reference point, which adds a tremendous amount of error.
+T2 17 Anonymous4 : That combined with the unpredictable changes in chances in pulsars' emissions, makes the "GPS" somewhat unreliable for interstellar travel.However, given that we're probably centuries if not eons off from traveling outside our solar system, it's a moot point.
+T2 18 Anonymous4 : On the scale we can use it NOW interplanetary probes, etc.
+T2 19 Anonymous4 : it should be highly accurate.
+T2 20 ATestR : Cool concept, but it seems like it would be of limited use until someone develops FTL.
+T2 21 Anonymous5 : Hasn't that already been done.
+T2 22 Anonymous5 : I thought the starburst pattern on the plaques affixed to the V'ger probes indicated the position of Earth relative to a set of pulsars.
+T2 23 ad0n : make it so number one
+T2 24 Anonymous6 : I want my FTL drives to escape the Cylon overlords.
+T2 25 yogibaer : ..as far as my "Wing Commander" Knowledge is still intact.
+T2 26 Anonymous7 : The Russians would of just used an old pencil and a map.
+T2 27 tygerstripes : Sorry, but until it's supported by my iPhone...
+T2 28 Anonymous8 : The only galactic GPS system I use is the beacon sent by the Emperor of Mankind.
+T2 29 Anonymous8 : Granted the cost of a thousand psychers a day is high, but it's worth it.
+T2 30 SEWilco : Just make sure that you use at least 50\% blinker fluid in your windshield washer reservoir when traveling at relativistic speeds.
+T2 31 SEWilco : That will reduce wiper friction and reduce cosmic ray wear.
+T2 32 Anonymous9 : This is not a new idea.
+T2 33 Anonymous9 : Actually, this idea has been thought about before and dismissed.
+T2 34 Anonymous9 : The researchers referenced propose using millisecond radio pulsars for navigation.
+T2 35 Anonymous9 : This is a poor idea from an engineering standpoint because it requires having a large collecting area of radio dishes in order to get an apporpriate signal level.
+T2 36 Anonymous9 : A better idea, which is currently being researched, and was suggested four years ago at least the earliest I recall it being mentioned was using x-ray pulsars, which require much smaller collecting area.
+T2 37 Anonymous9 : See for example  this thesis  umd.edu on the subject.
+T2 38 wjousts : Since we're dealing with interstellar distances, just how accurate do you need to be?
+T2 39 wjousts : Being off by a few million miles might be pretty good if you're talking about light-years of travel.
+T2 40 srussia : How large would the antennas need to be?
+T2 41 dogganos : ...to non-existing problems hilarious!
+T2 42 shadowofwind : Fixing the coordinate system to a point near Cambridge will obviously cause the "galactic coordinate system" to oscillate around the sun.
+T2 43 shadowofwind : And they would try to fix the coordinate system's rotation relative to what?
+T2 44 shadowofwind : Absolute, or the earth, or the quasars, which are moving relative to each other?
+T2 45 Anonymous10 : Actually the closest we have to an inertial reference frame in the solar system is already using this idea.
+T2 46 Anonymous10 : It has been extended to a terrestrial reference frame later.
+T2 47 Anonymous10 : Informative links:ICRF: http://en.wikipedia.org/wiki/International\_Celestial\_Reference\_Frame wikipedia.orgITRF: http://en.wikipedia.org/wiki/International\_Terrestrial\_Reference\_Frame wikipedia.orgThe technique used in both cases which is prettey cool: http://en.wikipedia.org/wiki/VLBI wikipedia.org
+T2 48 Anonymous11 : Call it GaPS .. there are sure to be some.
+T2 49 Anonymous12 : So you think the current GPS satellite constellation is fixed relative to some reference point on Earth and therefore eachother as well?
+T2 50 Anonymous12 : Of course everything is moving relative to everything else in the system.
+T2 51 Anonymous12 : Now that also means we need to know the position of the pulsars with a high degree of accuracy, just like we have to know the position of the GPS satellites now.
+T2 52 daveywest : 0, 0, 1 Sweet 0, 0, 1
+T2 53 mandark1967 : The additional complexity of working with signals over these distances is that relativity has to be taken into account
+T2 54 mandark1967 : Friggin' In-Laws ruin Everything!
+T2 55 fortunatus : I think origin 0,0,0 0,0,0,0,0?
+T2 56 fortunatus : should be at the Sun upon the start date - since the earth orbits the Sun \_and\_ rotates, this could remove a couple curliques from the system - of course I know the sun orbits the galactic center and other things, I'm just saying it would simplify the system some when it comes to resolving positional issues to some fine resolution in the future.I agree X-ray sources are better than MHz sources.
+T2 57 Anonymous13 : Hide something in interstellar space, note its current GalacticPS coordinates and velocity, and come back years later to find it.
+T2 58 Anonymous13 : Probably needs to be fairly accurate.
+T2 59 skelterjohn : It doesn't rotate around the sun.
+T2 60 skelterjohn : It is fixed in both time and space.
+T2 61 Ancient\_Hacker : Pulsars have been used for geodesic measurements for about 30 years.
+T2 62 Ancient\_Hacker : The nice short regular pulses make it possible to track the movement of continental plates down to the miliionth of a LOC length.
+T2 63 TheCabal : IIRC, one of the methods we use to measure the distance to a pulsar is to look at the effects the interstellar medium has on the latency of the pulse.
+T2 64 TheCabal : Assuming the ISM is uniform, I suppose this wouldn't be an issue, but wouldn't this cause accuracy problems if there was an area where the ISM was denser?
+T2 65 jadedoto : Aren't pulsars directional?
+T2 66 jadedoto : How would you see the pulsar if it isn't currently flashing in your direction... They have set orbits and would have a plane where they will be invisible.
+T2 67 jadedoto : Not that we'll ever get that far as humans, but it does seem like a major show-stopper.
+T2 68 PTBarnum : The native coordinate system is not a euclidean grid.
+T2 69 PTBarnum : Think of the pulsars as being clocks that are continuously broadcasting their local time.
+T2 70 PTBarnum : The 4 spacetime coordinates they define are just the values of those 4 clocks.
+T2 71 PTBarnum : In order to normalize this, I need to choose a 0 point for each clock, and the authors chose the values of the clocks as observed in Cambridge at the beginning of the millenium.
+T2 72 PTBarnum : Apparerently, by observing the signals, I can decide how much time to the nearest 4 ns had elapsed at each pulsar, at the time it broadcast the signal I'm now receiving.
+T2 73 PTBarnum : I can then define a transform that maps those 4 numbers into whatever local coordinate system I want.
+T2 74 PTBarnum : I could convert it to longitude/lattitude/UTC for terrestrial navigation, or some sort of heliocentric system for planetary navigation, or a galactic system for interstellar navigation.
+T2 75 G3ckoG33k : "They propose using four pulsars that form a rough tetrahedron with the Solar System at its center, and a co-ordinate system with its origin at 00:00 on 1 January 2001 at the focal point of the Interplanetary Scintillation Array, the radio telescope near Cambridge in the UK that first observed pulsars.
+T2 76 G3ckoG33k : "I really really hope they remember the millennium bug.
+T2 77 G3ckoG33k : We don't want to creat another one of those, do we?
+T2 78 hansede : I've heard of people who think they're the center of the universe, but this is just insane!
+T2 79 evanbd : It makes the problem more complicated, but it does not add error.
+T2 80 evanbd : You don't think the GPS satellites are stationary, do you?
+T2 81 evanbd : The source of error here is uncertainty in the measurements of those positions.
+T2 82 evanbd : And it actually isn't that bad -- start your spacecraft near Sol, with position well enough defined that you know which pulse you're receiving.
+T2 83 evanbd : When observing, you can only see the relative phasing of the pulsars, unlike GPS satellites which transmit a time base.
+T2 84 evanbd : Then you need to count pulses as you move.
+T2 85 evanbd : You then know that, relative to your starting point or, equivalently, the epoch, you've seen X0 pulses from pulsar 0, X1 from pulsar 1, etc.
+T2 86 evanbd : Knowing how many pulses closer to each of the pulsars you are tells you how far you are from your starting point in spacetime, not just space, obviously.
+T2 87 evanbd : The error bars get larger as you move enough to get parallax effects -- since from Earth we can only measure the distance to a pulsar with modest precision, and its velocity perpendicular to us with even less.
+T2 88 evanbd : If, however, you have a radio telescope that can resolve the position of the pulsar with good precision, you get to add a long baseline parallax measurement to correct for that.
+T2 89 evanbd : Add a timebase transmitter at Earth as well, and the errors basically disappear -- errors of a few nanoseconds should be readily available.
+T2 90 evanbd : And once you're far enough away from Sol to make that transmitter difficult more than a few lightyears, you'll know the pulsar trajectories well enough it won't matter as much.
+T3 91 Anonymous14 : Quoting from Wikipedia wikipedia.org:Relative position of the Sun to the center of the Galaxy and 14 pulsarsThe radial pattern on the left of the plaque shows 15 lines emanating from the same origin.
+T3 92 Anonymous14 : Fourteen of the lines have corresponding long binary numbers, which stand for the periods of pulsars, using the hydrogen spin-flip transition frequency as the unit.
+T3 93 Anonymous14 : Since these periods will change over time, the epoch of the launch can be calculated from these values.The lengths of the lines show the relative distances of the pulsars to the Sun.
+T3 94 Anonymous14 : A tick mark at the end of each line gives the Z coordinate perpendicular to the galactic plane.If the plaque is found, only some of the pulsars may be visible from the location of its discovery.
+T3 95 Anonymous14 : Showing the location with as many as 14 pulsars provides redundancy so that the location of the origin can be triangulated even if only some of the pulsars are recognized.The data for one of the pulsars is misleading.
+T3 96 Anonymous14 : When the plaque was designed, the frequency of pulsar "1240" now known as J1243-6423 was known to only three significant decimal digits: 0.388 seconds.
+T3 97 Anonymous14 : The map lists the period of this pulsar in binary to much greater precision: 100000110110010110001001111000.
+T3 98 Anonymous14 : Rounding this off at about 10 significant bits 100000110100000000000000000000 would have provided a hint of this uncertainty.
+T3 99 Anonymous14 : This pulsar is represented by the long line pointing down and to the right.The fifteenth line on the plaque extends to the far right, behind the human figures.
+T3 100 Anonymous14 : This line indicates the sun's relative distance to the center of the galaxy.
+T4 101 Anonymous15 : Without relativity, we'd be off by 11 kilometers a day.
+T4 102 pacificleo : your fear are misplaced .
+T4 103 pacificleo : Migratory birds have been using Earth's magnetic field to navigate accurately for ages.
+T4 104 pacificleo : AFAIK Pulsars are having somewhat simmilar mechanism.
+T4 105 pacificleo : additionally any navigation system is supposed to give you a genral sense of direction don't expect it to plot the curve for you.
+T4 106 peter303 : It was conceived about the time pulsars were discovered.
+T4 107 dargaud : ...you can use triangulation with known quasars, which is easy but imprecise.
+T4 108 rnturn : The GPS ephemerides data stream includes parameters to model clock drift.
+T4 109 rnturn : A similar set of corrections could be included to provide a correction for the change in pulsar frequency.
+T4 110 rnturn : Something tells me though, that this is a small problem compared to being able to detect the pulsar signals in the first place.
+T4 111 rnturn : Unless adding an Arecibo-sized dish to your cellphone or pocket-sized locator gizmo is an option.
+T4 112 eth1 : "Warp...five point nine...parsecs then exit hyperspace left"
+T4 113 OeLeWaPpErKe : A good question is whether it would be feasible to receive these signals in a handheld device.
+T4 114 OeLeWaPpErKe : Pulsars may not be eternal, but they're quite close indeed to that ideal, certainly much more so than any satellite we'd ever put in orbit.In other words : could this be used as a GPS system on earth ?
+T4 115 OeLeWaPpErKe : I believe 1 meter is more accurate than even recent GPS devices provide.
+T4 116 OeLeWaPpErKe : Also, could this be used to have instant clock-sync in just about any computer in 3 components an RC circuit to tune to the correct frequency ?
+T5 117 wjousts : Ok, so maybe it won't work for interstellar pirates hiding their space booty, but if all you're trying to do is get from Earth to Alpha Ceti IV, you'll probably be close enough to see where you need to go.
+T5 118 Roger_W_Moore : A far bigger problem is the directionality of the emissions.
+T5 119 Roger_W_Moore : They send out highly directional beams.
+T5 120 Roger_W_Moore : These will sweep out a hollow cone of some width.
+T5 121 Roger_W_Moore : However if you move outside that cone you will not get a signal.
+T5 122 Roger_W_Moore : This will mean that far more pulsars than just the four mentioned in the article will need to be mapped if you want to cover the galaxy.
+T5 123 Bob3141592 : I seriously doubt that this could be made to work, since General Relativity denies the very notion of simultinaity required to coordinate signals.
+T5 124 Bob3141592 : And this results from two monkey wrenches - the various velocities and accelerations of the pulsars, and the varying and unknown distribution of gravitational fields between the objects.
+T5 125 Bob3141592 : Space across galactic distances is not Euclidean, and the degree of curvature is not constant from one place to another on large scales.Naturally, I didn't RTFA, but I'd be surprised if this scheme is valid even in principle.
+T5 126 Bob3141592 : See sig.
+T5 127 psydeshow : You're not going to be able to prove that you developed FTL travel until you can prove that you got to somewhere and back, presumably at faster than the speed of light.
+T5 128 psydeshow : A galactic positioning system would be quite handy for figuring out exactly where that somewhere was, and how to get back home.Anyway, it would be quite nice to know exactly where you were even if you stayed within our solar system.
+T5 129 psydeshow : Plenty of room to get lost out there...
+T5 130 Alain_Williams : There has to be some base time, so what do we use ?
+T5 131 Alain_Williams : Might as well base it on what we use already - GMT.
+T5 132 Alain_Williams : A couple of things to sort out:
+T5 133 Alain_Williams : Gweenwich Mean Time is subject to Leap seconds - what about Galactic Mean Time ?
+T5 134 Alain_Williams : This is not just fanciful - do we want the two time references to slowly fall out of sync ?
+T5 135 Alain_Williams : According to relativity things that occur at the same time to one observer, may not for another observer, see: Relativity of simultaneity wikipedia.org, so how meaningful is a Galactic Mean Time ?
+T5 136 parlancex : Not only do Pulsars slow down over time but they also unpredictably and abruptly speed up.
+T5 137 parlancex : This is thought to be because of a collapse of the outer layers of the Pulsar as it gradually loses energy over time and due to the conversation of angular momentum this collapse will cause an increase in rotational velocity.
+T5 138 Midnight_Thunder : Thinking about this, I wonder what sort of coordinate system you would use in your spacecraft?
+T5 139 Midnight_Thunder : Would you use a polar coordinate system, with certain celestial bodies providing the center of the coordinate system?
+T5 140 Midnight_Thunder : For example if you are in close proximity of a planet you use that, then outside of those bounds the star and then the galactic center, and so on?
+T5 141 Midnight_Thunder : Or do you a grid cube?
+T5 142 Midnight_Thunder : system with certain reference points to keep the grid in the right position?Because reference points in space have this horrible tendency to move, I can see the mapping system being more dynamic that the surface maps we use for planets, so will probably need a planetary simulator to keep it precise.
+T5 143 matelmaster : That's actually a common misconception.
+T6 144 matelmaster : In GPS positioning you have four variables to be determined, your position on the earth X,Y,Z coordinates as well as the error of the receiver clock.
+T6 145 matelmaster : Because you don't have a high precision atomic clock in your Garmin and the Master Control Station doesn't monitor and adjust the clock in your handheld you need the signal of a fourth satellite to use its high precision clock to calculate exact time differences distances.
+T6 146 matelmaster : The reason many handheld or car navigation systems also work with three satellites is that they keep one variable, usually the height, fixed in their calculations.
+T6 147 matelmaster : You can either use the last known value if a satellite disappears over the horizon or you can just get it from, for example, the navigational maps in your system.
+T6 148 matelmaster : When you're driving along some road it generally doesn't matter whether you're 100 meters above or below the road, but it may matter if you're 100 meters to the left or right.
+T6 149 matelmaster : This usually doesn't impact the usefulness of the device very much but may allow you to get a fix on your location when you otherwise wouldn't.
+T6 150 dotancohen : Actually, this has already been done.
+T6 151 dotancohen : The Pioneer Plaques gave the location of the Earth, as relative to pulsars:http://en.wikipedia.org/wiki/Pioneer\_plaque wikipedia.org
+T6 152 the\_other\_chewey : You fail at using TLAs to enhance your whatever.
+T6 153 the\_other\_chewey : GRBs, or Gamma Ray Bursts,
+T6 154 the\_other\_chewey : are non-recurring events and don't have much to do with pulsars.
+T6 155 the\_other\_chewey : The astronomical acronym you might be trying to refer to is LGM, as in LGM-1 wikipedia.org.
+T6 156 Anonymous16 : But that creates jobs man, and jobs right now are much more important than silly things like efficiency and productivity.
+T6 157 SAFH : All of this is fine and dandy, but they still don't tell us what the coordinates of Earth are.
+T6 158 SAFH : What good will this do us if we are abducted and need to get home?As a commenter on Technology Review said, isn't this the same concept as NASA put on Pioneer F?
+T6 159 RVT : Well, pedantic would be to note:"A receiver on Earth can then work out its position in three-dimensional space by comparing the arrival times of the signals from at least three satellites"is a wrong statement.But this is /.
+T6 160 RVT : Who cares?
+T6 161 maxume : The present position of Cambridge doesn't factor into it.
+T6 162 maxume : Unless you are trying to compare something to the present position of Cambridge.
+T6 163 Opr33Opr33 : Here I was just hoping for standard GPS in the next iPod Touch but Galactic GPS - WOW!
+T6 164 Opr33Opr33 : Will it have audible turn by turn?
+T6 165 Opr33Opr33 : If so please let it come with Majel Barrett's voice.
+T6 166 aquabat : If we're going to do this, could we please make the origin at 00:00 Jan 1.
+T6 167 aquabat : 1970? I'd hate to have to write yet another date conversion function.
+T6 168 OrangeTide : Now I'm just waiting for a several thousand dollar luxury wristwatch that can scan for pulsars.
+T6 169 Rick_Genter : Now people will have an excuse for driving their starships straight into a supernova.
+T6 170 Rick_Genter : "But the GPS said to turn 'up' here!
+T6 171 Anonymous17 : Isn't this what the real basis of stardates is supposed to be?In the sense that this method was used to calculate locations in spacetime, before all those comms satellites were placed out to create beacons.Also, this reminds me of the article i think i saw on here a couple years back or so that mentioned that alien races could probably be using stars as communication.A massive grid would have been placed around said star to alter the frequencies that would get out.It would be one of the better methods for communicating long distance.But in saying that, if we achieve FTL at some point, we'd be better off making our own communication networks.
+T6 172 Anonymous17 : or if we meet aliens with one already built, ask them very nicely if we can use it and promise not to use it for torrentsBut we need to actually figure out if we can even TFTL in the first place!I'm saying 60 years.
+T6 173 bareman : Hey look out for that Asteroid *swerve*  whew!
+T6 174 bareman : .  "Recalculating"  "Recalculating"
+T6 175 Anonymous18 : uhm, what's going on here?
+T6 176 Anonymous18 : kdawson made an insightful/informative comment about the summary!?
+T6 177 Anonymous18 : Maybe he just failed to put quotes around something someone else said?
+T6 178 Sandbags : Their movement may be a fact, but when you calculate position based on space-time instead of simply space, the movement IN space is HIGHLY predictible, and therefore highly accurate.
+T6 179 Sandbags : The system of calculations might need periodic adjustment say every few decades gue to unforseen gravametric effects, but generally, it's a pretty significant and thus in itself predictable event to actually cause a pulsar to have to adjust is'd galactic course...  We don't really care about the emissions of the pulsar, only it's relative position to the other pulsars in relation to the current time in nanoseconds.
+T6 180 Anonymous19 : The mentioning of slow down and drift comes to mind.This is the same problem that the "Ancients" had to deal with when building the Stargate system.Any gates that had been cut-off were out of sync and had to be updated manually.So i guess as long as you have line-of-sight to at least 4 pulsars, you'll be fine.This system says that they would only use 4, so it would probably fail in that respect.If they could find the pulsars all on the outsides of the galaxy, it would be really helpful.Speaking of that, does anyone have any links to maps of pulsars in our galaxy?
+T6 181 Anonymous19 : Still, the whole "How do i FTL?
+T6 182 Anonymous19 : " problem isn't solved... yet.Hopefully we will figure it out, because it must be possible, blackholes aren't some magical mysterious thing that defies "the laws of physics", If the laws can break down, the laws are not laws!
+T6 183 GodfatherofSoul : You ever have to walk a few million miles to the nearest gas station because your girlfriend forgot to fill the tank?
+T6 184 GodfatherofSoul : No thanks, man.
+T6 185 GodfatherofSoul : Kinda off-topic, but one of my sci-fi horror scenarios would be being lost in near space, out of sight of earth far enough that it looks like another star, with limited propulsion based on an issue of the comic Star Brand decades ago where the hero gets into a fight in space and becomes disoriented.
+T6 186 GodfatherofSoul : Would this device work as well as a handheld blackbox GPS that you could use to orient yourself home?
+T6 187 PPH : ... the aliens turn on SA wikipedia.org and encrypt the pulsar's timing signals.
+T6 188 gatkinso : On that plate he had welded to Voyager?
+T7 189 Anonymous20 : Well, while I was still doing "SETI@Home", for "Team Microsoft" -  http://setiathome.berkeley.edu/team\_members.php?teamid=26482&amp;sort\_by=expavg\_credit&amp;offset=60 berkeley.edu #76, that's me there, lol, &amp; to think I used to be as high as #12 on that chart...I said this, while checking the "optimized version" of the character-mode/tty/DOS mode clients by BOTH Trux &amp; Cruncher, I said WE were going to function one day as Star Traveller's first "stellar cartographers", &amp; in fact, here is that very statement:-----http://setiathome.berkeley.edu/forum\_thread.php?id=27644&amp;nowrap=true berkeley.edu"We're their 'stellar cartographers' in a way if you think about it: Giving them potential targets to journey to, based on data gained from this project.
+T7 190 Anonymous20 : "-----Who would've guessed that "PULSARS" what they're trying to detect for iirc, it's been a LONG while since I did that, &amp; I moved onto Folding@Home afterwards for a good bit also would be the target data centers used for this type of thing!APKP.S.= Perhaps my "ESP" was operating @ peak efficiency that day?
+T7 191 Anonymous20 : 'Inquiring minds want to know', lol... got lucky I guess maybe??
+T7 192 Anonymous20 : Who knows, but, this is pretty cool stuff, &amp; I hope it works out one day - be cool to know that some good came from SETI@Home, @ least in terms of data for pulsar stars for this type of application this very thread is all about... apk
+T7 193 jhumkey : Someone enlighten me.
+T8 194 jhumkey : I know with local GPS, the time is encoded on the signal.
+T8 195 jhumkey : Its not just a difference in "tick"'s from different satellites.
+T8 196 jhumkey : At some point a time is encoded to tell us which "tick" that last "tick" was.
+T8 197 jhumkey : I'm going out on a limb and saying no one's flown out to these Pulsars and encoded "which millisecond tick is which" in the datastream.
+T8 198 jhumkey : So if my ship flies inside a large hole in an asteroid while avoiding Xur and the Kodan Armada, when I come back out, how will I know how many milliseconds I've missed from each pulsar?
+T8 199 jhumkey : Surely across Galactic scale, and relativistic effects.
+T8 200 jhumkey : just accurately counting the time between ticks from Pulsar to Pulsar won't be enough to know where you are.
+T8 201 jhumkey : You'll have to know which tick is which.
+T8 202 jhumkey : Or is everyone assuming its like gyroscopes.
+T8 203 jhumkey : you spin them up, and have to keep them going.
+T8 204 jhumkey : or you're lost forever .
+T8 205 jhumkey : What am I missing?
+T8 206 jhumkey : jkh
+T8 207 AJNeufeld : That the pulsars move relative to each other and us is true - but this is an extremely minor point.
+T8 208 AJNeufeld : The pulsars all have very large masses, which means it would take something HUGE to alter their trajectory significantly.
+T8 209 AJNeufeld : Until that happens, that large mass translates to very predictable movement.
+T8 210 AJNeufeld : The periodicity of the pulsar is more problematic.
+T8 211 AJNeufeld : With a sudden introduction of mass, or a sudden readjustment in the matter of the pulsar, the frequency can abruptly change.
+T8 212 AJNeufeld : And yet, this isn't even so much of an issue.
+T9 213 AJNeufeld : The pulsars will be monitored from some location Earth or otherwise, and changes to their behaviour can be uploaded to the Galactic Positioning System receivers shortly after the change is observed.
+T9 214 AJNeufeld : The receivers might compute positions incorrectly in the interim, but more likely "dead reckoning", combined with other pulsar observations could be used to determine the erroneous input, and ignore it until the update.
+T9 215 AJNeufeld : A more serious "flaw" is that the pulsar emissions are not at first blush "marked" with an emission time.
+T9 216 AJNeufeld : One pulse looks more or less like the next.
+T9 217 AJNeufeld : If a pulse occurs once-a-second, this translates to 300,000 km between pulse fronts.
+T9 218 AJNeufeld : If your positioning space exceeds this length, you might end up with ambiguity in your resulting position calculation.
+T9 219 AJNeufeld : The other 3 pulsars will provide constraints, making certain "single pulse off-by-one" errors easily discarded.
+T9 220 AJNeufeld : But as your location space grows, it becomes more than possible for multiple location solutions to a given set of pulse-front timings.
+T9 221 AJNeufeld : With Earth's GPS system, each satellite's transmission is coded with both a satellite identifier and timing information, making this type of error impossible.
+T9 222 fireman_sam : Road side maps will no longer have the big sticker "You are here" to mark your location but would have a big sticker "You are here, right now" to mark your position in space time.
+T9 223 fireman_sam : Wow.
+T9 224 niktemadur : By the time we're technologically advanced enough to engineer a "pulsar GPS" to navigate interstellar spaces, we'll probably go one better and use a stellar spectral emissions database, taking relative movement and speed into account of course, as I'm under the impression that all stars have a unique spectral fingerprint.
+T9 225 niktemadur : There will be plenty of constant reference points visible from all points, such as the Galactic Center, the Magellanic Clouds and globular clusters.Say it's the year 4000 AT After Tranquility Base and you've lost your bearings in space.
+T9 226 niktemadur : Triangulate your constants and by finding just one ultra-luminous star in your database Eta Carinae, Antares, Betelgeuse, etc, finding your way back home should be relatively easy.
+T9 227 niktemadur : Or at least you'll get a pretty good sense of where Sirius or the Orion Nebula should be, navigate in that direction, and once you're in the general vicinity, ol' Sol should be within visual range, lock on that and fly like an arrow.Now imagine a full-fledged stellar database, which is going to be a given.
+T9 228 niktemadur : Using any and all stars makes it much easier because plenty of star systems are double or triple, emitting extremely specific spectral signatures.
+T9 229 complete_loony : Calculating a coordinate with GPS is about measuring the differences between pulses.
+T9 230 complete_loony : If we calculated coordinates after the fact by comparing the signal measured by a remote probe with a signal measured on earth I think you'd get a very accurate relative position.
+T9 231 Anonymous21 : For mathematicians/physicists the word global generally does not mean "pertaining to Earth", but more along the lines of "universal".
+T9 232 TBBle : Try "High-accurary Heliocentric Galactic Time-normalised Tetrahedron GPS" wikipedia.org as a better acronym?
+T9 233 Anonymous22 : The Voyager spacecraft, one of the etchings on the plaque on it shows the earth's location very roughly with angles, timing information i.e.
+T9 234 Anonymous22 : pulse rate, and estimated distances to 14 selected pulsars.
+T9 235 Anonymous22 : Pioneer 10 and 11 also had a similar plaque, they were designed in 1970 or 1971.
+T9 236 Anonymous23 : A minimum of 3 satellites are needed for position, but the results are mostly useless to the average person with that few satellites.
+T9 237 Anonymous23 : 4 or more are needed.As per Wikipedia:"It might seem three satellites are enough to solve for position, since space has three dimensions.
+T9 238 Anonymous23 : However, even a very small clock error multiplied by the very large speed of light19â"the speed at which satellite signals propagateâ"results in a large positional error.
+T9 239 Anonymous23 : Therefore receivers use four or more satellites to solve for x, y, z, and t, which is used to correct the receiver's clock.
+T9 240 Anonymous23 : While most GPS applications use the computed location only and effectively hide the very accurately computed time, it is used in a few specialized GPS applications such as time transfer, traffic signal timing, and synchronization of cell phone base stations.
+T9 241 Anonymous23 : "And to give some credit to this post, as per Ahmed El-Rabbany in "Introduction to GPS:  The Global Positioining System""To determine the receiver's point position at any time, the satellite coordinates as well as a minimum of four ranges to four satellites are required 2.
+T9 242 Anonymous23 : The receiver gets the satellite coordinates through the navigation message, while the ranges are obtained from either the C/A-code or the PY-code, depending on the receiver type civilian or military.
+T9 243 Anonymous23 : As mentioned before, the measured pseudoranges are contaiminated by both the satellite and receiver clock synchronization errors.
+T9 244 Anonymous23 : Correcting the satellite clock errors may be done by applying the satellite clock correction in the navigation message; the receiver clock error is treated as an additional unknown parameter in the estimation process 2.
+T9 245 Anonymous23 : This brings the total number of unknown parameters to four; three for the receiver coordinates and one for the receiver clock error.
+T9 246 Anonymous23 : This is the reason why at least four satellites are needed.
+T9 247 Anonymous23 : "If you've ever turned on your GPS and it has initially said that you were across the country, that's likely because it only resolved 3 satellites.
+T9 248 Anonymous23 : Your car GPS, usually, quickly solves this by taking your last known height with a known parameter ie.
+T9 249 Anonymous23 : z-axis one only needs 3 satellites for an accurate position.
+T9 250 Anonymous23 : While a bit of a hack, it's usually good enough for handheld/car GPS accuracy.As an aside, El-Rabbany in person is convoluted and a bit of a prick.
+T10 251 Anonymous23 : He did, however, have an excellent editor for his book.
+T10 252 thogard : I've been looking into this since 2001.
+T10 253 thogard : The biggest real problem is detecting the pulsars.
+T10 254 thogard : The free space signal loss is on the order of -400db.
+T10 255 thogard : The math is much harder than dealing with GPS and you have to find the easy way to figure out tick counts.
+T10 256 thogard : Other than that, its workable.
+T10 257 thogard : Modern GPS receivers do have methods to remove pulsar noise from the signals they are watching.
+T11 258 thogard : Defining a coordinate system will be a mess as well but that could lead to a reasonable way to define things for all planets as well.
+T11 259 thogard : Nearly everything in space rotates and most rotate the same direction in about the same plane so you can define a north and south.
+T11 260 thogard : The real problem is how do you define the origin of Longitude?
+T11 261 thogard : I suspect the best way is define it by the highest point on the planet but that leads to problems when the highest point is at the unstable edge of an active volcano.
+T11 262 thogard : What do you use as a reference for a solar system or a galaxy?
+T11 263 Enviro : Don't laugh!
+T11 264 Enviro : :- This reminds me of Dr. Paul LaViolette's theory on extraterrestial beacons in outerspace.
+T11 265 Enviro : "Our modern society is dependent on accurate timekeeping, which is why we rely on atomic clocks to give the correct time for use with the myriad of timekeeping devices we use today.
+T11 266 Enviro : Just as we rely on atomic clocks for split-second accuracy, they in turn are set using pulsars.
+T11 267 Enviro : First discovered in 1967, pulsars are rotating neutron stars that emit electromagnetic radiation in the form of radio waves.
+T11 268 Enviro : According to LaViolette, pulsars are not naturally occurring objects, but rather, they represent an intelligent design.
+T11 269 Enviro : One intended for timekeeping, navigation and which serves as a faster-than-light warning system for events called galactic superwaves.
+T11 270 Enviro : At best, these superwaves are an annoyance to industrialized societies.
+T11 271 Enviro : At worst, they can and do trigger extinction level events ELE.
+T11 272 Enviro : LaViolette tells that there have already been numerous ELE cataclysms on Earth and that our planet is now moving into the cross-hairs of yet another.
+T11 273 Enviro : found here
+T11 274 Enviro : yowusa.com
+T11 275 Enviro : Dr. Paul LaViolette has written four books and has published many original papers in physics, astronomy, climatology, systems theory, and psychology.
+T11 276 Enviro : He received his BA in physics from Johns Hopkins, his MBA from the University of Chicago, and PhD from Portland State University, and is currently president of the Starburst Foundation, an interdisciplinary scientific research institute.
+T12 277 Enviro : He is the developer of subquantum kinetics, a novel approach to microphysics that accounts for electric, magnetic, gravitational, and nuclear forces in a unified manner and resolves many long-standing physics problems.
+T12 278 Enviro : Based on the predictions of this theory, he developed an alternative cosmology that effectively replaces the big bang theory.
+T12 279 Enviro : click
+T12 280 Enviro : topsecrettestimony.com
+T12 281 dugeen : Relativity is not the reason for stating both the location and time of the origin.
+T12 282 dugeen : Cambridge moves through space along with the Earth, on which it is located.
+T12 283 dugeen : Even only in terms of its location relative to the Sun, Cambridge is 200 million miles in July from where it was in January.
+T13 284 jmcwork : We've been waiting
+T13 285 jmcwork : - Jupiter 2
+T13 286 Anonymous24 : no, we dont need ftl.
+T13 287 Anonymous24 : we should just bend space.
+T13 288 TehBrando : How will he lose weight if he can't eat his sub from subway because someone made it invisible!
+T14 289 woolio : And it actually isn't that bad -- start your spacecraft near SolWell, sure, but not TOO NEAR!!!!
+T14 290 woolio : Sol is a bit warm!
+T14 291 woolio : What about gravitational effects bending the light waves?

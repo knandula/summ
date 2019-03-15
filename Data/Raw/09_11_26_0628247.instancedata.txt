@@ -1,0 +1,1130 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_11_26_0628247</id>
+	<title>The Psychology of Achievement In Playing Games</title>
+	<author>Soulskill</author>
+	<datestamp>1259222820000</datestamp>
+	<htmltext>A post on Pixel Poppers looks at <a href="http://www.pixelpoppers.com/2009/11/awesome-by-proxy-addicted-to-fake.html">the psychological underpinnings of the types of challenges offered by different game genres</a>, and the effect those challenges have on determining which players find the games entertaining. Quoting:
+<i>"To progress in an action game, the <em>player</em> has to improve, which is by no means guaranteed &mdash; but to progress in an RPG, the <em>characters</em> have to improve, which is inevitable. ... It turns out there are two different ways people respond to challenges. Some people see them as opportunities to <em>perform</em> &mdash; to demonstrate their talent or intellect. Others see them as opportunities to <em>master</em> &mdash; to improve their skill or knowledge. Say you take a person with a performance orientation ('Paul') and a person with a mastery orientation ('Matt'). Give them each an easy puzzle, and they will both do well. Paul will complete it quickly and smile proudly at how well he performed. Matt will complete it quickly and be satisfied that he has mastered the skill involved. Now give them each a difficult puzzle. Paul will jump in gamely, but it will soon become clear he cannot overcome it as impressively as he did the last one. The opportunity to show off has disappeared, and Paul will lose interest and give up. Matt, on the other hand, when stymied, will push <em>harder</em>. His early failure means there's still something to be learned here, and he will persevere until he does so and solves the puzzle."</i></htmltext>
+<tokenext>A post on Pixel Poppers looks at the psychological underpinnings of the types of challenges offered by different game genres , and the effect those challenges have on determining which players find the games entertaining .
+Quoting : " To progress in an action game , the player has to improve , which is by no means guaranteed â € ” but to progress in an RPG , the characters have to improve , which is inevitable .
+... It turns out there are two different ways people respond to challenges .
+Some people see them as opportunities to perform â € ” to demonstrate their talent or intellect .
+Others see them as opportunities to master â € ” to improve their skill or knowledge .
+Say you take a person with a performance orientation ( 'Paul ' ) and a person with a mastery orientation ( 'Matt ' ) .
+Give them each an easy puzzle , and they will both do well .
+Paul will complete it quickly and smile proudly at how well he performed .
+Matt will complete it quickly and be satisfied that he has mastered the skill involved .
+Now give them each a difficult puzzle .
+Paul will jump in gamely , but it will soon become clear he can not overcome it as impressively as he did the last one .
+The opportunity to show off has disappeared , and Paul will lose interest and give up .
+Matt , on the other hand , when stymied , will push harder .
+His early failure means there 's still something to be learned here , and he will persevere until he does so and solves the puzzle .
+"</tokentext>
+<sentencetext>A post on Pixel Poppers looks at the psychological underpinnings of the types of challenges offered by different game genres, and the effect those challenges have on determining which players find the games entertaining.
+Quoting:
+"To progress in an action game, the player has to improve, which is by no means guaranteed â€” but to progress in an RPG, the characters have to improve, which is inevitable.
+... It turns out there are two different ways people respond to challenges.
+Some people see them as opportunities to perform â€” to demonstrate their talent or intellect.
+Others see them as opportunities to master â€” to improve their skill or knowledge.
+Say you take a person with a performance orientation ('Paul') and a person with a mastery orientation ('Matt').
+Give them each an easy puzzle, and they will both do well.
+Paul will complete it quickly and smile proudly at how well he performed.
+Matt will complete it quickly and be satisfied that he has mastered the skill involved.
+Now give them each a difficult puzzle.
+Paul will jump in gamely, but it will soon become clear he cannot overcome it as impressively as he did the last one.
+The opportunity to show off has disappeared, and Paul will lose interest and give up.
+Matt, on the other hand, when stymied, will push harder.
+His early failure means there's still something to be learned here, and he will persevere until he does so and solves the puzzle.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30236554</id>
+	<title>Mastery Orientation</title>
+	<author>kainewynd2</author>
+	<datestamp>1259247720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I'm have a performance orientation and I guarantee that this article was written by... nevermind, this shit's too hard...<br><nobr> <wbr></nobr>/me shuffles off to play Neverwinter Nights...</htmltext>
+<tokenext>I 'm have a performance orientation and I guarantee that this article was written by... nevermind , this shit 's too hard... /me shuffles off to play Neverwinter Nights.. .</tokentext>
+<sentencetext>I'm have a performance orientation and I guarantee that this article was written by... nevermind, this shit's too hard... /me shuffles off to play Neverwinter Nights...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234868</id>
+	<title>Re:stunning</title>
+	<author>julesh</author>
+	<datestamp>1259228700000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><i>So the conclusion is that some people perservere with longer than others while others get bored and don't always fini</i></p><p>No, there's more to it than that.  Taking TFA's two characters, while Paul may give up quickly when given a task that's too difficult to solve quickly, he may actually try for longer than Matt when given, say, a series of challenges each of which gets slightly harder, but all of which use the same skill, e.g. a series of more and more complex sudoku.  Matt will do the first couple, realise they're all the same and then give up, but Paul will still see them as challenges to overcome merely because each one is slightly harder than the last, even though he isn't learning anything new.</p></htmltext>
+<tokenext>So the conclusion is that some people perservere with longer than others while others get bored and do n't always finiNo , there 's more to it than that .
+Taking TFA 's two characters , while Paul may give up quickly when given a task that 's too difficult to solve quickly , he may actually try for longer than Matt when given , say , a series of challenges each of which gets slightly harder , but all of which use the same skill , e.g .
+a series of more and more complex sudoku .
+Matt will do the first couple , realise they 're all the same and then give up , but Paul will still see them as challenges to overcome merely because each one is slightly harder than the last , even though he is n't learning anything new .</tokentext>
+<sentencetext>So the conclusion is that some people perservere with longer than others while others get bored and don't always finiNo, there's more to it than that.
+Taking TFA's two characters, while Paul may give up quickly when given a task that's too difficult to solve quickly, he may actually try for longer than Matt when given, say, a series of challenges each of which gets slightly harder, but all of which use the same skill, e.g.
+a series of more and more complex sudoku.
+Matt will do the first couple, realise they're all the same and then give up, but Paul will still see them as challenges to overcome merely because each one is slightly harder than the last, even though he isn't learning anything new.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234766</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234912</id>
+	<title>That's how I recruit new members.</title>
+	<author>NoPantsJim</author>
+	<datestamp>1259229300000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext>Seriously, my website pokes fun at people who are not registered members because they are losing "points" for playing the game without being logged in. I find people just get perturbed at losing something intangible and just register to gain what they have lost.
+<br> <br>
+(I still find the game to be pretty addictive)</htmltext>
+<tokenext>Seriously , my website pokes fun at people who are not registered members because they are losing " points " for playing the game without being logged in .
+I find people just get perturbed at losing something intangible and just register to gain what they have lost .
+( I still find the game to be pretty addictive )</tokentext>
+<sentencetext>Seriously, my website pokes fun at people who are not registered members because they are losing "points" for playing the game without being logged in.
+I find people just get perturbed at losing something intangible and just register to gain what they have lost.
+(I still find the game to be pretty addictive)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234764</id>
+	<title>Mixture?</title>
+	<author>Arancaytar</author>
+	<datestamp>1259226780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>With Project Euler or Sudoku, I *have* to learn something in order to master the game. In more random games like ADOM or Angband, even tactical games like Battle for Wesnoth, I cheat like crazy by backing up save files at random events, in order to get further and see more of the game.</p><p>So which type would that make me?</p></htmltext>
+<tokenext>With Project Euler or Sudoku , I * have * to learn something in order to master the game .
+In more random games like ADOM or Angband , even tactical games like Battle for Wesnoth , I cheat like crazy by backing up save files at random events , in order to get further and see more of the game.So which type would that make me ?</tokentext>
+<sentencetext>With Project Euler or Sudoku, I *have* to learn something in order to master the game.
+In more random games like ADOM or Angband, even tactical games like Battle for Wesnoth, I cheat like crazy by backing up save files at random events, in order to get further and see more of the game.So which type would that make me?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234754</id>
+	<title>And queue the WoW-is-neither zealots... NOW</title>
+	<author>Petersko</author>
+	<datestamp>1259226540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>-1</modscore>
+	<htmltext>Give me a second, though - have to microwave myself some popcorn.</htmltext>
+<tokenext>Give me a second , though - have to microwave myself some popcorn .</tokentext>
+<sentencetext>Give me a second, though - have to microwave myself some popcorn.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30236834</id>
+	<title>RPG or RTS, i wonder...</title>
+	<author>DEmmons</author>
+	<datestamp>1259250000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>my first reaction was that strategy games probably fit the "mastery" group better than role-playing games. when playing a single-player campaign or against AI, you often have to try several different strategies altogether in order to win a scenario, unless the game is set up to be too easy or you're just that good. RPGs, on the other hand, do usually reward strategy but almost always force you to grind away for xp anyway, and it didn't seem that the second group was defined as one that prefers repetitive tasks, but rather learning how to overcome a difficult challenge. well, being more of a strategy gamer, i'm probably biased, but it struck me as odd.</htmltext>
+<tokenext>my first reaction was that strategy games probably fit the " mastery " group better than role-playing games .
+when playing a single-player campaign or against AI , you often have to try several different strategies altogether in order to win a scenario , unless the game is set up to be too easy or you 're just that good .
+RPGs , on the other hand , do usually reward strategy but almost always force you to grind away for xp anyway , and it did n't seem that the second group was defined as one that prefers repetitive tasks , but rather learning how to overcome a difficult challenge .
+well , being more of a strategy gamer , i 'm probably biased , but it struck me as odd .</tokentext>
+<sentencetext>my first reaction was that strategy games probably fit the "mastery" group better than role-playing games.
+when playing a single-player campaign or against AI, you often have to try several different strategies altogether in order to win a scenario, unless the game is set up to be too easy or you're just that good.
+RPGs, on the other hand, do usually reward strategy but almost always force you to grind away for xp anyway, and it didn't seem that the second group was defined as one that prefers repetitive tasks, but rather learning how to overcome a difficult challenge.
+well, being more of a strategy gamer, i'm probably biased, but it struck me as odd.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235092</id>
+	<title>Learning through failure</title>
+	<author>bintech</author>
+	<datestamp>1259231580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>Not to oversimplify the article as it interesting but this seems to be in line with learning through failure.  Or better, understanding that failing is one of the greatest learning tools we have, no?  Numerous books from 'Think and Grow Rich' to 'The Power of Positive Thinking' and just endless links to white papers all documenting this as an important concept to understand as we reach adulthood as for somewhere in between adolescence and adulthood many people seem to loose or forget this concept.</htmltext>
+<tokenext>Not to oversimplify the article as it interesting but this seems to be in line with learning through failure .
+Or better , understanding that failing is one of the greatest learning tools we have , no ?
+Numerous books from 'Think and Grow Rich ' to 'The Power of Positive Thinking ' and just endless links to white papers all documenting this as an important concept to understand as we reach adulthood as for somewhere in between adolescence and adulthood many people seem to loose or forget this concept .</tokentext>
+<sentencetext>Not to oversimplify the article as it interesting but this seems to be in line with learning through failure.
+Or better, understanding that failing is one of the greatest learning tools we have, no?
+Numerous books from 'Think and Grow Rich' to 'The Power of Positive Thinking' and just endless links to white papers all documenting this as an important concept to understand as we reach adulthood as for somewhere in between adolescence and adulthood many people seem to loose or forget this concept.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30237256</id>
+	<title>Re:stunning</title>
+	<author>Deliveranc3</author>
+	<datestamp>1259253000000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext>I think the example is that Matt will approach the SKILL rather than the game, once he understands what the learning curve looks like (or ideally makes a model of the entire problem that's cohesive [think Tic-Tac-Toe connect four or the miriad other games that aren't worth playing because all the conditions are preset]) or maps the solution space he's bored... giving him victories based on that solution isn't really an enticement.<br> <br> Paul on the other hand likes winning and achieving, he cares about points, coins, swords, paychecks, accolades etc. The products of winning and will continue to work towards them until he becomes bored.<br> <br> As an example think of the game <a href="http://blogs.sfweekly.com/shookdown/mastermind.jpg/" title="sfweekly.com">http://blogs.sfweekly.com/shookdown/mastermind.jpg/</a> [sfweekly.com] some people will guess and enjoy winning (and feeling super smart!) others will get out a pencil and come up with the can't fail formula and stop caring.</htmltext>
+<tokenext>I think the example is that Matt will approach the SKILL rather than the game , once he understands what the learning curve looks like ( or ideally makes a model of the entire problem that 's cohesive [ think Tic-Tac-Toe connect four or the miriad other games that are n't worth playing because all the conditions are preset ] ) or maps the solution space he 's bored... giving him victories based on that solution is n't really an enticement .
+Paul on the other hand likes winning and achieving , he cares about points , coins , swords , paychecks , accolades etc .
+The products of winning and will continue to work towards them until he becomes bored .
+As an example think of the game http : //blogs.sfweekly.com/shookdown/mastermind.jpg/ [ sfweekly.com ] some people will guess and enjoy winning ( and feeling super smart !
+) others will get out a pencil and come up with the ca n't fail formula and stop caring .</tokentext>
+<sentencetext>I think the example is that Matt will approach the SKILL rather than the game, once he understands what the learning curve looks like (or ideally makes a model of the entire problem that's cohesive [think Tic-Tac-Toe connect four or the miriad other games that aren't worth playing because all the conditions are preset]) or maps the solution space he's bored... giving him victories based on that solution isn't really an enticement.
+Paul on the other hand likes winning and achieving, he cares about points, coins, swords, paychecks, accolades etc.
+The products of winning and will continue to work towards them until he becomes bored.
+As an example think of the game http://blogs.sfweekly.com/shookdown/mastermind.jpg/ [sfweekly.com] some people will guess and enjoy winning (and feeling super smart!
+) others will get out a pencil and come up with the can't fail formula and stop caring.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234868</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30238772</id>
+	<title>Re:Perfectionists...</title>
+	<author>Anonymous Hermit</author>
+	<datestamp>1259264940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>When I had a job packaging small stuff into a small bag, I enjoyed it until I stopped improving my routine. Then I just did my thing and let my mind wander.</htmltext>
+<tokenext>When I had a job packaging small stuff into a small bag , I enjoyed it until I stopped improving my routine .
+Then I just did my thing and let my mind wander .</tokentext>
+<sentencetext>When I had a job packaging small stuff into a small bag, I enjoyed it until I stopped improving my routine.
+Then I just did my thing and let my mind wander.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234942</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30236332</id>
+	<title>Re:psychological vs intellectual underpinnings</title>
+	<author>somersault</author>
+	<datestamp>1259245560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I could be demonstrably classified as "smart" (for certain definitions of smart), but I usually find RPGs and strategy games quite dull.</p><p>The difference might be that I am generally pretty good at action games (thinking mostly FPSes like Counter-Strike, but I have enjoyed a few 3rd person games like Uncharted and Heavenly Sword). Games where my characters skill is decided by a random number generator and/or XP level, or where I have to command a bunch of retarded troops who can't do anything particularly intelligent for themselves, bore me.</p><p>I do enjoy some RPGs (traditionally, MUDs) for the community aspects, and I admit I can get addicted to pointlessly gaining levels, but I don't pretend it actually has any bearing on anything at all. With action games, at least I know I am improving my own reactions, coordination and tactics. There is obvious a strong element of tactics to strategy games and RPGs too, but.. I've just never found them much fun for probably the same reason that I'd much prefer to write programs myself rather than manage a team of coders. I can see how it would be rewarding in some ways, but I am the type that prefers to crush new challenges rather than train a bunch of people up and then watch them crush challenges for me.</p></htmltext>
+<tokenext>I could be demonstrably classified as " smart " ( for certain definitions of smart ) , but I usually find RPGs and strategy games quite dull.The difference might be that I am generally pretty good at action games ( thinking mostly FPSes like Counter-Strike , but I have enjoyed a few 3rd person games like Uncharted and Heavenly Sword ) .
+Games where my characters skill is decided by a random number generator and/or XP level , or where I have to command a bunch of retarded troops who ca n't do anything particularly intelligent for themselves , bore me.I do enjoy some RPGs ( traditionally , MUDs ) for the community aspects , and I admit I can get addicted to pointlessly gaining levels , but I do n't pretend it actually has any bearing on anything at all .
+With action games , at least I know I am improving my own reactions , coordination and tactics .
+There is obvious a strong element of tactics to strategy games and RPGs too , but.. I 've just never found them much fun for probably the same reason that I 'd much prefer to write programs myself rather than manage a team of coders .
+I can see how it would be rewarding in some ways , but I am the type that prefers to crush new challenges rather than train a bunch of people up and then watch them crush challenges for me .</tokentext>
+<sentencetext>I could be demonstrably classified as "smart" (for certain definitions of smart), but I usually find RPGs and strategy games quite dull.The difference might be that I am generally pretty good at action games (thinking mostly FPSes like Counter-Strike, but I have enjoyed a few 3rd person games like Uncharted and Heavenly Sword).
+Games where my characters skill is decided by a random number generator and/or XP level, or where I have to command a bunch of retarded troops who can't do anything particularly intelligent for themselves, bore me.I do enjoy some RPGs (traditionally, MUDs) for the community aspects, and I admit I can get addicted to pointlessly gaining levels, but I don't pretend it actually has any bearing on anything at all.
+With action games, at least I know I am improving my own reactions, coordination and tactics.
+There is obvious a strong element of tactics to strategy games and RPGs too, but.. I've just never found them much fun for probably the same reason that I'd much prefer to write programs myself rather than manage a team of coders.
+I can see how it would be rewarding in some ways, but I am the type that prefers to crush new challenges rather than train a bunch of people up and then watch them crush challenges for me.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234872</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235574</id>
+	<title>I haven't met one</title>
+	<author>Anonymous</author>
+	<datestamp>1259236680000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext><blockquote><div><p>What do you make of people who are performance oriented until the point inwhich they reach mastery? Eh?</p></div></blockquote><p>Actually, the problem is that for most actual skills and tasks there is no such thing as mastery. IRL there is no 450 skill points limit, that you can reach and then relax. And most RL problems are multi-dimensional problems where there is no perfect solution, but least worst compromises. And definitely not where you can max one aspect and proclaim that the others don't matter, which is what OCPD cases... err... perfectionists usually do.</p><p>RL "perfectionists" tend IMHO to be one or more of the following:</p><p>A) the real, honest kind: people who never finish. I still remember someone who, on the day before the deadline, was still working on his perfect XML parsing project for that project. (A tiny part of the project's functionality, and one he shouldn't have been doing himself: there's Xerxes.) There's \_always\_ one more optimization that can be done, one more clever trick that can be tried, one more label that would look better one pixel lower, etc. It's harder than you think, being a real bona-fide perfectionist.</p><p>B) the fake kind, which are basically just arrogant. They do a crap job, and then proclaim it to be perfect, just because they're that good in their own opinion. Often these are actually an illustration of the <a href="http://en.wikipedia.org/wiki/Dunning-Kruger\_effect" title="wikipedia.org">Dunning-Kruger effect</a> [wikipedia.org]: the least competent tend to grossly overrate their skills and competence, just because they're not competent to do that judgment. They don't even know what they don't know. And conversely the most competent tend to underrate themselves, because they do have some clue of all the things they don't know.</p><p>C) the kind who'll redefine the problem to get a "perfect" solution. As I was saying RL problems are usually multi-dimensional, and increasing one aspect often loses you another. E.g., making a car engine more powerful also turns it into a gas guzzler. E.g., too many options in a GUI can actually make it less usable, or at least harder to also make it usable. Etc. A lot of OCPD kinds take such a variable and genuinely don't seem able to comprehend that it can take other values than 0 and 100\%. Either you hit 100\% or you're doing a crap job. But they can't hit 100\% in all either. So they basically just pick one aspect and proclaim it the only thing that matters, and proclaim everyone who cares about the other aspects to be a clueless idiot. Unfortunately the actual best compromise for an actual user is rarely that. These guys tend to complain a lot that the users are clueless idiots.</p><p>D) the bitter whiner. These people rarely make something they'd rate perfect, and some don't even produce anything at all for years, but they complain about everyone and everything else. These people aren't as much into achieving perfection, as into just having something to whine about. Their very criteria for what perfection actually means, are fluid and disposable, often to the extent that they're simply the opposite of what everyone else is doing. E.g., I actually worked with one who, after he had converted the whole team to Linux (not that it was hard in a team of complete nerds) and thus lost that reason to complain, promptly switched to BSD and proclaimed both Windows \_and\_ Linux to be mainstream crap for idiots. He caused an indentation war fighting for the holy cause of \_three\_ space tabs, he fought to change the directory where the build script left the built executable, etc.</p><p>And a few other archetypes.</p><p>And just so it's not completely off topic: you can see the same in MMOs too.</p><p>A) There are people who are genuinely trapped into the neverending treadmill of needing every single achievement, every single pet, completing every single quest (even if it's 70 levels below them), paying 1000 gold on the Savory Deviate Delight recipe just because they \_must\_ have all the recipes in game, etc. Not because they actually need them, but because anything else wouldn't be perfect. I had a friend who in the offline game Panzer General saved before every single attack he'd make, and reload for hours until the result was that his unit took exactly zero damage and the enemy took the maximum possible. Not because he couldn't win otherwise (he could very well), but because anything else than 100\% perfect would have been a crap, sloppy job. That's a genuine perfectionist.</p><p>B) There are people who are just full of themselves. E.g., the hunter who not only thinks that making a step back when the enemy swings will actually cause said enemy to miss, but thinks he's the uber-genius because he's the only one who figured that out. E.g., the kind who remembers from the newbie area, with its slow NPCs, taking a step back allowed him to use his bow one more time, so he'll do the same in a level 80 dungeon and run backwards through several rooms instead of just feigning death. And he's convinced that he has the perfect solution and everyone else is doing a sloppy job.</p><p>C) There are people who redefine the problem to maxx out one aspect. E.g., he's a damage dealer, by Jove he has to maxx his DPS average at all cost. Even if it means pulling aggro off the tank, or not moving out of an imminent cone attack, or causing a wipe with an ill thought out AOE (but it maximized the number of targets he hit, thus his DPS), or whatever. Everything that doesn't maxx out that one variable is something he won't do. And if the others don't like his "perfect" solution, fuck them, they're all clueless idiots.</p><p>D) There are people who basically need medication, because they're obviously just depressed. When they're not doing a whiny drama on the guild channel about their RL and about everyone they know IRL who doesn't do what he wants them to do... it's a whiny drama about their virtual life, and everyone they met that didn't do what he wanted them to do. If all else fails, some are known to whine about a typo they got in a tell from a guy who's not a native English speaker.</p></div>
+	</htmltext>
+<tokenext>What do you make of people who are performance oriented until the point inwhich they reach mastery ?
+Eh ? Actually , the problem is that for most actual skills and tasks there is no such thing as mastery .
+IRL there is no 450 skill points limit , that you can reach and then relax .
+And most RL problems are multi-dimensional problems where there is no perfect solution , but least worst compromises .
+And definitely not where you can max one aspect and proclaim that the others do n't matter , which is what OCPD cases... err... perfectionists usually do.RL " perfectionists " tend IMHO to be one or more of the following : A ) the real , honest kind : people who never finish .
+I still remember someone who , on the day before the deadline , was still working on his perfect XML parsing project for that project .
+( A tiny part of the project 's functionality , and one he should n't have been doing himself : there 's Xerxes .
+) There 's \ _always \ _ one more optimization that can be done , one more clever trick that can be tried , one more label that would look better one pixel lower , etc .
+It 's harder than you think , being a real bona-fide perfectionist.B ) the fake kind , which are basically just arrogant .
+They do a crap job , and then proclaim it to be perfect , just because they 're that good in their own opinion .
+Often these are actually an illustration of the Dunning-Kruger effect [ wikipedia.org ] : the least competent tend to grossly overrate their skills and competence , just because they 're not competent to do that judgment .
+They do n't even know what they do n't know .
+And conversely the most competent tend to underrate themselves , because they do have some clue of all the things they do n't know.C ) the kind who 'll redefine the problem to get a " perfect " solution .
+As I was saying RL problems are usually multi-dimensional , and increasing one aspect often loses you another .
+E.g. , making a car engine more powerful also turns it into a gas guzzler .
+E.g. , too many options in a GUI can actually make it less usable , or at least harder to also make it usable .
+Etc. A lot of OCPD kinds take such a variable and genuinely do n't seem able to comprehend that it can take other values than 0 and 100 \ % .
+Either you hit 100 \ % or you 're doing a crap job .
+But they ca n't hit 100 \ % in all either .
+So they basically just pick one aspect and proclaim it the only thing that matters , and proclaim everyone who cares about the other aspects to be a clueless idiot .
+Unfortunately the actual best compromise for an actual user is rarely that .
+These guys tend to complain a lot that the users are clueless idiots.D ) the bitter whiner .
+These people rarely make something they 'd rate perfect , and some do n't even produce anything at all for years , but they complain about everyone and everything else .
+These people are n't as much into achieving perfection , as into just having something to whine about .
+Their very criteria for what perfection actually means , are fluid and disposable , often to the extent that they 're simply the opposite of what everyone else is doing .
+E.g. , I actually worked with one who , after he had converted the whole team to Linux ( not that it was hard in a team of complete nerds ) and thus lost that reason to complain , promptly switched to BSD and proclaimed both Windows \ _and \ _ Linux to be mainstream crap for idiots .
+He caused an indentation war fighting for the holy cause of \ _three \ _ space tabs , he fought to change the directory where the build script left the built executable , etc.And a few other archetypes.And just so it 's not completely off topic : you can see the same in MMOs too.A ) There are people who are genuinely trapped into the neverending treadmill of needing every single achievement , every single pet , completing every single quest ( even if it 's 70 levels below them ) , paying 1000 gold on the Savory Deviate Delight recipe just because they \ _must \ _ have all the recipes in game , etc .
+Not because they actually need them , but because anything else would n't be perfect .
+I had a friend who in the offline game Panzer General saved before every single attack he 'd make , and reload for hours until the result was that his unit took exactly zero damage and the enemy took the maximum possible .
+Not because he could n't win otherwise ( he could very well ) , but because anything else than 100 \ % perfect would have been a crap , sloppy job .
+That 's a genuine perfectionist.B ) There are people who are just full of themselves .
+E.g. , the hunter who not only thinks that making a step back when the enemy swings will actually cause said enemy to miss , but thinks he 's the uber-genius because he 's the only one who figured that out .
+E.g. , the kind who remembers from the newbie area , with its slow NPCs , taking a step back allowed him to use his bow one more time , so he 'll do the same in a level 80 dungeon and run backwards through several rooms instead of just feigning death .
+And he 's convinced that he has the perfect solution and everyone else is doing a sloppy job.C ) There are people who redefine the problem to maxx out one aspect .
+E.g. , he 's a damage dealer , by Jove he has to maxx his DPS average at all cost .
+Even if it means pulling aggro off the tank , or not moving out of an imminent cone attack , or causing a wipe with an ill thought out AOE ( but it maximized the number of targets he hit , thus his DPS ) , or whatever .
+Everything that does n't maxx out that one variable is something he wo n't do .
+And if the others do n't like his " perfect " solution , fuck them , they 're all clueless idiots.D ) There are people who basically need medication , because they 're obviously just depressed .
+When they 're not doing a whiny drama on the guild channel about their RL and about everyone they know IRL who does n't do what he wants them to do... it 's a whiny drama about their virtual life , and everyone they met that did n't do what he wanted them to do .
+If all else fails , some are known to whine about a typo they got in a tell from a guy who 's not a native English speaker .</tokentext>
+<sentencetext>What do you make of people who are performance oriented until the point inwhich they reach mastery?
+Eh?Actually, the problem is that for most actual skills and tasks there is no such thing as mastery.
+IRL there is no 450 skill points limit, that you can reach and then relax.
+And most RL problems are multi-dimensional problems where there is no perfect solution, but least worst compromises.
+And definitely not where you can max one aspect and proclaim that the others don't matter, which is what OCPD cases... err... perfectionists usually do.RL "perfectionists" tend IMHO to be one or more of the following:A) the real, honest kind: people who never finish.
+I still remember someone who, on the day before the deadline, was still working on his perfect XML parsing project for that project.
+(A tiny part of the project's functionality, and one he shouldn't have been doing himself: there's Xerxes.
+) There's \_always\_ one more optimization that can be done, one more clever trick that can be tried, one more label that would look better one pixel lower, etc.
+It's harder than you think, being a real bona-fide perfectionist.B) the fake kind, which are basically just arrogant.
+They do a crap job, and then proclaim it to be perfect, just because they're that good in their own opinion.
+Often these are actually an illustration of the Dunning-Kruger effect [wikipedia.org]: the least competent tend to grossly overrate their skills and competence, just because they're not competent to do that judgment.
+They don't even know what they don't know.
+And conversely the most competent tend to underrate themselves, because they do have some clue of all the things they don't know.C) the kind who'll redefine the problem to get a "perfect" solution.
+As I was saying RL problems are usually multi-dimensional, and increasing one aspect often loses you another.
+E.g., making a car engine more powerful also turns it into a gas guzzler.
+E.g., too many options in a GUI can actually make it less usable, or at least harder to also make it usable.
+Etc. A lot of OCPD kinds take such a variable and genuinely don't seem able to comprehend that it can take other values than 0 and 100\%.
+Either you hit 100\% or you're doing a crap job.
+But they can't hit 100\% in all either.
+So they basically just pick one aspect and proclaim it the only thing that matters, and proclaim everyone who cares about the other aspects to be a clueless idiot.
+Unfortunately the actual best compromise for an actual user is rarely that.
+These guys tend to complain a lot that the users are clueless idiots.D) the bitter whiner.
+These people rarely make something they'd rate perfect, and some don't even produce anything at all for years, but they complain about everyone and everything else.
+These people aren't as much into achieving perfection, as into just having something to whine about.
+Their very criteria for what perfection actually means, are fluid and disposable, often to the extent that they're simply the opposite of what everyone else is doing.
+E.g., I actually worked with one who, after he had converted the whole team to Linux (not that it was hard in a team of complete nerds) and thus lost that reason to complain, promptly switched to BSD and proclaimed both Windows \_and\_ Linux to be mainstream crap for idiots.
+He caused an indentation war fighting for the holy cause of \_three\_ space tabs, he fought to change the directory where the build script left the built executable, etc.And a few other archetypes.And just so it's not completely off topic: you can see the same in MMOs too.A) There are people who are genuinely trapped into the neverending treadmill of needing every single achievement, every single pet, completing every single quest (even if it's 70 levels below them), paying 1000 gold on the Savory Deviate Delight recipe just because they \_must\_ have all the recipes in game, etc.
+Not because they actually need them, but because anything else wouldn't be perfect.
+I had a friend who in the offline game Panzer General saved before every single attack he'd make, and reload for hours until the result was that his unit took exactly zero damage and the enemy took the maximum possible.
+Not because he couldn't win otherwise (he could very well), but because anything else than 100\% perfect would have been a crap, sloppy job.
+That's a genuine perfectionist.B) There are people who are just full of themselves.
+E.g., the hunter who not only thinks that making a step back when the enemy swings will actually cause said enemy to miss, but thinks he's the uber-genius because he's the only one who figured that out.
+E.g., the kind who remembers from the newbie area, with its slow NPCs, taking a step back allowed him to use his bow one more time, so he'll do the same in a level 80 dungeon and run backwards through several rooms instead of just feigning death.
+And he's convinced that he has the perfect solution and everyone else is doing a sloppy job.C) There are people who redefine the problem to maxx out one aspect.
+E.g., he's a damage dealer, by Jove he has to maxx his DPS average at all cost.
+Even if it means pulling aggro off the tank, or not moving out of an imminent cone attack, or causing a wipe with an ill thought out AOE (but it maximized the number of targets he hit, thus his DPS), or whatever.
+Everything that doesn't maxx out that one variable is something he won't do.
+And if the others don't like his "perfect" solution, fuck them, they're all clueless idiots.D) There are people who basically need medication, because they're obviously just depressed.
+When they're not doing a whiny drama on the guild channel about their RL and about everyone they know IRL who doesn't do what he wants them to do... it's a whiny drama about their virtual life, and everyone they met that didn't do what he wanted them to do.
+If all else fails, some are known to whine about a typo they got in a tell from a guy who's not a native English speaker.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234942</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30237194</id>
+	<title>The Masterer</title>
+	<author>Deliveranc3</author>
+	<datestamp>1259252640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I am definitely from the second group, if I don't feel challenged I don't perform. Interestingly sometimes I can lose while not feeling challenged. The thing I find most challenging, trying to determine my opponents actions/psychology/pathology/strategy and not being able to... for this reason I loved chess and now love games of stealth.<br> <br> I find it really interesting when I'm losing but unconcerned, an example would be losing to a team in hockey where they are larger/better trained.<br> <br> It's easy to tell when a group is more experienced/stronger and to know what effort it takes to gain those skills... and sometimes to realize it's not worth it.<br> <br> An offshoot of this is when I'd be disappointed when I won... my hockey coach didn't understand this at all. Winning was everything to him and to watch me score a goal and shrug... well he didn't take kindly to it.<br> <br> In volleyball you're supposed to chant "side out" indicating you want the other team to make a mistake and give you a point... I actually questioned the coach about the validity of such a mentality.<br> <br> Anyway I've found that randomly bumping around on the net finding random games is what turns me on now... get in build a team/learn what everyone's up to... perform better than everyone else and then leave before the winner is decided... great fun and constant stimulation.<br> <br> Also for those interested in "gamer" mentality and the healthy bravado surrounding it check out<nobr> <wbr></nobr>...<ul><li>http://www.purepwnage.com/</li></ul></htmltext>
+<tokenext>I am definitely from the second group , if I do n't feel challenged I do n't perform .
+Interestingly sometimes I can lose while not feeling challenged .
+The thing I find most challenging , trying to determine my opponents actions/psychology/pathology/strategy and not being able to... for this reason I loved chess and now love games of stealth .
+I find it really interesting when I 'm losing but unconcerned , an example would be losing to a team in hockey where they are larger/better trained .
+It 's easy to tell when a group is more experienced/stronger and to know what effort it takes to gain those skills... and sometimes to realize it 's not worth it .
+An offshoot of this is when I 'd be disappointed when I won... my hockey coach did n't understand this at all .
+Winning was everything to him and to watch me score a goal and shrug... well he did n't take kindly to it .
+In volleyball you 're supposed to chant " side out " indicating you want the other team to make a mistake and give you a point... I actually questioned the coach about the validity of such a mentality .
+Anyway I 've found that randomly bumping around on the net finding random games is what turns me on now... get in build a team/learn what everyone 's up to... perform better than everyone else and then leave before the winner is decided... great fun and constant stimulation .
+Also for those interested in " gamer " mentality and the healthy bravado surrounding it check out ...http : //www.purepwnage.com/</tokentext>
+<sentencetext>I am definitely from the second group, if I don't feel challenged I don't perform.
+Interestingly sometimes I can lose while not feeling challenged.
+The thing I find most challenging, trying to determine my opponents actions/psychology/pathology/strategy and not being able to... for this reason I loved chess and now love games of stealth.
+I find it really interesting when I'm losing but unconcerned, an example would be losing to a team in hockey where they are larger/better trained.
+It's easy to tell when a group is more experienced/stronger and to know what effort it takes to gain those skills... and sometimes to realize it's not worth it.
+An offshoot of this is when I'd be disappointed when I won... my hockey coach didn't understand this at all.
+Winning was everything to him and to watch me score a goal and shrug... well he didn't take kindly to it.
+In volleyball you're supposed to chant "side out" indicating you want the other team to make a mistake and give you a point... I actually questioned the coach about the validity of such a mentality.
+Anyway I've found that randomly bumping around on the net finding random games is what turns me on now... get in build a team/learn what everyone's up to... perform better than everyone else and then leave before the winner is decided... great fun and constant stimulation.
+Also for those interested in "gamer" mentality and the healthy bravado surrounding it check out ...http://www.purepwnage.com/</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234910</id>
+	<title>Achievements are nice challenges.</title>
+	<author>Anonymous</author>
+	<datestamp>1259229300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Like in Half-life 2 Episode 2, you have to carry a gnome object across almost the entire game, and put it inside a rocket.  It was a nice little challenge.</p></htmltext>
+<tokenext>Like in Half-life 2 Episode 2 , you have to carry a gnome object across almost the entire game , and put it inside a rocket .
+It was a nice little challenge .</tokentext>
+<sentencetext>Like in Half-life 2 Episode 2, you have to carry a gnome object across almost the entire game, and put it inside a rocket.
+It was a nice little challenge.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235550</id>
+	<title>Re:And queue the WoW-is-neither zealots... NOW</title>
+	<author>Fross</author>
+	<datestamp>1259236440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I'd say the WoW experience is closer to the "mastering" than the "performing", but it's 80\% "ocd completist".</p></htmltext>
+<tokenext>I 'd say the WoW experience is closer to the " mastering " than the " performing " , but it 's 80 \ % " ocd completist " .</tokentext>
+<sentencetext>I'd say the WoW experience is closer to the "mastering" than the "performing", but it's 80\% "ocd completist".</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234754</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235662</id>
+	<title>Re:stunning</title>
+	<author>danieltdp</author>
+	<datestamp>1259237640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>No. The conclusion is that they seem to have figured out what drives people that give up and people that persevere. Its about the <b>reason</b> and not about the event on itself.</htmltext>
+<tokenext>No .
+The conclusion is that they seem to have figured out what drives people that give up and people that persevere .
+Its about the reason and not about the event on itself .</tokentext>
+<sentencetext>No.
+The conclusion is that they seem to have figured out what drives people that give up and people that persevere.
+Its about the reason and not about the event on itself.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234766</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235792</id>
+	<title>Re:Interesting</title>
+	<author>N0t4v41l4bl3</author>
+	<datestamp>1259239080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I like your analogy.
+
+I suppose your "performers" would be people like sales staff - plenty of targets with quick rewards (and tricks they can improve).
+
+Your "masters" would be software developers - long-term targets, strategic planning (and a lot of experience to be gained along the way).
+
+Just 2 examples...</htmltext>
+<tokenext>I like your analogy .
+I suppose your " performers " would be people like sales staff - plenty of targets with quick rewards ( and tricks they can improve ) .
+Your " masters " would be software developers - long-term targets , strategic planning ( and a lot of experience to be gained along the way ) .
+Just 2 examples.. .</tokentext>
+<sentencetext>I like your analogy.
+I suppose your "performers" would be people like sales staff - plenty of targets with quick rewards (and tricks they can improve).
+Your "masters" would be software developers - long-term targets, strategic planning (and a lot of experience to be gained along the way).
+Just 2 examples...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234854</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30241170</id>
+	<title>Re:I haven't met one</title>
+	<author>myowntrueself</author>
+	<datestamp>1259242380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>That was an interesting read.</p><p>I've been thinking about 'difficulty' in MMOs and I think it amounts to two different things, which probably relate to this.</p><p>Theres 'mathematical' difficulty. This is where the numbers on your MMO gear have to be above a certain threshold. If they are not, then the encounter is more difficult because you can (eg) get one-shotted (not enough health on your gear).</p><p>Theres 'performance' difficulty. This is where the encounter has events etc to which you must respond correctly.</p><p>I believe that in raiding in world of warcraft, the 'performance' difficulty has actually reduced as the game has progressed whereas 'mathematical' difficulty increases all the time (thats 'tier progression').</p><p>This has many effects on the game and its community. Its interesting to watch it develop.</p></htmltext>
+<tokenext>That was an interesting read.I 've been thinking about 'difficulty ' in MMOs and I think it amounts to two different things , which probably relate to this.Theres 'mathematical ' difficulty .
+This is where the numbers on your MMO gear have to be above a certain threshold .
+If they are not , then the encounter is more difficult because you can ( eg ) get one-shotted ( not enough health on your gear ) .Theres 'performance ' difficulty .
+This is where the encounter has events etc to which you must respond correctly.I believe that in raiding in world of warcraft , the 'performance ' difficulty has actually reduced as the game has progressed whereas 'mathematical ' difficulty increases all the time ( thats 'tier progression ' ) .This has many effects on the game and its community .
+Its interesting to watch it develop .</tokentext>
+<sentencetext>That was an interesting read.I've been thinking about 'difficulty' in MMOs and I think it amounts to two different things, which probably relate to this.Theres 'mathematical' difficulty.
+This is where the numbers on your MMO gear have to be above a certain threshold.
+If they are not, then the encounter is more difficult because you can (eg) get one-shotted (not enough health on your gear).Theres 'performance' difficulty.
+This is where the encounter has events etc to which you must respond correctly.I believe that in raiding in world of warcraft, the 'performance' difficulty has actually reduced as the game has progressed whereas 'mathematical' difficulty increases all the time (thats 'tier progression').This has many effects on the game and its community.
+Its interesting to watch it develop.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235574</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235820</id>
+	<title>I hate to sound snarky, but this is not new</title>
+	<author>Jacques Chester</author>
+	<datestamp>1259239440000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>MMOs any many other kinds of game are addictive because they follow what's known as a "variable interval reinforcement ratio". The variable reinforcement ratio is a very well known and studied phenomenon amongst actual psychologists, having being one of the rock-solid discoveries arising from behaviourism during the 40s through 60s.</p><p>Variably reinforced behaviour is the most effective way to create a repetitious behaviour with the highest "resistance to extinction". That means it's pretty much an addiction.</p><p>The same finding explains why so much of gambling is highly addictive: the same random intervals of payback are at play.</p><p>You can learn more by buying or borrowing any book on classical and operant learning theory.</p></htmltext>
+<tokenext>MMOs any many other kinds of game are addictive because they follow what 's known as a " variable interval reinforcement ratio " .
+The variable reinforcement ratio is a very well known and studied phenomenon amongst actual psychologists , having being one of the rock-solid discoveries arising from behaviourism during the 40s through 60s.Variably reinforced behaviour is the most effective way to create a repetitious behaviour with the highest " resistance to extinction " .
+That means it 's pretty much an addiction.The same finding explains why so much of gambling is highly addictive : the same random intervals of payback are at play.You can learn more by buying or borrowing any book on classical and operant learning theory .</tokentext>
+<sentencetext>MMOs any many other kinds of game are addictive because they follow what's known as a "variable interval reinforcement ratio".
+The variable reinforcement ratio is a very well known and studied phenomenon amongst actual psychologists, having being one of the rock-solid discoveries arising from behaviourism during the 40s through 60s.Variably reinforced behaviour is the most effective way to create a repetitious behaviour with the highest "resistance to extinction".
+That means it's pretty much an addiction.The same finding explains why so much of gambling is highly addictive: the same random intervals of payback are at play.You can learn more by buying or borrowing any book on classical and operant learning theory.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30238724</id>
+	<title>Re:Mixture?</title>
+	<author>Anonymous Hermit</author>
+	<datestamp>1259264520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>The anti-social type?</htmltext>
+<tokenext>The anti-social type ?</tokentext>
+<sentencetext>The anti-social type?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234764</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235996</id>
+	<title>game challenges</title>
+	<author>rpillala</author>
+	<datestamp>1259241840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>If this is new information for game developers, they need to take a fresh look at what constitutes a challenge.  In MMO games, this has typically been a grind.  I played Aion recently for about 8 weeks and discovered that the game slows to a crawl at some point. This point varies with the player, since "crawl" is subjective.  So I dropped my subscription.  However, this is not because the challenge was too great - being better at the game wouldn't have made it go any faster.  Having better gear for my level also wouldn't have done anything.  I'm assuming here that NCSoft views its leveling process as a challenge.  In the examples in the summary, the two guys are both happy when they've completed an easy puzzle.  There's nothing in there about the guy who gets fatigued after completing a long series of easy puzzles.</htmltext>
+<tokenext>If this is new information for game developers , they need to take a fresh look at what constitutes a challenge .
+In MMO games , this has typically been a grind .
+I played Aion recently for about 8 weeks and discovered that the game slows to a crawl at some point .
+This point varies with the player , since " crawl " is subjective .
+So I dropped my subscription .
+However , this is not because the challenge was too great - being better at the game would n't have made it go any faster .
+Having better gear for my level also would n't have done anything .
+I 'm assuming here that NCSoft views its leveling process as a challenge .
+In the examples in the summary , the two guys are both happy when they 've completed an easy puzzle .
+There 's nothing in there about the guy who gets fatigued after completing a long series of easy puzzles .</tokentext>
+<sentencetext>If this is new information for game developers, they need to take a fresh look at what constitutes a challenge.
+In MMO games, this has typically been a grind.
+I played Aion recently for about 8 weeks and discovered that the game slows to a crawl at some point.
+This point varies with the player, since "crawl" is subjective.
+So I dropped my subscription.
+However, this is not because the challenge was too great - being better at the game wouldn't have made it go any faster.
+Having better gear for my level also wouldn't have done anything.
+I'm assuming here that NCSoft views its leveling process as a challenge.
+In the examples in the summary, the two guys are both happy when they've completed an easy puzzle.
+There's nothing in there about the guy who gets fatigued after completing a long series of easy puzzles.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235510</id>
+	<title>Re:psychological vs intellectual underpinnings</title>
+	<author>Anonymous</author>
+	<datestamp>1259236020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I've noticed that fat little virgins who sit at home wanking and playing World of Warcraft and posting snide comments on Slashdot tend to be joyless fuckwits.</p></htmltext>
+<tokenext>I 've noticed that fat little virgins who sit at home wanking and playing World of Warcraft and posting snide comments on Slashdot tend to be joyless fuckwits .</tokentext>
+<sentencetext>I've noticed that fat little virgins who sit at home wanking and playing World of Warcraft and posting snide comments on Slashdot tend to be joyless fuckwits.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234872</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234872</id>
+	<title>psychological vs intellectual underpinnings</title>
+	<author>Anonymous</author>
+	<datestamp>1259228820000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext>I've noticed that stupid people usually prefer action games, while smart ones prefer RPGs and strategies.</htmltext>
+<tokenext>I 've noticed that stupid people usually prefer action games , while smart ones prefer RPGs and strategies .</tokentext>
+<sentencetext>I've noticed that stupid people usually prefer action games, while smart ones prefer RPGs and strategies.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30236662</id>
+	<title>a load of crap</title>
+	<author>Anonymous</author>
+	<datestamp>1259248500000</datestamp>
+	<modclass>Redundant</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>sorry but this is a load of crap...</p></htmltext>
+<tokenext>sorry but this is a load of crap.. .</tokentext>
+<sentencetext>sorry but this is a load of crap...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30247290</id>
+	<title>It ain't people; it's the activity</title>
+	<author>minstrelmike</author>
+	<datestamp>1259349600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I don't believe the perform/master is a personality type. At least not all by itself. I think it has at least an activity component as well. Some activities I find inherently interesting to do: play banjo or write computer programs, and other activities are inherently boring to me: golf. Of the activities I prefer to do, there is an element of both mastery and performance. On activities I do not prefer to do, there is never any desire for mastery involved no matter how good I get it at it because the only reason I do 'the activity' is for some other goal such as hanging out with friends.<br>
+<br>
+And knowing there is an internal activity preference and a desire for approval from other humans, the 'successful' training of children probably has more to do with other factors than personality preference for mastery/performance over internally desired activities. When adults choose the activity, that over-rides the child's 'natural' choice so that means it is also over-riding their inherent personality.</htmltext>
+<tokenext>I do n't believe the perform/master is a personality type .
+At least not all by itself .
+I think it has at least an activity component as well .
+Some activities I find inherently interesting to do : play banjo or write computer programs , and other activities are inherently boring to me : golf .
+Of the activities I prefer to do , there is an element of both mastery and performance .
+On activities I do not prefer to do , there is never any desire for mastery involved no matter how good I get it at it because the only reason I do 'the activity ' is for some other goal such as hanging out with friends .
+And knowing there is an internal activity preference and a desire for approval from other humans , the 'successful ' training of children probably has more to do with other factors than personality preference for mastery/performance over internally desired activities .
+When adults choose the activity , that over-rides the child 's 'natural ' choice so that means it is also over-riding their inherent personality .</tokentext>
+<sentencetext>I don't believe the perform/master is a personality type.
+At least not all by itself.
+I think it has at least an activity component as well.
+Some activities I find inherently interesting to do: play banjo or write computer programs, and other activities are inherently boring to me: golf.
+Of the activities I prefer to do, there is an element of both mastery and performance.
+On activities I do not prefer to do, there is never any desire for mastery involved no matter how good I get it at it because the only reason I do 'the activity' is for some other goal such as hanging out with friends.
+And knowing there is an internal activity preference and a desire for approval from other humans, the 'successful' training of children probably has more to do with other factors than personality preference for mastery/performance over internally desired activities.
+When adults choose the activity, that over-rides the child's 'natural' choice so that means it is also over-riding their inherent personality.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30237028</id>
+	<title>Re:Interesting</title>
+	<author>Anonymous</author>
+	<datestamp>1259251380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>According to the article, it's the other way around. "Masters" value effort, while "performers" value skill.  Mapping it the other way around, like what you did, makes more sense though.
+<br> <br>
+Based on the article's definition, masters are sensates while performers are intuitives.  Intuitives loves solving novel and complex problems, but they will easily get bored.  Sensates, on the other hand, would dutifully do their job as long as the task is well defined.  The majority of Slashdotters are sensates.</htmltext>
+<tokenext>According to the article , it 's the other way around .
+" Masters " value effort , while " performers " value skill .
+Mapping it the other way around , like what you did , makes more sense though .
+Based on the article 's definition , masters are sensates while performers are intuitives .
+Intuitives loves solving novel and complex problems , but they will easily get bored .
+Sensates , on the other hand , would dutifully do their job as long as the task is well defined .
+The majority of Slashdotters are sensates .</tokentext>
+<sentencetext>According to the article, it's the other way around.
+"Masters" value effort, while "performers" value skill.
+Mapping it the other way around, like what you did, makes more sense though.
+Based on the article's definition, masters are sensates while performers are intuitives.
+Intuitives loves solving novel and complex problems, but they will easily get bored.
+Sensates, on the other hand, would dutifully do their job as long as the task is well defined.
+The majority of Slashdotters are sensates.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234854</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30238380</id>
+	<title>Re:I haven't met one</title>
+	<author>Anonymous</author>
+	<datestamp>1259261820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Ahem. No offense, but it's pretty clear that you're type B.<nobr> <wbr></nobr>;)</p><p>And to add something constructive to the discussion, I'll refer people to <a href="http://www.mud.co.uk/richard/hcds.htm" title="mud.co.uk" rel="nofollow">Players Who Suit MUDs</a> [mud.co.uk] by Richard Bartle. It's a (very long) paper that describes a taxonomy of players that divides people into four categories: achievers, explorers, killers, and socializers.</p></htmltext>
+<tokenext>Ahem .
+No offense , but it 's pretty clear that you 're type B. ; ) And to add something constructive to the discussion , I 'll refer people to Players Who Suit MUDs [ mud.co.uk ] by Richard Bartle .
+It 's a ( very long ) paper that describes a taxonomy of players that divides people into four categories : achievers , explorers , killers , and socializers .</tokentext>
+<sentencetext>Ahem.
+No offense, but it's pretty clear that you're type B. ;)And to add something constructive to the discussion, I'll refer people to Players Who Suit MUDs [mud.co.uk] by Richard Bartle.
+It's a (very long) paper that describes a taxonomy of players that divides people into four categories: achievers, explorers, killers, and socializers.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235574</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30238326</id>
+	<title>finite and infinite games</title>
+	<author>wrygrin</author>
+	<datestamp>1259261520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>anyone interested in this distinction might appreciate the model described in <a href="http://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/0345341848" title="amazon.com" rel="nofollow">finite and infinite games</a> [amazon.com] by james p. carse.  it's a kind of convolution of the tao te ching, distilled down to:</p><blockquote><div><p>A finite game is played for the purpose of winning.  An infinite game is played for the purpose of continuing the play.</p></div></blockquote><p>carse might say that performance-orientated people (paul) are occupied with the resulting claim - title, status, accomplishment, authority, etc - that they can make looking back on the win.  those that are mastery-oriented (matt) are more concerned with developing ability to continue the play into the ("horizonal" - always in the advancing distance) future.</p><blockquote><div><p>Surprise causes finite play to end; it is the reason for infinite play to continue.</p></div></blockquote><p>and</p><blockquote><div><p>To be serious is to press for a specified conclusion.  To be playful is to allow for possibility, whatever the cost to oneself.</p></div></blockquote><p>and</p><blockquote><div><p>Because infinite players prepare themselves to be surprised by the future, they play in complete openness.  It is not an openness as in <i>candor</i>, but an openness as in <i>vulnerability</i>.  It is not a matter of exposing one's unchanging identity, the true self that has always been, but a way of exposing one's ceaseless growth, the dynamic self that is yet to be.  The infinite player does not expect to only be amused by surprise, but to be transformed by it, for surprise does not alter some abstract past, but [by discovery of what actually happened,] one's own personal past.</p></div></blockquote><p>(i wonder whether those interested in this kind of topic would more tend towards the mastery/infinite-play perspective?)</p><p>anyway, one of the most illuminating books i have read, along with the tao te ching (and, the one other on my paltry list, <i>the politics of experience</i> by r. d. laing).</p><p>ken</p></div>
+	</htmltext>
+<tokenext>anyone interested in this distinction might appreciate the model described in finite and infinite games [ amazon.com ] by james p. carse. it 's a kind of convolution of the tao te ching , distilled down to : A finite game is played for the purpose of winning .
+An infinite game is played for the purpose of continuing the play.carse might say that performance-orientated people ( paul ) are occupied with the resulting claim - title , status , accomplishment , authority , etc - that they can make looking back on the win .
+those that are mastery-oriented ( matt ) are more concerned with developing ability to continue the play into the ( " horizonal " - always in the advancing distance ) future.Surprise causes finite play to end ; it is the reason for infinite play to continue.andTo be serious is to press for a specified conclusion .
+To be playful is to allow for possibility , whatever the cost to oneself.andBecause infinite players prepare themselves to be surprised by the future , they play in complete openness .
+It is not an openness as in candor , but an openness as in vulnerability .
+It is not a matter of exposing one 's unchanging identity , the true self that has always been , but a way of exposing one 's ceaseless growth , the dynamic self that is yet to be .
+The infinite player does not expect to only be amused by surprise , but to be transformed by it , for surprise does not alter some abstract past , but [ by discovery of what actually happened , ] one 's own personal past .
+( i wonder whether those interested in this kind of topic would more tend towards the mastery/infinite-play perspective ?
+) anyway , one of the most illuminating books i have read , along with the tao te ching ( and , the one other on my paltry list , the politics of experience by r. d. laing ) .ken</tokentext>
+<sentencetext>anyone interested in this distinction might appreciate the model described in finite and infinite games [amazon.com] by james p. carse.  it's a kind of convolution of the tao te ching, distilled down to:A finite game is played for the purpose of winning.
+An infinite game is played for the purpose of continuing the play.carse might say that performance-orientated people (paul) are occupied with the resulting claim - title, status, accomplishment, authority, etc - that they can make looking back on the win.
+those that are mastery-oriented (matt) are more concerned with developing ability to continue the play into the ("horizonal" - always in the advancing distance) future.Surprise causes finite play to end; it is the reason for infinite play to continue.andTo be serious is to press for a specified conclusion.
+To be playful is to allow for possibility, whatever the cost to oneself.andBecause infinite players prepare themselves to be surprised by the future, they play in complete openness.
+It is not an openness as in candor, but an openness as in vulnerability.
+It is not a matter of exposing one's unchanging identity, the true self that has always been, but a way of exposing one's ceaseless growth, the dynamic self that is yet to be.
+The infinite player does not expect to only be amused by surprise, but to be transformed by it, for surprise does not alter some abstract past, but [by discovery of what actually happened,] one's own personal past.
+(i wonder whether those interested in this kind of topic would more tend towards the mastery/infinite-play perspective?
+)anyway, one of the most illuminating books i have read, along with the tao te ching (and, the one other on my paltry list, the politics of experience by r. d. laing).ken
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235916</id>
+	<title>Perseverance  Profile</title>
+	<author>tommeke100</author>
+	<datestamp>1259240460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>How is the perform and master group correlated to perseverance?
+<br>Isn't it possible that ppl only interested in the skill/knowledge can just as well abandon the difficult puzzle once he mastered the skill to solve that type of puzzle as a whole?
+<br>
+And isn't it possible that the perform ppl will stubbornly solve the difficult puzzle to prove their talent/intellect?<br>
+This article is just a personal opinion by some guy and isn't based on research at all.</htmltext>
+<tokenext>How is the perform and master group correlated to perseverance ?
+Is n't it possible that ppl only interested in the skill/knowledge can just as well abandon the difficult puzzle once he mastered the skill to solve that type of puzzle as a whole ?
+And is n't it possible that the perform ppl will stubbornly solve the difficult puzzle to prove their talent/intellect ?
+This article is just a personal opinion by some guy and is n't based on research at all .</tokentext>
+<sentencetext>How is the perform and master group correlated to perseverance?
+Isn't it possible that ppl only interested in the skill/knowledge can just as well abandon the difficult puzzle once he mastered the skill to solve that type of puzzle as a whole?
+And isn't it possible that the perform ppl will stubbornly solve the difficult puzzle to prove their talent/intellect?
+This article is just a personal opinion by some guy and isn't based on research at all.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235116</id>
+	<title>The entire post is an excuse to rubbish RPGs?</title>
+	<author>Anonymous</author>
+	<datestamp>1259231760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>The author's point seems to be this: that RPGs are too easy and make you feel good about yourself, thus they're bad and not worth playing. What ridiculous twaddle. RPGs are as easy or as hard as you decide to play them -- the author complains about strategy versus grind, and then because he gravitates towards grind, it's the game's fault, not the his decision to play a more "mastery"-oriented approach.</p><p>Then the author says "And I'm certainly not telling you not to play RPGs - I play them occasionally myself now, confident that now I'm enjoying them for the characters and story and not as a source of fake achievement." -- what is so different from non-RPGs that mean that they prevent the gamer from getting a source of fake achievement?</p><p>The entire post can probably be summarized as "I was young and didn't appreciate RPGs for the story, and so RPGs suck". Christ.</p></htmltext>
+<tokenext>The author 's point seems to be this : that RPGs are too easy and make you feel good about yourself , thus they 're bad and not worth playing .
+What ridiculous twaddle .
+RPGs are as easy or as hard as you decide to play them -- the author complains about strategy versus grind , and then because he gravitates towards grind , it 's the game 's fault , not the his decision to play a more " mastery " -oriented approach.Then the author says " And I 'm certainly not telling you not to play RPGs - I play them occasionally myself now , confident that now I 'm enjoying them for the characters and story and not as a source of fake achievement .
+" -- what is so different from non-RPGs that mean that they prevent the gamer from getting a source of fake achievement ? The entire post can probably be summarized as " I was young and did n't appreciate RPGs for the story , and so RPGs suck " .
+Christ .</tokentext>
+<sentencetext>The author's point seems to be this: that RPGs are too easy and make you feel good about yourself, thus they're bad and not worth playing.
+What ridiculous twaddle.
+RPGs are as easy or as hard as you decide to play them -- the author complains about strategy versus grind, and then because he gravitates towards grind, it's the game's fault, not the his decision to play a more "mastery"-oriented approach.Then the author says "And I'm certainly not telling you not to play RPGs - I play them occasionally myself now, confident that now I'm enjoying them for the characters and story and not as a source of fake achievement.
+" -- what is so different from non-RPGs that mean that they prevent the gamer from getting a source of fake achievement?The entire post can probably be summarized as "I was young and didn't appreciate RPGs for the story, and so RPGs suck".
+Christ.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234884</id>
+	<title>Re:Mixture?</title>
+	<author>Anonymous</author>
+	<datestamp>1259228940000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>1</modscore>
+	<htmltext>I do the exact same thing, and I consider myself a "Matt."
+
+Perhaps it's more a feeling of having achieved a level of mastery *beyond* the rules of game, in that you mastered Linux enough to do a Ctrl-Alt-F2 and backup your Wesnoth autosaves from the command line.</htmltext>
+<tokenext>I do the exact same thing , and I consider myself a " Matt .
+" Perhaps it 's more a feeling of having achieved a level of mastery * beyond * the rules of game , in that you mastered Linux enough to do a Ctrl-Alt-F2 and backup your Wesnoth autosaves from the command line .</tokentext>
+<sentencetext>I do the exact same thing, and I consider myself a "Matt.
+"
+
+Perhaps it's more a feeling of having achieved a level of mastery *beyond* the rules of game, in that you mastered Linux enough to do a Ctrl-Alt-F2 and backup your Wesnoth autosaves from the command line.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234764</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30236946</id>
+	<title>Re:I haven't met one</title>
+	<author>Anonymous</author>
+	<datestamp>1259250780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>E) The critic. People who are perfectionist but unfortunately lack the skills to live up to their own expectations. They tend to get discouraged and stop creating things themselves opting instead to pick apart others' work.</p></htmltext>
+<tokenext>E ) The critic .
+People who are perfectionist but unfortunately lack the skills to live up to their own expectations .
+They tend to get discouraged and stop creating things themselves opting instead to pick apart others ' work .</tokentext>
+<sentencetext>E) The critic.
+People who are perfectionist but unfortunately lack the skills to live up to their own expectations.
+They tend to get discouraged and stop creating things themselves opting instead to pick apart others' work.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235574</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30282298</id>
+	<title>Secrets of game design</title>
+	<author>Anonymous</author>
+	<datestamp>1259678220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Going back to the original story....</p><p>This is a very simplistic view of the complex interplay of challenge and reward that many games offer.  Most "action" games will enhance the player's abilities through equipment enhancement (weapons, new technology etc) whereas most RPGs also include elements of character enhancement.  These are effectively the same thing, you make the player more able to face tougher in-game challenges (often combat opponents). This is the character improvement. At the same time the challenges that the player faces are also ramped up.  However, as the game progresses, the player will inevitably get better at facing the challenges (player improvement) - some faster than others of course - but a good game designer will not ignore this, and in most well-designed games the rate of increase of challenge difficulty is faster than the rate of character enhancement.  In RPGs the player improvement is masked by the obvious character improvement, but it is still definitely there.  Evidence? The world of warcraft players who pay a service to level their character to the level max (currently 80) before they start to play, and don't have the playing skills to face the game challenges they are faced with.</p><p>Most people get a buzz from the joy of completion, and most get a buzz from the joy of learning.  Some people will favour one over the other, but both are worthwhile.  I suspect that most people vary as to which they prefer by mood, and by all sorts of other factors.  Good games can not only provide both of these but more also: the joys of exploration, fantasy, creativity, manufacture, competition, collection, adventure, pathos, customisation, catharsis and spectacle (to name a few). Game worlds are usually designed to make the player feel significant, something often sadly lacking in the real world.</p><p>The question I'd really like to know the answer to: if learning is so much fun for so many people, why is education so often boring?</p></htmltext>
+<tokenext>Going back to the original story....This is a very simplistic view of the complex interplay of challenge and reward that many games offer .
+Most " action " games will enhance the player 's abilities through equipment enhancement ( weapons , new technology etc ) whereas most RPGs also include elements of character enhancement .
+These are effectively the same thing , you make the player more able to face tougher in-game challenges ( often combat opponents ) .
+This is the character improvement .
+At the same time the challenges that the player faces are also ramped up .
+However , as the game progresses , the player will inevitably get better at facing the challenges ( player improvement ) - some faster than others of course - but a good game designer will not ignore this , and in most well-designed games the rate of increase of challenge difficulty is faster than the rate of character enhancement .
+In RPGs the player improvement is masked by the obvious character improvement , but it is still definitely there .
+Evidence ? The world of warcraft players who pay a service to level their character to the level max ( currently 80 ) before they start to play , and do n't have the playing skills to face the game challenges they are faced with.Most people get a buzz from the joy of completion , and most get a buzz from the joy of learning .
+Some people will favour one over the other , but both are worthwhile .
+I suspect that most people vary as to which they prefer by mood , and by all sorts of other factors .
+Good games can not only provide both of these but more also : the joys of exploration , fantasy , creativity , manufacture , competition , collection , adventure , pathos , customisation , catharsis and spectacle ( to name a few ) .
+Game worlds are usually designed to make the player feel significant , something often sadly lacking in the real world.The question I 'd really like to know the answer to : if learning is so much fun for so many people , why is education so often boring ?</tokentext>
+<sentencetext>Going back to the original story....This is a very simplistic view of the complex interplay of challenge and reward that many games offer.
+Most "action" games will enhance the player's abilities through equipment enhancement (weapons, new technology etc) whereas most RPGs also include elements of character enhancement.
+These are effectively the same thing, you make the player more able to face tougher in-game challenges (often combat opponents).
+This is the character improvement.
+At the same time the challenges that the player faces are also ramped up.
+However, as the game progresses, the player will inevitably get better at facing the challenges (player improvement) - some faster than others of course - but a good game designer will not ignore this, and in most well-designed games the rate of increase of challenge difficulty is faster than the rate of character enhancement.
+In RPGs the player improvement is masked by the obvious character improvement, but it is still definitely there.
+Evidence? The world of warcraft players who pay a service to level their character to the level max (currently 80) before they start to play, and don't have the playing skills to face the game challenges they are faced with.Most people get a buzz from the joy of completion, and most get a buzz from the joy of learning.
+Some people will favour one over the other, but both are worthwhile.
+I suspect that most people vary as to which they prefer by mood, and by all sorts of other factors.
+Good games can not only provide both of these but more also: the joys of exploration, fantasy, creativity, manufacture, competition, collection, adventure, pathos, customisation, catharsis and spectacle (to name a few).
+Game worlds are usually designed to make the player feel significant, something often sadly lacking in the real world.The question I'd really like to know the answer to: if learning is so much fun for so many people, why is education so often boring?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30237152</id>
+	<title>Re:Mixture?</title>
+	<author>foniksonik</author>
+	<datestamp>1259252400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Neither. You're not treating it as a game, you're treating is as a story or a discovery process. This isn't wrong, just indicative or your personality. Some people need to impress, other's to master and still other's seek to explore and experience regardless of the skill level they achieve in the process or whom may be paying attention to their activities.</p></htmltext>
+<tokenext>Neither .
+You 're not treating it as a game , you 're treating is as a story or a discovery process .
+This is n't wrong , just indicative or your personality .
+Some people need to impress , other 's to master and still other 's seek to explore and experience regardless of the skill level they achieve in the process or whom may be paying attention to their activities .</tokentext>
+<sentencetext>Neither.
+You're not treating it as a game, you're treating is as a story or a discovery process.
+This isn't wrong, just indicative or your personality.
+Some people need to impress, other's to master and still other's seek to explore and experience regardless of the skill level they achieve in the process or whom may be paying attention to their activities.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234764</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235518</id>
+	<title>Re:And queue the WoW-is-neither zealots... NOW</title>
+	<author>Mattskimo</author>
+	<datestamp>1259236140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Actually I would say that WoW is BOTH. You learn the abilities of your character and learn to apply them to various situations. You then stand around in Orgrimmar/Ironforge "performing" and showing off your leet loots.
+
+Also my name is Matt and I have about 5200 achievement points on my main...</htmltext>
+<tokenext>Actually I would say that WoW is BOTH .
+You learn the abilities of your character and learn to apply them to various situations .
+You then stand around in Orgrimmar/Ironforge " performing " and showing off your leet loots .
+Also my name is Matt and I have about 5200 achievement points on my main.. .</tokentext>
+<sentencetext>Actually I would say that WoW is BOTH.
+You learn the abilities of your character and learn to apply them to various situations.
+You then stand around in Orgrimmar/Ironforge "performing" and showing off your leet loots.
+Also my name is Matt and I have about 5200 achievement points on my main...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234754</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235960</id>
+	<title>There are two types of people</title>
+	<author>jamesh</author>
+	<datestamp>1259241360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>There are two types of people, those who classify people into one of two types of people, and those who don't.</p></htmltext>
+<tokenext>There are two types of people , those who classify people into one of two types of people , and those who do n't .</tokentext>
+<sentencetext>There are two types of people, those who classify people into one of two types of people, and those who don't.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235520</id>
+	<title>Games are not just about achievement</title>
+	<author>Homburg</author>
+	<datestamp>1259236140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Christ, what a stupid article. The author assumes that the reason people play games is to gain a sense of achievement - but that isn't, or isn't the only, reason to play a game. I play games to experience something, to gain through interaction a set of experiences constructed by the game's designers, in the same way I watch films to gain a visual experience constructed by the director, or listen to music to gain an aural experience constructed by the performers. The point of a game is not to "win," any more than that is the point of watching a film.</p><p>The upshot of the author's focus on achievement is that he, somewhat mystifyingly, seems to think that the morally superior way to enjoy games is to compulsively repeat the same set of actions until one has fulfilled some arbitrary criteria, gained a certain number of points, or found a certain number of widgets. The author, in other words, has <a href="http://stevenpoole.net/trigger-happy/working-for-the-man/" title="stevenpoole.net">confused "play" with "work"</a> [stevenpoole.net]. If what he wants is a sense of achievement, why doesn't he go outside and break rocks?</p></htmltext>
+<tokenext>Christ , what a stupid article .
+The author assumes that the reason people play games is to gain a sense of achievement - but that is n't , or is n't the only , reason to play a game .
+I play games to experience something , to gain through interaction a set of experiences constructed by the game 's designers , in the same way I watch films to gain a visual experience constructed by the director , or listen to music to gain an aural experience constructed by the performers .
+The point of a game is not to " win , " any more than that is the point of watching a film.The upshot of the author 's focus on achievement is that he , somewhat mystifyingly , seems to think that the morally superior way to enjoy games is to compulsively repeat the same set of actions until one has fulfilled some arbitrary criteria , gained a certain number of points , or found a certain number of widgets .
+The author , in other words , has confused " play " with " work " [ stevenpoole.net ] .
+If what he wants is a sense of achievement , why does n't he go outside and break rocks ?</tokentext>
+<sentencetext>Christ, what a stupid article.
+The author assumes that the reason people play games is to gain a sense of achievement - but that isn't, or isn't the only, reason to play a game.
+I play games to experience something, to gain through interaction a set of experiences constructed by the game's designers, in the same way I watch films to gain a visual experience constructed by the director, or listen to music to gain an aural experience constructed by the performers.
+The point of a game is not to "win," any more than that is the point of watching a film.The upshot of the author's focus on achievement is that he, somewhat mystifyingly, seems to think that the morally superior way to enjoy games is to compulsively repeat the same set of actions until one has fulfilled some arbitrary criteria, gained a certain number of points, or found a certain number of widgets.
+The author, in other words, has confused "play" with "work" [stevenpoole.net].
+If what he wants is a sense of achievement, why doesn't he go outside and break rocks?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234924</id>
+	<title>Re:psychological vs intellectual underpinnings</title>
+	<author>Anonymous</author>
+	<datestamp>1259229480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>what you've noticed is that people who like to show off their skills appear to you to be succesful all the time.<br>people who like to learn, don't always succeed, so to you, they appear stupid.</p><p>ps. my captcha was hostage, which has nothing to do with neither discussion nor post</p></htmltext>
+<tokenext>what you 've noticed is that people who like to show off their skills appear to you to be succesful all the time.people who like to learn , do n't always succeed , so to you , they appear stupid.ps .
+my captcha was hostage , which has nothing to do with neither discussion nor post</tokentext>
+<sentencetext>what you've noticed is that people who like to show off their skills appear to you to be succesful all the time.people who like to learn, don't always succeed, so to you, they appear stupid.ps.
+my captcha was hostage, which has nothing to do with neither discussion nor post</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234872</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30236828</id>
+	<title>Re:I haven't met one</title>
+	<author>Interoperable</author>
+	<datestamp>1259250000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Thanks for that<nobr> <wbr></nobr>:) I very much enjoyed considering how well some of your archetypes describe many of my colleagues. One in particular is a perfect example of your D type. These people are characterized by dogmatic pursuit of what they think is the best way to do something even if it blinds them to the fact there are better ways.</htmltext>
+<tokenext>Thanks for that : ) I very much enjoyed considering how well some of your archetypes describe many of my colleagues .
+One in particular is a perfect example of your D type .
+These people are characterized by dogmatic pursuit of what they think is the best way to do something even if it blinds them to the fact there are better ways .</tokentext>
+<sentencetext>Thanks for that :) I very much enjoyed considering how well some of your archetypes describe many of my colleagues.
+One in particular is a perfect example of your D type.
+These people are characterized by dogmatic pursuit of what they think is the best way to do something even if it blinds them to the fact there are better ways.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235574</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234914</id>
+	<title>Re:Mixture?</title>
+	<author>Narpak</author>
+	<datestamp>1259229300000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p><div class="quote"><p>It all comes down to the type of praise you receive. If you perform well on a task and are told, "Wow, you must be smart!" it teaches you to value your skill, and thus fosters a performance orientation. But if instead you are told, "Wow, you must have worked hard!" it teaches you to value your effort and thus fosters a mastery orientation.</p></div><p>If things are that simplistic what happens with a child that receives no praise? Or different sort of praise for different tasks? Or praise one day and none the other.</p><p><div class="quote"><p>I'm not saying that everybody needs to play on the hardest difficulties they can possibly manage and devote hours to mastering every game they touch. Few of us have that kind of time or patience, and it's better spent developing more useful skills or actually being creative or productive. I don't play on Hard all the time, or always shoot for 100\% completion. And I'm certainly not telling you not to play RPGs - I play them occasionally myself now, confident that now I'm enjoying them for the characters and story and not as a source of fake achievement. What I am saying is that you should pay attention to what's going on in your head when you play these games.</p></div><p>I almost hesitate to ask but what is the difference between "fake achievement" and so-called "real achievement" surely the difference between them are only in your own head.
+
+Having RTFA I would say that it appears that someone has had some sort of insight into his own personality and from that have extrapolated some sort of general theory of how people are motivated. No research or objective evaluation of empiric data used as a basis for this claim; pure conjecture.
+
+So to answer the question.</p><p><div class="quote"><p>So which type would that make me?</p></div><p>It makes you the type that your are. Nothing more, and nothing less. Personally I would recommend you continue enjoying games the way you want to enjoy them; have fun and darn anyone that says you shouldn't.</p></div>
+	</htmltext>
+<tokenext>It all comes down to the type of praise you receive .
+If you perform well on a task and are told , " Wow , you must be smart !
+" it teaches you to value your skill , and thus fosters a performance orientation .
+But if instead you are told , " Wow , you must have worked hard !
+" it teaches you to value your effort and thus fosters a mastery orientation.If things are that simplistic what happens with a child that receives no praise ?
+Or different sort of praise for different tasks ?
+Or praise one day and none the other.I 'm not saying that everybody needs to play on the hardest difficulties they can possibly manage and devote hours to mastering every game they touch .
+Few of us have that kind of time or patience , and it 's better spent developing more useful skills or actually being creative or productive .
+I do n't play on Hard all the time , or always shoot for 100 \ % completion .
+And I 'm certainly not telling you not to play RPGs - I play them occasionally myself now , confident that now I 'm enjoying them for the characters and story and not as a source of fake achievement .
+What I am saying is that you should pay attention to what 's going on in your head when you play these games.I almost hesitate to ask but what is the difference between " fake achievement " and so-called " real achievement " surely the difference between them are only in your own head .
+Having RTFA I would say that it appears that someone has had some sort of insight into his own personality and from that have extrapolated some sort of general theory of how people are motivated .
+No research or objective evaluation of empiric data used as a basis for this claim ; pure conjecture .
+So to answer the question.So which type would that make me ? It makes you the type that your are .
+Nothing more , and nothing less .
+Personally I would recommend you continue enjoying games the way you want to enjoy them ; have fun and darn anyone that says you should n't .</tokentext>
+<sentencetext>It all comes down to the type of praise you receive.
+If you perform well on a task and are told, "Wow, you must be smart!
+" it teaches you to value your skill, and thus fosters a performance orientation.
+But if instead you are told, "Wow, you must have worked hard!
+" it teaches you to value your effort and thus fosters a mastery orientation.If things are that simplistic what happens with a child that receives no praise?
+Or different sort of praise for different tasks?
+Or praise one day and none the other.I'm not saying that everybody needs to play on the hardest difficulties they can possibly manage and devote hours to mastering every game they touch.
+Few of us have that kind of time or patience, and it's better spent developing more useful skills or actually being creative or productive.
+I don't play on Hard all the time, or always shoot for 100\% completion.
+And I'm certainly not telling you not to play RPGs - I play them occasionally myself now, confident that now I'm enjoying them for the characters and story and not as a source of fake achievement.
+What I am saying is that you should pay attention to what's going on in your head when you play these games.I almost hesitate to ask but what is the difference between "fake achievement" and so-called "real achievement" surely the difference between them are only in your own head.
+Having RTFA I would say that it appears that someone has had some sort of insight into his own personality and from that have extrapolated some sort of general theory of how people are motivated.
+No research or objective evaluation of empiric data used as a basis for this claim; pure conjecture.
+So to answer the question.So which type would that make me?It makes you the type that your are.
+Nothing more, and nothing less.
+Personally I would recommend you continue enjoying games the way you want to enjoy them; have fun and darn anyone that says you shouldn't.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234764</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30239238</id>
+	<title>Re:The Masterer</title>
+	<author>Bloodoflethe</author>
+	<datestamp>1259226000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The Pwnerer.</p><p>I've been watching the episode on that site since shortly after it came out.  Great stuff.</p></htmltext>
+<tokenext>The Pwnerer.I 've been watching the episode on that site since shortly after it came out .
+Great stuff .</tokentext>
+<sentencetext>The Pwnerer.I've been watching the episode on that site since shortly after it came out.
+Great stuff.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30237194</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30241036</id>
+	<title>The player has to improve</title>
+	<author>PaganRitual</author>
+	<datestamp>1259241300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>To progress in an action game, the player has to improve<br>Don't worry, modern action games are working on that bit as well. Who needs skills when you can't die, you can do complicated multi-hit attacks with a single button, or when QTEs can make even the most complicated task come down to a single button press.</p></div></div>
+	</htmltext>
+<tokenext>To progress in an action game , the player has to improveDo n't worry , modern action games are working on that bit as well .
+Who needs skills when you ca n't die , you can do complicated multi-hit attacks with a single button , or when QTEs can make even the most complicated task come down to a single button press .</tokentext>
+<sentencetext>To progress in an action game, the player has to improveDon't worry, modern action games are working on that bit as well.
+Who needs skills when you can't die, you can do complicated multi-hit attacks with a single button, or when QTEs can make even the most complicated task come down to a single button press.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234766</id>
+	<title>stunning</title>
+	<author>Anonymous</author>
+	<datestamp>1259226780000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext>So the conclusion is that some people perservere with longer than others while others get bored and don't always fini</htmltext>
+<tokenext>So the conclusion is that some people perservere with longer than others while others get bored and do n't always fini</tokentext>
+<sentencetext>So the conclusion is that some people perservere with longer than others while others get bored and don't always fini</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234942</id>
+	<title>Perfectionists...</title>
+	<author>olingern</author>
+	<datestamp>1259229660000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>What do you make of people who are performance oriented until the point inwhich they reach mastery? Eh?</htmltext>
+<tokenext>What do you make of people who are performance oriented until the point inwhich they reach mastery ?
+Eh ?</tokentext>
+<sentencetext>What do you make of people who are performance oriented until the point inwhich they reach mastery?
+Eh?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235604</id>
+	<title>Re:Mixture?</title>
+	<author>bostei2008</author>
+	<datestamp>1259236920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>If things are that simplistic what happens with a child that receives no praise?...</p></div><p>It plays alone in the dark:</p><p><a href="http://www.penny-arcade.com/comic/2008/6/23/" title="penny-arcade.com" rel="nofollow">http://www.penny-arcade.com/comic/2008/6/23/</a> [penny-arcade.com]</p></div>
+	</htmltext>
+<tokenext>If things are that simplistic what happens with a child that receives no praise ? ...It plays alone in the dark : http : //www.penny-arcade.com/comic/2008/6/23/ [ penny-arcade.com ]</tokentext>
+<sentencetext>If things are that simplistic what happens with a child that receives no praise?...It plays alone in the dark:http://www.penny-arcade.com/comic/2008/6/23/ [penny-arcade.com]
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234914</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234854</id>
+	<title>Interesting</title>
+	<author>DreamsAreOkToo</author>
+	<datestamp>1259228340000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>This seems to have much broader applications than games.  I think this speaks volumes in the realm of business management (efficiency) and human psychology in general.</p><p>For Business Management, identifying your "masters" and "performers" would be good for setting up reward systems.  Give your masters a tough problem to solve.  Give your performers easy repetitive work and ask them to see how quickly they can finish it.</p></htmltext>
+<tokenext>This seems to have much broader applications than games .
+I think this speaks volumes in the realm of business management ( efficiency ) and human psychology in general.For Business Management , identifying your " masters " and " performers " would be good for setting up reward systems .
+Give your masters a tough problem to solve .
+Give your performers easy repetitive work and ask them to see how quickly they can finish it .</tokentext>
+<sentencetext>This seems to have much broader applications than games.
+I think this speaks volumes in the realm of business management (efficiency) and human psychology in general.For Business Management, identifying your "masters" and "performers" would be good for setting up reward systems.
+Give your masters a tough problem to solve.
+Give your performers easy repetitive work and ask them to see how quickly they can finish it.</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30238380
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235574
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234942
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30238772
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234942
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234924
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234872
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30241170
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235574
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234942
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235518
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234754
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235604
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234914
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234764
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30238724
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234764
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30237152
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234764
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234884
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234764
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235550
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234754
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235510
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234872
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235792
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234854
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30237028
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234854
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235662
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234766
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30236946
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235574
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234942
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30237256
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234868
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234766
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30236828
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235574
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234942
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30239238
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30237194
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_11_26_0628247_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30236332
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234872
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_11_26_0628247.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234754
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235518
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235550
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_11_26_0628247.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235960
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_11_26_0628247.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235116
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_11_26_0628247.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234942
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235574
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30236946
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30236828
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30238380
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30241170
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30238772
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_11_26_0628247.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235092
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_11_26_0628247.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234766
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235662
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234868
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30237256
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_11_26_0628247.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234764
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234884
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30237152
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234914
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235604
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30238724
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_11_26_0628247.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234854
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30237028
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235792
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_11_26_0628247.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30237194
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30239238
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_11_26_0628247.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235520
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_11_26_0628247.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234872
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30236332
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30234924
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30235510
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_11_26_0628247.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_11_26_0628247.30241036
+</commentlist>
+</conversation>

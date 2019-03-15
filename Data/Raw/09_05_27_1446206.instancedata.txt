@@ -1,0 +1,1782 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_27_1446206</id>
+	<title>Pulsar Signals Could Provide Galactic GPS</title>
+	<author>kdawson</author>
+	<datestamp>1243437600000</datestamp>
+	<htmltext><a href="http://arxivblog.technologyreview.com/" rel="nofollow">KentuckyFC</a> writes <i>"We're all familiar with GPS. It consists of a network of satellites that each broadcast a time signal. A receiver on Earth can then work out its position in three-dimensional space by comparing the arrival times of the signals from at least three satellites. That's handy, but it only works on Earth. Now astronomers say that the millisecond signals from a network of <a href="http://www.technologyreview.com/blog/arxiv/23576/">pulsars could allow GPS-style navigation on a galactic scale</a>. They propose using four pulsars that form a rough tetrahedron with the Solar System at its center, and a co-ordinate system with its origin at 00:00 on 1 January 2001 at the focal point of the <a href="http://en.wikipedia.org/wiki/Interplanetary\_Scintillation\_Array">Interplanetary Scintillation Array</a>, the radio telescope near Cambridge in the UK that first observed pulsars. The additional complexity of working with signals over these distances is that relativity has to be taken into account (which is why the origin is defined as a point in space-time rather than just space). The pulsar GPS system should allow users to determine their position in space-time anywhere in the galaxy to within a few nanoseconds, which corresponds to an accuracy of about a meter."</i> <a href="http://www.cosmosmagazine.com/news/2033/whats-slowing-crab-pulsar">Pulsars slow down</a> over time, and the arXiv paper doesn't seem to mention this. The paper is mainly about establishing a coordinate system and a reference selection of pulsars. Any proposed Galactic Positioning System would have to take the slowing into account, and since it is poorly understood and not completely predictable, this would limit accuracy.</htmltext>
+<tokenext>KentuckyFC writes " We 're all familiar with GPS .
+It consists of a network of satellites that each broadcast a time signal .
+A receiver on Earth can then work out its position in three-dimensional space by comparing the arrival times of the signals from at least three satellites .
+That 's handy , but it only works on Earth .
+Now astronomers say that the millisecond signals from a network of pulsars could allow GPS-style navigation on a galactic scale .
+They propose using four pulsars that form a rough tetrahedron with the Solar System at its center , and a co-ordinate system with its origin at 00 : 00 on 1 January 2001 at the focal point of the Interplanetary Scintillation Array , the radio telescope near Cambridge in the UK that first observed pulsars .
+The additional complexity of working with signals over these distances is that relativity has to be taken into account ( which is why the origin is defined as a point in space-time rather than just space ) .
+The pulsar GPS system should allow users to determine their position in space-time anywhere in the galaxy to within a few nanoseconds , which corresponds to an accuracy of about a meter .
+" Pulsars slow down over time , and the arXiv paper does n't seem to mention this .
+The paper is mainly about establishing a coordinate system and a reference selection of pulsars .
+Any proposed Galactic Positioning System would have to take the slowing into account , and since it is poorly understood and not completely predictable , this would limit accuracy .</tokentext>
+<sentencetext>KentuckyFC writes "We're all familiar with GPS.
+It consists of a network of satellites that each broadcast a time signal.
+A receiver on Earth can then work out its position in three-dimensional space by comparing the arrival times of the signals from at least three satellites.
+That's handy, but it only works on Earth.
+Now astronomers say that the millisecond signals from a network of pulsars could allow GPS-style navigation on a galactic scale.
+They propose using four pulsars that form a rough tetrahedron with the Solar System at its center, and a co-ordinate system with its origin at 00:00 on 1 January 2001 at the focal point of the Interplanetary Scintillation Array, the radio telescope near Cambridge in the UK that first observed pulsars.
+The additional complexity of working with signals over these distances is that relativity has to be taken into account (which is why the origin is defined as a point in space-time rather than just space).
+The pulsar GPS system should allow users to determine their position in space-time anywhere in the galaxy to within a few nanoseconds, which corresponds to an accuracy of about a meter.
+" Pulsars slow down over time, and the arXiv paper doesn't seem to mention this.
+The paper is mainly about establishing a coordinate system and a reference selection of pulsars.
+Any proposed Galactic Positioning System would have to take the slowing into account, and since it is poorly understood and not completely predictable, this would limit accuracy.</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110375</id>
+	<title>Over Engineered</title>
+	<author>Anonymous</author>
+	<datestamp>1243442340000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>The Russians would of just used an old pencil and a map.</p></htmltext>
+<tokenext>The Russians would of just used an old pencil and a map .</tokentext>
+<sentencetext>The Russians would of just used an old pencil and a map.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112433</id>
+	<title>Four Satellites</title>
+	<author>matelmaster</author>
+	<datestamp>1243450140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><nobr> <wbr></nobr></p><div class="quote"><p>...from at least three satellites</p></div><p>
+That's actually a common misconception. In GPS positioning you have four variables to be determined, your position on the earth (X,Y,Z coordinates) as well as the error of the receiver clock. Because you don't have a high precision atomic clock in your Garmin and the Master Control Station doesn't monitor and adjust the clock in your handheld you need the signal of a fourth satellite to use its high precision clock to calculate exact time differences (distances).</p><p>
+The reason many handheld or car navigation systems also work with three satellites is that they keep one variable, usually the height, fixed in their calculations. You can either use the last known value if a satellite disappears over the horizon or you can just get it from, for example, the navigational maps in your system. When you're driving along some road it generally doesn't matter whether you're 100 meters above or below the road, but it may matter if you're 100 meters to the left or right. This usually doesn't impact the usefulness of the device very much but may allow you to get a fix on your location when you otherwise wouldn't.</p></div>
+	</htmltext>
+<tokenext>...from at least three satellites That 's actually a common misconception .
+In GPS positioning you have four variables to be determined , your position on the earth ( X,Y,Z coordinates ) as well as the error of the receiver clock .
+Because you do n't have a high precision atomic clock in your Garmin and the Master Control Station does n't monitor and adjust the clock in your handheld you need the signal of a fourth satellite to use its high precision clock to calculate exact time differences ( distances ) .
+The reason many handheld or car navigation systems also work with three satellites is that they keep one variable , usually the height , fixed in their calculations .
+You can either use the last known value if a satellite disappears over the horizon or you can just get it from , for example , the navigational maps in your system .
+When you 're driving along some road it generally does n't matter whether you 're 100 meters above or below the road , but it may matter if you 're 100 meters to the left or right .
+This usually does n't impact the usefulness of the device very much but may allow you to get a fix on your location when you otherwise would n't .</tokentext>
+<sentencetext> ...from at least three satellites
+That's actually a common misconception.
+In GPS positioning you have four variables to be determined, your position on the earth (X,Y,Z coordinates) as well as the error of the receiver clock.
+Because you don't have a high precision atomic clock in your Garmin and the Master Control Station doesn't monitor and adjust the clock in your handheld you need the signal of a fourth satellite to use its high precision clock to calculate exact time differences (distances).
+The reason many handheld or car navigation systems also work with three satellites is that they keep one variable, usually the height, fixed in their calculations.
+You can either use the last known value if a satellite disappears over the horizon or you can just get it from, for example, the navigational maps in your system.
+When you're driving along some road it generally doesn't matter whether you're 100 meters above or below the road, but it may matter if you're 100 meters to the left or right.
+This usually doesn't impact the usefulness of the device very much but may allow you to get a fix on your location when you otherwise wouldn't.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28113463</id>
+	<title>Stardates?</title>
+	<author>Anonymous</author>
+	<datestamp>1243454340000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Isn't this what the real basis of stardates is supposed to be?<br>In the sense that this method was used to calculate locations in spacetime, before all those comms satellites were placed out to create beacons.</p><p>Also, this reminds me of the article i think i saw on here a couple years back or so that mentioned that alien races could probably be using stars as communication.<br>A massive grid would have been placed around said star to alter the frequencies that would get out.<br>It would be one of the better methods for communicating long distance.<br>But in saying that, if we achieve FTL at some point, we'd be better off making our own communication networks. (or if we meet aliens with one already built, ask them very nicely if we can use it and promise not to use it for torrents)</p><p>But we need to actually figure out if we can even TFTL in the first place!<br>I'm saying 60 years.</p></htmltext>
+<tokenext>Is n't this what the real basis of stardates is supposed to be ? In the sense that this method was used to calculate locations in spacetime , before all those comms satellites were placed out to create beacons.Also , this reminds me of the article i think i saw on here a couple years back or so that mentioned that alien races could probably be using stars as communication.A massive grid would have been placed around said star to alter the frequencies that would get out.It would be one of the better methods for communicating long distance.But in saying that , if we achieve FTL at some point , we 'd be better off making our own communication networks .
+( or if we meet aliens with one already built , ask them very nicely if we can use it and promise not to use it for torrents ) But we need to actually figure out if we can even TFTL in the first place ! I 'm saying 60 years .</tokentext>
+<sentencetext>Isn't this what the real basis of stardates is supposed to be?In the sense that this method was used to calculate locations in spacetime, before all those comms satellites were placed out to create beacons.Also, this reminds me of the article i think i saw on here a couple years back or so that mentioned that alien races could probably be using stars as communication.A massive grid would have been placed around said star to alter the frequencies that would get out.It would be one of the better methods for communicating long distance.But in saying that, if we achieve FTL at some point, we'd be better off making our own communication networks.
+(or if we meet aliens with one already built, ask them very nicely if we can use it and promise not to use it for torrents)But we need to actually figure out if we can even TFTL in the first place!I'm saying 60 years.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110547</id>
+	<title>geocentrism</title>
+	<author>shadowofwind</author>
+	<datestamp>1243443000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Fixing the coordinate system to a point near Cambridge will obviously cause the "galactic coordinate system" to oscillate around the sun.  And they would try to fix the coordinate system's rotation relative to what?  Absolute, or the earth, or the quasars, which are moving relative to each other?</p></htmltext>
+<tokenext>Fixing the coordinate system to a point near Cambridge will obviously cause the " galactic coordinate system " to oscillate around the sun .
+And they would try to fix the coordinate system 's rotation relative to what ?
+Absolute , or the earth , or the quasars , which are moving relative to each other ?</tokentext>
+<sentencetext>Fixing the coordinate system to a point near Cambridge will obviously cause the "galactic coordinate system" to oscillate around the sun.
+And they would try to fix the coordinate system's rotation relative to what?
+Absolute, or the earth, or the quasars, which are moving relative to each other?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28137245</id>
+	<title>Re:Turn Left at the Next Nebula</title>
+	<author>Anonymous</author>
+	<datestamp>1243603980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>no, we dont need ftl. we should just bend space.</p></htmltext>
+<tokenext>no , we dont need ftl .
+we should just bend space .</tokentext>
+<sentencetext>no, we dont need ftl.
+we should just bend space.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110207</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28113677</id>
+	<title>Re:Problem with the galactic positioning system</title>
+	<author>Sandbags</author>
+	<datestamp>1243455420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Their movement may be a fact, but when you calculate position based on space-time instead of simply space, the movement IN space is HIGHLY predictible, and therefore highly accurate.  The system of calculations might need periodic adjustment (say every few decades) gue to unforseen gravametric effects, but generally, it's a pretty significant (and thus in itself predictable) event to actually cause a pulsar to have to adjust is'd galactic course...  We don't really care about the emissions of the pulsar, only it's relative position to the other pulsars in relation to the current time in nanoseconds.</p></htmltext>
+<tokenext>Their movement may be a fact , but when you calculate position based on space-time instead of simply space , the movement IN space is HIGHLY predictible , and therefore highly accurate .
+The system of calculations might need periodic adjustment ( say every few decades ) gue to unforseen gravametric effects , but generally , it 's a pretty significant ( and thus in itself predictable ) event to actually cause a pulsar to have to adjust is 'd galactic course... We do n't really care about the emissions of the pulsar , only it 's relative position to the other pulsars in relation to the current time in nanoseconds .</tokentext>
+<sentencetext>Their movement may be a fact, but when you calculate position based on space-time instead of simply space, the movement IN space is HIGHLY predictible, and therefore highly accurate.
+The system of calculations might need periodic adjustment (say every few decades) gue to unforseen gravametric effects, but generally, it's a pretty significant (and thus in itself predictable) event to actually cause a pulsar to have to adjust is'd galactic course...  We don't really care about the emissions of the pulsar, only it's relative position to the other pulsars in relation to the current time in nanoseconds.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112811</id>
+	<title>Re:I would be pedantic, but...</title>
+	<author>RVT</author>
+	<datestamp>1243451700000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Well, pedantic would be to note:</p><p>"A receiver on Earth can then work out its position in three-dimensional space by comparing the arrival times of the signals from at least three satellites"</p><p>is a wrong statement.<br>But this is<nobr> <wbr></nobr>/. Who cares?</p></htmltext>
+<tokenext>Well , pedantic would be to note : " A receiver on Earth can then work out its position in three-dimensional space by comparing the arrival times of the signals from at least three satellites " is a wrong statement.But this is / .
+Who cares ?</tokentext>
+<sentencetext>Well, pedantic would be to note:"A receiver on Earth can then work out its position in three-dimensional space by comparing the arrival times of the signals from at least three satellites"is a wrong statement.But this is /.
+Who cares?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112149</id>
+	<title>Slow down? Pulars can also suddenly speed up</title>
+	<author>parlancex</author>
+	<datestamp>1243449000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Not only do Pulsars slow down over time but they also unpredictably and abruptly speed up. This is thought to be because of a collapse of the outer layers of the Pulsar as it gradually loses energy over time and due to the conversation of angular momentum this collapse will cause an increase in rotational velocity.</htmltext>
+<tokenext>Not only do Pulsars slow down over time but they also unpredictably and abruptly speed up .
+This is thought to be because of a collapse of the outer layers of the Pulsar as it gradually loses energy over time and due to the conversation of angular momentum this collapse will cause an increase in rotational velocity .</tokentext>
+<sentencetext>Not only do Pulsars slow down over time but they also unpredictably and abruptly speed up.
+This is thought to be because of a collapse of the outer layers of the Pulsar as it gradually loses energy over time and due to the conversation of angular momentum this collapse will cause an increase in rotational velocity.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109</id>
+	<title>I would be pedantic, but...</title>
+	<author>The\_mad\_linguist</author>
+	<datestamp>1243441320000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>At this point, I'd normally be ranting about how the G in GPS stands for "Global", and that the summary is making an awful analogy, but then I realized that "Galactic" also begins with a G.</p><p>And then I realized that that still doesn't make "Galactic Global Positioning System" any better.</p></htmltext>
+<tokenext>At this point , I 'd normally be ranting about how the G in GPS stands for " Global " , and that the summary is making an awful analogy , but then I realized that " Galactic " also begins with a G.And then I realized that that still does n't make " Galactic Global Positioning System " any better .</tokentext>
+<sentencetext>At this point, I'd normally be ranting about how the G in GPS stands for "Global", and that the summary is making an awful analogy, but then I realized that "Galactic" also begins with a G.And then I realized that that still doesn't make "Galactic Global Positioning System" any better.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112325</id>
+	<title>Polar or Grid coordinates?</title>
+	<author>Midnight Thunder</author>
+	<datestamp>1243449780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Thinking about this, I wonder what sort of coordinate system you would use in your spacecraft? Would you use a polar coordinate system, with certain celestial bodies providing the center of the coordinate system? For example if you are in close proximity of a planet you use that, then outside of those bounds the star and then the galactic center, and so on? Or do you a grid (cube?) system with certain reference points to keep the grid in the right position?</p><p>Because reference points in space have this horrible tendency to move, I can see the mapping system being more dynamic that the surface maps we use for planets, so will probably need a planetary simulator to keep it precise.</p></htmltext>
+<tokenext>Thinking about this , I wonder what sort of coordinate system you would use in your spacecraft ?
+Would you use a polar coordinate system , with certain celestial bodies providing the center of the coordinate system ?
+For example if you are in close proximity of a planet you use that , then outside of those bounds the star and then the galactic center , and so on ?
+Or do you a grid ( cube ?
+) system with certain reference points to keep the grid in the right position ? Because reference points in space have this horrible tendency to move , I can see the mapping system being more dynamic that the surface maps we use for planets , so will probably need a planetary simulator to keep it precise .</tokentext>
+<sentencetext>Thinking about this, I wonder what sort of coordinate system you would use in your spacecraft?
+Would you use a polar coordinate system, with certain celestial bodies providing the center of the coordinate system?
+For example if you are in close proximity of a planet you use that, then outside of those bounds the star and then the galactic center, and so on?
+Or do you a grid (cube?
+) system with certain reference points to keep the grid in the right position?Because reference points in space have this horrible tendency to move, I can see the mapping system being more dynamic that the surface maps we use for planets, so will probably need a planetary simulator to keep it precise.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111233</id>
+	<title>Re:Relativity also matters for GPS</title>
+	<author>Anonymous</author>
+	<datestamp>1243445640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>&gt; The additional complexity of working with signals over these distances is that<br>&gt; relativity has to be taken into account...</p><p>&gt; Also true for high-precision GPS.</p><p>Also true for every day GPS. Without relativity, we'd be off by 11 kilometers a day.</p></htmltext>
+<tokenext>&gt; The additional complexity of working with signals over these distances is that &gt; relativity has to be taken into account... &gt; Also true for high-precision GPS.Also true for every day GPS .
+Without relativity , we 'd be off by 11 kilometers a day .</tokentext>
+<sentencetext>&gt; The additional complexity of working with signals over these distances is that&gt; relativity has to be taken into account...&gt; Also true for high-precision GPS.Also true for every day GPS.
+Without relativity, we'd be off by 11 kilometers a day.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110145</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28113805</id>
+	<title>Stargate</title>
+	<author>Anonymous</author>
+	<datestamp>1243456020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>The mentioning of slow down and drift comes to mind.<br>This is the same problem that the "Ancients" had to deal with when building the Stargate system.<br>Any gates that had been cut-off were out of sync and had to be updated manually.</p><p>So i guess as long as you have line-of-sight to at least 4 pulsars, you'll be fine.<br>This system says that they would only use 4, so it would probably fail in that respect.<br>If they could find the pulsars all on the outsides of the galaxy, it would be really helpful.<br><i>Speaking of that, does anyone have any links to maps of pulsars in our galaxy?  </i></p><p>Still, the whole "How do i FTL?" problem isn't solved... yet.<br>Hopefully we will figure it out, because it <b>must</b> be possible, blackholes aren't some magical mysterious thing that defies "the laws of physics", <b>If the laws can break down, the laws are not laws!</b></p></htmltext>
+<tokenext>The mentioning of slow down and drift comes to mind.This is the same problem that the " Ancients " had to deal with when building the Stargate system.Any gates that had been cut-off were out of sync and had to be updated manually.So i guess as long as you have line-of-sight to at least 4 pulsars , you 'll be fine.This system says that they would only use 4 , so it would probably fail in that respect.If they could find the pulsars all on the outsides of the galaxy , it would be really helpful.Speaking of that , does anyone have any links to maps of pulsars in our galaxy ?
+Still , the whole " How do i FTL ?
+" problem is n't solved... yet.Hopefully we will figure it out , because it must be possible , blackholes are n't some magical mysterious thing that defies " the laws of physics " , If the laws can break down , the laws are not laws !</tokentext>
+<sentencetext>The mentioning of slow down and drift comes to mind.This is the same problem that the "Ancients" had to deal with when building the Stargate system.Any gates that had been cut-off were out of sync and had to be updated manually.So i guess as long as you have line-of-sight to at least 4 pulsars, you'll be fine.This system says that they would only use 4, so it would probably fail in that respect.If they could find the pulsars all on the outsides of the galaxy, it would be really helpful.Speaking of that, does anyone have any links to maps of pulsars in our galaxy?
+Still, the whole "How do i FTL?
+" problem isn't solved... yet.Hopefully we will figure it out, because it must be possible, blackholes aren't some magical mysterious thing that defies "the laws of physics", If the laws can break down, the laws are not laws!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110225</id>
+	<title>Already been done</title>
+	<author>Anonymous</author>
+	<datestamp>1243441740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Hasn't that already been done.  I thought the starburst pattern on the plaques affixed to the V'ger probes indicated the position of Earth relative to a set of pulsars.</htmltext>
+<tokenext>Has n't that already been done .
+I thought the starburst pattern on the plaques affixed to the V'ger probes indicated the position of Earth relative to a set of pulsars .</tokentext>
+<sentencetext>Hasn't that already been done.
+I thought the starburst pattern on the plaques affixed to the V'ger probes indicated the position of Earth relative to a set of pulsars.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110815</id>
+	<title>Re:geocentrism</title>
+	<author>skelterjohn</author>
+	<datestamp>1243443960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It doesn't rotate around the sun. It is fixed in both time and space.</p></htmltext>
+<tokenext>It does n't rotate around the sun .
+It is fixed in both time and space .</tokentext>
+<sentencetext>It doesn't rotate around the sun.
+It is fixed in both time and space.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110547</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110851</id>
+	<title>Nothing new here, move along</title>
+	<author>Ancient\_Hacker</author>
+	<datestamp>1243444080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Pulsars have been used for geodesic measurements for about 30 years.   The nice short regular pulses make it possible to track the movement of continental plates down to the miliionth of a LOC length.</p></htmltext>
+<tokenext>Pulsars have been used for geodesic measurements for about 30 years .
+The nice short regular pulses make it possible to track the movement of continental plates down to the miliionth of a LOC length .</tokentext>
+<sentencetext>Pulsars have been used for geodesic measurements for about 30 years.
+The nice short regular pulses make it possible to track the movement of continental plates down to the miliionth of a LOC length.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28115275</id>
+	<title>Re:Problem with the galactic positioning system</title>
+	<author>AJNeufeld</author>
+	<datestamp>1243419480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>That the pulsars move relative to each other (and us) is true - but this is an extremely minor point.  The pulsars all have very large masses, which means it would take something HUGE to alter their trajectory significantly.  Until that happens, that large mass translates to very predictable movement.<br> <br>
+The periodicity of the pulsar is more problematic.  With a sudden introduction of mass, or a sudden readjustment in the matter of the pulsar, the frequency can abruptly change.  And yet, this isn't even so much of an issue.  The pulsars will be monitored from some location (Earth or otherwise), and changes to their behaviour can be uploaded to the Galactic Positioning System receivers shortly after the change is observed.  The receivers might compute positions incorrectly in the interim, but more likely "dead reckoning", combined with other pulsar observations could be used to determine the erroneous input, and ignore it until the update.<br> <br>
+A more serious "flaw" is that the pulsar emissions are not (at first blush) "marked" with an emission time.  One pulse looks more or less like the next.  If a pulse occurs once-a-second, this translates to 300,000 km between pulse fronts.  If your positioning space exceeds this length, you might end up with ambiguity in your resulting position calculation.  The other 3 pulsars will provide constraints, making certain "single pulse off-by-one" errors easily discarded.  But as your location space grows, it becomes more than possible for multiple location solutions to a given set of pulse-front timings.  With Earth's GPS system, each satellite's transmission is coded with both a satellite identifier and timing information, making this type of error impossible.</htmltext>
+<tokenext>That the pulsars move relative to each other ( and us ) is true - but this is an extremely minor point .
+The pulsars all have very large masses , which means it would take something HUGE to alter their trajectory significantly .
+Until that happens , that large mass translates to very predictable movement .
+The periodicity of the pulsar is more problematic .
+With a sudden introduction of mass , or a sudden readjustment in the matter of the pulsar , the frequency can abruptly change .
+And yet , this is n't even so much of an issue .
+The pulsars will be monitored from some location ( Earth or otherwise ) , and changes to their behaviour can be uploaded to the Galactic Positioning System receivers shortly after the change is observed .
+The receivers might compute positions incorrectly in the interim , but more likely " dead reckoning " , combined with other pulsar observations could be used to determine the erroneous input , and ignore it until the update .
+A more serious " flaw " is that the pulsar emissions are not ( at first blush ) " marked " with an emission time .
+One pulse looks more or less like the next .
+If a pulse occurs once-a-second , this translates to 300,000 km between pulse fronts .
+If your positioning space exceeds this length , you might end up with ambiguity in your resulting position calculation .
+The other 3 pulsars will provide constraints , making certain " single pulse off-by-one " errors easily discarded .
+But as your location space grows , it becomes more than possible for multiple location solutions to a given set of pulse-front timings .
+With Earth 's GPS system , each satellite 's transmission is coded with both a satellite identifier and timing information , making this type of error impossible .</tokentext>
+<sentencetext>That the pulsars move relative to each other (and us) is true - but this is an extremely minor point.
+The pulsars all have very large masses, which means it would take something HUGE to alter their trajectory significantly.
+Until that happens, that large mass translates to very predictable movement.
+The periodicity of the pulsar is more problematic.
+With a sudden introduction of mass, or a sudden readjustment in the matter of the pulsar, the frequency can abruptly change.
+And yet, this isn't even so much of an issue.
+The pulsars will be monitored from some location (Earth or otherwise), and changes to their behaviour can be uploaded to the Galactic Positioning System receivers shortly after the change is observed.
+The receivers might compute positions incorrectly in the interim, but more likely "dead reckoning", combined with other pulsar observations could be used to determine the erroneous input, and ignore it until the update.
+A more serious "flaw" is that the pulsar emissions are not (at first blush) "marked" with an emission time.
+One pulse looks more or less like the next.
+If a pulse occurs once-a-second, this translates to 300,000 km between pulse fronts.
+If your positioning space exceeds this length, you might end up with ambiguity in your resulting position calculation.
+The other 3 pulsars will provide constraints, making certain "single pulse off-by-one" errors easily discarded.
+But as your location space grows, it becomes more than possible for multiple location solutions to a given set of pulse-front timings.
+With Earth's GPS system, each satellite's transmission is coded with both a satellite identifier and timing information, making this type of error impossible.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110457</id>
+	<title>Re:Finally! That's a great use for them</title>
+	<author>SEWilco</author>
+	<datestamp>1243442760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Just make sure that you use at least 50\% blinker fluid in your windshield washer reservoir when traveling at relativistic speeds.  That will reduce wiper friction and reduce cosmic ray wear.</htmltext>
+<tokenext>Just make sure that you use at least 50 \ % blinker fluid in your windshield washer reservoir when traveling at relativistic speeds .
+That will reduce wiper friction and reduce cosmic ray wear .</tokentext>
+<sentencetext>Just make sure that you use at least 50\% blinker fluid in your windshield washer reservoir when traveling at relativistic speeds.
+That will reduce wiper friction and reduce cosmic ray wear.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110125</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28118305</id>
+	<title>While Technically Correct...</title>
+	<author>Anonymous</author>
+	<datestamp>1243436700000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>A minimum of 3 satellites are needed for position, but the results are mostly useless to the average person with that few satellites.  4 or more are needed.</p><p>As per Wikipedia:</p><p>"It might seem three satellites are enough to solve for position, since space has three dimensions. However, even a very small clock error multiplied by the very large speed of light[19]&#226;"the speed at which satellite signals propagate&#226;"results in a large positional error. Therefore receivers use four or more satellites to solve for x, y, z, and t, which is used to correct the receiver's clock. While most GPS applications use the computed location only and effectively hide the very accurately computed time, it is used in a few specialized GPS applications such as time transfer, traffic signal timing, and synchronization of cell phone base stations."</p><p>And to give some credit to this post, as per Ahmed El-Rabbany in "Introduction to GPS:  The Global Positioining System"</p><p>"To determine the receiver's point position at any time, the satellite coordinates as well as a minimum of four ranges to four satellites are required [2].  The receiver gets the satellite coordinates through the navigation message, while the ranges are obtained from either the C/A-code or the P(Y)-code, depending on the receiver type (civilian or military).  As mentioned before, the measured pseudoranges are contaiminated by both the satellite and receiver clock synchronization errors.  Correcting the satellite clock errors may be done by applying the satellite clock correction in the navigation message; the receiver clock error is treated as an additional unknown parameter in the estimation process [2].  This brings the total number of unknown parameters to four; three for the receiver coordinates and one for the receiver clock error.  This is the reason why at least four satellites are needed."</p><p>If you've ever turned on your GPS and it has initially said that you were across the country, that's likely because it only resolved 3 satellites.  Your car GPS, usually, quickly solves this by taking your last known height (with a known parameter ie. z-axis one only needs 3 satellites for an accurate position).  While a bit of a hack, it's usually good enough for handheld/car GPS accuracy.</p><p>As an aside, El-Rabbany in person is convoluted and a bit of a prick.  He did, however, have an excellent editor for his book.</p></htmltext>
+<tokenext>A minimum of 3 satellites are needed for position , but the results are mostly useless to the average person with that few satellites .
+4 or more are needed.As per Wikipedia : " It might seem three satellites are enough to solve for position , since space has three dimensions .
+However , even a very small clock error multiplied by the very large speed of light [ 19 ] √ ¢ " the speed at which satellite signals propagate √ ¢ " results in a large positional error .
+Therefore receivers use four or more satellites to solve for x , y , z , and t , which is used to correct the receiver 's clock .
+While most GPS applications use the computed location only and effectively hide the very accurately computed time , it is used in a few specialized GPS applications such as time transfer , traffic signal timing , and synchronization of cell phone base stations .
+" And to give some credit to this post , as per Ahmed El-Rabbany in " Introduction to GPS : The Global Positioining System " " To determine the receiver 's point position at any time , the satellite coordinates as well as a minimum of four ranges to four satellites are required [ 2 ] .
+The receiver gets the satellite coordinates through the navigation message , while the ranges are obtained from either the C/A-code or the P ( Y ) -code , depending on the receiver type ( civilian or military ) .
+As mentioned before , the measured pseudoranges are contaiminated by both the satellite and receiver clock synchronization errors .
+Correcting the satellite clock errors may be done by applying the satellite clock correction in the navigation message ; the receiver clock error is treated as an additional unknown parameter in the estimation process [ 2 ] .
+This brings the total number of unknown parameters to four ; three for the receiver coordinates and one for the receiver clock error .
+This is the reason why at least four satellites are needed .
+" If you 've ever turned on your GPS and it has initially said that you were across the country , that 's likely because it only resolved 3 satellites .
+Your car GPS , usually , quickly solves this by taking your last known height ( with a known parameter ie .
+z-axis one only needs 3 satellites for an accurate position ) .
+While a bit of a hack , it 's usually good enough for handheld/car GPS accuracy.As an aside , El-Rabbany in person is convoluted and a bit of a prick .
+He did , however , have an excellent editor for his book .</tokentext>
+<sentencetext>A minimum of 3 satellites are needed for position, but the results are mostly useless to the average person with that few satellites.
+4 or more are needed.As per Wikipedia:"It might seem three satellites are enough to solve for position, since space has three dimensions.
+However, even a very small clock error multiplied by the very large speed of light[19]√¢"the speed at which satellite signals propagate√¢"results in a large positional error.
+Therefore receivers use four or more satellites to solve for x, y, z, and t, which is used to correct the receiver's clock.
+While most GPS applications use the computed location only and effectively hide the very accurately computed time, it is used in a few specialized GPS applications such as time transfer, traffic signal timing, and synchronization of cell phone base stations.
+"And to give some credit to this post, as per Ahmed El-Rabbany in "Introduction to GPS:  The Global Positioining System""To determine the receiver's point position at any time, the satellite coordinates as well as a minimum of four ranges to four satellites are required [2].
+The receiver gets the satellite coordinates through the navigation message, while the ranges are obtained from either the C/A-code or the P(Y)-code, depending on the receiver type (civilian or military).
+As mentioned before, the measured pseudoranges are contaiminated by both the satellite and receiver clock synchronization errors.
+Correcting the satellite clock errors may be done by applying the satellite clock correction in the navigation message; the receiver clock error is treated as an additional unknown parameter in the estimation process [2].
+This brings the total number of unknown parameters to four; three for the receiver coordinates and one for the receiver clock error.
+This is the reason why at least four satellites are needed.
+"If you've ever turned on your GPS and it has initially said that you were across the country, that's likely because it only resolved 3 satellites.
+Your car GPS, usually, quickly solves this by taking your last known height (with a known parameter ie.
+z-axis one only needs 3 satellites for an accurate position).
+While a bit of a hack, it's usually good enough for handheld/car GPS accuracy.As an aside, El-Rabbany in person is convoluted and a bit of a prick.
+He did, however, have an excellent editor for his book.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111453</id>
+	<title>Re:Turn Left at the Next Nebula</title>
+	<author>eth1</author>
+	<datestamp>1243446420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>"Warp...five point nine...parsecs then exit hyperspace left"</p></htmltext>
+<tokenext>" Warp...five point nine...parsecs then exit hyperspace left "</tokentext>
+<sentencetext>"Warp...five point nine...parsecs then exit hyperspace left"</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110207</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28114057</id>
+	<title>Didn't Sagan think of this first</title>
+	<author>gatkinso</author>
+	<datestamp>1243457280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>On that plate he had welded to Voyager?</p></htmltext>
+<tokenext>On that plate he had welded to Voyager ?</tokentext>
+<sentencetext>On that plate he had welded to Voyager?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110409</id>
+	<title>Not interested</title>
+	<author>tygerstripes</author>
+	<datestamp>1243442520000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>1</modscore>
+	<htmltext>Sorry, but until it's supported by my iPhone...</htmltext>
+<tokenext>Sorry , but until it 's supported by my iPhone.. .</tokentext>
+<sentencetext>Sorry, but until it's supported by my iPhone...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111149</id>
+	<title>Re:Problem with the galactic positioning system</title>
+	<author>evanbd</author>
+	<datestamp>1243445340000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext>It makes the problem more complicated, but it does not add error.  You don't think the GPS satellites are stationary, do you?  The source of error here is uncertainty in the measurements of those positions.  And it actually isn't that bad -- start your spacecraft near Sol, with position well enough defined that you know which pulse you're receiving.  (When observing, you can only see the relative phasing of the pulsars, unlike GPS satellites which transmit a time base.)  Then you need to count pulses as you move.  You then know that, relative to your starting point (or, equivalently, the epoch), you've seen X0 pulses from pulsar 0, X1 from pulsar 1, etc.  Knowing how many pulses closer to each of the pulsars you are tells you how far you are from your starting point (in spacetime, not just space, obviously).  The error bars get larger as you move enough to get parallax effects -- since from Earth we can only measure the distance to a pulsar with modest precision, and its velocity perpendicular to us with even less.  If, however, you have a radio telescope that can resolve the position of the pulsar with good precision, you get to add a long baseline parallax measurement to correct for that.  Add a timebase transmitter at Earth as well, and the errors basically disappear -- errors of a few nanoseconds should be readily available.  And once you're far enough away from Sol to make that transmitter difficult (more than a few lightyears), you'll know the pulsar trajectories well enough it won't matter as much.</htmltext>
+<tokenext>It makes the problem more complicated , but it does not add error .
+You do n't think the GPS satellites are stationary , do you ?
+The source of error here is uncertainty in the measurements of those positions .
+And it actually is n't that bad -- start your spacecraft near Sol , with position well enough defined that you know which pulse you 're receiving .
+( When observing , you can only see the relative phasing of the pulsars , unlike GPS satellites which transmit a time base .
+) Then you need to count pulses as you move .
+You then know that , relative to your starting point ( or , equivalently , the epoch ) , you 've seen X0 pulses from pulsar 0 , X1 from pulsar 1 , etc .
+Knowing how many pulses closer to each of the pulsars you are tells you how far you are from your starting point ( in spacetime , not just space , obviously ) .
+The error bars get larger as you move enough to get parallax effects -- since from Earth we can only measure the distance to a pulsar with modest precision , and its velocity perpendicular to us with even less .
+If , however , you have a radio telescope that can resolve the position of the pulsar with good precision , you get to add a long baseline parallax measurement to correct for that .
+Add a timebase transmitter at Earth as well , and the errors basically disappear -- errors of a few nanoseconds should be readily available .
+And once you 're far enough away from Sol to make that transmitter difficult ( more than a few lightyears ) , you 'll know the pulsar trajectories well enough it wo n't matter as much .</tokentext>
+<sentencetext>It makes the problem more complicated, but it does not add error.
+You don't think the GPS satellites are stationary, do you?
+The source of error here is uncertainty in the measurements of those positions.
+And it actually isn't that bad -- start your spacecraft near Sol, with position well enough defined that you know which pulse you're receiving.
+(When observing, you can only see the relative phasing of the pulsars, unlike GPS satellites which transmit a time base.
+)  Then you need to count pulses as you move.
+You then know that, relative to your starting point (or, equivalently, the epoch), you've seen X0 pulses from pulsar 0, X1 from pulsar 1, etc.
+Knowing how many pulses closer to each of the pulsars you are tells you how far you are from your starting point (in spacetime, not just space, obviously).
+The error bars get larger as you move enough to get parallax effects -- since from Earth we can only measure the distance to a pulsar with modest precision, and its velocity perpendicular to us with even less.
+If, however, you have a radio telescope that can resolve the position of the pulsar with good precision, you get to add a long baseline parallax measurement to correct for that.
+Add a timebase transmitter at Earth as well, and the errors basically disappear -- errors of a few nanoseconds should be readily available.
+And once you're far enough away from Sol to make that transmitter difficult (more than a few lightyears), you'll know the pulsar trajectories well enough it won't matter as much.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28117371</id>
+	<title>Re:I would be pedantic, but...</title>
+	<author>Anonymous</author>
+	<datestamp>1243429560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>At this point, I'd normally be ranting about how the G in GPS stands for "Global", and that the summary is making an awful analogy, but then I realized that "Galactic" also begins with a G.</p><p>And then I realized that that still doesn't make "Galactic Global Positioning System" any better.</p></div><p>For mathematicians/physicists the word global generally does not mean "pertaining to Earth", but more along the lines of "universal".</p></div>
+	</htmltext>
+<tokenext>At this point , I 'd normally be ranting about how the G in GPS stands for " Global " , and that the summary is making an awful analogy , but then I realized that " Galactic " also begins with a G.And then I realized that that still does n't make " Galactic Global Positioning System " any better.For mathematicians/physicists the word global generally does not mean " pertaining to Earth " , but more along the lines of " universal " .</tokentext>
+<sentencetext>At this point, I'd normally be ranting about how the G in GPS stands for "Global", and that the summary is making an awful analogy, but then I realized that "Galactic" also begins with a G.And then I realized that that still doesn't make "Galactic Global Positioning System" any better.For mathematicians/physicists the word global generally does not mean "pertaining to Earth", but more along the lines of "universal".
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112981</id>
+	<title>zero position</title>
+	<author>aquabat</author>
+	<datestamp>1243452420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>If we're going to do this, could we please make the origin at 00:00 Jan 1. 1970? I'd hate to have to write yet another date conversion function.</htmltext>
+<tokenext>If we 're going to do this , could we please make the origin at 00 : 00 Jan 1 .
+1970 ? I 'd hate to have to write yet another date conversion function .</tokentext>
+<sentencetext>If we're going to do this, could we please make the origin at 00:00 Jan 1.
+1970? I'd hate to have to write yet another date conversion function.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28117909</id>
+	<title>Re:I would be pedantic, but...</title>
+	<author>TBBle</author>
+	<datestamp>1243433340000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Try <a href="http://en.wikipedia.org/wiki/The\_Hitchhiker's\_Guide\_to\_the\_Galaxy" title="wikipedia.org" rel="nofollow">"High-accurary Heliocentric Galactic Time-normalised Tetrahedron GPS"</a> [wikipedia.org] as a better acronym?</p></htmltext>
+<tokenext>Try " High-accurary Heliocentric Galactic Time-normalised Tetrahedron GPS " [ wikipedia.org ] as a better acronym ?</tokentext>
+<sentencetext>Try "High-accurary Heliocentric Galactic Time-normalised Tetrahedron GPS" [wikipedia.org] as a better acronym?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110283</id>
+	<title>Old Hat: The Pilgrims knew it before</title>
+	<author>yogibaer</author>
+	<datestamp>1243441980000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>3</modscore>
+	<htmltext>..as far as my "Wing Commander" Knowledge is still intact.<nobr> <wbr></nobr>:-)</htmltext>
+<tokenext>..as far as my " Wing Commander " Knowledge is still intact .
+: - )</tokentext>
+<sentencetext>..as far as my "Wing Commander" Knowledge is still intact.
+:-)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110145</id>
+	<title>Relativity also matters for GPS</title>
+	<author>Anonymous</author>
+	<datestamp>1243441440000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>&gt; The additional complexity of working with signals over these distances is that<br>&gt; relativity has to be taken into account...</p><p>Also true for high-precision GPS.</p></htmltext>
+<tokenext>&gt; The additional complexity of working with signals over these distances is that &gt; relativity has to be taken into account...Also true for high-precision GPS .</tokentext>
+<sentencetext>&gt; The additional complexity of working with signals over these distances is that&gt; relativity has to be taken into account...Also true for high-precision GPS.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111475</id>
+	<title>Galactic ? 1m is good enough on earth</title>
+	<author>OeLeWaPpErKe</author>
+	<datestamp>1243446540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>A good question is whether it would be feasible to receive these signals in a handheld device. Pulsars may not be eternal, but they're quite close indeed to that ideal, certainly much more so than any satellite we'd ever put in orbit.</p><p>In other words : could this be used as a GPS system on earth ? I believe 1 meter is more accurate than even recent GPS devices provide. Also, could this be used to have instant clock-sync in just about any computer in 3 components (an RC circuit to tune to the correct frequency) ?</p></htmltext>
+<tokenext>A good question is whether it would be feasible to receive these signals in a handheld device .
+Pulsars may not be eternal , but they 're quite close indeed to that ideal , certainly much more so than any satellite we 'd ever put in orbit.In other words : could this be used as a GPS system on earth ?
+I believe 1 meter is more accurate than even recent GPS devices provide .
+Also , could this be used to have instant clock-sync in just about any computer in 3 components ( an RC circuit to tune to the correct frequency ) ?</tokentext>
+<sentencetext>A good question is whether it would be feasible to receive these signals in a handheld device.
+Pulsars may not be eternal, but they're quite close indeed to that ideal, certainly much more so than any satellite we'd ever put in orbit.In other words : could this be used as a GPS system on earth ?
+I believe 1 meter is more accurate than even recent GPS devices provide.
+Also, could this be used to have instant clock-sync in just about any computer in 3 components (an RC circuit to tune to the correct frequency) ?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110237</id>
+	<title>oblig one-liner</title>
+	<author>ad0n</author>
+	<datestamp>1243441740000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext>make it so number one</htmltext>
+<tokenext>make it so number one</tokentext>
+<sentencetext>make it so number one</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28119803</id>
+	<title>Not a new idea</title>
+	<author>thogard</author>
+	<datestamp>1243451160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I've been looking into this since 2001.  The biggest real problem is detecting the pulsars.  The free space signal loss is on the order of -400db.  The math is much harder than dealing with GPS and you have to find the easy way to figure out tick counts.   Other than that, its workable. Modern GPS receivers do have methods to remove pulsar noise from the signals they are watching.  Defining a coordinate system will be a mess as well but that could lead to a reasonable way to define things for all planets as well.  Nearly everything in space rotates and most rotate the same direction in about the same plane so you can define a north and south.  The real problem is how do you define the origin of Longitude?  I suspect the best way is define it by the highest point on the planet but that leads to problems when the highest point is at the unstable edge of an active volcano.  What do you use as a reference for a solar system or a galaxy?</p></htmltext>
+<tokenext>I 've been looking into this since 2001 .
+The biggest real problem is detecting the pulsars .
+The free space signal loss is on the order of -400db .
+The math is much harder than dealing with GPS and you have to find the easy way to figure out tick counts .
+Other than that , its workable .
+Modern GPS receivers do have methods to remove pulsar noise from the signals they are watching .
+Defining a coordinate system will be a mess as well but that could lead to a reasonable way to define things for all planets as well .
+Nearly everything in space rotates and most rotate the same direction in about the same plane so you can define a north and south .
+The real problem is how do you define the origin of Longitude ?
+I suspect the best way is define it by the highest point on the planet but that leads to problems when the highest point is at the unstable edge of an active volcano .
+What do you use as a reference for a solar system or a galaxy ?</tokentext>
+<sentencetext>I've been looking into this since 2001.
+The biggest real problem is detecting the pulsars.
+The free space signal loss is on the order of -400db.
+The math is much harder than dealing with GPS and you have to find the easy way to figure out tick counts.
+Other than that, its workable.
+Modern GPS receivers do have methods to remove pulsar noise from the signals they are watching.
+Defining a coordinate system will be a mess as well but that could lead to a reasonable way to define things for all planets as well.
+Nearly everything in space rotates and most rotate the same direction in about the same plane so you can define a north and south.
+The real problem is how do you define the origin of Longitude?
+I suspect the best way is define it by the highest point on the planet but that leads to problems when the highest point is at the unstable edge of an active volcano.
+What do you use as a reference for a solar system or a galaxy?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28114055</id>
+	<title>Fine, until ...</title>
+	<author>PPH</author>
+	<datestamp>1243457280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>... the aliens turn on <a href="http://en.wikipedia.org/wiki/SAASM" title="wikipedia.org">SA</a> [wikipedia.org] and encrypt the pulsar's timing signals.</htmltext>
+<tokenext>... the aliens turn on SA [ wikipedia.org ] and encrypt the pulsar 's timing signals .</tokentext>
+<sentencetext>... the aliens turn on SA [wikipedia.org] and encrypt the pulsar's timing signals.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110567</id>
+	<title>Re:Already been done</title>
+	<author>Anonymous</author>
+	<datestamp>1243443060000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Actually the closest we have to an inertial reference frame in the solar system is already using this idea. It has been extended to a terrestrial reference frame later. Informative links:</p><p>ICRF: <a href="http://en.wikipedia.org/wiki/International\_Celestial\_Reference\_Frame" title="wikipedia.org" rel="nofollow">http://en.wikipedia.org/wiki/International\_Celestial\_Reference\_Frame</a> [wikipedia.org]<br>ITRF: <a href="http://en.wikipedia.org/wiki/International\_Terrestrial\_Reference\_Frame" title="wikipedia.org" rel="nofollow">http://en.wikipedia.org/wiki/International\_Terrestrial\_Reference\_Frame</a> [wikipedia.org]</p><p>The technique used in both cases (which is prettey cool): <a href="http://en.wikipedia.org/wiki/VLBI" title="wikipedia.org" rel="nofollow">http://en.wikipedia.org/wiki/VLBI</a> [wikipedia.org]</p></htmltext>
+<tokenext>Actually the closest we have to an inertial reference frame in the solar system is already using this idea .
+It has been extended to a terrestrial reference frame later .
+Informative links : ICRF : http : //en.wikipedia.org/wiki/International \ _Celestial \ _Reference \ _Frame [ wikipedia.org ] ITRF : http : //en.wikipedia.org/wiki/International \ _Terrestrial \ _Reference \ _Frame [ wikipedia.org ] The technique used in both cases ( which is prettey cool ) : http : //en.wikipedia.org/wiki/VLBI [ wikipedia.org ]</tokentext>
+<sentencetext>Actually the closest we have to an inertial reference frame in the solar system is already using this idea.
+It has been extended to a terrestrial reference frame later.
+Informative links:ICRF: http://en.wikipedia.org/wiki/International\_Celestial\_Reference\_Frame [wikipedia.org]ITRF: http://en.wikipedia.org/wiki/International\_Terrestrial\_Reference\_Frame [wikipedia.org]The technique used in both cases (which is prettey cool): http://en.wikipedia.org/wiki/VLBI [wikipedia.org]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110225</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28113837</id>
+	<title>Re:How accurate does it need to be?</title>
+	<author>GodfatherofSoul</author>
+	<datestamp>1243456140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>You ever have to walk a few million miles to the nearest gas station because your girlfriend forgot to fill the tank?  No thanks, man.</htmltext>
+<tokenext>You ever have to walk a few million miles to the nearest gas station because your girlfriend forgot to fill the tank ?
+No thanks , man .</tokentext>
+<sentencetext>You ever have to walk a few million miles to the nearest gas station because your girlfriend forgot to fill the tank?
+No thanks, man.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110487</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28122267</id>
+	<title>Point in space-time</title>
+	<author>dugeen</author>
+	<datestamp>1243518840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Relativity is not the reason for stating both the location and time of the origin. Cambridge moves through space along with the Earth, on which it is located. Even only in terms of its location relative to the Sun, Cambridge is 200 million miles in July from where it was in January.</htmltext>
+<tokenext>Relativity is not the reason for stating both the location and time of the origin .
+Cambridge moves through space along with the Earth , on which it is located .
+Even only in terms of its location relative to the Sun , Cambridge is 200 million miles in July from where it was in January .</tokentext>
+<sentencetext>Relativity is not the reason for stating both the location and time of the origin.
+Cambridge moves through space along with the Earth, on which it is located.
+Even only in terms of its location relative to the Sun, Cambridge is 200 million miles in July from where it was in January.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111025</id>
+	<title>remember the millennium bug</title>
+	<author>G3ckoG33k</author>
+	<datestamp>1243444920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>"They propose using four pulsars that form a rough tetrahedron with the Solar System at its center, and a co-ordinate system with its origin at 00:00 on 1 January 2001 at the focal point of the Interplanetary Scintillation Array, the radio telescope near Cambridge in the UK that first observed pulsars."</p><p>I really really hope they remember the millennium bug. We don't want to creat another one of those, do we?</p></htmltext>
+<tokenext>" They propose using four pulsars that form a rough tetrahedron with the Solar System at its center , and a co-ordinate system with its origin at 00 : 00 on 1 January 2001 at the focal point of the Interplanetary Scintillation Array , the radio telescope near Cambridge in the UK that first observed pulsars .
+" I really really hope they remember the millennium bug .
+We do n't want to creat another one of those , do we ?</tokentext>
+<sentencetext>"They propose using four pulsars that form a rough tetrahedron with the Solar System at its center, and a co-ordinate system with its origin at 00:00 on 1 January 2001 at the focal point of the Interplanetary Scintillation Array, the radio telescope near Cambridge in the UK that first observed pulsars.
+"I really really hope they remember the millennium bug.
+We don't want to creat another one of those, do we?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110489</id>
+	<title>Antenna?</title>
+	<author>srussia</author>
+	<datestamp>1243442820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>How large would the antennas need to be?</htmltext>
+<tokenext>How large would the antennas need to be ?</tokentext>
+<sentencetext>How large would the antennas need to be?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112649</id>
+	<title>Re:Old news....</title>
+	<author>Anonymous</author>
+	<datestamp>1243451040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>This is a poor idea from an engineering standpoint because it requires having a large collecting area of radio dishes in order to get an apporpriate signal level.</p></div><p>But that creates <em>jobs</em> man, and jobs right now are much more important than silly things like efficiency and productivity.</p></div>
+	</htmltext>
+<tokenext>This is a poor idea from an engineering standpoint because it requires having a large collecting area of radio dishes in order to get an apporpriate signal level.But that creates jobs man , and jobs right now are much more important than silly things like efficiency and productivity .</tokentext>
+<sentencetext>This is a poor idea from an engineering standpoint because it requires having a large collecting area of radio dishes in order to get an apporpriate signal level.But that creates jobs man, and jobs right now are much more important than silly things like efficiency and productivity.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110463</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110515</id>
+	<title>I find solutions...</title>
+	<author>dogganos</author>
+	<datestamp>1243442880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>...to non-existing problems hilarious!</p></htmltext>
+<tokenext>...to non-existing problems hilarious !</tokentext>
+<sentencetext>...to non-existing problems hilarious!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112889</id>
+	<title>Re:origin</title>
+	<author>maxume</author>
+	<datestamp>1243452060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The present position of Cambridge doesn't factor into it. Unless you are trying to compare something to the present position of Cambridge.</p></htmltext>
+<tokenext>The present position of Cambridge does n't factor into it .
+Unless you are trying to compare something to the present position of Cambridge .</tokentext>
+<sentencetext>The present position of Cambridge doesn't factor into it.
+Unless you are trying to compare something to the present position of Cambridge.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110757</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110463</id>
+	<title>Old news....</title>
+	<author>Anonymous</author>
+	<datestamp>1243442760000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext>This is not a new idea.  Actually, this idea has been thought about before and dismissed.  The researchers referenced propose using millisecond radio pulsars for navigation.  This is a poor idea from an engineering standpoint because it requires having a large collecting area of radio dishes in order to get an apporpriate signal level.<br>
+<br>
+A better idea, which is currently being researched, and was suggested four years ago (at least the earliest I recall it being mentioned) was using x-ray pulsars, which require much smaller collecting area.  See for example <a href="http://www.lib.umd.edu/drum/handle/1903/2856" title="umd.edu" rel="nofollow"> this thesis </a> [umd.edu] on the subject.</htmltext>
+<tokenext>This is not a new idea .
+Actually , this idea has been thought about before and dismissed .
+The researchers referenced propose using millisecond radio pulsars for navigation .
+This is a poor idea from an engineering standpoint because it requires having a large collecting area of radio dishes in order to get an apporpriate signal level .
+A better idea , which is currently being researched , and was suggested four years ago ( at least the earliest I recall it being mentioned ) was using x-ray pulsars , which require much smaller collecting area .
+See for example this thesis [ umd.edu ] on the subject .</tokentext>
+<sentencetext>This is not a new idea.
+Actually, this idea has been thought about before and dismissed.
+The researchers referenced propose using millisecond radio pulsars for navigation.
+This is a poor idea from an engineering standpoint because it requires having a large collecting area of radio dishes in order to get an apporpriate signal level.
+A better idea, which is currently being researched, and was suggested four years ago (at least the earliest I recall it being mentioned) was using x-ray pulsars, which require much smaller collecting area.
+See for example  this thesis  [umd.edu] on the subject.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112499</id>
+	<title>Re:I would be pedantic, but...</title>
+	<author>dotancohen</author>
+	<datestamp>1243450500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Actually, this has already been done. The Pioneer Plaques gave the location of the Earth, as relative to pulsars:<br><a href="http://en.wikipedia.org/wiki/Pioneer\_plaque" title="wikipedia.org">http://en.wikipedia.org/wiki/Pioneer\_plaque</a> [wikipedia.org]</p></htmltext>
+<tokenext>Actually , this has already been done .
+The Pioneer Plaques gave the location of the Earth , as relative to pulsars : http : //en.wikipedia.org/wiki/Pioneer \ _plaque [ wikipedia.org ]</tokentext>
+<sentencetext>Actually, this has already been done.
+The Pioneer Plaques gave the location of the Earth, as relative to pulsars:http://en.wikipedia.org/wiki/Pioneer\_plaque [wikipedia.org]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111333</id>
+	<title>When out of the galaxy...</title>
+	<author>dargaud</author>
+	<datestamp>1243446000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>...you can use triangulation with known quasars, which is easy but imprecise.</htmltext>
+<tokenext>...you can use triangulation with known quasars , which is easy but imprecise .</tokentext>
+<sentencetext>...you can use triangulation with known quasars, which is easy but imprecise.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28120013</id>
+	<title>Are pulsars part of an ET navigation system|?</title>
+	<author>Enviro</author>
+	<datestamp>1243454340000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Don't laugh!<nobr> <wbr></nobr>:-) This reminds me of Dr. Paul LaViolette's theory on extraterrestial beacons in outerspace.<br>
+<br>"Our modern society is dependent on accurate timekeeping, which is why we rely on atomic clocks to give the correct time for use with the myriad of timekeeping devices we use today. Just as we rely on atomic clocks for split-second accuracy, they in turn are set using pulsars. First discovered in 1967, pulsars are rotating neutron stars that emit electromagnetic radiation in the form of radio waves.
+
+According to LaViolette, pulsars are not naturally occurring objects, but rather, they represent an intelligent design. One intended for timekeeping, navigation and which serves as a faster-than-light warning system for events called galactic superwaves. At best, these superwaves are an annoyance to industrialized societies. At worst, they can and do trigger extinction level events (ELE). LaViolette tells that there have already been numerous ELE cataclysms on Earth and that our planet is now moving into the cross-hairs of yet another."<br> <br>
+
+<a href="http://yowusa.com/radio/cttc/2007/cttc-0307-68/1.shtml" title="yowusa.com" rel="nofollow">
+found here
+</a> [yowusa.com]
+<br> <br>
+Dr. Paul LaViolette has written four books and has published many original papers in physics, astronomy, climatology, systems theory, and psychology. He received his BA in physics from Johns Hopkins, his MBA from the University of Chicago, and PhD from Portland State University, and is currently president of the Starburst Foundation, an interdisciplinary scientific research institute. He is the developer of subquantum kinetics, a novel approach to microphysics that accounts for electric, magnetic, gravitational, and nuclear forces in a unified manner and resolves many long-standing physics problems. Based on the predictions of this theory, he developed an alternative cosmology that effectively replaces the big bang theory."<br> <br>
+<a href="http://www.topsecrettestimony.com/Witnesses/AllWitnesses/DrPaulLaViolette/tabid/259/Default.aspx" title="topsecrettestimony.com" rel="nofollow">
+click
+</a> [topsecrettestimony.com]</htmltext>
+<tokenext>Do n't laugh !
+: - ) This reminds me of Dr. Paul LaViolette 's theory on extraterrestial beacons in outerspace .
+" Our modern society is dependent on accurate timekeeping , which is why we rely on atomic clocks to give the correct time for use with the myriad of timekeeping devices we use today .
+Just as we rely on atomic clocks for split-second accuracy , they in turn are set using pulsars .
+First discovered in 1967 , pulsars are rotating neutron stars that emit electromagnetic radiation in the form of radio waves .
+According to LaViolette , pulsars are not naturally occurring objects , but rather , they represent an intelligent design .
+One intended for timekeeping , navigation and which serves as a faster-than-light warning system for events called galactic superwaves .
+At best , these superwaves are an annoyance to industrialized societies .
+At worst , they can and do trigger extinction level events ( ELE ) .
+LaViolette tells that there have already been numerous ELE cataclysms on Earth and that our planet is now moving into the cross-hairs of yet another .
+" found here [ yowusa.com ] Dr. Paul LaViolette has written four books and has published many original papers in physics , astronomy , climatology , systems theory , and psychology .
+He received his BA in physics from Johns Hopkins , his MBA from the University of Chicago , and PhD from Portland State University , and is currently president of the Starburst Foundation , an interdisciplinary scientific research institute .
+He is the developer of subquantum kinetics , a novel approach to microphysics that accounts for electric , magnetic , gravitational , and nuclear forces in a unified manner and resolves many long-standing physics problems .
+Based on the predictions of this theory , he developed an alternative cosmology that effectively replaces the big bang theory .
+" click [ topsecrettestimony.com ]</tokentext>
+<sentencetext>Don't laugh!
+:-) This reminds me of Dr. Paul LaViolette's theory on extraterrestial beacons in outerspace.
+"Our modern society is dependent on accurate timekeeping, which is why we rely on atomic clocks to give the correct time for use with the myriad of timekeeping devices we use today.
+Just as we rely on atomic clocks for split-second accuracy, they in turn are set using pulsars.
+First discovered in 1967, pulsars are rotating neutron stars that emit electromagnetic radiation in the form of radio waves.
+According to LaViolette, pulsars are not naturally occurring objects, but rather, they represent an intelligent design.
+One intended for timekeeping, navigation and which serves as a faster-than-light warning system for events called galactic superwaves.
+At best, these superwaves are an annoyance to industrialized societies.
+At worst, they can and do trigger extinction level events (ELE).
+LaViolette tells that there have already been numerous ELE cataclysms on Earth and that our planet is now moving into the cross-hairs of yet another.
+" 
+
+
+found here
+ [yowusa.com]
+ 
+Dr. Paul LaViolette has written four books and has published many original papers in physics, astronomy, climatology, systems theory, and psychology.
+He received his BA in physics from Johns Hopkins, his MBA from the University of Chicago, and PhD from Portland State University, and is currently president of the Starburst Foundation, an interdisciplinary scientific research institute.
+He is the developer of subquantum kinetics, a novel approach to microphysics that accounts for electric, magnetic, gravitational, and nuclear forces in a unified manner and resolves many long-standing physics problems.
+Based on the predictions of this theory, he developed an alternative cosmology that effectively replaces the big bang theory.
+" 
+
+click
+ [topsecrettestimony.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28113131</id>
+	<title>Galactic [G]PS in a watch?</title>
+	<author>OrangeTide</author>
+	<datestamp>1243453020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Now I'm just waiting for a several thousand dollar luxury wristwatch that can scan for pulsars.</p></htmltext>
+<tokenext>Now I 'm just waiting for a several thousand dollar luxury wristwatch that can scan for pulsars .</tokentext>
+<sentencetext>Now I'm just waiting for a several thousand dollar luxury wristwatch that can scan for pulsars.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111987</id>
+	<title>Re:Turn Left at the Next Nebula</title>
+	<author>psydeshow</author>
+	<datestamp>1243448460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>You're not going to be able to prove that you developed FTL travel until you can prove that you got to somewhere (and back, presumably) at faster than the speed of light. A galactic positioning system would be quite handy for figuring out exactly where that somewhere was, and how to get back home.</p><p>Anyway, it would be quite nice to know exactly where you were even if you stayed within our solar system. Plenty of room to get lost out there...</p></htmltext>
+<tokenext>You 're not going to be able to prove that you developed FTL travel until you can prove that you got to somewhere ( and back , presumably ) at faster than the speed of light .
+A galactic positioning system would be quite handy for figuring out exactly where that somewhere was , and how to get back home.Anyway , it would be quite nice to know exactly where you were even if you stayed within our solar system .
+Plenty of room to get lost out there.. .</tokentext>
+<sentencetext>You're not going to be able to prove that you developed FTL travel until you can prove that you got to somewhere (and back, presumably) at faster than the speed of light.
+A galactic positioning system would be quite handy for figuring out exactly where that somewhere was, and how to get back home.Anyway, it would be quite nice to know exactly where you were even if you stayed within our solar system.
+Plenty of room to get lost out there...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110207</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111295</id>
+	<title>this idea is at least 40 years old</title>
+	<author>peter303</author>
+	<datestamp>1243445820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>It was conceived about the time pulsars were discovered.</htmltext>
+<tokenext>It was conceived about the time pulsars were discovered .</tokentext>
+<sentencetext>It was conceived about the time pulsars were discovered.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28113945</id>
+	<title>Stranded in our solar system</title>
+	<author>GodfatherofSoul</author>
+	<datestamp>1243456620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Kinda off-topic, but one of my sci-fi horror scenarios would be being lost in near space, out of sight of earth (far enough that it looks like another star), with limited propulsion (based on an issue of the comic Star Brand decades ago where the hero gets into a fight in space and becomes disoriented).  Would this device work as well as a handheld blackbox GPS that you could use to orient yourself home?</htmltext>
+<tokenext>Kinda off-topic , but one of my sci-fi horror scenarios would be being lost in near space , out of sight of earth ( far enough that it looks like another star ) , with limited propulsion ( based on an issue of the comic Star Brand decades ago where the hero gets into a fight in space and becomes disoriented ) .
+Would this device work as well as a handheld blackbox GPS that you could use to orient yourself home ?</tokentext>
+<sentencetext>Kinda off-topic, but one of my sci-fi horror scenarios would be being lost in near space, out of sight of earth (far enough that it looks like another star), with limited propulsion (based on an issue of the comic Star Brand decades ago where the hero gets into a fight in space and becomes disoriented).
+Would this device work as well as a handheld blackbox GPS that you could use to orient yourself home?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112909</id>
+	<title>Just in time for the Touch refresh...</title>
+	<author>Opr33Opr33</author>
+	<datestamp>1243452120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Here I was just hoping for standard GPS in the next iPod Touch but Galactic GPS - WOW!
+<br> <br>
+Will it have audible turn by turn? If so please let it come with Majel Barrett's voice.</htmltext>
+<tokenext>Here I was just hoping for standard GPS in the next iPod Touch but Galactic GPS - WOW !
+Will it have audible turn by turn ?
+If so please let it come with Majel Barrett 's voice .</tokentext>
+<sentencetext>Here I was just hoping for standard GPS in the next iPod Touch but Galactic GPS - WOW!
+Will it have audible turn by turn?
+If so please let it come with Majel Barrett's voice.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111169</id>
+	<title>Dupe from 37 Years Ago.  Pioneer 1 Plaque</title>
+	<author>Anonymous</author>
+	<datestamp>1243445400000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>Quoting from <a href="http://en.wikipedia.org/wiki/Pioneer\_plaque#Relative\_position\_of\_the\_Sun\_to\_the\_center\_of\_the\_Galaxy\_and\_14\_pulsars" title="wikipedia.org">Wikipedia</a> [wikipedia.org]:</p><p>Relative position of the Sun to the center of the Galaxy and 14 pulsars</p><p>The radial pattern on the left of the plaque shows 15 lines emanating from the same origin. Fourteen of the lines have corresponding long binary numbers, which stand for the periods of pulsars, using the hydrogen spin-flip transition frequency as the unit. Since these periods will change over time, the epoch of the launch can be calculated from these values.</p><p>The lengths of the lines show the relative distances of the pulsars to the Sun. A tick mark at the end of each line gives the Z coordinate perpendicular to the galactic plane.</p><p>If the plaque is found, only some of the pulsars may be visible from the location of its discovery. Showing the location with as many as 14 pulsars provides redundancy so that the location of the origin can be triangulated even if only some of the pulsars are recognized.</p><p>The data for one of the pulsars is misleading. When the plaque was designed, the frequency of pulsar "1240" (now known as J1243-6423) was known to only three significant decimal digits: 0.388 seconds. The map lists the period of this pulsar in binary to much greater precision: 100000110110010110001001111000. Rounding this off at about 10 significant bits (100000110100000000000000000000) would have provided a hint of this uncertainty. This pulsar is represented by the long line pointing down and to the right.</p><p>The fifteenth line on the plaque extends to the far right, behind the human figures. This line indicates the sun's relative distance to the center of the galaxy.</p></htmltext>
+<tokenext>Quoting from Wikipedia [ wikipedia.org ] : Relative position of the Sun to the center of the Galaxy and 14 pulsarsThe radial pattern on the left of the plaque shows 15 lines emanating from the same origin .
+Fourteen of the lines have corresponding long binary numbers , which stand for the periods of pulsars , using the hydrogen spin-flip transition frequency as the unit .
+Since these periods will change over time , the epoch of the launch can be calculated from these values.The lengths of the lines show the relative distances of the pulsars to the Sun .
+A tick mark at the end of each line gives the Z coordinate perpendicular to the galactic plane.If the plaque is found , only some of the pulsars may be visible from the location of its discovery .
+Showing the location with as many as 14 pulsars provides redundancy so that the location of the origin can be triangulated even if only some of the pulsars are recognized.The data for one of the pulsars is misleading .
+When the plaque was designed , the frequency of pulsar " 1240 " ( now known as J1243-6423 ) was known to only three significant decimal digits : 0.388 seconds .
+The map lists the period of this pulsar in binary to much greater precision : 100000110110010110001001111000 .
+Rounding this off at about 10 significant bits ( 100000110100000000000000000000 ) would have provided a hint of this uncertainty .
+This pulsar is represented by the long line pointing down and to the right.The fifteenth line on the plaque extends to the far right , behind the human figures .
+This line indicates the sun 's relative distance to the center of the galaxy .</tokentext>
+<sentencetext>Quoting from Wikipedia [wikipedia.org]:Relative position of the Sun to the center of the Galaxy and 14 pulsarsThe radial pattern on the left of the plaque shows 15 lines emanating from the same origin.
+Fourteen of the lines have corresponding long binary numbers, which stand for the periods of pulsars, using the hydrogen spin-flip transition frequency as the unit.
+Since these periods will change over time, the epoch of the launch can be calculated from these values.The lengths of the lines show the relative distances of the pulsars to the Sun.
+A tick mark at the end of each line gives the Z coordinate perpendicular to the galactic plane.If the plaque is found, only some of the pulsars may be visible from the location of its discovery.
+Showing the location with as many as 14 pulsars provides redundancy so that the location of the origin can be triangulated even if only some of the pulsars are recognized.The data for one of the pulsars is misleading.
+When the plaque was designed, the frequency of pulsar "1240" (now known as J1243-6423) was known to only three significant decimal digits: 0.388 seconds.
+The map lists the period of this pulsar in binary to much greater precision: 100000110110010110001001111000.
+Rounding this off at about 10 significant bits (100000110100000000000000000000) would have provided a hint of this uncertainty.
+This pulsar is represented by the long line pointing down and to the right.The fifteenth line on the plaque extends to the far right, behind the human figures.
+This line indicates the sun's relative distance to the center of the galaxy.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28145661</id>
+	<title>Re:Problem with the galactic positioning system</title>
+	<author>woolio</author>
+	<datestamp>1243602180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><b> And it actually isn't that bad -- start your spacecraft near Sol</b></p><p>Well, sure, but not TOO NEAR!!!!</p><p>(Sol is a bit warm!)</p><p>What about gravitational effects bending the light waves?</p></htmltext>
+<tokenext>And it actually is n't that bad -- start your spacecraft near SolWell , sure , but not TOO NEAR ! ! ! !
+( Sol is a bit warm !
+) What about gravitational effects bending the light waves ?</tokentext>
+<sentencetext> And it actually isn't that bad -- start your spacecraft near SolWell, sure, but not TOO NEAR!!!!
+(Sol is a bit warm!
+)What about gravitational effects bending the light waves?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111149</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110977</id>
+	<title>Re:geocentrism</title>
+	<author>PTBarnum</author>
+	<datestamp>1243444680000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>The native coordinate system is not a euclidean grid.  Think of the pulsars as being clocks that are continuously broadcasting their local time.  The 4 spacetime coordinates they define are just the values of those 4 clocks.   In order to normalize this, I need to choose a 0 point for each clock, and the authors chose the values of the clocks as observed in Cambridge at the beginning of the millenium.  Apparerently, by observing the signals, I can decide how much time (to the nearest 4 ns) had elapsed at each pulsar, at the time it broadcast the signal I'm now receiving.  I can then define a transform that maps those 4 numbers into whatever local coordinate system I want.  I could convert it to longitude/lattitude/UTC for terrestrial navigation, or some sort of heliocentric system for planetary navigation, or a galactic system for interstellar navigation.</p></htmltext>
+<tokenext>The native coordinate system is not a euclidean grid .
+Think of the pulsars as being clocks that are continuously broadcasting their local time .
+The 4 spacetime coordinates they define are just the values of those 4 clocks .
+In order to normalize this , I need to choose a 0 point for each clock , and the authors chose the values of the clocks as observed in Cambridge at the beginning of the millenium .
+Apparerently , by observing the signals , I can decide how much time ( to the nearest 4 ns ) had elapsed at each pulsar , at the time it broadcast the signal I 'm now receiving .
+I can then define a transform that maps those 4 numbers into whatever local coordinate system I want .
+I could convert it to longitude/lattitude/UTC for terrestrial navigation , or some sort of heliocentric system for planetary navigation , or a galactic system for interstellar navigation .</tokentext>
+<sentencetext>The native coordinate system is not a euclidean grid.
+Think of the pulsars as being clocks that are continuously broadcasting their local time.
+The 4 spacetime coordinates they define are just the values of those 4 clocks.
+In order to normalize this, I need to choose a 0 point for each clock, and the authors chose the values of the clocks as observed in Cambridge at the beginning of the millenium.
+Apparerently, by observing the signals, I can decide how much time (to the nearest 4 ns) had elapsed at each pulsar, at the time it broadcast the signal I'm now receiving.
+I can then define a transform that maps those 4 numbers into whatever local coordinate system I want.
+I could convert it to longitude/lattitude/UTC for terrestrial navigation, or some sort of heliocentric system for planetary navigation, or a galactic system for interstellar navigation.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110547</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28113439</id>
+	<title>Oh great</title>
+	<author>Rick Genter</author>
+	<datestamp>1243454220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Now people will have an excuse for driving their starships straight into a supernova. "But the GPS said to turn 'up' here!"</p></htmltext>
+<tokenext>Now people will have an excuse for driving their starships straight into a supernova .
+" But the GPS said to turn 'up ' here !
+"</tokentext>
+<sentencetext>Now people will have an excuse for driving their starships straight into a supernova.
+"But the GPS said to turn 'up' here!
+"</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111645</id>
+	<title>Far bigger problem: Directionality</title>
+	<author>Roger W Moore</author>
+	<datestamp>1243447080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>A far bigger problem is the directionality of the emissions. They send out highly directional beams. These will sweep out a hollow cone of some width. However if you move outside that cone you will not get a signal. This will mean that far more pulsars than just the four mentioned in the article will need to be mapped if you want to cover the galaxy.</htmltext>
+<tokenext>A far bigger problem is the directionality of the emissions .
+They send out highly directional beams .
+These will sweep out a hollow cone of some width .
+However if you move outside that cone you will not get a signal .
+This will mean that far more pulsars than just the four mentioned in the article will need to be mapped if you want to cover the galaxy .</tokentext>
+<sentencetext>A far bigger problem is the directionality of the emissions.
+They send out highly directional beams.
+These will sweep out a hollow cone of some width.
+However if you move outside that cone you will not get a signal.
+This will mean that far more pulsars than just the four mentioned in the article will need to be mapped if you want to cover the galaxy.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110487</id>
+	<title>How accurate does it need to be?</title>
+	<author>wjousts</author>
+	<datestamp>1243442820000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><div class="quote"><p>Any proposed Galactic Positioning System would have to take the slowing into account, and since it is poorly understood and not completely predictable, this would limit accuracy.</p></div><p>Since we're dealing with interstellar distances, just how accurate do you need to be? Being off by a few million miles might be pretty good if you're talking about light-years of travel.</p></div>
+	</htmltext>
+<tokenext>Any proposed Galactic Positioning System would have to take the slowing into account , and since it is poorly understood and not completely predictable , this would limit accuracy.Since we 're dealing with interstellar distances , just how accurate do you need to be ?
+Being off by a few million miles might be pretty good if you 're talking about light-years of travel .</tokentext>
+<sentencetext>Any proposed Galactic Positioning System would have to take the slowing into account, and since it is poorly understood and not completely predictable, this would limit accuracy.Since we're dealing with interstellar distances, just how accurate do you need to be?
+Being off by a few million miles might be pretty good if you're talking about light-years of travel.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111261</id>
+	<title>Re:Problem with the galactic positioning system</title>
+	<author>pacificleo</author>
+	<datestamp>1243445700000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>I see a problem with this immediately:</p></div><p> your fear are misplaced . Migratory birds have been using Earth's magnetic field to navigate accurately for ages. AFAIK Pulsars are having somewhat simmilar mechanism. additionally any navigation system is supposed to give you a genral sense of direction don't expect it to plot the curve for you.</p></div>
+	</htmltext>
+<tokenext>I see a problem with this immediately : your fear are misplaced .
+Migratory birds have been using Earth 's magnetic field to navigate accurately for ages .
+AFAIK Pulsars are having somewhat simmilar mechanism .
+additionally any navigation system is supposed to give you a genral sense of direction do n't expect it to plot the curve for you .</tokentext>
+<sentencetext>I see a problem with this immediately: your fear are misplaced .
+Migratory birds have been using Earth's magnetic field to navigate accurately for ages.
+AFAIK Pulsars are having somewhat simmilar mechanism.
+additionally any navigation system is supposed to give you a genral sense of direction don't expect it to plot the curve for you.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110757</id>
+	<title>origin</title>
+	<author>fortunatus</author>
+	<datestamp>1243443780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I think origin (0,0,0) [(0,0,0,0,0)?] should be at the Sun upon the start date - since the earth orbits the Sun \_and\_ rotates, this could remove a couple curliques from the system - of course I know the sun orbits the galactic center and other things, I'm just saying it would simplify the system some when it comes to resolving positional issues to some fine resolution in the future.</p><p>I agree X-ray sources are better than MHz sources.</p></htmltext>
+<tokenext>I think origin ( 0,0,0 ) [ ( 0,0,0,0,0 ) ?
+] should be at the Sun upon the start date - since the earth orbits the Sun \ _and \ _ rotates , this could remove a couple curliques from the system - of course I know the sun orbits the galactic center and other things , I 'm just saying it would simplify the system some when it comes to resolving positional issues to some fine resolution in the future.I agree X-ray sources are better than MHz sources .</tokentext>
+<sentencetext>I think origin (0,0,0) [(0,0,0,0,0)?
+] should be at the Sun upon the start date - since the earth orbits the Sun \_and\_ rotates, this could remove a couple curliques from the system - of course I know the sun orbits the galactic center and other things, I'm just saying it would simplify the system some when it comes to resolving positional issues to some fine resolution in the future.I agree X-ray sources are better than MHz sources.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112537</id>
+	<title>Re:Directional GRB</title>
+	<author>the\_other\_chewey</author>
+	<datestamp>1243450680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Aren't pulsars directional?</p></div><p>
+You fail at using TLAs to enhance your whatever. <i>GRB</i>s, or Gamma Ray Bursts,<br>
+are non-recurring events and don't have much to do with pulsars.<br>
+<br>
+The astronomical acronym you might be trying to refer to is <i>LGM</i>, as in <a href="http://en.wikipedia.org/wiki/LGM-1" title="wikipedia.org">LGM-1</a> [wikipedia.org].</p></div>
+	</htmltext>
+<tokenext>Are n't pulsars directional ?
+You fail at using TLAs to enhance your whatever .
+GRBs , or Gamma Ray Bursts , are non-recurring events and do n't have much to do with pulsars .
+The astronomical acronym you might be trying to refer to is LGM , as in LGM-1 [ wikipedia.org ] .</tokentext>
+<sentencetext>Aren't pulsars directional?
+You fail at using TLAs to enhance your whatever.
+GRBs, or Gamma Ray Bursts,
+are non-recurring events and don't have much to do with pulsars.
+The astronomical acronym you might be trying to refer to is LGM, as in LGM-1 [wikipedia.org].
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110937</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28114085</id>
+	<title>SETI@Home data being used possibly? apk</title>
+	<author>Anonymous</author>
+	<datestamp>1243457580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Well, while I was still doing "SETI@Home", for "Team Microsoft" -&gt;  <a href="http://setiathome.berkeley.edu/team\_members.php?teamid=26482&amp;sort\_by=expavg\_credit&amp;offset=60" title="berkeley.edu" rel="nofollow">http://setiathome.berkeley.edu/team\_members.php?teamid=26482&amp;sort\_by=expavg\_credit&amp;offset=60</a> [berkeley.edu] (#76, that's me there, lol, &amp; to think I used to be as high as #12 on that chart)...</p><p>I said this, while checking the "optimized version" of the character-mode/tty/DOS mode clients (by BOTH Trux &amp; Cruncher), <b>I said WE were going to function one day as Star Traveller's first "stellar cartographers", &amp; in fact, here is that very statement:</b></p><p>-----</p><p><a href="http://setiathome.berkeley.edu/forum\_thread.php?id=27644&amp;nowrap=true" title="berkeley.edu" rel="nofollow">http://setiathome.berkeley.edu/forum\_thread.php?id=27644&amp;nowrap=true</a> [berkeley.edu]</p><p><b>"We're their 'stellar cartographers' in a way if you think about it: Giving them potential targets to journey to, based on data gained from this project."</b></p><p>-----</p><p>Who would've guessed that "PULSARS" (what they're trying to detect for iirc, it's been a LONG while since I did that, &amp; I moved onto Folding@Home afterwards for a good bit also) would be the target data centers used for this type of thing!</p><p>APK</p><p>P.S.=&gt; Perhaps my "ESP" was operating @ peak efficiency that day? 'Inquiring minds want to know', lol... got lucky I guess (maybe)?? Who knows, but, this is pretty cool stuff, &amp; I hope it works out one day - be cool to know that some good came from SETI@Home, @ least in terms of data for pulsar stars for this type of application this very thread is all about... apk</p></htmltext>
+<tokenext>Well , while I was still doing " SETI @ Home " , for " Team Microsoft " - &gt; http : //setiathome.berkeley.edu/team \ _members.php ? teamid = 26482&amp;sort \ _by = expavg \ _credit&amp;offset = 60 [ berkeley.edu ] ( # 76 , that 's me there , lol , &amp; to think I used to be as high as # 12 on that chart ) ...I said this , while checking the " optimized version " of the character-mode/tty/DOS mode clients ( by BOTH Trux &amp; Cruncher ) , I said WE were going to function one day as Star Traveller 's first " stellar cartographers " , &amp; in fact , here is that very statement : -----http : //setiathome.berkeley.edu/forum \ _thread.php ? id = 27644&amp;nowrap = true [ berkeley.edu ] " We 're their 'stellar cartographers ' in a way if you think about it : Giving them potential targets to journey to , based on data gained from this project .
+" -----Who would 've guessed that " PULSARS " ( what they 're trying to detect for iirc , it 's been a LONG while since I did that , &amp; I moved onto Folding @ Home afterwards for a good bit also ) would be the target data centers used for this type of thing ! APKP.S. = &gt; Perhaps my " ESP " was operating @ peak efficiency that day ?
+'Inquiring minds want to know ' , lol... got lucky I guess ( maybe ) ? ?
+Who knows , but , this is pretty cool stuff , &amp; I hope it works out one day - be cool to know that some good came from SETI @ Home , @ least in terms of data for pulsar stars for this type of application this very thread is all about... apk</tokentext>
+<sentencetext>Well, while I was still doing "SETI@Home", for "Team Microsoft" -&gt;  http://setiathome.berkeley.edu/team\_members.php?teamid=26482&amp;sort\_by=expavg\_credit&amp;offset=60 [berkeley.edu] (#76, that's me there, lol, &amp; to think I used to be as high as #12 on that chart)...I said this, while checking the "optimized version" of the character-mode/tty/DOS mode clients (by BOTH Trux &amp; Cruncher), I said WE were going to function one day as Star Traveller's first "stellar cartographers", &amp; in fact, here is that very statement:-----http://setiathome.berkeley.edu/forum\_thread.php?id=27644&amp;nowrap=true [berkeley.edu]"We're their 'stellar cartographers' in a way if you think about it: Giving them potential targets to journey to, based on data gained from this project.
+"-----Who would've guessed that "PULSARS" (what they're trying to detect for iirc, it's been a LONG while since I did that, &amp; I moved onto Folding@Home afterwards for a good bit also) would be the target data centers used for this type of thing!APKP.S.=&gt; Perhaps my "ESP" was operating @ peak efficiency that day?
+'Inquiring minds want to know', lol... got lucky I guess (maybe)??
+Who knows, but, this is pretty cool stuff, &amp; I hope it works out one day - be cool to know that some good came from SETI@Home, @ least in terms of data for pulsar stars for this type of application this very thread is all about... apk</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112667</id>
+	<title>Ok, so what are the coordinates of Earth?</title>
+	<author>SAFH</author>
+	<datestamp>1243451160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>All of this is fine and dandy, but they still don't tell us what the coordinates of Earth are. What good will this do us if we are abducted and need to get home?</p><p>As a commenter on Technology Review said, isn't this the same concept as NASA put on Pioneer F?</p></htmltext>
+<tokenext>All of this is fine and dandy , but they still do n't tell us what the coordinates of Earth are .
+What good will this do us if we are abducted and need to get home ? As a commenter on Technology Review said , is n't this the same concept as NASA put on Pioneer F ?</tokentext>
+<sentencetext>All of this is fine and dandy, but they still don't tell us what the coordinates of Earth are.
+What good will this do us if we are abducted and need to get home?As a commenter on Technology Review said, isn't this the same concept as NASA put on Pioneer F?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28117163</id>
+	<title>Re:Problem with the galactic positioning system</title>
+	<author>complete loony</author>
+	<datestamp>1243428240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Calculating a coordinate with GPS is about measuring the differences between pulses. If we calculated coordinates after the fact by comparing the signal measured by a remote probe with a signal measured on earth I think you'd get a very accurate relative position.</htmltext>
+<tokenext>Calculating a coordinate with GPS is about measuring the differences between pulses .
+If we calculated coordinates after the fact by comparing the signal measured by a remote probe with a signal measured on earth I think you 'd get a very accurate relative position .</tokentext>
+<sentencetext>Calculating a coordinate with GPS is about measuring the differences between pulses.
+If we calculated coordinates after the fact by comparing the signal measured by a remote probe with a signal measured on earth I think you'd get a very accurate relative position.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110619</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110937</id>
+	<title>Directional GRB</title>
+	<author>jadedoto</author>
+	<datestamp>1243444500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Aren't pulsars directional? How would you see the pulsar if it isn't currently flashing in your direction... They have set orbits and would have a plane where they will be invisible. Not that we'll ever get that far as humans, but it does seem like a major show-stopper.</htmltext>
+<tokenext>Are n't pulsars directional ?
+How would you see the pulsar if it is n't currently flashing in your direction... They have set orbits and would have a plane where they will be invisible .
+Not that we 'll ever get that far as humans , but it does seem like a major show-stopper .</tokentext>
+<sentencetext>Aren't pulsars directional?
+How would you see the pulsar if it isn't currently flashing in your direction... They have set orbits and would have a plane where they will be invisible.
+Not that we'll ever get that far as humans, but it does seem like a major show-stopper.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110649</id>
+	<title>Home</title>
+	<author>daveywest</author>
+	<datestamp>1243443420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>0, 0, 1 Sweet 0, 0, 1</htmltext>
+<tokenext>0 , 0 , 1 Sweet 0 , 0 , 1</tokentext>
+<sentencetext>0, 0, 1 Sweet 0, 0, 1</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110163</id>
+	<title>Europe is planning a competing system...</title>
+	<author>Anonymous</author>
+	<datestamp>1243441440000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>...that uses metric pulsars.</p></htmltext>
+<tokenext>...that uses metric pulsars .</tokentext>
+<sentencetext>...that uses metric pulsars.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110793</id>
+	<title>Re:How accurate does it need to be?</title>
+	<author>Anonymous</author>
+	<datestamp>1243443900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Hide something in interstellar space, note its current GalacticPS coordinates and velocity, and come back years later to find it. Probably needs to be fairly accurate.</p></htmltext>
+<tokenext>Hide something in interstellar space , note its current GalacticPS coordinates and velocity , and come back years later to find it .
+Probably needs to be fairly accurate .</tokentext>
+<sentencetext>Hide something in interstellar space, note its current GalacticPS coordinates and velocity, and come back years later to find it.
+Probably needs to be fairly accurate.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110487</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111107</id>
+	<title>Wow!</title>
+	<author>hansede</author>
+	<datestamp>1243445220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>I've heard of people who think they're the center of the universe, but this is just insane!</htmltext>
+<tokenext>I 've heard of people who think they 're the center of the universe , but this is just insane !</tokentext>
+<sentencetext>I've heard of people who think they're the center of the universe, but this is just insane!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110207</id>
+	<title>Turn Left at the Next Nebula</title>
+	<author>ATestR</author>
+	<datestamp>1243441680000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>Cool concept, but it seems like it would be of limited use until someone develops FTL.</p></htmltext>
+<tokenext>Cool concept , but it seems like it would be of limited use until someone develops FTL .</tokentext>
+<sentencetext>Cool concept, but it seems like it would be of limited use until someone develops FTL.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28139259</id>
+	<title>Jared is going to be pissed....</title>
+	<author>TehBrando</author>
+	<datestamp>1243614060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>How will he lose weight if he can't eat his sub from subway because someone made it invisible!?</htmltext>
+<tokenext>How will he lose weight if he ca n't eat his sub from subway because someone made it invisible !
+?</tokentext>
+<sentencetext>How will he lose weight if he can't eat his sub from subway because someone made it invisible!
+?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111381</id>
+	<title>"Pulsars slow down over time...'</title>
+	<author>rnturn</author>
+	<datestamp>1243446180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The GPS ephemerides data stream includes parameters to model clock drift. A similar set of corrections could be included to provide a correction for the change in pulsar frequency.
+
+</p><p>Something tells me though, that this is a small problem compared to being able to detect the pulsar signals in the first place. Unless adding an Arecibo-sized dish to your cellphone or pocket-sized locator gizmo is an option.</p></htmltext>
+<tokenext>The GPS ephemerides data stream includes parameters to model clock drift .
+A similar set of corrections could be included to provide a correction for the change in pulsar frequency .
+Something tells me though , that this is a small problem compared to being able to detect the pulsar signals in the first place .
+Unless adding an Arecibo-sized dish to your cellphone or pocket-sized locator gizmo is an option .</tokentext>
+<sentencetext>The GPS ephemerides data stream includes parameters to model clock drift.
+A similar set of corrections could be included to provide a correction for the change in pulsar frequency.
+Something tells me though, that this is a small problem compared to being able to detect the pulsar signals in the first place.
+Unless adding an Arecibo-sized dish to your cellphone or pocket-sized locator gizmo is an option.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28115071</id>
+	<title>Ticks of time versus explicit time encoding.</title>
+	<author>jhumkey</author>
+	<datestamp>1243418820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Someone enlighten me.
+
+I know with local GPS, the time is encoded on the signal.  Its not just a difference in "tick"'s from different satellites.  At some point a time is encoded to tell us which "tick" that last "tick" was.
+
+I'm going out on a limb and saying no one's flown out to these Pulsars and encoded "which millisecond tick is which" in the datastream.
+
+So if my ship flies inside a large hole in an asteroid (while avoiding Xur and the Kodan Armada), when I come back out, how will I know how many milliseconds I've missed from each pulsar?
+
+Surely across Galactic scale, and relativistic effects. . . just accurately counting the time between ticks from Pulsar to Pulsar won't be enough to know where you are.  You'll have to know which tick is which.  (Or is everyone assuming its like gyroscopes. . . you spin them up, and have to keep them going. . . or you're lost forever . .<nobr> <wbr></nobr>.)
+
+What am I missing?
+
+jkh</htmltext>
+<tokenext>Someone enlighten me .
+I know with local GPS , the time is encoded on the signal .
+Its not just a difference in " tick " 's from different satellites .
+At some point a time is encoded to tell us which " tick " that last " tick " was .
+I 'm going out on a limb and saying no one 's flown out to these Pulsars and encoded " which millisecond tick is which " in the datastream .
+So if my ship flies inside a large hole in an asteroid ( while avoiding Xur and the Kodan Armada ) , when I come back out , how will I know how many milliseconds I 've missed from each pulsar ?
+Surely across Galactic scale , and relativistic effects .
+. .
+just accurately counting the time between ticks from Pulsar to Pulsar wo n't be enough to know where you are .
+You 'll have to know which tick is which .
+( Or is everyone assuming its like gyroscopes .
+. .
+you spin them up , and have to keep them going .
+. .
+or you 're lost forever .
+. .
+) What am I missing ?
+jkh</tokentext>
+<sentencetext>Someone enlighten me.
+I know with local GPS, the time is encoded on the signal.
+Its not just a difference in "tick"'s from different satellites.
+At some point a time is encoded to tell us which "tick" that last "tick" was.
+I'm going out on a limb and saying no one's flown out to these Pulsars and encoded "which millisecond tick is which" in the datastream.
+So if my ship flies inside a large hole in an asteroid (while avoiding Xur and the Kodan Armada), when I come back out, how will I know how many milliseconds I've missed from each pulsar?
+Surely across Galactic scale, and relativistic effects.
+. .
+just accurately counting the time between ticks from Pulsar to Pulsar won't be enough to know where you are.
+You'll have to know which tick is which.
+(Or is everyone assuming its like gyroscopes.
+. .
+you spin them up, and have to keep them going.
+. .
+or you're lost forever .
+. .
+)
+
+What am I missing?
+jkh</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110619</id>
+	<title>Re:Problem with the galactic positioning system</title>
+	<author>Anonymous</author>
+	<datestamp>1243443300000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>So you think the current GPS satellite constellation is fixed relative to some reference point on Earth (and therefore eachother as well)?  Of course everything is moving relative to everything else in the system.  Now that also means we need to know the position of the pulsars with a high degree of accuracy, just like we have to know the position of the GPS satellites now.</p></htmltext>
+<tokenext>So you think the current GPS satellite constellation is fixed relative to some reference point on Earth ( and therefore eachother as well ) ?
+Of course everything is moving relative to everything else in the system .
+Now that also means we need to know the position of the pulsars with a high degree of accuracy , just like we have to know the position of the GPS satellites now .</tokentext>
+<sentencetext>So you think the current GPS satellite constellation is fixed relative to some reference point on Earth (and therefore eachother as well)?
+Of course everything is moving relative to everything else in the system.
+Now that also means we need to know the position of the pulsars with a high degree of accuracy, just like we have to know the position of the GPS satellites now.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28116365</id>
+	<title>Re:Problem with the galactic positioning system</title>
+	<author>niktemadur</author>
+	<datestamp>1243423680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>By the time we're technologically advanced enough to engineer a "pulsar GPS" to navigate interstellar spaces, we'll probably go one better and use a stellar spectral emissions database, taking relative movement and speed into account of course, as I'm under the impression that all stars have a unique spectral fingerprint.  There will be plenty of constant reference points (visible from all points), such as the Galactic Center, the Magellanic Clouds and globular clusters.</p><p>Say it's the year 4000 AT (After Tranquility Base) and you've lost your bearings in space.  Triangulate your constants and by finding just one ultra-luminous star in your database (Eta Carinae, Antares, Betelgeuse, etc), finding your way back home should be relatively easy.  Or at least you'll get a pretty good sense of where Sirius or the Orion Nebula should be, navigate in that direction, and once you're in the general vicinity, ol' Sol should be within visual range, lock on that and fly like an arrow.</p><p>Now imagine a full-fledged stellar database, which is going to be a given.  Using any and all stars makes it much easier because plenty of star systems are double or triple, emitting extremely specific spectral signatures.</p></htmltext>
+<tokenext>By the time we 're technologically advanced enough to engineer a " pulsar GPS " to navigate interstellar spaces , we 'll probably go one better and use a stellar spectral emissions database , taking relative movement and speed into account of course , as I 'm under the impression that all stars have a unique spectral fingerprint .
+There will be plenty of constant reference points ( visible from all points ) , such as the Galactic Center , the Magellanic Clouds and globular clusters.Say it 's the year 4000 AT ( After Tranquility Base ) and you 've lost your bearings in space .
+Triangulate your constants and by finding just one ultra-luminous star in your database ( Eta Carinae , Antares , Betelgeuse , etc ) , finding your way back home should be relatively easy .
+Or at least you 'll get a pretty good sense of where Sirius or the Orion Nebula should be , navigate in that direction , and once you 're in the general vicinity , ol ' Sol should be within visual range , lock on that and fly like an arrow.Now imagine a full-fledged stellar database , which is going to be a given .
+Using any and all stars makes it much easier because plenty of star systems are double or triple , emitting extremely specific spectral signatures .</tokentext>
+<sentencetext>By the time we're technologically advanced enough to engineer a "pulsar GPS" to navigate interstellar spaces, we'll probably go one better and use a stellar spectral emissions database, taking relative movement and speed into account of course, as I'm under the impression that all stars have a unique spectral fingerprint.
+There will be plenty of constant reference points (visible from all points), such as the Galactic Center, the Magellanic Clouds and globular clusters.Say it's the year 4000 AT (After Tranquility Base) and you've lost your bearings in space.
+Triangulate your constants and by finding just one ultra-luminous star in your database (Eta Carinae, Antares, Betelgeuse, etc), finding your way back home should be relatively easy.
+Or at least you'll get a pretty good sense of where Sirius or the Orion Nebula should be, navigate in that direction, and once you're in the general vicinity, ol' Sol should be within visual range, lock on that and fly like an arrow.Now imagine a full-fledged stellar database, which is going to be a given.
+Using any and all stars makes it much easier because plenty of star systems are double or triple, emitting extremely specific spectral signatures.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28125645</id>
+	<title>It's about time...</title>
+	<author>jmcwork</author>
+	<datestamp>1243533780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>We've been waiting
+       <p>- Jupiter 2</p></htmltext>
+<tokenext>We 've been waiting - Jupiter 2</tokentext>
+<sentencetext>We've been waiting
+       - Jupiter 2</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28113539</id>
+	<title>Great, I'll have to upgrade my Nuvi/TomTom again.</title>
+	<author>bareman</author>
+	<datestamp>1243454820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Hey look out for that Asteroid *swerve*  whew! . . .  "Recalculating"  "Recalculating"</p></htmltext>
+<tokenext>Hey look out for that Asteroid * swerve * whew !
+. .
+. " Recalculating " " Recalculating "</tokentext>
+<sentencetext>Hey look out for that Asteroid *swerve*  whew!
+. .
+.  "Recalculating"  "Recalculating"</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110127</id>
+	<title>First</title>
+	<author>Anonymous</author>
+	<datestamp>1243441380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>First pulse</p></htmltext>
+<tokenext>First pulse</tokentext>
+<sentencetext>First pulse</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110437</id>
+	<title>Emperor of Mankind</title>
+	<author>Anonymous</author>
+	<datestamp>1243442640000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The only galactic GPS system I use is the beacon sent by the Emperor of Mankind.  Granted the cost of a thousand psychers a day is high, but it's worth it.</p></htmltext>
+<tokenext>The only galactic GPS system I use is the beacon sent by the Emperor of Mankind .
+Granted the cost of a thousand psychers a day is high , but it 's worth it .</tokentext>
+<sentencetext>The only galactic GPS system I use is the beacon sent by the Emperor of Mankind.
+Granted the cost of a thousand psychers a day is high, but it's worth it.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203</id>
+	<title>Problem with the galactic positioning system</title>
+	<author>Anonymous</author>
+	<datestamp>1243441620000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>I see a problem with this immediately:</p><p>Unlike the global positioning system, the pulsars are always going to be moving relative to each other and to your position AND the reference point, which adds a tremendous amount of error. That combined with the unpredictable changes in chances in pulsars' emissions, makes the "GPS" somewhat unreliable for interstellar travel.</p><p>However, given that we're probably centuries if not eons off from traveling outside our solar system, it's a moot point. On the scale we can use it NOW (interplanetary probes, etc.) it should be highly accurate.</p></htmltext>
+<tokenext>I see a problem with this immediately : Unlike the global positioning system , the pulsars are always going to be moving relative to each other and to your position AND the reference point , which adds a tremendous amount of error .
+That combined with the unpredictable changes in chances in pulsars ' emissions , makes the " GPS " somewhat unreliable for interstellar travel.However , given that we 're probably centuries if not eons off from traveling outside our solar system , it 's a moot point .
+On the scale we can use it NOW ( interplanetary probes , etc .
+) it should be highly accurate .</tokentext>
+<sentencetext>I see a problem with this immediately:Unlike the global positioning system, the pulsars are always going to be moving relative to each other and to your position AND the reference point, which adds a tremendous amount of error.
+That combined with the unpredictable changes in chances in pulsars' emissions, makes the "GPS" somewhat unreliable for interstellar travel.However, given that we're probably centuries if not eons off from traveling outside our solar system, it's a moot point.
+On the scale we can use it NOW (interplanetary probes, etc.
+) it should be highly accurate.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28116303</id>
+	<title>I can see it already</title>
+	<author>fireman sam</author>
+	<datestamp>1243423320000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Road side maps will no longer have the big sticker "You are here" to mark your location but would have a big sticker "You are here, right now" to mark your position in space time. Wow.</p></htmltext>
+<tokenext>Road side maps will no longer have the big sticker " You are here " to mark your location but would have a big sticker " You are here , right now " to mark your position in space time .
+Wow .</tokentext>
+<sentencetext>Road side maps will no longer have the big sticker "You are here" to mark your location but would have a big sticker "You are here, right now" to mark your position in space time.
+Wow.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110585</id>
+	<title>Re:I would be pedantic, but...</title>
+	<author>Anonymous</author>
+	<datestamp>1243443120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Call it GaPS<nobr> <wbr></nobr>.. there are sure to be some.</p></htmltext>
+<tokenext>Call it GaPS .. there are sure to be some .</tokentext>
+<sentencetext>Call it GaPS .. there are sure to be some.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111519</id>
+	<title>Re:How accurate does it need to be?</title>
+	<author>wjousts</author>
+	<datestamp>1243446660000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Ok, so maybe it won't work for interstellar pirates hiding their space booty, but if all you're trying to do is get from Earth to Alpha Ceti IV, you'll probably be close enough to <i>see</i> where you need to go.</htmltext>
+<tokenext>Ok , so maybe it wo n't work for interstellar pirates hiding their space booty , but if all you 're trying to do is get from Earth to Alpha Ceti IV , you 'll probably be close enough to see where you need to go .</tokentext>
+<sentencetext>Ok, so maybe it won't work for interstellar pirates hiding their space booty, but if all you're trying to do is get from Earth to Alpha Ceti IV, you'll probably be close enough to see where you need to go.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110793</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111819</id>
+	<title>Re:I would be pedantic, but...</title>
+	<author>Bob3141592</author>
+	<datestamp>1243447680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I seriously doubt that this could be made to work, since General Relativity denies the very notion of simultinaity required to coordinate signals. And this results from two monkey wrenches - the various velocities and accelerations of the pulsars, and the varying and unknown distribution of gravitational fields between the objects. Space across galactic distances is not Euclidean, and the degree of curvature is not constant from one place to another on large scales.</p><p>Naturally, I didn't RTFA, but I'd be surprised if this scheme is valid even in principle.  See sig.</p></htmltext>
+<tokenext>I seriously doubt that this could be made to work , since General Relativity denies the very notion of simultinaity required to coordinate signals .
+And this results from two monkey wrenches - the various velocities and accelerations of the pulsars , and the varying and unknown distribution of gravitational fields between the objects .
+Space across galactic distances is not Euclidean , and the degree of curvature is not constant from one place to another on large scales.Naturally , I did n't RTFA , but I 'd be surprised if this scheme is valid even in principle .
+See sig .</tokentext>
+<sentencetext>I seriously doubt that this could be made to work, since General Relativity denies the very notion of simultinaity required to coordinate signals.
+And this results from two monkey wrenches - the various velocities and accelerations of the pulsars, and the varying and unknown distribution of gravitational fields between the objects.
+Space across galactic distances is not Euclidean, and the degree of curvature is not constant from one place to another on large scales.Naturally, I didn't RTFA, but I'd be surprised if this scheme is valid even in principle.
+See sig.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112043</id>
+	<title>GMT - Galactic Mean Time ?</title>
+	<author>Alain Williams</author>
+	<datestamp>1243448580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>There has to be some base time, so what do we use ? Might as well base it on what we use already - GMT. A couple of things to sort out:
+<ul>
+<li>Gweenwich Mean Time is subject to Leap seconds - what about Galactic Mean Time ?<br>
+This is not just fanciful - do we want the two time references to slowly fall out of sync ?</li>
+<li>According to relativity things that occur at the same time to one observer, may not for another observer, see: <a href="http://en.wikipedia.org/wiki/Relativity\_of\_simultaneity" title="wikipedia.org">Relativity of simultaneity</a> [wikipedia.org], so how meaningful is a Galactic Mean Time ?</li>
+</ul></htmltext>
+<tokenext>There has to be some base time , so what do we use ?
+Might as well base it on what we use already - GMT .
+A couple of things to sort out : Gweenwich Mean Time is subject to Leap seconds - what about Galactic Mean Time ?
+This is not just fanciful - do we want the two time references to slowly fall out of sync ?
+According to relativity things that occur at the same time to one observer , may not for another observer , see : Relativity of simultaneity [ wikipedia.org ] , so how meaningful is a Galactic Mean Time ?</tokentext>
+<sentencetext>There has to be some base time, so what do we use ?
+Might as well base it on what we use already - GMT.
+A couple of things to sort out:
+
+Gweenwich Mean Time is subject to Leap seconds - what about Galactic Mean Time ?
+This is not just fanciful - do we want the two time references to slowly fall out of sync ?
+According to relativity things that occur at the same time to one observer, may not for another observer, see: Relativity of simultaneity [wikipedia.org], so how meaningful is a Galactic Mean Time ?
+</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110877</id>
+	<title>How accurate?</title>
+	<author>TheCabal</author>
+	<datestamp>1243444200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>IIRC, one of the methods we use to measure the distance to a pulsar is to look at the effects the interstellar medium has on the latency of the pulse. Assuming the ISM is uniform, I suppose this wouldn't be an issue, but wouldn't this cause accuracy problems if there was an area where the ISM was denser?</p></htmltext>
+<tokenext>IIRC , one of the methods we use to measure the distance to a pulsar is to look at the effects the interstellar medium has on the latency of the pulse .
+Assuming the ISM is uniform , I suppose this would n't be an issue , but would n't this cause accuracy problems if there was an area where the ISM was denser ?</tokentext>
+<sentencetext>IIRC, one of the methods we use to measure the distance to a pulsar is to look at the effects the interstellar medium has on the latency of the pulse.
+Assuming the ISM is uniform, I suppose this wouldn't be an issue, but wouldn't this cause accuracy problems if there was an area where the ISM was denser?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28118077</id>
+	<title>Voyager</title>
+	<author>Anonymous</author>
+	<datestamp>1243434600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>     The Voyager spacecraft, one of the etchings on the plaque on it shows the earth's location (very roughly) with angles, timing information (i.e. pulse rate), and estimated distances to 14 selected pulsars.  Pioneer 10 and 11 also had a similar plaque, they were designed in 1970 or 1971.</p></htmltext>
+<tokenext>The Voyager spacecraft , one of the etchings on the plaque on it shows the earth 's location ( very roughly ) with angles , timing information ( i.e .
+pulse rate ) , and estimated distances to 14 selected pulsars .
+Pioneer 10 and 11 also had a similar plaque , they were designed in 1970 or 1971 .</tokentext>
+<sentencetext>     The Voyager spacecraft, one of the etchings on the plaque on it shows the earth's location (very roughly) with angles, timing information (i.e.
+pulse rate), and estimated distances to 14 selected pulsars.
+Pioneer 10 and 11 also had a similar plaque, they were designed in 1970 or 1971.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110689</id>
+	<title>Relativity, huh?</title>
+	<author>mandark1967</author>
+	<datestamp>1243443540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p> <i> The additional complexity of working with signals over these distances is that relativity has to be taken into account</i></p> </div><p>
+
+Friggin' In-Laws ruin Everything!</p></div>
+	</htmltext>
+<tokenext>The additional complexity of working with signals over these distances is that relativity has to be taken into account Friggin ' In-Laws ruin Everything !</tokentext>
+<sentencetext>  The additional complexity of working with signals over these distances is that relativity has to be taken into account 
+
+Friggin' In-Laws ruin Everything!
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110277</id>
+	<title>Now that we're getting GGPS...</title>
+	<author>Anonymous</author>
+	<datestamp>1243441920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I want my FTL drives to escape the Cylon overlords.</p></htmltext>
+<tokenext>I want my FTL drives to escape the Cylon overlords .</tokentext>
+<sentencetext>I want my FTL drives to escape the Cylon overlords.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110125</id>
+	<title>Finally! That's a great use for them</title>
+	<author>BadAnalogyGuy</author>
+	<datestamp>1243441320000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Is there anyone who can help me figure out something to do with my Pulsar's wiper blades?</p></htmltext>
+<tokenext>Is there anyone who can help me figure out something to do with my Pulsar 's wiper blades ?</tokentext>
+<sentencetext>Is there anyone who can help me figure out something to do with my Pulsar's wiper blades?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28113573</id>
+	<title>kdawson insightful!?</title>
+	<author>Anonymous</author>
+	<datestamp>1243454940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>uhm, what's going on here? kdawson made an insightful/informative comment about the summary!?  Maybe he just failed to put quotes around something someone else said?</htmltext>
+<tokenext>uhm , what 's going on here ?
+kdawson made an insightful/informative comment about the summary ! ?
+Maybe he just failed to put quotes around something someone else said ?</tokentext>
+<sentencetext>uhm, what's going on here?
+kdawson made an insightful/informative comment about the summary!?
+Maybe he just failed to put quotes around something someone else said?</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111453
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110207
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28117163
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110619
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28113837
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110487
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111233
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110145
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112537
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110937
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112499
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112811
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111519
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110793
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110487
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28117371
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112649
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110463
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111475
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28145661
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111149
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110815
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110547
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28116365
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_26</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110585
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_25</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112889
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110757
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111261
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28115275
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111987
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110207
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28113677
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110977
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110547
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110457
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110125
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111819
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28114085
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28137245
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110207
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111645
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_27</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28117909
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1446206_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110567
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110225
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110109
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112811
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112499
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28117909
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111475
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28114085
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111819
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28117371
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110585
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110547
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110815
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110977
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110937
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112537
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110487
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110793
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111519
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28113837
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110757
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112889
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110409
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28139259
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28113463
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111381
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110225
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110567
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110203
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111645
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110619
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28117163
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28113677
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111261
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28116365
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28115275
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111149
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28145661
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111025
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110463
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28112649
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110207
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28137245
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111987
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111453
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110851
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110145
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111233
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110125
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28110457
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1446206.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1446206.28111169
+</commentlist>
+</conversation>

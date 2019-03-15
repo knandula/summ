@@ -1,0 +1,910 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_06_17_2359217</id>
+	<title>6000-Year-Old Tomb Complex Discovered</title>
+	<author>samzenpus</author>
+	<datestamp>1245253560000</datestamp>
+	<htmltext>duh P3rf3ss3r writes <i>"National Geographic reports that a <a href="http://news.nationalgeographic.com/news/2009/06/090615-stonehenge-tombs-crop-circles.html">6000-year-old tomb complex on 200 hectares</a> (500 acres) has been discovered on the Salisbury Plain just 24 km (15 miles) from Stonehenge. The site has come as a surprise to the archaeologists who had thought that the area had been studied in such depth that few discoveries of such magnitude remained. The site, fully 1000 years older than Stonehenge, has been called 'Britain's oldest architecture.'"</i></htmltext>
+<tokenext>duh P3rf3ss3r writes " National Geographic reports that a 6000-year-old tomb complex on 200 hectares ( 500 acres ) has been discovered on the Salisbury Plain just 24 km ( 15 miles ) from Stonehenge .
+The site has come as a surprise to the archaeologists who had thought that the area had been studied in such depth that few discoveries of such magnitude remained .
+The site , fully 1000 years older than Stonehenge , has been called 'Britain 's oldest architecture .
+' "</tokentext>
+<sentencetext>duh P3rf3ss3r writes "National Geographic reports that a 6000-year-old tomb complex on 200 hectares (500 acres) has been discovered on the Salisbury Plain just 24 km (15 miles) from Stonehenge.
+The site has come as a surprise to the archaeologists who had thought that the area had been studied in such depth that few discoveries of such magnitude remained.
+The site, fully 1000 years older than Stonehenge, has been called 'Britain's oldest architecture.
+'"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370259</id>
+	<title>More Giant Circles</title>
+	<author>mrdbeaton</author>
+	<datestamp>1245267420000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext>I just emailed this to National Geographic:<br>
+We'll see what happens...<br> <br>
+
+"I believe I have discovered circles similar to the ones referenced in your article 'Huge Pre-Stonehenge Complex Found via "Crop Circles"'.<br>
+<a href="http://news.nationalgeographic.com/news/2009/06/090615-stonehenge-tombs-crop-circles\_2.html" title="nationalgeographic.com" rel="nofollow">http://news.nationalgeographic.com/news/2009/06/090615-stonehenge-tombs-crop-circles\_2.html</a> [nationalgeographic.com] <br> <br>
+
+There are two 380-foot diameter circles located at Longitude/Latitude 50.977866,-1.963204<br>
+These may be seen at Google maps: <a href="http://maps.google.com/maps?f=q&amp;source=s\_q&amp;hl=en&amp;geocode=&amp;q=50.977866,-1.963204&amp;sll=50.977866,-1.963204&amp;sspn=177.15044,360&amp;ie=UTF8&amp;ll=50.977872,-1.963205&amp;spn=0.01016,0.021865&amp;t=h&amp;z=16&amp;iwloc=A" title="google.com" rel="nofollow">http://maps.google.com/maps?f=q&amp;source=s\_q&amp;hl=en&amp;geocode=&amp;q=50.977866,-1.963204&amp;sll=50.977866,-1.963204&amp;sspn=177.15044,360&amp;ie=UTF8&amp;ll=50.977872,-1.963205&amp;spn=0.01016,0.021865&amp;t=h&amp;z=16&amp;iwloc=A</a> [google.com] <br>
+There are variations in the color of vegetation at this site that indicate that there may be other circles as well, of similar size.<br>
+There is also a serpentine color variation about 750 feet long and 60 feet wide.<br> <br>
+
+Please forward this to the appropriate researcher."</htmltext>
+<tokenext>I just emailed this to National Geographic : We 'll see what happens.. . " I believe I have discovered circles similar to the ones referenced in your article 'Huge Pre-Stonehenge Complex Found via " Crop Circles " ' .
+http : //news.nationalgeographic.com/news/2009/06/090615-stonehenge-tombs-crop-circles \ _2.html [ nationalgeographic.com ] There are two 380-foot diameter circles located at Longitude/Latitude 50.977866,-1.963204 These may be seen at Google maps : http : //maps.google.com/maps ? f = q&amp;source = s \ _q&amp;hl = en&amp;geocode = &amp;q = 50.977866,-1.963204&amp;sll = 50.977866,-1.963204&amp;sspn = 177.15044,360&amp;ie = UTF8&amp;ll = 50.977872,-1.963205&amp;spn = 0.01016,0.021865&amp;t = h&amp;z = 16&amp;iwloc = A [ google.com ] There are variations in the color of vegetation at this site that indicate that there may be other circles as well , of similar size .
+There is also a serpentine color variation about 750 feet long and 60 feet wide .
+Please forward this to the appropriate researcher .
+"</tokentext>
+<sentencetext>I just emailed this to National Geographic:
+We'll see what happens... 
+
+"I believe I have discovered circles similar to the ones referenced in your article 'Huge Pre-Stonehenge Complex Found via "Crop Circles"'.
+http://news.nationalgeographic.com/news/2009/06/090615-stonehenge-tombs-crop-circles\_2.html [nationalgeographic.com]  
+
+There are two 380-foot diameter circles located at Longitude/Latitude 50.977866,-1.963204
+These may be seen at Google maps: http://maps.google.com/maps?f=q&amp;source=s\_q&amp;hl=en&amp;geocode=&amp;q=50.977866,-1.963204&amp;sll=50.977866,-1.963204&amp;sspn=177.15044,360&amp;ie=UTF8&amp;ll=50.977872,-1.963205&amp;spn=0.01016,0.021865&amp;t=h&amp;z=16&amp;iwloc=A [google.com] 
+There are variations in the color of vegetation at this site that indicate that there may be other circles as well, of similar size.
+There is also a serpentine color variation about 750 feet long and 60 feet wide.
+Please forward this to the appropriate researcher.
+"</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372857</id>
+	<title>Re:Surprised?</title>
+	<author>elrous0</author>
+	<datestamp>1245334740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>The surprise was that Jim found it. Jim is, by account of all the other grad students, an idiot. Imagine if Gilligan were the one to find a way off the island. That would be pretty surprising, no?</htmltext>
+<tokenext>The surprise was that Jim found it .
+Jim is , by account of all the other grad students , an idiot .
+Imagine if Gilligan were the one to find a way off the island .
+That would be pretty surprising , no ?</tokentext>
+<sentencetext>The surprise was that Jim found it.
+Jim is, by account of all the other grad students, an idiot.
+Imagine if Gilligan were the one to find a way off the island.
+That would be pretty surprising, no?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372755</id>
+	<title>Re:Surprised?</title>
+	<author>consonant</author>
+	<datestamp>1245334200000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>They didn't believe that "<b>a</b> few" remained - the prevailing belief was that "few" were left to be discovered, which translates to "practically nothing".
+<p>
+<a href="http://www.diffen.com/difference/A\_Few\_vs\_Few" title="diffen.com">Linky</a> [diffen.com].</p></htmltext>
+<tokenext>They did n't believe that " a few " remained - the prevailing belief was that " few " were left to be discovered , which translates to " practically nothing " .
+Linky [ diffen.com ] .</tokentext>
+<sentencetext>They didn't believe that "a few" remained - the prevailing belief was that "few" were left to be discovered, which translates to "practically nothing".
+Linky [diffen.com].</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370111</id>
+	<title>Re:Surprised?</title>
+	<author>clarkkent09</author>
+	<datestamp>1245265020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Yep, they should have said <b>very few</b>.</htmltext>
+<tokenext>Yep , they should have said very few .</tokentext>
+<sentencetext>Yep, they should have said very few.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370223</id>
+	<title>Re:Surprised?</title>
+	<author>Anonymous</author>
+	<datestamp>1245266760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>If they believed a few remained, why are they so surprised to find one of them?</i></p><p>It's a figure of speech. If lots of them remained, they would not have been surprised. But few remained, therefore they were surprised. Seriously, how hard was that?</p></htmltext>
+<tokenext>If they believed a few remained , why are they so surprised to find one of them ? It 's a figure of speech .
+If lots of them remained , they would not have been surprised .
+But few remained , therefore they were surprised .
+Seriously , how hard was that ?</tokentext>
+<sentencetext>If they believed a few remained, why are they so surprised to find one of them?It's a figure of speech.
+If lots of them remained, they would not have been surprised.
+But few remained, therefore they were surprised.
+Seriously, how hard was that?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28371145</id>
+	<title>Re:google maps link</title>
+	<author>krenshala</author>
+	<datestamp>1245319140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>My first though when I pulled up the picture: looks like a water ring from a can left on the picture.<nobr> <wbr></nobr>;)</p></htmltext>
+<tokenext>My first though when I pulled up the picture : looks like a water ring from a can left on the picture .
+; )</tokentext>
+<sentencetext>My first though when I pulled up the picture: looks like a water ring from a can left on the picture.
+;)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369483</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369947</id>
+	<title>Thoughts..</title>
+	<author>terbo</author>
+	<datestamp>1245262980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>"The site has come as a surprise to the archaeologists who had thought that the area had been studied in such depth that few discoveries of such magnitude remained."</p><p>Maybe their thoughts are limiting them<nobr> <wbr></nobr>...</p></htmltext>
+<tokenext>" The site has come as a surprise to the archaeologists who had thought that the area had been studied in such depth that few discoveries of such magnitude remained .
+" Maybe their thoughts are limiting them .. .</tokentext>
+<sentencetext>"The site has come as a surprise to the archaeologists who had thought that the area had been studied in such depth that few discoveries of such magnitude remained.
+"Maybe their thoughts are limiting them ...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369451</id>
+	<title>Hello Cleveland!</title>
+	<author>FrankDrebin</author>
+	<datestamp>1245258120000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext><blockquote><div><p>'Britain's oldest architecture'</p></div></blockquote><p>Performed By Britian's Loudest Band</p></div>
+	</htmltext>
+<tokenext>'Britain 's oldest architecture'Performed By Britian 's Loudest Band</tokentext>
+<sentencetext>'Britain's oldest architecture'Performed By Britian's Loudest Band
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370763</id>
+	<title>Zombies</title>
+	<author>Tim12s</author>
+	<datestamp>1245315780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Great... 28 days later...</p></htmltext>
+<tokenext>Great... 28 days later.. .</tokentext>
+<sentencetext>Great... 28 days later...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369377</id>
+	<title>crop mark != crop circle</title>
+	<author>QuantumG</author>
+	<datestamp>1245257220000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><div class="quote"><p>Given away by strange, crop circle-like formations seen from the air, a huge prehistoric ceremonial complex discovered in southern England has taken archaeologists by surprise.</p> </div><p>Umm.. <a href="http://en.wikipedia.org/wiki/Crop\_marks" title="wikipedia.org">Crop marks</a> [wikipedia.org], not <a href="http://en.wikipedia.org/wiki/Crop\_circle" title="wikipedia.org">crop circles</a> [wikipedia.org].</p></div>
+	</htmltext>
+<tokenext>Given away by strange , crop circle-like formations seen from the air , a huge prehistoric ceremonial complex discovered in southern England has taken archaeologists by surprise .
+Umm.. Crop marks [ wikipedia.org ] , not crop circles [ wikipedia.org ] .</tokentext>
+<sentencetext>Given away by strange, crop circle-like formations seen from the air, a huge prehistoric ceremonial complex discovered in southern England has taken archaeologists by surprise.
+Umm.. Crop marks [wikipedia.org], not crop circles [wikipedia.org].
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28377797</id>
+	<title>Oh, word....</title>
+	<author>Anonymous</author>
+	<datestamp>1245354180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I for one, welcome our new 6,000 year old zombie overlords.</p></htmltext>
+<tokenext>I for one , welcome our new 6,000 year old zombie overlords .</tokentext>
+<sentencetext>I for one, welcome our new 6,000 year old zombie overlords.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28375313</id>
+	<title>Re:Hello Cleveland!</title>
+	<author>Anonymous</author>
+	<datestamp>1245345240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>It can't be a coincidence that Spinal Tap is having their <a href="http://spinaltap.com/tour.php" title="spinaltap.com" rel="nofollow">One Night Only "World" Tour</a> [spinaltap.com] at Wembley Stadium on June 30.  Hmmm... though it looks like they've added a second date now.</p><p>Maybe this is rubble from their last performance at Stonehenge?</p></htmltext>
+<tokenext>It ca n't be a coincidence that Spinal Tap is having their One Night Only " World " Tour [ spinaltap.com ] at Wembley Stadium on June 30 .
+Hmmm... though it looks like they 've added a second date now.Maybe this is rubble from their last performance at Stonehenge ?</tokentext>
+<sentencetext>It can't be a coincidence that Spinal Tap is having their One Night Only "World" Tour [spinaltap.com] at Wembley Stadium on June 30.
+Hmmm... though it looks like they've added a second date now.Maybe this is rubble from their last performance at Stonehenge?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369451</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369899</id>
+	<title>I tried</title>
+	<author>peipas</author>
+	<datestamp>1245262440000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>I tried to RTFA but when it came time to click on to page two I got distracted by the "Jackass Penguins Freed After Rehab" link.  Oh well.</p></htmltext>
+<tokenext>I tried to RTFA but when it came time to click on to page two I got distracted by the " Jackass Penguins Freed After Rehab " link .
+Oh well .</tokentext>
+<sentencetext>I tried to RTFA but when it came time to click on to page two I got distracted by the "Jackass Penguins Freed After Rehab" link.
+Oh well.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369483</id>
+	<title>google maps link</title>
+	<author>Anonymous</author>
+	<datestamp>1245258540000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Here it is on Google Maps... you can see a faint circle where the mound is located.</p><p>http://maps.google.com/maps?f=q&amp;source=s\_q&amp;hl=en&amp;geocode=&amp;q=damerham&amp;sll=38.892091,-77.024055&amp;sspn=0.487938,1.045761&amp;ie=UTF8&amp;ll=50.937232,-1.873689&amp;spn=0.003086,0.00817&amp;t=h&amp;z=18</p></htmltext>
+<tokenext>Here it is on Google Maps... you can see a faint circle where the mound is located.http : //maps.google.com/maps ? f = q&amp;source = s \ _q&amp;hl = en&amp;geocode = &amp;q = damerham&amp;sll = 38.892091,-77.024055&amp;sspn = 0.487938,1.045761&amp;ie = UTF8&amp;ll = 50.937232,-1.873689&amp;spn = 0.003086,0.00817&amp;t = h&amp;z = 18</tokentext>
+<sentencetext>Here it is on Google Maps... you can see a faint circle where the mound is located.http://maps.google.com/maps?f=q&amp;source=s\_q&amp;hl=en&amp;geocode=&amp;q=damerham&amp;sll=38.892091,-77.024055&amp;sspn=0.487938,1.045761&amp;ie=UTF8&amp;ll=50.937232,-1.873689&amp;spn=0.003086,0.00817&amp;t=h&amp;z=18</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372489</id>
+	<title>Re:Surprise?</title>
+	<author>jellomizer</author>
+	<datestamp>1245332880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Nah only Cane and Able.</p></htmltext>
+<tokenext>Nah only Cane and Able .</tokentext>
+<sentencetext>Nah only Cane and Able.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369459</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369473</id>
+	<title>Wow.</title>
+	<author>DarrenBaker</author>
+	<datestamp>1245258360000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>This is Spinal Tap is on IFC Canada RIGHT. NOW.</p><p>If that's not a sign, I don't know what is.</p></htmltext>
+<tokenext>This is Spinal Tap is on IFC Canada RIGHT .
+NOW.If that 's not a sign , I do n't know what is .</tokentext>
+<sentencetext>This is Spinal Tap is on IFC Canada RIGHT.
+NOW.If that's not a sign, I don't know what is.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370639</id>
+	<title>Hyperbole</title>
+	<author>Anonymous</author>
+	<datestamp>1245357720000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>This is hyperbole from National Geographic. Calling the structures 'tombs' in the title implies it's an underground complex, which it wasn't. This is the remains of Neolithic barrows, which the countryside around Stonehenge is completely covered in. These barrows that have just been discovered are only the remains too, where-as there are innumerable surviving barrows all over that area of countryside, and in many many places all over Britain.</p><p>Pete Boyd</p></htmltext>
+<tokenext>This is hyperbole from National Geographic .
+Calling the structures 'tombs ' in the title implies it 's an underground complex , which it was n't .
+This is the remains of Neolithic barrows , which the countryside around Stonehenge is completely covered in .
+These barrows that have just been discovered are only the remains too , where-as there are innumerable surviving barrows all over that area of countryside , and in many many places all over Britain.Pete Boyd</tokentext>
+<sentencetext>This is hyperbole from National Geographic.
+Calling the structures 'tombs' in the title implies it's an underground complex, which it wasn't.
+This is the remains of Neolithic barrows, which the countryside around Stonehenge is completely covered in.
+These barrows that have just been discovered are only the remains too, where-as there are innumerable surviving barrows all over that area of countryside, and in many many places all over Britain.Pete Boyd</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369435</id>
+	<title>Re:crop mark != crop circle</title>
+	<author>Anonymous</author>
+	<datestamp>1245257940000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>Crop marks can indeed be shaped into looking like circles, but they're not the crop circles most people think of.</p><p>Yes, these are man-made, but they're certainly not attributed to UFO's, decorative burning, prank helicopter slash-and-burns, or hoaxes of the same sort.</p><p>Crop circle-like is an accurate way to describe it.  They're not crop circles (per the popular definition), but they are similar.  Accordingly, the article is more accurate than it could be if it said "crop circle formations", even if the terminology can be further improved.</p></htmltext>
+<tokenext>Crop marks can indeed be shaped into looking like circles , but they 're not the crop circles most people think of.Yes , these are man-made , but they 're certainly not attributed to UFO 's , decorative burning , prank helicopter slash-and-burns , or hoaxes of the same sort.Crop circle-like is an accurate way to describe it .
+They 're not crop circles ( per the popular definition ) , but they are similar .
+Accordingly , the article is more accurate than it could be if it said " crop circle formations " , even if the terminology can be further improved .</tokentext>
+<sentencetext>Crop marks can indeed be shaped into looking like circles, but they're not the crop circles most people think of.Yes, these are man-made, but they're certainly not attributed to UFO's, decorative burning, prank helicopter slash-and-burns, or hoaxes of the same sort.Crop circle-like is an accurate way to describe it.
+They're not crop circles (per the popular definition), but they are similar.
+Accordingly, the article is more accurate than it could be if it said "crop circle formations", even if the terminology can be further improved.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369377</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28378331</id>
+	<title>Re:Surprised?</title>
+	<author>Jack9</author>
+	<datestamp>1245355440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>A large amount of excavation, study, exposure and seismic investigation into the greater Stonehenge area, has occurred for hundreds of years. In the 80's some groups were taking readings all over the place looking for the source of the stone that may have been long-buried, IIRC. Finding a previously undiscovered, massively large, underground structure, so close to Stonehenge now, is surprising.</p></htmltext>
+<tokenext>A large amount of excavation , study , exposure and seismic investigation into the greater Stonehenge area , has occurred for hundreds of years .
+In the 80 's some groups were taking readings all over the place looking for the source of the stone that may have been long-buried , IIRC .
+Finding a previously undiscovered , massively large , underground structure , so close to Stonehenge now , is surprising .</tokentext>
+<sentencetext>A large amount of excavation, study, exposure and seismic investigation into the greater Stonehenge area, has occurred for hundreds of years.
+In the 80's some groups were taking readings all over the place looking for the source of the stone that may have been long-buried, IIRC.
+Finding a previously undiscovered, massively large, underground structure, so close to Stonehenge now, is surprising.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369469</id>
+	<title>Re:Surprised?</title>
+	<author>Fluffeh</author>
+	<datestamp>1245258360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>You and your obvious political ploys with your fancy logical analysis and your brainy smarts! Begone from here!</htmltext>
+<tokenext>You and your obvious political ploys with your fancy logical analysis and your brainy smarts !
+Begone from here !</tokentext>
+<sentencetext>You and your obvious political ploys with your fancy logical analysis and your brainy smarts!
+Begone from here!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372295</id>
+	<title>Britain is Freaky</title>
+	<author>Bicx</author>
+	<datestamp>1245331260000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>3</modscore>
+	<htmltext>They have these big mounds of dead people from thousands of years ago.... STILL SITTING AROUND!<br> <br>
+In the U.S., we know how to handle an ancient burial ground properly: bulldoze it flat, then build a Wal-Mart on top of what's left.</htmltext>
+<tokenext>They have these big mounds of dead people from thousands of years ago.... STILL SITTING AROUND !
+In the U.S. , we know how to handle an ancient burial ground properly : bulldoze it flat , then build a Wal-Mart on top of what 's left .</tokentext>
+<sentencetext>They have these big mounds of dead people from thousands of years ago.... STILL SITTING AROUND!
+In the U.S., we know how to handle an ancient burial ground properly: bulldoze it flat, then build a Wal-Mart on top of what's left.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369459</id>
+	<title>Surprise?</title>
+	<author>Anonymous</author>
+	<datestamp>1245258180000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>6000 year old tomb complex... has come as a surprise to the archaeologists </i></p><p>And even more of a surprise to the young-earth creationists. WE'VE FOUND THE TOMBS OF ADAM AND EVE, EVERYONE!!!!11!!122!</p></htmltext>
+<tokenext>6000 year old tomb complex... has come as a surprise to the archaeologists And even more of a surprise to the young-earth creationists .
+WE 'VE FOUND THE TOMBS OF ADAM AND EVE , EVERYONE ! ! ! ! 11 !
+! 122 !</tokentext>
+<sentencetext>6000 year old tomb complex... has come as a surprise to the archaeologists And even more of a surprise to the young-earth creationists.
+WE'VE FOUND THE TOMBS OF ADAM AND EVE, EVERYONE!!!!11!
+!122!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28374973</id>
+	<title>Re:Surprised?</title>
+	<author>Anonymous</author>
+	<datestamp>1245343860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>BAH! I scoff at that one. Jim just told you that so he could sound all big and important. Steve is the one. He found it</p></htmltext>
+<tokenext>BAH !
+I scoff at that one .
+Jim just told you that so he could sound all big and important .
+Steve is the one .
+He found it</tokentext>
+<sentencetext>BAH!
+I scoff at that one.
+Jim just told you that so he could sound all big and important.
+Steve is the one.
+He found it</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372857</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372989</id>
+	<title>Re:Hello Cleveland!</title>
+	<author>elrous0</author>
+	<datestamp>1245335460000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>If I could mod you +11 funny, I would.</htmltext>
+<tokenext>If I could mod you + 11 funny , I would .</tokentext>
+<sentencetext>If I could mod you +11 funny, I would.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369451</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28413653</id>
+	<title>Re:Hyperbole</title>
+	<author>CAIMLAS</author>
+	<datestamp>1245579420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I'm curious why there's all this evidence of barrows (a type of tomb, in a sense) but none of the supposed living quarters of these people. Why is that, do you suppose? Maybe these were not "ceremonial buildings" but actual living quarters and they (like many a people group) buried their deceased nearby?</p></htmltext>
+<tokenext>I 'm curious why there 's all this evidence of barrows ( a type of tomb , in a sense ) but none of the supposed living quarters of these people .
+Why is that , do you suppose ?
+Maybe these were not " ceremonial buildings " but actual living quarters and they ( like many a people group ) buried their deceased nearby ?</tokentext>
+<sentencetext>I'm curious why there's all this evidence of barrows (a type of tomb, in a sense) but none of the supposed living quarters of these people.
+Why is that, do you suppose?
+Maybe these were not "ceremonial buildings" but actual living quarters and they (like many a people group) buried their deceased nearby?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370639</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370759</id>
+	<title>Aquila</title>
+	<author>improfane</author>
+	<datestamp>1245315780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I wonder if they found the buried <a href="http://en.wikipedia.org/wiki/Aquila\_(TV\_series)" title="wikipedia.org" rel="nofollow">space ship</a> [wikipedia.org].</p></htmltext>
+<tokenext>I wonder if they found the buried space ship [ wikipedia.org ] .</tokentext>
+<sentencetext>I wonder if they found the buried space ship [wikipedia.org].</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28371635</id>
+	<title>Re:Surprised?</title>
+	<author>Anonymous</author>
+	<datestamp>1245324780000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>"If they believed a few remained, why are they so surprised to find one of them?"</p><p>BECAUSE only a few remain. D'oh!</p><p>If there are only a few lottery tickets with a top prize, and you drew one, would you describe your condition as 'surprised'? Or would you say that statistically it had to be drawn so this is not an unusual event....</p></htmltext>
+<tokenext>" If they believed a few remained , why are they so surprised to find one of them ?
+" BECAUSE only a few remain .
+D'oh ! If there are only a few lottery tickets with a top prize , and you drew one , would you describe your condition as 'surprised ' ?
+Or would you say that statistically it had to be drawn so this is not an unusual event... .</tokentext>
+<sentencetext>"If they believed a few remained, why are they so surprised to find one of them?
+"BECAUSE only a few remain.
+D'oh!If there are only a few lottery tickets with a top prize, and you drew one, would you describe your condition as 'surprised'?
+Or would you say that statistically it had to be drawn so this is not an unusual event....</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369923</id>
+	<title>There He goes Again</title>
+	<author>Anonymous</author>
+	<datestamp>1245262740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>his holy noddleness screwing with the carbon dating. every one KNOWS that the earth is only 5,000 years old.</p></htmltext>
+<tokenext>his holy noddleness screwing with the carbon dating .
+every one KNOWS that the earth is only 5,000 years old .</tokentext>
+<sentencetext>his holy noddleness screwing with the carbon dating.
+every one KNOWS that the earth is only 5,000 years old.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28384251</id>
+	<title>6000 ? how about 12.000 ? check this out</title>
+	<author>unity100</author>
+	<datestamp>1245336360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><a href="http://en.wikipedia.org/wiki/G\%C3\%B6bekli\_Tepe" title="wikipedia.org">http://en.wikipedia.org/wiki/G\%C3\%B6bekli\_Tepe</a> [wikipedia.org]</p><p>this region was a religious center BEFORE mankind domesticated wheat. one of the stunning things about this place is, they think that wheat was very probably domesticated here, because nearby wild grain dna is the closest to the dna of the modern wheat we use. this is probably the place where farming started.</p></htmltext>
+<tokenext>http : //en.wikipedia.org/wiki/G \ % C3 \ % B6bekli \ _Tepe [ wikipedia.org ] this region was a religious center BEFORE mankind domesticated wheat .
+one of the stunning things about this place is , they think that wheat was very probably domesticated here , because nearby wild grain dna is the closest to the dna of the modern wheat we use .
+this is probably the place where farming started .</tokentext>
+<sentencetext>http://en.wikipedia.org/wiki/G\%C3\%B6bekli\_Tepe [wikipedia.org]this region was a religious center BEFORE mankind domesticated wheat.
+one of the stunning things about this place is, they think that wheat was very probably domesticated here, because nearby wild grain dna is the closest to the dna of the modern wheat we use.
+this is probably the place where farming started.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28371649</id>
+	<title>Re:British histroy is now complete.</title>
+	<author>Anonymous</author>
+	<datestamp>1245324960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Don't worry, the Creationists/IDers still have the reach around!</p></htmltext>
+<tokenext>Do n't worry , the Creationists/IDers still have the reach around !</tokentext>
+<sentencetext>Don't worry, the Creationists/IDers still have the reach around!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369479</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369975</id>
+	<title>It must be God's house</title>
+	<author>dangitman</author>
+	<datestamp>1245263340000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext>Either that, or where Adam and Eve sheltered from the dinosaurs. After all, the world is only 6,000 years old.</htmltext>
+<tokenext>Either that , or where Adam and Eve sheltered from the dinosaurs .
+After all , the world is only 6,000 years old .</tokentext>
+<sentencetext>Either that, or where Adam and Eve sheltered from the dinosaurs.
+After all, the world is only 6,000 years old.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28379677</id>
+	<title>Re:More Giant Circles</title>
+	<author>Anonymous</author>
+	<datestamp>1245316140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>They look like silage pits to me. Mound it up and cover it if its wet process. If its for dry hay then put a rope and pole in the middle and walk a horse round the edge with a rake to turn it. It changes the composition of the soil after a while, and the grass looks different or nitrogen poisoned though that looks more blueish than in those photos.  those are probably over 100 years old as they have not done it that way for a long time!</p><p>Used to ensilage with trenches in the same way. About four feet deep and up to a hundred yards long. a layer of turf on top. Pollution of a sort. It's history but perhaps not all that old.</p></htmltext>
+<tokenext>They look like silage pits to me .
+Mound it up and cover it if its wet process .
+If its for dry hay then put a rope and pole in the middle and walk a horse round the edge with a rake to turn it .
+It changes the composition of the soil after a while , and the grass looks different or nitrogen poisoned though that looks more blueish than in those photos .
+those are probably over 100 years old as they have not done it that way for a long time ! Used to ensilage with trenches in the same way .
+About four feet deep and up to a hundred yards long .
+a layer of turf on top .
+Pollution of a sort .
+It 's history but perhaps not all that old .</tokentext>
+<sentencetext>They look like silage pits to me.
+Mound it up and cover it if its wet process.
+If its for dry hay then put a rope and pole in the middle and walk a horse round the edge with a rake to turn it.
+It changes the composition of the soil after a while, and the grass looks different or nitrogen poisoned though that looks more blueish than in those photos.
+those are probably over 100 years old as they have not done it that way for a long time!Used to ensilage with trenches in the same way.
+About four feet deep and up to a hundred yards long.
+a layer of turf on top.
+Pollution of a sort.
+It's history but perhaps not all that old.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370259</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28378399</id>
+	<title>Call in SG-1</title>
+	<author>Jack9</author>
+	<datestamp>1245355680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I'm surprised there has not been a Stargate SG-1 reference to Merlin's tomb yet. Isn't that an eerie coincidence?</p></htmltext>
+<tokenext>I 'm surprised there has not been a Stargate SG-1 reference to Merlin 's tomb yet .
+Is n't that an eerie coincidence ?</tokentext>
+<sentencetext>I'm surprised there has not been a Stargate SG-1 reference to Merlin's tomb yet.
+Isn't that an eerie coincidence?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28371517</id>
+	<title>Re:google maps link</title>
+	<author>laejoh</author>
+	<datestamp>1245323220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>I wonder if it's connected with Binger, in Caddo County, Oklahoma.</htmltext>
+<tokenext>I wonder if it 's connected with Binger , in Caddo County , Oklahoma .</tokentext>
+<sentencetext>I wonder if it's connected with Binger, in Caddo County, Oklahoma.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369483</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369479</id>
+	<title>British histroy is now complete.</title>
+	<author>arthurpaliden</author>
+	<datestamp>1245258480000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext>Well that about wraps it up for all the archaeology in Britain. After all once you reach back 6000 years there is no more to find.</htmltext>
+<tokenext>Well that about wraps it up for all the archaeology in Britain .
+After all once you reach back 6000 years there is no more to find .</tokentext>
+<sentencetext>Well that about wraps it up for all the archaeology in Britain.
+After all once you reach back 6000 years there is no more to find.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28373289</id>
+	<title>Re:Britain is Freaky</title>
+	<author>Anonymusing</author>
+	<datestamp>1245336960000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>You think that's freaky?? Clearly you've never been in the basement at Wal-Mart.</p></htmltext>
+<tokenext>You think that 's freaky ? ?
+Clearly you 've never been in the basement at Wal-Mart .</tokentext>
+<sentencetext>You think that's freaky??
+Clearly you've never been in the basement at Wal-Mart.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372295</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372043</id>
+	<title>Re:More Giant Circles</title>
+	<author>Muad'Dave</author>
+	<datestamp>1245329220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Here are more <a href="http://maps.google.com/maps?f=q&amp;source=s\_q&amp;hl=en&amp;geocode=&amp;q=50.977866,-1.963204&amp;sll=50.977866,-1.963204&amp;sspn=177.15044,360&amp;ie=UTF8&amp;t=h&amp;ll=51.00959,-1.952305&amp;spn=0.005103,0.008959&amp;z=17&amp;iwloc=A" title="google.com">strange markings</a> [google.com]. Clearly these ancient marks were made by sun worshipers - note how the lines radiate out from a central 'bright' area. Also note how there are 20 segments - clearly a nod to the ancient Mesopotamians who were enamored with the number 60 (and sub-multiples thereof).<br>Notice how animals are attracted to the 'tombs' - perhaps they are the descendants of ancient sacrificial animals bred specifically for that purpose and somehow retain a genetic memory of their fate.
+</p><p>Oh, and in case you didn't notice, &lt;sarcasm&gt;</p></htmltext>
+<tokenext>Here are more strange markings [ google.com ] .
+Clearly these ancient marks were made by sun worshipers - note how the lines radiate out from a central 'bright ' area .
+Also note how there are 20 segments - clearly a nod to the ancient Mesopotamians who were enamored with the number 60 ( and sub-multiples thereof ) .Notice how animals are attracted to the 'tombs ' - perhaps they are the descendants of ancient sacrificial animals bred specifically for that purpose and somehow retain a genetic memory of their fate .
+Oh , and in case you did n't notice ,</tokentext>
+<sentencetext>Here are more strange markings [google.com].
+Clearly these ancient marks were made by sun worshipers - note how the lines radiate out from a central 'bright' area.
+Also note how there are 20 segments - clearly a nod to the ancient Mesopotamians who were enamored with the number 60 (and sub-multiples thereof).Notice how animals are attracted to the 'tombs' - perhaps they are the descendants of ancient sacrificial animals bred specifically for that purpose and somehow retain a genetic memory of their fate.
+Oh, and in case you didn't notice, </sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370259</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28373241</id>
+	<title>Re:crop mark != crop circle</title>
+	<author>Ecuador</author>
+	<datestamp>1245336720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p><div class="quote"><p>Given away by strange, crop circle-like formations seen from the air, a huge prehistoric ceremonial complex discovered in southern England has taken archaeologists by surprise.</p></div><p>Umm.. <a href="http://en.wikipedia.org/wiki/Crop\_marks" title="wikipedia.org">Crop marks</a> [wikipedia.org], not <a href="http://en.wikipedia.org/wiki/Crop\_circle" title="wikipedia.org">crop circles</a> [wikipedia.org].</p></div><p>Amusingly, somebody had already added the Stonehenge discovery as an example on the Wikipedia Crop CIRCLE page. I undid that edit, so you owe me (since I saved you from the embarrassment of linking to sources that contradict your own point of course!)<nobr> <wbr></nobr>;)</p></div>
+	</htmltext>
+<tokenext>Given away by strange , crop circle-like formations seen from the air , a huge prehistoric ceremonial complex discovered in southern England has taken archaeologists by surprise.Umm.. Crop marks [ wikipedia.org ] , not crop circles [ wikipedia.org ] .Amusingly , somebody had already added the Stonehenge discovery as an example on the Wikipedia Crop CIRCLE page .
+I undid that edit , so you owe me ( since I saved you from the embarrassment of linking to sources that contradict your own point of course !
+) ; )</tokentext>
+<sentencetext>Given away by strange, crop circle-like formations seen from the air, a huge prehistoric ceremonial complex discovered in southern England has taken archaeologists by surprise.Umm.. Crop marks [wikipedia.org], not crop circles [wikipedia.org].Amusingly, somebody had already added the Stonehenge discovery as an example on the Wikipedia Crop CIRCLE page.
+I undid that edit, so you owe me (since I saved you from the embarrassment of linking to sources that contradict your own point of course!
+) ;)
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369377</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28375353</id>
+	<title>Re:crop mark != crop circle</title>
+	<author>Anonymous</author>
+	<datestamp>1245345420000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>We have this cool feature of the English language call the <i>simile</i>.   With this simile, we can describe the features of an object by comparing it to another, unrelated object.</p><p>Example:</p><p>Joe is so strong, he is like an ox.</p><p>In this example, Joe clearly has no actual relation to an ox (we hope), however comparing him to an ox relates a charactaristic of Joe's, his strength, with a charactaristic easily noted when one looks at an ox - oxen are very strong compared to humans.  This simile does not even imply that Joe's strength is equal to that of an ox, in this example hyperbole (more on that in another lesson) or exageration is used to highlight the quality of Joe that is being described.</p><p>In the example of the summary, they use simile by saying "crop circle-like" to describe what the formations look like.  This does not imply that these formations ARE crop circle markings, in fact, the use of simile could actually imply that they are NOT the same thing.  Had they simply said "crop circle", they would have either been incredibly inacturate or really, really bad at using metaphore (similar to simile, but not covered in this lesson).</p><p>In other words, you're an idiot.</p></htmltext>
+<tokenext>We have this cool feature of the English language call the simile .
+With this simile , we can describe the features of an object by comparing it to another , unrelated object.Example : Joe is so strong , he is like an ox.In this example , Joe clearly has no actual relation to an ox ( we hope ) , however comparing him to an ox relates a charactaristic of Joe 's , his strength , with a charactaristic easily noted when one looks at an ox - oxen are very strong compared to humans .
+This simile does not even imply that Joe 's strength is equal to that of an ox , in this example hyperbole ( more on that in another lesson ) or exageration is used to highlight the quality of Joe that is being described.In the example of the summary , they use simile by saying " crop circle-like " to describe what the formations look like .
+This does not imply that these formations ARE crop circle markings , in fact , the use of simile could actually imply that they are NOT the same thing .
+Had they simply said " crop circle " , they would have either been incredibly inacturate or really , really bad at using metaphore ( similar to simile , but not covered in this lesson ) .In other words , you 're an idiot .</tokentext>
+<sentencetext>We have this cool feature of the English language call the simile.
+With this simile, we can describe the features of an object by comparing it to another, unrelated object.Example:Joe is so strong, he is like an ox.In this example, Joe clearly has no actual relation to an ox (we hope), however comparing him to an ox relates a charactaristic of Joe's, his strength, with a charactaristic easily noted when one looks at an ox - oxen are very strong compared to humans.
+This simile does not even imply that Joe's strength is equal to that of an ox, in this example hyperbole (more on that in another lesson) or exageration is used to highlight the quality of Joe that is being described.In the example of the summary, they use simile by saying "crop circle-like" to describe what the formations look like.
+This does not imply that these formations ARE crop circle markings, in fact, the use of simile could actually imply that they are NOT the same thing.
+Had they simply said "crop circle", they would have either been incredibly inacturate or really, really bad at using metaphore (similar to simile, but not covered in this lesson).In other words, you're an idiot.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369377</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439</id>
+	<title>Surprised?</title>
+	<author>Sardak</author>
+	<datestamp>1245258000000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><blockquote><div><p>The site has <b>come as a surprise to the archaeologists</b> who had thought that the area had been studied in such depth that <b>few discoveries of such magnitude remained.</b></p></div> </blockquote><p>
+If they believed a few remained, why are they so surprised to find one of them?</p></div>
+	</htmltext>
+<tokenext>The site has come as a surprise to the archaeologists who had thought that the area had been studied in such depth that few discoveries of such magnitude remained .
+If they believed a few remained , why are they so surprised to find one of them ?</tokentext>
+<sentencetext>The site has come as a surprise to the archaeologists who had thought that the area had been studied in such depth that few discoveries of such magnitude remained.
+If they believed a few remained, why are they so surprised to find one of them?
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370063</id>
+	<title>Re:google maps link</title>
+	<author>Anonymous</author>
+	<datestamp>1245264420000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>Here it is on Google Maps... you can see a faint <b>circle</b> where the <b>mound</b> is located.</i></p><p>Aaaaah, clearly what <a href="http://maps.google.com.au/maps?ll=50.813777,-2.474802&amp;spn=0.000907,0.001784&amp;t=h&amp;z=19" title="google.com.au" rel="nofollow">this guy</a> [google.com.au] is looking for.</p><p>(posting anon as I am ashamed of my puerile sense of humour).</p></htmltext>
+<tokenext>Here it is on Google Maps... you can see a faint circle where the mound is located.Aaaaah , clearly what this guy [ google.com.au ] is looking for .
+( posting anon as I am ashamed of my puerile sense of humour ) .</tokentext>
+<sentencetext>Here it is on Google Maps... you can see a faint circle where the mound is located.Aaaaah, clearly what this guy [google.com.au] is looking for.
+(posting anon as I am ashamed of my puerile sense of humour).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369483</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369625</id>
+	<title>stay out of my grave lest I come back</title>
+	<author>Anonymous</author>
+	<datestamp>1245259740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I mean it. You don't want to piss me off (your nukes won't help you).</p><p>-- Ghost Gilbinglober Ingltain</p></htmltext>
+<tokenext>I mean it .
+You do n't want to piss me off ( your nukes wo n't help you ) .-- Ghost Gilbinglober Ingltain</tokentext>
+<sentencetext>I mean it.
+You don't want to piss me off (your nukes won't help you).-- Ghost Gilbinglober Ingltain</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370741</id>
+	<title>Anonymous Coward</title>
+	<author>Anonymous</author>
+	<datestamp>1245315660000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Hobbitses ?</p></htmltext>
+<tokenext>Hobbitses ?</tokentext>
+<sentencetext>Hobbitses ?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28413581</id>
+	<title>Re:British histroy is now complete.</title>
+	<author>CAIMLAS</author>
+	<datestamp>1245578760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>That's more true than you think, for contemporary archaeologists.</p><p>Ever wonder why anything they find is a "tomb", "ritual site" or "burial site" if it demonstrates even the least bit of architectural complexity and it's older than (say) 3,000 years old? IE, it couldn't <i>possibly</i> have served a functionality beyond some primitive goal, because people back then couldn't possibly have been technologically/intellectually advanced to achieve such a goal! The Giza pyramid is a perfect example of this: despite having had multiple groups attempt to rebuild the pyramids to scale using the supposed tools used by the pyramid builders, nobody has been able to do so; and the Giza pyramid, despite having no overt indication of being a tomb or religious site, still gets categorized as such.</p><p>Let's think about this: if you were a privative people, why would you build tombs as your "most advanced architecture"? You wouldn't. You'd make dwelling places and utilitarian buildings. Sure, they may have been made from something else - which doesn't last as long, such as wood - but tombs. Or maybe they were primarily tombs - made by a later people who used the homes of a lost people to bury their dead.</p><p>Archeology would be well suited to ditch the millstone of evolutionary theory and start basing their theories on their own discoveries and the evidence manifest. Even as a "soft science" they should be asking "what does this evidence support?" not "how does this evidence fit our theory?"</p></htmltext>
+<tokenext>That 's more true than you think , for contemporary archaeologists.Ever wonder why anything they find is a " tomb " , " ritual site " or " burial site " if it demonstrates even the least bit of architectural complexity and it 's older than ( say ) 3,000 years old ?
+IE , it could n't possibly have served a functionality beyond some primitive goal , because people back then could n't possibly have been technologically/intellectually advanced to achieve such a goal !
+The Giza pyramid is a perfect example of this : despite having had multiple groups attempt to rebuild the pyramids to scale using the supposed tools used by the pyramid builders , nobody has been able to do so ; and the Giza pyramid , despite having no overt indication of being a tomb or religious site , still gets categorized as such.Let 's think about this : if you were a privative people , why would you build tombs as your " most advanced architecture " ?
+You would n't .
+You 'd make dwelling places and utilitarian buildings .
+Sure , they may have been made from something else - which does n't last as long , such as wood - but tombs .
+Or maybe they were primarily tombs - made by a later people who used the homes of a lost people to bury their dead.Archeology would be well suited to ditch the millstone of evolutionary theory and start basing their theories on their own discoveries and the evidence manifest .
+Even as a " soft science " they should be asking " what does this evidence support ?
+" not " how does this evidence fit our theory ?
+"</tokentext>
+<sentencetext>That's more true than you think, for contemporary archaeologists.Ever wonder why anything they find is a "tomb", "ritual site" or "burial site" if it demonstrates even the least bit of architectural complexity and it's older than (say) 3,000 years old?
+IE, it couldn't possibly have served a functionality beyond some primitive goal, because people back then couldn't possibly have been technologically/intellectually advanced to achieve such a goal!
+The Giza pyramid is a perfect example of this: despite having had multiple groups attempt to rebuild the pyramids to scale using the supposed tools used by the pyramid builders, nobody has been able to do so; and the Giza pyramid, despite having no overt indication of being a tomb or religious site, still gets categorized as such.Let's think about this: if you were a privative people, why would you build tombs as your "most advanced architecture"?
+You wouldn't.
+You'd make dwelling places and utilitarian buildings.
+Sure, they may have been made from something else - which doesn't last as long, such as wood - but tombs.
+Or maybe they were primarily tombs - made by a later people who used the homes of a lost people to bury their dead.Archeology would be well suited to ditch the millstone of evolutionary theory and start basing their theories on their own discoveries and the evidence manifest.
+Even as a "soft science" they should be asking "what does this evidence support?
+" not "how does this evidence fit our theory?
+"</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369479</parent>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28373241
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369377
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28375313
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369451
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370063
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369483
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372989
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369451
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369469
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28413581
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369479
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28375353
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369377
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28371649
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369479
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28371145
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369483
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372755
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28373289
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372295
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370111
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28371635
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372043
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370259
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370223
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28371517
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369483
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372489
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369459
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369435
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369377
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28374973
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372857
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28378331
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28413653
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370639
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_17_2359217_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28379677
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370259
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_17_2359217.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370759
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_17_2359217.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369479
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28413581
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28371649
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_17_2359217.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369377
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369435
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28375353
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28373241
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_17_2359217.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370639
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28413653
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_17_2359217.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369451
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28375313
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372989
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_17_2359217.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369483
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28371517
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370063
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28371145
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_17_2359217.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372295
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28373289
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_17_2359217.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369439
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28371635
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370111
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370223
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372755
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369469
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372857
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28374973
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28378331
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_17_2359217.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369459
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372489
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_17_2359217.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28370259
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28372043
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28379677
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_17_2359217.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_17_2359217.28369947
+</commentlist>
+</conversation>

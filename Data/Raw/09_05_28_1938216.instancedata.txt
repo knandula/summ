@@ -1,0 +1,813 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_28_1938216</id>
+	<title>Swiss Court Halts Non-Competitive Contract With Microsoft</title>
+	<author>timothy</author>
+	<datestamp>1243539780000</datestamp>
+	<htmltext><a href="mailto:ade@adebaumann.com" rel="nofollow">Ade</a> writes <i>"Looks like the <a href="http://yro.slashdot.org/story/09/05/25/182200/Red-Hat-Challenges-Swiss-Government-Over-Microsoft-Monopoly?art\_pos=10">challenge</a> to the Swiss Administrative Court concerning the government contract given to Microsoft without any public bidding was successful: The court has <a href="http://www.nzz.ch/nachrichten/schweiz/open\_source\_microsoft\_gericht\_1.2640703.html">issued a temporary injunction</a> (note: article in German) against the <a href="http://www.bbl.admin.ch/">Federal Office of Buildings and Logistics (BBL)</a>, effectively stopping the CHF 14M (&pound;8M; $15M)-contract to deliver licenses and support for software used on government computers for the next three years. According to Swiss Government practices, any contract over CHF 50'000 has to undergo a public call for offers. The BBL cited 'no serious alternatives' as the reason which this contract never did."</i></htmltext>
+<tokenext>Ade writes " Looks like the challenge to the Swiss Administrative Court concerning the government contract given to Microsoft without any public bidding was successful : The court has issued a temporary injunction ( note : article in German ) against the Federal Office of Buildings and Logistics ( BBL ) , effectively stopping the CHF 14M ( Â £ 8M ; $ 15M ) -contract to deliver licenses and support for software used on government computers for the next three years .
+According to Swiss Government practices , any contract over CHF 50'000 has to undergo a public call for offers .
+The BBL cited 'no serious alternatives ' as the reason which this contract never did .
+"</tokentext>
+<sentencetext>Ade writes "Looks like the challenge to the Swiss Administrative Court concerning the government contract given to Microsoft without any public bidding was successful: The court has issued a temporary injunction (note: article in German) against the Federal Office of Buildings and Logistics (BBL), effectively stopping the CHF 14M (Â£8M; $15M)-contract to deliver licenses and support for software used on government computers for the next three years.
+According to Swiss Government practices, any contract over CHF 50'000 has to undergo a public call for offers.
+The BBL cited 'no serious alternatives' as the reason which this contract never did.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129755</id>
+	<title>Re:Probably Saved a lot of money</title>
+	<author>aztracker1</author>
+	<datestamp>1243503360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Thanks for filling in the "???" before "Profit!".  Really wish that I had mod points to give you...</htmltext>
+<tokenext>Thanks for filling in the " ? ? ?
+" before " Profit ! " .
+Really wish that I had mod points to give you.. .</tokentext>
+<sentencetext>Thanks for filling in the "???
+" before "Profit!".
+Really wish that I had mod points to give you...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129085</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129341</id>
+	<title>Re:Probably Saved a lot of money</title>
+	<author>Jurily</author>
+	<datestamp>1243501920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Then they find the winning bid (which isn't the cheapest) but is a perfect match to the requirements.</p></div><p>In Hungary, the winning bid is usually the one who contributes the most back to the party in power.</p></div>
+	</htmltext>
+<tokenext>Then they find the winning bid ( which is n't the cheapest ) but is a perfect match to the requirements.In Hungary , the winning bid is usually the one who contributes the most back to the party in power .</tokentext>
+<sentencetext>Then they find the winning bid (which isn't the cheapest) but is a perfect match to the requirements.In Hungary, the winning bid is usually the one who contributes the most back to the party in power.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129085</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129929</id>
+	<title>Re:Linux may not be ready for the desktop...</title>
+	<author>icebike</author>
+	<datestamp>1243504260000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Or, as we in the contracting business say...</p><p>Close Government, Enough Work!</p></htmltext>
+<tokenext>Or , as we in the contracting business say...Close Government , Enough Work !</tokentext>
+<sentencetext>Or, as we in the contracting business say...Close Government, Enough Work!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129111</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130419</id>
+	<title>"no serious alternatives"???</title>
+	<author>Anonymous</author>
+	<datestamp>1243505940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>What are they implying here? Linux is funny? Are they calling us comedians?</p></htmltext>
+<tokenext>What are they implying here ?
+Linux is funny ?
+Are they calling us comedians ?</tokentext>
+<sentencetext>What are they implying here?
+Linux is funny?
+Are they calling us comedians?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129613</id>
+	<title>There is possible competition</title>
+	<author>Alain Williams</author>
+	<datestamp>1243502760000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext>OK: I have be benefit of not knowing exactly what the tender was for, but it appears to include ''support and maintenance''. Assuming that MS s/ware is provided could not this support be provided by a local Swiss company rather than directly with MS ?<p>
+''Applications'' is horribly vague.</p><p>
+Part of the problem with this sort of thing is that the people who write the specifications tend to think in terms of solutions, thus ''Word Processing'' is ''MS Word''.
+These people need to think in terms of what they are trying to <i>achieve</i> and to draft the specifications in those terms. This will allow different/innovative tenders.</p></htmltext>
+<tokenext>OK : I have be benefit of not knowing exactly what the tender was for , but it appears to include ''support and maintenance'' .
+Assuming that MS s/ware is provided could not this support be provided by a local Swiss company rather than directly with MS ?
+''Applications' ' is horribly vague .
+Part of the problem with this sort of thing is that the people who write the specifications tend to think in terms of solutions , thus ''Word Processing' ' is ''MS Word'' .
+These people need to think in terms of what they are trying to achieve and to draft the specifications in those terms .
+This will allow different/innovative tenders .</tokentext>
+<sentencetext>OK: I have be benefit of not knowing exactly what the tender was for, but it appears to include ''support and maintenance''.
+Assuming that MS s/ware is provided could not this support be provided by a local Swiss company rather than directly with MS ?
+''Applications'' is horribly vague.
+Part of the problem with this sort of thing is that the people who write the specifications tend to think in terms of solutions, thus ''Word Processing'' is ''MS Word''.
+These people need to think in terms of what they are trying to achieve and to draft the specifications in those terms.
+This will allow different/innovative tenders.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129079</id>
+	<title>Re:But they may (sadly) have been right</title>
+	<author>Anonymous</author>
+	<datestamp>1243544220000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext>Too many idiots write specifications in terms of products vs protocols.</htmltext>
+<tokenext>Too many idiots write specifications in terms of products vs protocols .</tokentext>
+<sentencetext>Too many idiots write specifications in terms of products vs protocols.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128935</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128935</id>
+	<title>But they may (sadly) have been right</title>
+	<author>Anonymous</author>
+	<datestamp>1243543680000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>If your requirement is to be able to run Windows software, then there may in fact be "no serious alternatives".  Now, clearly they should step back and look at the bigger picture.</p></htmltext>
+<tokenext>If your requirement is to be able to run Windows software , then there may in fact be " no serious alternatives " .
+Now , clearly they should step back and look at the bigger picture .</tokentext>
+<sentencetext>If your requirement is to be able to run Windows software, then there may in fact be "no serious alternatives".
+Now, clearly they should step back and look at the bigger picture.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130895</id>
+	<title>Re:What are the consequences of this?</title>
+	<author>Anonymous</author>
+	<datestamp>1243508220000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>What a horrible system.   Unless the company that originally won the bid was the wrong-doer, why should they be excluded?   Sounds like something a lawyer could sue over and a bureaucrat could manipulate to game the system.</p></htmltext>
+<tokenext>What a horrible system .
+Unless the company that originally won the bid was the wrong-doer , why should they be excluded ?
+Sounds like something a lawyer could sue over and a bureaucrat could manipulate to game the system .</tokentext>
+<sentencetext>What a horrible system.
+Unless the company that originally won the bid was the wrong-doer, why should they be excluded?
+Sounds like something a lawyer could sue over and a bureaucrat could manipulate to game the system.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130067</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129547</id>
+	<title>no serious alternatives</title>
+	<author>Anonymous</author>
+	<datestamp>1243502580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>"no serious alternatives" is purchase order speak for "too lazy to look, what we have works" or "renewing contract the easy way". Many times its easier to continue with the software you have, rather than force a regime change, especially when the Microsoft Software is already factored into the annual budget. It's hard to blame them in this case.</p></htmltext>
+<tokenext>" no serious alternatives " is purchase order speak for " too lazy to look , what we have works " or " renewing contract the easy way " .
+Many times its easier to continue with the software you have , rather than force a regime change , especially when the Microsoft Software is already factored into the annual budget .
+It 's hard to blame them in this case .</tokentext>
+<sentencetext>"no serious alternatives" is purchase order speak for "too lazy to look, what we have works" or "renewing contract the easy way".
+Many times its easier to continue with the software you have, rather than force a regime change, especially when the Microsoft Software is already factored into the annual budget.
+It's hard to blame them in this case.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28131921</id>
+	<title>Re:Probably Saved a lot of money</title>
+	<author>hey!</author>
+	<datestamp>1243513200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Well, as is always the case in these matters, you have to consider what would need be done to fix the problem.   The solution is simple: you hire enough talent of sufficient quality that you can do your own requirements analysis.</p><p>The problem is that inflates head count.  There are people who *hate* anybody who has the temerity to work for them as a public employee, and they'll go beserk when they see state government ballooning.   They have some sound points as well.   A larger headcount means that it is more complex and painful to tighten the fiscal belt during hard times.   Rather than not letting as many contracts, you've got to let *people* go.</p><p>The other thing is that you've got to grade the positions you hire very high if you want to hire *experienced* people.   One of the things you give up, if you are a public employee drawing a pension, is the right to collect Social Security.  You don't even get your contributions back.  So if you hire a guy who's been paying into Social Security for fifteen years, you've got to pay him enough to make up for his future retirement losses.  Or, you have to restrict yourselves to inexperienced hires, or hires that have worked their entire career in public service, which makes growing the corps of experienced IT people difficult.</p><p>So all told, this might be better than the alternative.  You pay more than low bid, but you get free systems analysis.  The alternative to is to increase head count in a way that will be extremely disruptive to deal with if you want to reduce it later.   You can shit on the public employees later, of course, but that doesn't get you *efficient* government.  It gets you government run by employees looking to get some of their own back.  I've seen this in the most rabidly anti-public employee states.  They have the most corrupt an inefficient governments.</p></htmltext>
+<tokenext>Well , as is always the case in these matters , you have to consider what would need be done to fix the problem .
+The solution is simple : you hire enough talent of sufficient quality that you can do your own requirements analysis.The problem is that inflates head count .
+There are people who * hate * anybody who has the temerity to work for them as a public employee , and they 'll go beserk when they see state government ballooning .
+They have some sound points as well .
+A larger headcount means that it is more complex and painful to tighten the fiscal belt during hard times .
+Rather than not letting as many contracts , you 've got to let * people * go.The other thing is that you 've got to grade the positions you hire very high if you want to hire * experienced * people .
+One of the things you give up , if you are a public employee drawing a pension , is the right to collect Social Security .
+You do n't even get your contributions back .
+So if you hire a guy who 's been paying into Social Security for fifteen years , you 've got to pay him enough to make up for his future retirement losses .
+Or , you have to restrict yourselves to inexperienced hires , or hires that have worked their entire career in public service , which makes growing the corps of experienced IT people difficult.So all told , this might be better than the alternative .
+You pay more than low bid , but you get free systems analysis .
+The alternative to is to increase head count in a way that will be extremely disruptive to deal with if you want to reduce it later .
+You can shit on the public employees later , of course , but that does n't get you * efficient * government .
+It gets you government run by employees looking to get some of their own back .
+I 've seen this in the most rabidly anti-public employee states .
+They have the most corrupt an inefficient governments .</tokentext>
+<sentencetext>Well, as is always the case in these matters, you have to consider what would need be done to fix the problem.
+The solution is simple: you hire enough talent of sufficient quality that you can do your own requirements analysis.The problem is that inflates head count.
+There are people who *hate* anybody who has the temerity to work for them as a public employee, and they'll go beserk when they see state government ballooning.
+They have some sound points as well.
+A larger headcount means that it is more complex and painful to tighten the fiscal belt during hard times.
+Rather than not letting as many contracts, you've got to let *people* go.The other thing is that you've got to grade the positions you hire very high if you want to hire *experienced* people.
+One of the things you give up, if you are a public employee drawing a pension, is the right to collect Social Security.
+You don't even get your contributions back.
+So if you hire a guy who's been paying into Social Security for fifteen years, you've got to pay him enough to make up for his future retirement losses.
+Or, you have to restrict yourselves to inexperienced hires, or hires that have worked their entire career in public service, which makes growing the corps of experienced IT people difficult.So all told, this might be better than the alternative.
+You pay more than low bid, but you get free systems analysis.
+The alternative to is to increase head count in a way that will be extremely disruptive to deal with if you want to reduce it later.
+You can shit on the public employees later, of course, but that doesn't get you *efficient* government.
+It gets you government run by employees looking to get some of their own back.
+I've seen this in the most rabidly anti-public employee states.
+They have the most corrupt an inefficient governments.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129085</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28137453</id>
+	<title>There lies the problem</title>
+	<author>hesaigo999ca</author>
+	<datestamp>1243605240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It might just be the person who decides there are no viable option other then windows needs to be replaced<br>with a more up to date (technology wise) person with aptitude for the tech department!!!</p></htmltext>
+<tokenext>It might just be the person who decides there are no viable option other then windows needs to be replacedwith a more up to date ( technology wise ) person with aptitude for the tech department ! !
+!</tokentext>
+<sentencetext>It might just be the person who decides there are no viable option other then windows needs to be replacedwith a more up to date (technology wise) person with aptitude for the tech department!!
+!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130781</id>
+	<title>Re:Probably Saved a lot of money</title>
+	<author>jedidiah</author>
+	<datestamp>1243507740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Hey, if it is a detailed specification you at least have that document left over.</p><p>Someone could use that as a means to determine if some other option would work<br>or if some other option could be easily adapted. So even if you game the system,<br>you at least have something left over that you can work with.</p><p>Plus you kind of at least appear to want to follow the rules and appear to be<br>something other than completely corrupt. "Going through the motions" at least<br>beats the Mad Max sort of alternative.</p></htmltext>
+<tokenext>Hey , if it is a detailed specification you at least have that document left over.Someone could use that as a means to determine if some other option would workor if some other option could be easily adapted .
+So even if you game the system,you at least have something left over that you can work with.Plus you kind of at least appear to want to follow the rules and appear to besomething other than completely corrupt .
+" Going through the motions " at leastbeats the Mad Max sort of alternative .</tokentext>
+<sentencetext>Hey, if it is a detailed specification you at least have that document left over.Someone could use that as a means to determine if some other option would workor if some other option could be easily adapted.
+So even if you game the system,you at least have something left over that you can work with.Plus you kind of at least appear to want to follow the rules and appear to besomething other than completely corrupt.
+"Going through the motions" at leastbeats the Mad Max sort of alternative.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129085</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130147</id>
+	<title>Re:Well of course there were no serious alternativ</title>
+	<author>calmofthestorm</author>
+	<datestamp>1243505040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Sounds like somebody tried to use Gentoo.</p></htmltext>
+<tokenext>Sounds like somebody tried to use Gentoo .</tokentext>
+<sentencetext>Sounds like somebody tried to use Gentoo.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128943</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128943</id>
+	<title>Well of course there were no serious alternatives</title>
+	<author>Anonymous</author>
+	<datestamp>1243543680000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>-1</modscore>
+	<htmltext>Linux just isn't ready for the desktop yet. It may be ready for the web servers that you nerds use to distribute your TRON fanzines and personal Dungeons and Dragons web-sights across the world wide web, but the average computer user isn't going to spend months learning how to use a CLI and then hours compiling packages so that they can get a workable graphic interface to check their mail with, especially not when they already have a Windows machine that does its job perfectly well and is backed by a major corporation, as opposed to Linux which is only supported by a few unemployed nerds living in their mother's basement somewhere. The last thing I want is a level 5 dwarf (haha) providing me my OS.</htmltext>
+<tokenext>Linux just is n't ready for the desktop yet .
+It may be ready for the web servers that you nerds use to distribute your TRON fanzines and personal Dungeons and Dragons web-sights across the world wide web , but the average computer user is n't going to spend months learning how to use a CLI and then hours compiling packages so that they can get a workable graphic interface to check their mail with , especially not when they already have a Windows machine that does its job perfectly well and is backed by a major corporation , as opposed to Linux which is only supported by a few unemployed nerds living in their mother 's basement somewhere .
+The last thing I want is a level 5 dwarf ( haha ) providing me my OS .</tokentext>
+<sentencetext>Linux just isn't ready for the desktop yet.
+It may be ready for the web servers that you nerds use to distribute your TRON fanzines and personal Dungeons and Dragons web-sights across the world wide web, but the average computer user isn't going to spend months learning how to use a CLI and then hours compiling packages so that they can get a workable graphic interface to check their mail with, especially not when they already have a Windows machine that does its job perfectly well and is backed by a major corporation, as opposed to Linux which is only supported by a few unemployed nerds living in their mother's basement somewhere.
+The last thing I want is a level 5 dwarf (haha) providing me my OS.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128851</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129629</id>
+	<title>Hmm..what a bold move...</title>
+	<author>Anonymous</author>
+	<datestamp>1243502880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I wonder what the outcome of this will be. Lets see, they have the money approved, they want an "install it, and if there's a problem, it should be fixed by the manufacturer" approach, they want compatibility with standard file formats used throughout the business and government world except for technical/scientific/HPC based workplaces...</p></htmltext>
+<tokenext>I wonder what the outcome of this will be .
+Lets see , they have the money approved , they want an " install it , and if there 's a problem , it should be fixed by the manufacturer " approach , they want compatibility with standard file formats used throughout the business and government world except for technical/scientific/HPC based workplaces.. .</tokentext>
+<sentencetext>I wonder what the outcome of this will be.
+Lets see, they have the money approved, they want an "install it, and if there's a problem, it should be fixed by the manufacturer" approach, they want compatibility with standard file formats used throughout the business and government world except for technical/scientific/HPC based workplaces...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129125</id>
+	<title>That exchange rate is wrong.</title>
+	<author>Late Adopter</author>
+	<datestamp>1243501200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>The Swiss Franc has been consistently weaker than the dollar.  Right now Google says CHF 14M = USD 12.9M.</htmltext>
+<tokenext>The Swiss Franc has been consistently weaker than the dollar .
+Right now Google says CHF 14M = USD 12.9M .</tokentext>
+<sentencetext>The Swiss Franc has been consistently weaker than the dollar.
+Right now Google says CHF 14M = USD 12.9M.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129489</id>
+	<title>Re:Probably Saved a lot of money</title>
+	<author>Col. Klink (retired)</author>
+	<datestamp>1243502400000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Yes, that is the correct everyone follows.  In this case, they simply forgot to pretend to open the bidding process...</p></htmltext>
+<tokenext>Yes , that is the correct everyone follows .
+In this case , they simply forgot to pretend to open the bidding process.. .</tokentext>
+<sentencetext>Yes, that is the correct everyone follows.
+In this case, they simply forgot to pretend to open the bidding process...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129085</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129085</id>
+	<title>Probably Saved a lot of money</title>
+	<author>jellomizer</author>
+	<datestamp>1243544280000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Having done work for the State of NY, I am sure this happens else where.<br>Fair and Competitive bidding work like this...<br>You need a job to be done.<br>You call the guys who you want to do it.<br>They do some "Free" analysis of the problem.<br>They give you the requirements as they would do it.<br>They also attach the Resume of the people who they want to do the work.<br>They make the bids to match the requirements and fit the resume of the people.<br>They take in all the bid.<br>Then they find the winning bid (which isn't the cheapest) but is a perfect match to the requirements. (which happens to be the company that did the free analysis)</p></htmltext>
+<tokenext>Having done work for the State of NY , I am sure this happens else where.Fair and Competitive bidding work like this...You need a job to be done.You call the guys who you want to do it.They do some " Free " analysis of the problem.They give you the requirements as they would do it.They also attach the Resume of the people who they want to do the work.They make the bids to match the requirements and fit the resume of the people.They take in all the bid.Then they find the winning bid ( which is n't the cheapest ) but is a perfect match to the requirements .
+( which happens to be the company that did the free analysis )</tokentext>
+<sentencetext>Having done work for the State of NY, I am sure this happens else where.Fair and Competitive bidding work like this...You need a job to be done.You call the guys who you want to do it.They do some "Free" analysis of the problem.They give you the requirements as they would do it.They also attach the Resume of the people who they want to do the work.They make the bids to match the requirements and fit the resume of the people.They take in all the bid.Then they find the winning bid (which isn't the cheapest) but is a perfect match to the requirements.
+(which happens to be the company that did the free analysis)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28137577</id>
+	<title>Re:What are the consequences of this?</title>
+	<author>Anonymous</author>
+	<datestamp>1243605960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>We do not have such a law in Switzerland, Microsoft can still bid.</p><p>The thing is that there was no wrongly done bidding because there was no bidding at all. The government needed to renew its license and support contract. The government agency responsible for the renewal stated that there are no competitors for this specific task and they thus decided against a public bidding.</p></htmltext>
+<tokenext>We do not have such a law in Switzerland , Microsoft can still bid.The thing is that there was no wrongly done bidding because there was no bidding at all .
+The government needed to renew its license and support contract .
+The government agency responsible for the renewal stated that there are no competitors for this specific task and they thus decided against a public bidding .</tokentext>
+<sentencetext>We do not have such a law in Switzerland, Microsoft can still bid.The thing is that there was no wrongly done bidding because there was no bidding at all.
+The government needed to renew its license and support contract.
+The government agency responsible for the renewal stated that there are no competitors for this specific task and they thus decided against a public bidding.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130067</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28140461</id>
+	<title>Re:Well of course there were no serious alternativ</title>
+	<author>Anonymous</author>
+	<datestamp>1243620240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>Is there a -1 Woosh! mod?</htmltext>
+<tokenext>Is there a -1 Woosh !
+mod ?</tokentext>
+<sentencetext>Is there a -1 Woosh!
+mod?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28131579</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28131067</id>
+	<title>...no serious alternatives...</title>
+	<author>Anonymous</author>
+	<datestamp>1243508880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>Even if the requirement is to run Windows software, there may be alternatives. How will they know if they don't put it up for bid? (E.g, someone might bid a system based on Linux and Wine. That may or may not actually do the job, depending on the specific software and how much work the bidder is willing to put in to tweak things.)</p></div><p>Presumably that's what the BBL meant by <i>'no serious alternatives'</i> and sadly they are right. In my experience Wine in any of it's manifestations is highly unlikely to provide the kind of stability they would get with MS software for all kinds of high availability enterprise software. This whole mess just underlines:</p><ul><li> Why I am firmly convinced the *NIX type systems are a superior choice to Windows. Not necessarily because they are inherently better than Windows but because moving your software to a different  OS vendor's product is a viable proposition with Linux/Unix but obviously not with Windows.</li><li>Why the Microsoft monopoly is harmful to the IT industry and why that monopoly should be broken up or Microsoft somehow forced into competition in a way that would loosen the strangle hold like vendor lock Microsoft has on many companies. One could for example force Microsoft to license it's API's to third parties so as to provide a choice of deployment platforms from different vendors that can run Windows software which would basically open the door on creating legal, up-to-date and stable Wine or Wine like products.</li></ul><p>Normally I'm not in favor of forcing the hand of companies like this but Microsoft's strangle hold is really harmful, competition killing and generally wrong.  I'd like to know how many people would stand up and cheer if Ford had a 90\% market share on the automobile markets and somebody stood up and claimed like the MS fanboys do:<i> "O.K. so it's a monopoly but that has all sorts of advantages like: no matter what car you get in everything is so familiar, no matter where you are in the world never a problem with spares<nobr> <wbr></nobr>... blah, blah<nobr> <wbr></nobr>... long list<nobr> <wbr></nobr>... and besides who needs cars in colors other than black?"</i></p></div>
+	</htmltext>
+<tokenext>Even if the requirement is to run Windows software , there may be alternatives .
+How will they know if they do n't put it up for bid ?
+( E.g , someone might bid a system based on Linux and Wine .
+That may or may not actually do the job , depending on the specific software and how much work the bidder is willing to put in to tweak things .
+) Presumably that 's what the BBL meant by 'no serious alternatives ' and sadly they are right .
+In my experience Wine in any of it 's manifestations is highly unlikely to provide the kind of stability they would get with MS software for all kinds of high availability enterprise software .
+This whole mess just underlines : Why I am firmly convinced the * NIX type systems are a superior choice to Windows .
+Not necessarily because they are inherently better than Windows but because moving your software to a different OS vendor 's product is a viable proposition with Linux/Unix but obviously not with Windows.Why the Microsoft monopoly is harmful to the IT industry and why that monopoly should be broken up or Microsoft somehow forced into competition in a way that would loosen the strangle hold like vendor lock Microsoft has on many companies .
+One could for example force Microsoft to license it 's API 's to third parties so as to provide a choice of deployment platforms from different vendors that can run Windows software which would basically open the door on creating legal , up-to-date and stable Wine or Wine like products.Normally I 'm not in favor of forcing the hand of companies like this but Microsoft 's strangle hold is really harmful , competition killing and generally wrong .
+I 'd like to know how many people would stand up and cheer if Ford had a 90 \ % market share on the automobile markets and somebody stood up and claimed like the MS fanboys do : " O.K .
+so it 's a monopoly but that has all sorts of advantages like : no matter what car you get in everything is so familiar , no matter where you are in the world never a problem with spares ... blah , blah ... long list ... and besides who needs cars in colors other than black ?
+"</tokentext>
+<sentencetext>Even if the requirement is to run Windows software, there may be alternatives.
+How will they know if they don't put it up for bid?
+(E.g, someone might bid a system based on Linux and Wine.
+That may or may not actually do the job, depending on the specific software and how much work the bidder is willing to put in to tweak things.
+)Presumably that's what the BBL meant by 'no serious alternatives' and sadly they are right.
+In my experience Wine in any of it's manifestations is highly unlikely to provide the kind of stability they would get with MS software for all kinds of high availability enterprise software.
+This whole mess just underlines: Why I am firmly convinced the *NIX type systems are a superior choice to Windows.
+Not necessarily because they are inherently better than Windows but because moving your software to a different  OS vendor's product is a viable proposition with Linux/Unix but obviously not with Windows.Why the Microsoft monopoly is harmful to the IT industry and why that monopoly should be broken up or Microsoft somehow forced into competition in a way that would loosen the strangle hold like vendor lock Microsoft has on many companies.
+One could for example force Microsoft to license it's API's to third parties so as to provide a choice of deployment platforms from different vendors that can run Windows software which would basically open the door on creating legal, up-to-date and stable Wine or Wine like products.Normally I'm not in favor of forcing the hand of companies like this but Microsoft's strangle hold is really harmful, competition killing and generally wrong.
+I'd like to know how many people would stand up and cheer if Ford had a 90\% market share on the automobile markets and somebody stood up and claimed like the MS fanboys do: "O.K.
+so it's a monopoly but that has all sorts of advantages like: no matter what car you get in everything is so familiar, no matter where you are in the world never a problem with spares ... blah, blah ... long list ... and besides who needs cars in colors other than black?
+"
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129133</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129133</id>
+	<title>Re:But they may (sadly) have been right</title>
+	<author>Anonymous</author>
+	<datestamp>1243501200000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>Even if the requirement is to run Windows software, there may be alternatives.  How will they know if they don't put it up for bid?   (E.g, someone might bid a system based on Linux and Wine.  That may or may not actually do the job, depending on the specific software and how much work the bidder is willing to put in to tweak things.)</p><p>But yeah, the requirements ought to be based on functionality, not a specific software package.</p></htmltext>
+<tokenext>Even if the requirement is to run Windows software , there may be alternatives .
+How will they know if they do n't put it up for bid ?
+( E.g , someone might bid a system based on Linux and Wine .
+That may or may not actually do the job , depending on the specific software and how much work the bidder is willing to put in to tweak things .
+) But yeah , the requirements ought to be based on functionality , not a specific software package .</tokentext>
+<sentencetext>Even if the requirement is to run Windows software, there may be alternatives.
+How will they know if they don't put it up for bid?
+(E.g, someone might bid a system based on Linux and Wine.
+That may or may not actually do the job, depending on the specific software and how much work the bidder is willing to put in to tweak things.
+)But yeah, the requirements ought to be based on functionality, not a specific software package.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128935</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129617</id>
+	<title>Re:But they may (sadly) have been right</title>
+	<author>91degrees</author>
+	<datestamp>1243502820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Well, it's possible that another vendor may be a subcontractor of MS and capable of getting a lower price.  They may make the argument that the specific task specification is incorrect and what they want to do can be achieved with non-MS platforms.</htmltext>
+<tokenext>Well , it 's possible that another vendor may be a subcontractor of MS and capable of getting a lower price .
+They may make the argument that the specific task specification is incorrect and what they want to do can be achieved with non-MS platforms .</tokentext>
+<sentencetext>Well, it's possible that another vendor may be a subcontractor of MS and capable of getting a lower price.
+They may make the argument that the specific task specification is incorrect and what they want to do can be achieved with non-MS platforms.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128935</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130827</id>
+	<title>Wow</title>
+	<author>symbolset</author>
+	<datestamp>1243507920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Way to think inside the box.</htmltext>
+<tokenext>Way to think inside the box .</tokentext>
+<sentencetext>Way to think inside the box.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128935</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28132601</id>
+	<title>Re:Probably Saved a lot of money</title>
+	<author>Anonymous</author>
+	<datestamp>1243516620000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I just happened to go through "Government contracts" training nd what you describe is illegal, punishable by up to 5 years in prison for the official giving the info to would be contractors and whoever got the info + up to 50.000 in fines from persons and up to 500.000 from the corporation that improperly obtained such contract + damages and stuff.</p><p>The rule is if you write specs, you cannot bid.<br>If you leak exact specs or bid details to participating bidders you get fined and go to jail.<br>(there are total of 5 rules or so).</p></htmltext>
+<tokenext>I just happened to go through " Government contracts " training nd what you describe is illegal , punishable by up to 5 years in prison for the official giving the info to would be contractors and whoever got the info + up to 50.000 in fines from persons and up to 500.000 from the corporation that improperly obtained such contract + damages and stuff.The rule is if you write specs , you can not bid.If you leak exact specs or bid details to participating bidders you get fined and go to jail .
+( there are total of 5 rules or so ) .</tokentext>
+<sentencetext>I just happened to go through "Government contracts" training nd what you describe is illegal, punishable by up to 5 years in prison for the official giving the info to would be contractors and whoever got the info + up to 50.000 in fines from persons and up to 500.000 from the corporation that improperly obtained such contract + damages and stuff.The rule is if you write specs, you cannot bid.If you leak exact specs or bid details to participating bidders you get fined and go to jail.
+(there are total of 5 rules or so).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129085</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28161231</id>
+	<title>Re:But they may (sadly) have been right</title>
+	<author>lovesignal</author>
+	<datestamp>1243764840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Ok, so take that step back indeed and look at it:
+For a very low price, you get access to the largest and most complete software ecosystem in the world. Well documented software. Large availability of human resources trained in using this particular OS.
+
+Linux has its place. But not as the desktop of complex large scale companies.</htmltext>
+<tokenext>Ok , so take that step back indeed and look at it : For a very low price , you get access to the largest and most complete software ecosystem in the world .
+Well documented software .
+Large availability of human resources trained in using this particular OS .
+Linux has its place .
+But not as the desktop of complex large scale companies .</tokentext>
+<sentencetext>Ok, so take that step back indeed and look at it:
+For a very low price, you get access to the largest and most complete software ecosystem in the world.
+Well documented software.
+Large availability of human resources trained in using this particular OS.
+Linux has its place.
+But not as the desktop of complex large scale companies.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128935</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28133113</id>
+	<title>Re:Well of course there were no serious alternativ</title>
+	<author>retchdog</author>
+	<datestamp>1243519200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>In the original D&amp;D (as opposed to AD&amp;D), dwarves were a class; i.e. all dwarves were basically fighters with racial abilities and modifiers and a d8 (?) instead of a d10 for HP. I think maybe they got some limited hide-in-(cave)-shadows ability or something too. I don't remember.</p><p>Hey, pedantry and trolling go together like a PC and a 10' pole.</p></htmltext>
+<tokenext>In the original D&amp;D ( as opposed to AD&amp;D ) , dwarves were a class ; i.e .
+all dwarves were basically fighters with racial abilities and modifiers and a d8 ( ?
+) instead of a d10 for HP .
+I think maybe they got some limited hide-in- ( cave ) -shadows ability or something too .
+I do n't remember.Hey , pedantry and trolling go together like a PC and a 10 ' pole .</tokentext>
+<sentencetext>In the original D&amp;D (as opposed to AD&amp;D), dwarves were a class; i.e.
+all dwarves were basically fighters with racial abilities and modifiers and a d8 (?
+) instead of a d10 for HP.
+I think maybe they got some limited hide-in-(cave)-shadows ability or something too.
+I don't remember.Hey, pedantry and trolling go together like a PC and a 10' pole.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28131579</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128851</id>
+	<title>First (shill) post!</title>
+	<author>Anonymous</author>
+	<datestamp>1243543440000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>3</modscore>
+	<htmltext>Why don't you just leave Microsoft alone, after everything it's been through!</htmltext>
+<tokenext>Why do n't you just leave Microsoft alone , after everything it 's been through !</tokentext>
+<sentencetext>Why don't you just leave Microsoft alone, after everything it's been through!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129111</id>
+	<title>Linux may not be ready for the desktop...</title>
+	<author>halivar</author>
+	<datestamp>1243544340000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>...but it's close enough for government work!</p><p>*ducks*<br>*runs*</p></htmltext>
+<tokenext>...but it 's close enough for government work !
+* ducks * * runs *</tokentext>
+<sentencetext>...but it's close enough for government work!
+*ducks**runs*</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130067</id>
+	<title>What are the consequences of this?</title>
+	<author>Anonymous</author>
+	<datestamp>1243504800000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext>Does anyone knows how the Swiss law handles a wrongly done bidding? In the Netherlands and probably the rest of the EU, when a bidding was done against the law, the company that won the bidding may not enter the new bidding.
+
+At my old university they had this situation with the coffee machines, there was only one company that had a machine that produced decent coffee and so they won the contract. However a mistake was made in the bidding (the bidding was nationally, instead of European, contracts worth more then a ceratin amount get a European bidding procedure) and the bidding had to be done again, however the only company that could produce decent coffee was excluded and the university got stuck with terrible coffee machines.</htmltext>
+<tokenext>Does anyone knows how the Swiss law handles a wrongly done bidding ?
+In the Netherlands and probably the rest of the EU , when a bidding was done against the law , the company that won the bidding may not enter the new bidding .
+At my old university they had this situation with the coffee machines , there was only one company that had a machine that produced decent coffee and so they won the contract .
+However a mistake was made in the bidding ( the bidding was nationally , instead of European , contracts worth more then a ceratin amount get a European bidding procedure ) and the bidding had to be done again , however the only company that could produce decent coffee was excluded and the university got stuck with terrible coffee machines .</tokentext>
+<sentencetext>Does anyone knows how the Swiss law handles a wrongly done bidding?
+In the Netherlands and probably the rest of the EU, when a bidding was done against the law, the company that won the bidding may not enter the new bidding.
+At my old university they had this situation with the coffee machines, there was only one company that had a machine that produced decent coffee and so they won the contract.
+However a mistake was made in the bidding (the bidding was nationally, instead of European, contracts worth more then a ceratin amount get a European bidding procedure) and the bidding had to be done again, however the only company that could produce decent coffee was excluded and the university got stuck with terrible coffee machines.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28131579</id>
+	<title>Re:Well of course there were no serious alternativ</title>
+	<author>Anonymous</author>
+	<datestamp>1243511460000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I don't usually feed the trolls, but I'm feeling generous today.</p><p>1. Many servers run on Linux, and have done so for a decade.<br>2. Every Linux distro I've installed since 2000 has installed using a GUI, and then booted into a GUI, and needed no compilation or tricks to get to my mail. I just clicked on the Thunderbird icon, entered my POP information and mail was flowing.<br>3. Linux is supported by major corporations. Unless you consider IBM to be some type of small-fry company.<br>4. Races don't have levels, professions have levels. Thus there is no such thing as a "level 5 dwarf". But there is such thing as a "level one slashdot troll"</p><p>Oh, and you are showing your age there gramps... not many people under 30 have even heard of Tron, let alone know what the word "fanzine" means. Oh, and it's not referred to as the "world wide web" anymore, people just call it the internet or the web.</p><p>One final word... this story is about a government contract. Governments networks are run by industry professionals, not "average users" and even if they end up with Windows, the admins will almost certainly know plenty about how to use Unix and Linux, as well as other OS's.</p></htmltext>
+<tokenext>I do n't usually feed the trolls , but I 'm feeling generous today.1 .
+Many servers run on Linux , and have done so for a decade.2 .
+Every Linux distro I 've installed since 2000 has installed using a GUI , and then booted into a GUI , and needed no compilation or tricks to get to my mail .
+I just clicked on the Thunderbird icon , entered my POP information and mail was flowing.3 .
+Linux is supported by major corporations .
+Unless you consider IBM to be some type of small-fry company.4 .
+Races do n't have levels , professions have levels .
+Thus there is no such thing as a " level 5 dwarf " .
+But there is such thing as a " level one slashdot troll " Oh , and you are showing your age there gramps... not many people under 30 have even heard of Tron , let alone know what the word " fanzine " means .
+Oh , and it 's not referred to as the " world wide web " anymore , people just call it the internet or the web.One final word... this story is about a government contract .
+Governments networks are run by industry professionals , not " average users " and even if they end up with Windows , the admins will almost certainly know plenty about how to use Unix and Linux , as well as other OS 's .</tokentext>
+<sentencetext>I don't usually feed the trolls, but I'm feeling generous today.1.
+Many servers run on Linux, and have done so for a decade.2.
+Every Linux distro I've installed since 2000 has installed using a GUI, and then booted into a GUI, and needed no compilation or tricks to get to my mail.
+I just clicked on the Thunderbird icon, entered my POP information and mail was flowing.3.
+Linux is supported by major corporations.
+Unless you consider IBM to be some type of small-fry company.4.
+Races don't have levels, professions have levels.
+Thus there is no such thing as a "level 5 dwarf".
+But there is such thing as a "level one slashdot troll"Oh, and you are showing your age there gramps... not many people under 30 have even heard of Tron, let alone know what the word "fanzine" means.
+Oh, and it's not referred to as the "world wide web" anymore, people just call it the internet or the web.One final word... this story is about a government contract.
+Governments networks are run by industry professionals, not "average users" and even if they end up with Windows, the admins will almost certainly know plenty about how to use Unix and Linux, as well as other OS's.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128943</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130979</id>
+	<title>Re:no serious alternatives</title>
+	<author>KevMar</author>
+	<datestamp>1243508580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Sometimes it is just not that simple.</p><p>We have one software package that we have tried to phase out for several years.  We do not support it, but a hand full of users still demand it.  We do not have the power to not let them have it.  We tried, but it is out of our hands.</p><p>We replaced a system that was central to the business we do 4 years ago.  There were at most 5 options to choose from, only 2 were realistic options, and none of them ran on Linux or were OSS.  The vender did give us a choice on database backend though.  Pick SQL or ORACLE.  The option we passed on did not give us that option.</p><p>In one area we do lots of specialized digital imaging. We use several different venders for different items and Linux support is not a feature they provide.  In one case we cannot even get the software they provide to integrate into our central image store.</p><p>We have another software package that is central to another department that integrates features of office into and require office to be on the system.  This is one such system where the users picked the features that they wanted and we picked from the limited selection of available software.</p><p>The IT we have are under staffed and over extended.  There is a cost to retraining people to new products.  There is a cost to replacing an existing product with something new.  There is a cost to the amount of new help IT would have to provide.  While you transition from one product to another, you have to support and know both.  In most of these examples the product may be free but the time to do it has a huge price.  More so when it currently works, users already know it, and you have bigger issues to deal with.</p><p>It may not be that simple for us to switch, I do think Microsoft recently created a window for others to make the jump.  Office 2007 was a major change from 2003.  The UI is so different, that it requires retraining of staff and a few days of lost productivity to make the change.  Why not go open office, you have to retrain either way.  Vista did the same thing.  People that are on XP should be looking at OSX or Linux as an option to Windows 7.  You already have to reinstall, get new drivers, get updated software.  For the average user, it will make little difference what OS they are running.  I can search the web and check my email from any one of them just as easy.</p><p>For as much as I would love to make the jump, I have nothing driving me to do it and only resistance preventing me from doing it.</p></htmltext>
+<tokenext>Sometimes it is just not that simple.We have one software package that we have tried to phase out for several years .
+We do not support it , but a hand full of users still demand it .
+We do not have the power to not let them have it .
+We tried , but it is out of our hands.We replaced a system that was central to the business we do 4 years ago .
+There were at most 5 options to choose from , only 2 were realistic options , and none of them ran on Linux or were OSS .
+The vender did give us a choice on database backend though .
+Pick SQL or ORACLE .
+The option we passed on did not give us that option.In one area we do lots of specialized digital imaging .
+We use several different venders for different items and Linux support is not a feature they provide .
+In one case we can not even get the software they provide to integrate into our central image store.We have another software package that is central to another department that integrates features of office into and require office to be on the system .
+This is one such system where the users picked the features that they wanted and we picked from the limited selection of available software.The IT we have are under staffed and over extended .
+There is a cost to retraining people to new products .
+There is a cost to replacing an existing product with something new .
+There is a cost to the amount of new help IT would have to provide .
+While you transition from one product to another , you have to support and know both .
+In most of these examples the product may be free but the time to do it has a huge price .
+More so when it currently works , users already know it , and you have bigger issues to deal with.It may not be that simple for us to switch , I do think Microsoft recently created a window for others to make the jump .
+Office 2007 was a major change from 2003 .
+The UI is so different , that it requires retraining of staff and a few days of lost productivity to make the change .
+Why not go open office , you have to retrain either way .
+Vista did the same thing .
+People that are on XP should be looking at OSX or Linux as an option to Windows 7 .
+You already have to reinstall , get new drivers , get updated software .
+For the average user , it will make little difference what OS they are running .
+I can search the web and check my email from any one of them just as easy.For as much as I would love to make the jump , I have nothing driving me to do it and only resistance preventing me from doing it .</tokentext>
+<sentencetext>Sometimes it is just not that simple.We have one software package that we have tried to phase out for several years.
+We do not support it, but a hand full of users still demand it.
+We do not have the power to not let them have it.
+We tried, but it is out of our hands.We replaced a system that was central to the business we do 4 years ago.
+There were at most 5 options to choose from, only 2 were realistic options, and none of them ran on Linux or were OSS.
+The vender did give us a choice on database backend though.
+Pick SQL or ORACLE.
+The option we passed on did not give us that option.In one area we do lots of specialized digital imaging.
+We use several different venders for different items and Linux support is not a feature they provide.
+In one case we cannot even get the software they provide to integrate into our central image store.We have another software package that is central to another department that integrates features of office into and require office to be on the system.
+This is one such system where the users picked the features that they wanted and we picked from the limited selection of available software.The IT we have are under staffed and over extended.
+There is a cost to retraining people to new products.
+There is a cost to replacing an existing product with something new.
+There is a cost to the amount of new help IT would have to provide.
+While you transition from one product to another, you have to support and know both.
+In most of these examples the product may be free but the time to do it has a huge price.
+More so when it currently works, users already know it, and you have bigger issues to deal with.It may not be that simple for us to switch, I do think Microsoft recently created a window for others to make the jump.
+Office 2007 was a major change from 2003.
+The UI is so different, that it requires retraining of staff and a few days of lost productivity to make the change.
+Why not go open office, you have to retrain either way.
+Vista did the same thing.
+People that are on XP should be looking at OSX or Linux as an option to Windows 7.
+You already have to reinstall, get new drivers, get updated software.
+For the average user, it will make little difference what OS they are running.
+I can search the web and check my email from any one of them just as easy.For as much as I would love to make the jump, I have nothing driving me to do it and only resistance preventing me from doing it.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129547</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129095</id>
+	<title>Re:But they may (sadly) have been right</title>
+	<author>macbeth66</author>
+	<datestamp>1243544280000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I bet/hope that they are using this opportunity to call into question the validity of "be able to run Windows software" requirement.</p><p>And to what degree does the software need to run?  I have been able to run Office 2003 in Wine on Ubuntu 8.04.  Some of the 'features' do not work.  Like VBA.  IMHO, not being able to run VBA is a feature, not a liablilty.  Screw that IMHO.</p></htmltext>
+<tokenext>I bet/hope that they are using this opportunity to call into question the validity of " be able to run Windows software " requirement.And to what degree does the software need to run ?
+I have been able to run Office 2003 in Wine on Ubuntu 8.04 .
+Some of the 'features ' do not work .
+Like VBA .
+IMHO , not being able to run VBA is a feature , not a liablilty .
+Screw that IMHO .</tokentext>
+<sentencetext>I bet/hope that they are using this opportunity to call into question the validity of "be able to run Windows software" requirement.And to what degree does the software need to run?
+I have been able to run Office 2003 in Wine on Ubuntu 8.04.
+Some of the 'features' do not work.
+Like VBA.
+IMHO, not being able to run VBA is a feature, not a liablilty.
+Screw that IMHO.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128935</parent>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129341
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129085
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28133113
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28131579
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128943
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128851
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28137577
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130067
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129095
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128935
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129489
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129085
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28131067
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129133
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128935
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129617
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128935
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129079
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128935
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129755
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129085
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28132601
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129085
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130827
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128935
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28140461
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28131579
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128943
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128851
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130895
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130067
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130147
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128943
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128851
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130979
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129547
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28161231
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128935
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130781
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129085
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28131921
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129085
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1938216_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129929
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129111
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1938216.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129547
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130979
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1938216.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128851
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128943
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28131579
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28140461
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28133113
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130147
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1938216.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129085
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129489
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129755
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28132601
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130781
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28131921
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129341
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1938216.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129111
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129929
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1938216.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28128935
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129079
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129617
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28161231
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130827
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129095
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129133
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28131067
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1938216.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28129613
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1938216.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130419
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1938216.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130067
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28130895
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1938216.28137577
+</commentlist>
+</conversation>

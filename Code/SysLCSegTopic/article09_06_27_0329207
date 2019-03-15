@@ -1,0 +1,430 @@
+T1 1 Soulskill : The Guardian's games blog convened a panel of engineers and other experts to talk about the current state of video game physics.
+T1 2 Soulskill : A great deal of research is currently going on to make better use of multiple cores so that advanced physics tools and engines can take advantage of all the processing power available in modern computers.
+T1 3 Soulskill : Many of those tools are being put to work these days to find more realistic ways of breaking things, and game developers are trying to wrap their heads around destructible environments.
+T1 4 Soulskill : Mike Enoch, lead coder at Ruffian Games, said, "This idea of simulating interactions and constructing the game world similar to how you would construct the real world generates more emergent gameplay, where the game plays out in a unique way for each player, and the player can come up with solutions to problems that the designer might not have thought of.
+T1 5 Soulskill : " Another area that still sees a lot of attention is making game characters more human, in terms of moving and looking as realistic as possible, as well as how a game's AI perceives what's happening.
+T1 6 Soulskill : "The problem is not necessarily in having the most advanced path-finding technique with large-scale awareness; we need to have more micro behaviors, with a proper physics awareness of the environment," said software engineer George Torres.
+T1 7 battlemarch : Yeah, that's nice and everything, but you can't trust the client.
+T1 8 Anonymous1 : GTA MMORPGthere's your 'WoW' killer.figure out how to do that and it will have far more impact than having physics a little more realistic in some situations.
+T1 9 Anonymous2 : One of the toughest aspects of calculus-based physics is teaching how to intuit it.
+T1 10 Anonymous2 : Space-based games i. e., ones involving the behavior of light, planets, and other celestial entities written to conform to actual physics laws would be a fun way to teach students how to intuit physics.
+T1 11 Anonymous2 : This generation of students is just damned lucky to have access to such computing power.
+T1 12 Anonymous2 : In the old days, the most readily accessible computing power was an 8080 hobbyist board.
+T1 13 Anonymous2 : Simulating the universe on that is impossible.
+T1 14 Anonymous2 : The students of that era were stuck with just manipulating integrals and derivatives.
+T1 15 Anonymous2 : Life is unfair.
+T1 16 Anonymous2 : I hate it.
+T1 17 Anonymous3 : When it comes down to it even a truly realistic game where even high explosives have difficulty rearranging the landscape I'm still going to find a way, one way or another, to do something that was either unexpected or unwanted.So you've either got arbitrary restrictions or arbitrary game ending scenarios because I just happened to collapse a skyscraper or fourty that the plot needs.
+T1 18 SnakeEater251 : This is why games like Garry's Mod have become so popular.
+T1 19 SnakeEater251 : You can run basic physics simulations on your home computers without needing to shell out too much cash to do so.
+T1 20 elashish14 : Maybe I'm just old-fashioned, but I preferred the simpler games, the ones that didn't have as rigid physics and things of the nature.
+T1 21 elashish14 : Compare modern first-person/third-person shooters and compare them to the classics like Perfect Dark, The Legend of Zelda or Goldeneye.
+T1 22 elashish14 : They were so much fun because handling was so easy, you could move, you could strafe, etc.
+T1 23 elashish14 : It was so much better!
+T1 24 elashish14 : And yet, as games become more realistic, all that happens is that your character becomes more sluggish and less powerful, harder to manipulate.
+T1 25 elashish14 : All for the sake of reality, and graphics which will always get old.
+T1 26 elashish14 : But the gameplay never gets old.
+T1 27 elashish14 : That's why classics are what they are - they're acceptable graphically and a hell of a lot of fun to play.
+T1 28 elashish14 : Want proof?
+T1 29 elashish14 : They still have Street Fighter tournaments, Melee tournaments, etc.
+T1 30 elashish14 : if you look around in the right places.
+T1 31 elashish14 : On the other hand, who cares anymore about Metal Gear Solid 4?
+T1 32 elashish14 : Man, even playing Super Mario World is much more fun than the New Super Mario Bros. on the DS, simply by virtue of the fact that the older one is simpler, freer, gives you more control, more imagination, more room to enjoy it.Seriously?
+T1 33 elashish14 : It's gameplay that makes you come back, not reality.
+T1 34 elashish14 : I wish we'd drop the reality of things and just make games fun.
+T1 35 elashish14 : But I guess now I'm old enough to just make my own games.
+T1 36 elashish14 : Sigh. It had to come down to this, didn't it?
+T1 37 Anonymous4 : A common work around for that problem is to initiate a plot sequence at the beginning of a scene change.
+T1 38 Anonymous4 : This method is more common for large world and 3rd person.
+T1 39 Anonymous4 : Another approach is a penalty system where the player is punished for destroying a plot sequence.
+T1 40 Anonymous4 : This method is used frequently in first person shooters where a mission is failed due to friendly fire.
+T2 41 Anonymous4 : In both cases, the key to addressing this issue is scope management.
+T2 42 Anonymous4 : As games get more complex I imagine tools will automate the relation between objects and their references within some scope.
+T2 43 Anonymous4 : If the object is referenced beyond its initial scope when and where it was created, such a tool would automatically expand the scope and implement some sort of generic default action mission failed?.
+T2 44 Anonymous4 : It's a very interesting problem because it hints at the need for a virtual timeline as a means of identifying or creating the scope of a given plot sequence.
+T3 45 MrMista\_B : Indeed, some of the most physics-accurate games I've played, have been some of the most generic and dull in memory.
+T3 46 MrMista\_B : Greater physics can add to a game, but /designed/ physics, is what makes a game /fun/.
+T3 47 redbeardcanada : Well, I hope these guys working in a similar area are invited to be part of the panel:
+T3 48 redbeardcanada : http://www.theonion.com/content/news\_briefs/new\_video\_game\_technology theonion.com
+T3 49 Anonymous5 : Why can't we have this?
+T3 50 Anonymous5 : Ok, the closest thing is Burnout, but there the cars only turn soft in the crash sequences.
+T3 51 Anonymous5 : Car crashes looks absolutely crap in GTA IV and similar games.In a real crash, a car is *far* from stiff.
+T3 52 Anonymous5 : Look at some crash videos to see what I mean.
+T3 53 Anonymous5 : In todays games the cars seemingly consist of different modules, each which several levels of damage premodeled.The hobby simulation project Rigs of Rods rigsofrods.com is the only game I know that actually has softness implemented in vehicles.
+T3 54 Anonymous5 : Imagine these physics in a photo realistic action packed game.
+T3 55 Anonymous6 : I don't think that'll help very much.
+T3 56 Anonymous6 : Ever watched someone try to play Mario Kart, and they just can't figure out how to take a jump or a turn?
+T3 57 Anonymous6 : You'll always get those kinds of people; sometimes, they just don't get it, they can't learn how to play games and build logical mental constructs based on trial, observation and error.
+T3 58 Anonymous6 : They just don't think that way.Maybe it's politically incorrect to say this and in all likelihood, unscientific as well, but I'm going with my gut: if you can't get it, then you'll probably never learn it, even if someone teaches it to you, so why even try.
+T3 59 Anonymous6 : Even I myself wonder if I believe that.
+T3 60 corsec67 : Breast physics are important for making characters look more realistic.
+T3 61 corsec67 : Well, the same math could be applied to other fatty parts of character models, but that isn't nearly as interestingOf course, having fully interactive character models would require tons of collision detection, math to compute the results, and keeping track of the deformation of the model relative to the possible deformations.
+T3 62 corsec67 : Until it is perfect, it seems that we are headed into the depths of uncanny valley wikipedia.org.Plus, this least to the best job title ever: "Breast Physics Researcher"
+T3 63 kestasjk : Don't worry, for whatever reason this generation of students doesn't yet have the software to simulate physics for the purposes of learning.
+T3 64 kestasjk : We do have software to make manipulating integrals and derivatives easier, but it doesn't become useful until quite late.
+T3 65 kestasjk : Really it's still overhead projectors and acetone slides, you're not missing much, but hopefully that is yet to change
+T3 66 Anonymous7 : fucking surprise, 1.
+T3 67 Anonymous7 : Therefore there of the founders of clearly.
+T3 68 Anonymous7 : There it.
+T3 69 Anonymous7 : Do not share poor priorities, fatal mistakes, offended some With THOUSANDS of support GNAA, bring your own for a moment and To place a paper part of GNAA if is the worst oof collect any spilled become obsessed of OpenBSD.
+T3 70 Anonymous7 : How 7000+1400+700*4 become an unwanted These early moronic, dilettante despite the FreeBSD at about 80 she had no fear a BSD box that needs OS.
+T3 71 Anonymous7 : Now BSDI your own towel in The resources that told reporters, people's faces is
+T3 72 mad\_minstrel : While I believe that's true in most cases, there are some games where realistic physics actually do make them more fun.
+T3 73 mad\_minstrel : Just play Red Faction: Guerilla.
+T3 74 banffbug : I was hoping you'd mention games from the commodore 64, not the other 64!
+T3 75 Jurily : Mod parent up.
+T3 76 Jurily : Games are supposed to bring a break from reality, not emulate it badly.
+T3 77 KDR\_11k : Red Faction Guerilla lets you wreck buildings at will and AFAIK it's not a problem.
+T3 78 KDR\_11k : From what I read it simply respawns buildings if it really needs them for a mission.
+T3 79 KDR\_11k : You don't really notice because it's at the other end of the map and mission buildings are usually not significant outside the mission they can be marked as EDF buildings in a mission but outside of the mission they'd count as civilian while other EDF buildings are always marked as such so you might not even remember that you flattened them.
+T3 80 KDR\_11k : At times the physics are a bit wonky with massive buildings held up with almost all support destroyed but that's a detail issue, not a problem with the general design of being able to wreck everything.
+T3 81 DNS-and-BIND : I, for one, would like to see bullets stop flying straight and true, unaffected by gravity or wind.
+T3 82 DNS-and-BIND : Marksmanship is a skill, it's not just placing the crosshairs on a target and pressing the mouse like some sort of flash game for 5-year-olds.
+T3 83 DNS-and-BIND : One of the worst, and I mean worst, features of Return to Castle Wolfenstein was the Panzerfaust.
+T3 84 DNS-and-BIND : Point and click, and the thing flies straight as an arrow actually, straighter.
+T3 85 DNS-and-BIND : I'm sure a lot of the problem is that most computer nerds have never handled a firearm, and they have some mental model of how shooting works...mostly built out of old episodes of "T.J. Hooker" and similar cop shows.
+T3 86 Anonymous8 : I agree, and I'd go stronger than just less-high-fidelity 3d simulations.
+T3 87 Anonymous8 : How about deliberately cartoony?
+T3 88 Anonymous8 : 2d? Anything with a style and interesting gameplay is good as far as I'm concerned.
+T3 89 Anonymous8 : Would Braid have gained anything by being 3d?
+T3 90 Anonymous8 : To the extent that games are visual art as well as games, high-fidelity 3d simulations actually seem like they limit the degree of distinctive style that a game can bring.
+T3 91 Anonymous8 : And a focus on them doesn't usually help gameplay either, because all sorts of cool ideas become too complicated to implement if you have to integrate them with some crazy physics engine with all sorts of edge cases.
+T3 92 Anonymous8 : I've heard of even relatively simple stuff getting cut, like dumbing down NPC AI because it screwed up the pathfinding algorithm.I'm not saying there's no place for the style of game that is basically an accurate physics simulation in which you can do things.
+T3 93 Anonymous8 : But it's not clear to me that it's where the current best cost/reward tradeoff lies.It seems at least a few other people agree, because many of the recent games that have created buzz have been based around something cool other than more-realistic graphics and physics.
+T3 94 Anonymous8 : World of Goo was based heavily around a physics engine, for example, but a totally unrealistic one that gives it its characteristic style and, incidentally, one they built with $10k.
+T3 95 Anonymous9 : This is stupid.
+T3 96 Anonymous9 : Who cares about the physics in games.
+T3 97 Anonymous9 : If you're coding for physics instead of for the games speed/fun then you are doing it wrong.
+T3 98 KDR\_11k : Oh, physics can add fun.
+T3 99 KDR\_11k : While Crazy Machines didn't benefit from improving the physics over The Incredible Machine games like Red Faction Guerilla turn the physics into a major gameplay element, letting you disintegrate the ground under an enemy's feet or enter a building through a wall with your sledgehammer or vaporize an enemy in cover along with what he's hiding behind.
+T3 100 KDR\_11k : I also really liked NyxQuest: Kindred Spirits formerly Icarian with its puzzles about moving blocks around your character.
+T3 101 Tablizer : Realism won't work any more than it works in Hollywood movies.
+T3 102 Tablizer : They need a "Hollywood Physics Engine", with a bit of ACME cartoon logic tossed in.
+T3 103 Tablizer : Examples:1. Fruit stands are magnetic: every thing comes toward them.2.
+T3 104 Tablizer : Things fly strait up and spin end-to-end when they are blasted or exploded in any way.
+T3 105 Tablizer : see also #93.
+T3 106 Tablizer : Cars hitting a bail of hay or lump of garbage fly 300 feet.
+T3 107 Tablizer : Good guys always land upright while bad-guys always land top first.4.
+T3 108 Tablizer : Sexy breasts jiggle slow and long5.
+T3 109 Tablizer : In space, everyone can hear you scream.6.
+T3 110 Tablizer : Sparks are the most common element in the universe.
+T3 111 Tablizer : Every nick and prink causes vast amounts of sparks.7.
+T3 112 Tablizer : Space explosions are usually poofy despite no atmosphere.
+T3 113 Tablizer : If it's really big, then an expanding bluish saturn-like ring spreads out from the center.8.
+T3 114 Tablizer : If slow-motion is used, then the bullets are 500 times slower for every 1x speed reduction in human movement.9.
+T3 115 Tablizer : People fly almost strait up in the air if within 200 feet of any explosion.
+T4 116 Tablizer : The exception is if they are near a metal hand-rail, in which case they rotate around the rail during the explosion, until facing downward.10.
+T4 117 Tablizer : Poor tire traction, AKA "skidding", actually makes cars go faster.
+T4 118 Tablizer : Heroes never win unless they skid a lot.
+T4 119 Tablizer : The more smoke from the skid, the faster the car.11.
+T4 120 Tablizer : When jumping between buildings or platforms, nobody ever has a good margin: they always barely make it.
+T4 121 Tablizer : Physical laws expand the width to be barely below the maximum of the hero.
+T4 122 Anonymous10 : imagine you willy being smacked until it bleeds
+T4 123 johannesg : Space-based games i. e., ones involving the behavior of light, planets, and other celestial entities written to conform to actual physics laws would be a fun way to teach students how to intuit physics.Do such games actually exist?
+T4 124 johannesg : Every title I can think of has blatantly bogus physics.
+T4 125 johannesg : Even when discounting FTL-travel which I can forgive on the basis of no one living long enough to actually reach another star during their lifetimes otherwise, you often see simulations in which spaceships behave like planes: they bank, they share common orientation, their relative speed never exceeds something that is humanly understandable, etc.This generation of students is just damned lucky to have access to such computing power.
+T4 126 johannesg : I hate it.Should we get off your lawn now?
+T4 127 Anonymous11 : When a developer creates distructable scenery and lots of alternate routes, it means that they have to produce a lot more content, that the user won't see on every run-through.
+T4 128 Anonymous11 : This means games get shorter or development times get longer.
+T4 129 Anonymous11 : Admittedly, one sees higher replay value, but generally that's not considered as valuable.
+T4 130 Anonymous11 : Personally, I miss the epicly long singleplayer games of old Half Life 1 anyone?
+T4 131 Anonymous11 : , and would like to have the best of both worlds.
+T5 132 Anonymous11 : Unfortunately, the tendancy is towards very short single player games.
+T5 133 Anonymous12 : Am I the only one that is tired of all these epeen graphics and physics that make any machine that costs less than a grand run like a slideshow while the AI makes Forest Gump look like a genius?
+T5 134 Anonymous12 : I swear the AI was better 5 years ago than it is now.I picked up MoH:Airborne in the 10th anniversary pack and by the second level it was just sad how fricking awful the AI was.
+T5 135 Anonymous12 : Sure the game looked nice and all, but when you have Nazis lining up to hide behind the EXACT SAME COVER that you have already piled corpses by like fricking firewood, I mean come on now.
+T5 136 Anonymous12 : And if you crank the difficulty on high in the new games all it does is give you EA style cheating where you can be in the perfect cover and everybody knows exactly where you are, or you get a green ass grunt that can snipe you from a half mile away with a crappy bolt action without even an optic scope, meanwhile you pound bullet after bullet into them and they act like they are the Terminator.So if any game designers are reading this, enough with the epeen graphics and physics already.
+T5 137 Anonymous12 : They graphics and physics were good five years ago.
+T5 138 Anonymous12 : Nobody cares if in the heat of battle every stick falls correctly when you blow a building up, but they sure as hell notice when the bad guys just tiptoe through the tulips while walking through a killing field where you have piled up bodies all over the place.
+T5 139 Anonymous12 : And please don't say online makes up for your shitty AI either, because it doesn't.
+T5 140 Anonymous12 : If I wanted to deal with a bunch of campers, lamers, turtles, and teabaggers I would be playing Halo.
+T5 141 Anonymous12 : There were plenty of games in the past like the original Far Cry that would give you a decent fight.
+T5 142 Anonymous12 : Build on that instead of turning our PCs into slideshows.
+T5 143 Anonymous12 : Oh yeah, and quit calling them "multi-platform" when you try to pass off some lame ass console port as a PC game without even taking a second to think about a decent PC control scheme.
+T5 144 Anonymous12 : Thanks.
+T5 145 Dahamma : Reminds me of a great parody of Trespasser that involved a futile live action attempt to stack coke cans... wish I could find the video, Google is failing me... anyone?
+T5 146 0xygen : I believe this actually is where gaming is going though, to a very real physics model which takes away the feeling of artificial limits.Where necessary, limits can be placed on the gaming through outside factors, e.g.
+T5 147 0xygen : in a military game, unacceptable civilian deaths leading to failure, or in a GTA type game, the feds arriving.I think to make the experience feel unlimited, these limits need to be applied through such in-game factors, rather than certain skyscrapers being magically indestructible.It should be easy in most cases to work the story to provide the necessary incentives, say putting one of your side's key characters in the skyscraper with the bad guys, preventing all-out destruction.There does come a point to enjoyable gaming where we, the players, have to choose to embrace the story, rather than vandalizing the sandbox we are playing in.
+T5 148 MemoryDragon : On the other hand if you looked at ultima underworld which was one of the best games in the 90s to integrate physics, the game is a classic and everything afterwards in first person perspective after it was more or less a step back...The main issue nowadays is that physics in most action games is only integrate the way you can blow up things, it becomes more interesting as soon as they get out of this stage by utilizing it as puzzle part or simply by trying to make a virtual world within the game like the ultimas did!The problem is most games are not good to begin with and just to integrate physics to blow things up does not make them better!
+T5 149 gnud : Well, a game like Deus Ex which is a GREAT game could have benefitted enormously from the player being able to, say, create a new door with some c4.
+T5 150 selven : I don't really like advanced realistic-explosion-simulate-every-water-molecule physics myself.
+T5 151 selven : It seems like a substitute for gameplay these days.
+T5 152 selven : And god forbid the physics requires a whole bunch of libraries on operating systems I don't actually use.
+T5 153 kripkenstein : 100\% true.
+T5 154 kripkenstein : But major game titles are big business, and what they want is for you to play a new expensive game for a short while, then buy another.
+T5 155 kripkenstein : Your going back and playing games you already paid for gives them nothing, or worse than nothing.
+T5 156 Dr._Impossible : And yet, as games become more realistic, all that happens is that your character becomes more sluggish and less powerful, harder to manipulate.What does this even mean?Seriously?
+T5 157 Dr._Impossible : "I wish they would stop making games that I don't like to play, even though I could simply choose not to play them.
+T5 158 Dr._Impossible : " I'm also pretty sure that realism and fun are not mutually exclusive, and that realistic games are not a recent invention.
+T5 159 Anonymous13 : Old as it may be, Elite II makes a fair attempt at keeping within the bounds of Newtonian physics.
+T5 160 Anonymous13 : And all on a single-density floppy drive.
+T5 161 Anonymous14 : Morrowind's response to killing a plot-critical NPC was to tell you that you screwed up big.
+T5 162 Anonymous14 : Then it let you keep playing, knowing that you couldn't complete the plot normally.
+T5 163 Anonymous14 : Why can't a similar system be used for this?
+T5 164 Twinbee : I'm the first person to dream of games made of trillions of individual atoms and realtime raytracing, but sad to say, I agree with you.
+T5 165 Twinbee : I think games can have the best of all worlds - simple control mechanics, luscious, AND clearly defined, detailed graphics rather than greyish, over texture-mapped, cookie cutter style 3D objects, and 'abstract realism' which looks convincing and often colorful, rather than just trying to imitate this world.Music in games is the same now.
+T5 166 Twinbee : It must be 'real' usually bland orchestral stuff, rather than a melody which is fun and memorable to listen to like many of the older games.
+T5 167 skyride : If you think that, you've COMPLETELY missed the point of the game.Yours truly, Garrys Mod Player
+T5 168 Anonymous15 : The bullets in Delta Force 2 behaved that way.Perhaps not perfectly, but wind and distance made quite a difference when sniping.
+T5 169 eulernet : The real problem is that most of the big videogame companies would like to mimic big movie companies.When they meet investors, they explain that they want to provide an experience similar to a movie, even though in my opinion, these are quite separate domains, but this makes the investors dream and take out their cash.I was a game programmer, and I stopped working in videogames mostly because the games I worked on were less and less funny to play as I was going older.I remember one of my colleagues in 1985, who dreamt about a 'game' where you could walk into a city.I guess he should be happy with Shenmue: http://en.wikipedia.org/wiki/Shenmue wikipedia.orgBut I still wonder what is funny in doing this ?Real life is so fucking boring !
+T6 170 Jarnin : Portal is probably the best example of physics designed around the game, not the other way around.
+T6 171 Jarnin : Or maybe not.
+T6 172 Jarnin : In either case, Portal was a blast even though it was probably one of the simplest, shortest games I've ever played.
+T6 173 Jarnin : You know what I'd love to see?
+T6 174 Jarnin : A scifi game that actually played around with gravity.
+T6 175 Jarnin : Every scifi game where you can get out of a ship and run around has the same gravity in every location.
+T6 176 Jarnin : Take Mass Effect for example: You fly up to a planet and check it out: Most of them have near Earth gravity.
+T6 177 Jarnin : Then there's a mission on Earths moon, and guess what?
+T6 178 Jarnin : The Moon has the same gravity as Earth!
+T6 179 Jarnin : Why? Oh, right, because the game engine only supports a single, unified gravity for any given environment.
+T6 180 Jarnin : This is why scifi games usually suck.
+T6 181 Jarnin : When you can't even represent what it would be like to be in lower gravity, what's the friggin point of visiting other planets?
+T6 182 Jarnin : How about space stations that use rotational gravity?
+T6 183 Jarnin : But think!
+T6 184 Jarnin : These days maps are critically designed to have you go from A to B to C on the prescribed path through the prescribed targets.
+T6 185 Jarnin : If you could jump up on a ridge and run past that, well, there goes a bunch of development hours down the tube.
+T6 186 Jarnin : But how grand it would be!
+T6 187 Jarnin : I miss the freedom of movement in games.
+T6 188 Jarnin : The day I logged into a new game and I couldn't jump over a curb, I think I died a little.
+T6 189 Anonymous16 : God damnit, i hate people like you.
+T6 190 Anonymous16 : Games werent better back then.
+T6 191 Anonymous16 : It's a common mindset.Ever heard an old lady talking about how everything used to be bette?
+T6 192 Anonymous16 : Ever heard your parents talking about how their generation were better?
+T6 193 Anonymous16 : It's the same mindset.
+T6 194 Anonymous16 : You tend to believe the games were superior simply because they are imprinted in your brain as good memories.
+T6 195 Anonymous16 : Surely if you would have played Halo 3 as a kid you would in 10 years say that halo 3 was better than any "Modern" shooter.
+T6 196 Anonymous16 : It's simple logic and it's also the truth.
+T6 197 Anonymous16 : So get the fuck out.
+T6 198 jdagius : Maybe the world is just a big game and we're the Players.
+T6 199 jdagius : What would happen if we did not play the game the way the Designer wanted it to played?Gen 6:5  And GOD saw that the wickedness of man was great in the earth,
+T6 200 jdagius : and that every imagination of the thoughts of his heart was only evil continually.
+T6 201 jdagius : Gen 6:6  And it repented the LORD that he had made man on the earth,
+T6 202 jdagius : and it grieved him at his heart.
+T6 203 jdagius : Gen 6:7  And the LORD said, I will destroy man whom I have created from the face of the earth;
+T6 204 jdagius : both man, and beast, and the creeping thing, and the fowls of the air;
+T6 205 jdagius : for it repenteth me that I have made them.
+T6 206 Dogtanian : I hear a lot of talk that videogaming has moved beyond the adolescent male mentality..."Many of those tools are being put to work these days to find more realistic ways of breaking things" I rest my case.
+T6 207 Dogtanian : youtube.com
+T6 208 Quothz : ?Forgetting something?
+T6 209 Quothz : Maybe half-forgetting something?
+T6 210 Anonymous17 : Tomb Raider Underworld has breast physics.Get Lora Croft to some standing jumps and rotate the camera to the side... you notice her lady bumps bounce ;
+T6 211 freedom\_india : What pisses me off is the ability of Engineers or repairers to have abilities that Human players don't have.For instance in CoH:ToV you can't repair your own HQ.
+T6 212 freedom\_india : The AI can and does exactly that.
+T7 213 Anonymous18 : I am a sucker for emergent gameplay.
+T7 214 Anonymous18 : It is enjoyable making my own doors and watching a structure crumble piece over piece in the new Red Faction.
+T7 215 Anonymous18 : I very much appreciate the connection they are trying to make between physics and emergent gameplay.
+T7 216 Anonymous18 : But, I am curious how far these physics could really take the player into emergent gameplay.It seems like AI, obviously on an individual level, but perhaps even more so on a massive social and strategic level would seem to be much more fruitful for emergent gameplay.
+T7 217 Anonymous18 : I realize AI is not easy, but I can't help but think it couldn't be too hard to have a society or a strategy crumble the same way a Red Faction structure does.
+T7 218 xjimhb : Why is the physics of the game world important?
+T7 219 xjimhb : The thing that really counts is the plot and the game-play.
+T7 220 xjimhb : Requiring super-duper CPU power or GPU power for the physics and the graphics is another big waste.
+T7 221 xjimhb : Looking at all these new ... and expensive ... games makes me want to dig out my old Sega Genesis and play some of the old games like the Phantasy Star titles.
+T7 222 xjimhb : Kindergarten graphics, no real attention to physics, but those games were FUN!I'd love to see a Linux port of those games!
+T7 223 Rockoon : One of the toughest apsects of calculus in general is the plethora of conflicting notations, none of which are very good.
+T7 224 morari : It was so much better!I would not, ever say that a console-based FPS handles easily... especially not one using that hideous N64 controller.Still, your point stands.
+T7 225 morari : Gameplay is more important.
+T7 226 morari : That said, extensively thought-out physics could go a long way in making or breaking the gameplay in some titles.
+T7 227 Anonymous19 : The I-War wikipedia.org series is one of the few space combat games I've seen that adheres to Newtonian physics apart from having two different forms of FTL drive.
+T7 228 Anonymous19 : It also averts the usual silliness of having a high-tech spaceship and requiring pilots to manually aim at distant targets; automatic targeting is standard on most weapons.
+T7 229 Anonymous20 : Stop players from destroying your plot points Metroid style.
+T7 230 Anonymous20 : You want to smash through this locked door?
+T7 231 Anonymous20 : Too bad, you don't have the bazooka yet.
+T7 232 Anonymous20 : You want to knock down this skyscraper?
+T7 233 Anonymous20 : Come back in two levels when you have the BFG.
+T7 234 Anonymous20 : We won't need it then.
+T7 235 Anonymous20 : Make destroying big and important structures something rare and special and hard to do.
+T7 236 4D6963 : Hallelujah, if you want to understand orbital mechanics in an intuitive way, just mess around with a simulator like Orbit or even games such as Spacewar!Yes, Spacewar!, the first computer game, from 1961.
+T7 237 4D6963 : It actually wasn't that bad in the physics department.
+T7 238 4D6963 : I think the problem with modern gaming is that basically designers just go "OK, now destructible environments are getting pretty good, let's just slap that into our game cause that's the way to go".What I think they should rather do if they took a more artistic approach to game design would be "It would be cool if we could make a game that would consist in blah blah blah" then see if it can currently be done and then do it.
+T7 239 4D6963 : Game designers do what they can, not what they want.
+T7 240 Delwin : You can't trust the client for anything that effects other people - but things like computing rag-doll physics and some special effects there's no issue with doing it on the client.
+T7 241 Delwin : It really doesn't matter to game play if they happen a little differently on each machine, or not at all.
+T7 242 FrostDust : There's a difference between "bullets being affected by wind" and that Panzerfaust you described.Most of the time in an FPS, a bullet isn't going affected by gravity or wind until you get to the ranges where a sniper rifle is needed.
+T7 243 FrostDust : At that point, I've noticed most games set in a fairly modern era "future tech magic" can explain super-accurate guns do model stuff like bullet drop and wind.Also, consider the audience of RtCW.
+T7 244 FrostDust : They want an FPS where you shoot Nazi-mutant things.
+T7 245 FrostDust : The devs wanted to include a rocket launcher weapon, and a Panzerfaust was probably the closest thing to that you could find in that time period.Red Orchestra, for example, instead features a Panzerfaust that works realistically, and you have take into consideration the arc of the projectile and the size, distance, and movement of the enemy tank for anything outside of point-blank range.Gaming physics have reached the level you're seeking for.
+T7 246 FrostDust : It just depends on what developers think their players want in a weapon.
+T7 247 Anonymous21 : Not necessarily.
+T7 248 Anonymous21 : A lot of the research on destructible geometry they're talking about is a process of doing the destruction automatically, without the need for an artist to define how every possible piece of debris looks.
+T7 249 Anonymous21 : For instance, if an artist designs a wooden board and passes it certain parameters like the strength of the material, how it breaks, direction of the grain... then the engine should, theoretically, be able to break the board at any place, automatically.
+T7 250 Anonymous21 : It's complicated, but plenty of games are already starting to exploit this to various degrees.
+T7 251 Anonymous22 : I used to never really worry about it until I played Oblivion.
+T7 252 Anonymous22 : The first time I shot an arrow into a hanging bucket over a well, and saw it dance a bit and then finish with a tilt because of the weight of the arrow on one side, I was in awe.
+T7 253 Anonymous22 : That was just so cool.So, if used correctly, I'm all for it.
+T7 254 Anonymous22 : I also understand the simple games and the fun of side scrollers for example.
+T7 255 Anonymous22 : It just depends on what you are shooting for pun intended.
+T7 256 grumbel : Well, do it like in the real world.
+T7 257 grumbel : If the bad guys headquarter gets blown up before some story mission, relocate him to a different building.
+T7 258 grumbel : Its not like reality stops working just because some building gets blown up, people work around it, construction workers repair it, police mean jail the person who did it and so on, a video game can do much of the same, especially when it is an open world game to begin with.
+T7 259 grumbel : Its also a simple matter of economy, blowing up big stuff requires lots of explosives, simply don't give the player a way to obtain them or just rebuild stuff on the right side of the map, while the player is blowing stuff up on the left.
+T7 260 grumbel : A single player can't level a whole world.
+T7 261 Quantumstate : I think AI's are gong through a transition period where before they were almost entirely scripted so in an fps they wander around a set route until you spot them and then they perform the attack action.
+T7 262 Quantumstate : Now they are trying to make the AI think more for itself so that you can get more interesting game play that adapts to what you do.
+T7 263 Quantumstate : The problem is that the new stuff is pretty difficult so you get quite a few issues like you say because the testers cannot pick out and fix all of the little problems because the system is complicated and hard to understand.
+T7 264 Quantumstate : If you ever look at a system like that you will realise how hard it is to fix issues because you get a lot of chaos so reproducing an issue is difficult let alone fixing it.
+T7 265 MR.Mic : The engine powering the serious sam games allows for all sorts of gravity types.
+T7 266 MR.Mic : You can define gravity per-sector, or with spherical/cylindrical volumes that can work as attractors or repulsors.
+T7 267 AndrewNeo : Part of the reason they behave this way is simply for performance reasons - Most guns are 'tracers', where they throw a trace line towards the next thing they'll hit, and cause it damage, along with playing animations and sounds and such.
+T7 268 AndrewNeo : Converting each bullet fired into a tangible physics object would be a lot of processing work.
+T7 269 AndrewNeo : Also, many games implement spraying so the bullets never actually go straight.
+T7 270 SpectreBlofeld : No matter how realistic they make the game, when you come to a locked door, you won't be able to get through it, despite the fact that you're carrying a crowbar/shotgun/friggin' rocket launcher, etc.Fences that are taller than waist-high will post a problem, too.
+T7 271 grumbel : Yeah, but physics changes and enhances gameplay, as it allows the environment to react dynamically, instead of just in the few ways the designer intended.
+T7 272 grumbel : When done right, physics give you a more believable and interactive world.
+T7 273 grumbel : Of course when done wrong you end up with a stupid gimmick that is fun for five minutes and then gets boring.
+T7 274 MemoryDragon : Download the Trine game demo from Steam and then lets talk again..
+T7 275 Anonymous23 : quote11.
+T7 276 Anonymous23 : When jumping between buildings or platforms, nobody ever has a good margin: they always barely make it.
+T7 277 Anonymous23 : Physical laws expand the width to be barely below the maximum of the hero./quoteE.T.
+T7 278 Anonymous23 : got this backwards.
+T7 279 mdwh2 : Sega Genesis?
+T7 280 mdwh2 : Sega Genesis?
+T7 281 mdwh2 : You're not telling me you need the full power of a Motorola 68000 just to get a fun game!
+T7 282 mdwh2 : All that matters is the plot and the game-play.
+T7 283 mdwh2 : All this talk of Sega Genesises makes me want to dig out my old ZX Spectrum and play some of those old text adventures.Actually, screw that.
+T7 284 mdwh2 : Why not make do with one of those Choose Your Own Adventure books?
+T7 285 mdwh2 : Plenty of plot and game-play there - don't tell me you rely on fancy computer graphics?
+T7 286 mdwh2 : Although having said that, it displeases me that so many books have illustrations these days.
+T7 287 mdwh2 : What a waste of ink that is!
+T7 288 Anonymous24 : I'm just curious:  Have you watched a film made since the 1980s?
+T7 289 Anonymous24 : Most of these are pretty outdated cliches.
+T7 290 thesandtiger : There are some modern games that seem to have figured out how to have more realistic in some ways physics and outstanding control schemes.Prototype is one example - you're capable of doing some REALLY crazy and physics defying stuff, but when you don't use any of the "special" powers or moves the physics tends to be more or less real.
+T7 291 thesandtiger : The engine lends itself to some emergent stuff.
+T7 292 thesandtiger : Another example is one of the Hulk games - I don't even bother with the missions in that one, I just piss the army off to the point where they're sending everything they've got at me, and then I beat them to death with their own people and vehicles.
+T7 293 thesandtiger : Great fun.There are plenty of ways to give games realistic or more realistic physics and still have them be tremendous fun.
+T7 294 thesandtiger : There are quite a few of the modern games that are *damn* fun to play because of their physics.
+T7 295 thesandtiger : I suspect that the difference you're really getting at is that in the olden days there could be more of a focus on the game play since shiny rendering and physics engines weren't enough to sell a game.
+T7 296 thesandtiger : Fortunately, there are modern games with great gameplay AND all the shiny.
+T7 297 thesandtiger : Because with really good physics you can expand the gameplay options a LOT.I was playing one game where I needed to kill someone who was protected inside a really well-guarded building.
+T8 298 thesandtiger : Every time I tried to get in through the only entrance to the building I wound up being killed before I could even take down half of the guards I suck at those kind of scenarios.
+T8 299 thesandtiger : There was no way to get to the roof of the building - I tried going to all the buildings around it, but the jump distance was *just* too short.
+T8 300 thesandtiger : Then it occurred to me - there were flammable barrels a couple of miles away in game terms and I could run into them to knock them over and then kind of keep bumping them to keep them moving.
+T8 301 thesandtiger : I I ran off, pushed 5 or 6 barrels over to a spot right around the corner from the entrance, shot at one of the guards and ran around the corner.
+T8 302 thesandtiger : Half of the guards ran after me, and once they all came around the corner, I shot the barrels - huge explosion, half the guards were dead in one shot, and then I was able to handle the remaining guards.Without decent physics, I wouldn't have had that option unless the developers specifically put it into the game.
+T8 303 thesandtiger : Good physics allows for emergent gameplay, which can be really good.
+T9 304 Anonymous25 : A dozen years ago I developed and demoed the first ragdoll physics system that worked.
+T9 305 Anonymous25 : animats.com  Among other things, I'm responsible for the "ragdoll falling downstairs" cliche; that started with a demo I did in 1997.
+T9 306 Anonymous25 : I looked at ragdolls as a first step.
+T9 307 Anonymous25 : I was expecting game development to go in the direction of physically-based characters driven by active control of character muscles.
+T9 308 Anonymous25 : That hasn't happened.
+T9 309 Anonymous25 : The problem is partly technical and partly dramatic.
+T9 310 Anonymous25 : The dramatic part I encountered in dealing with Hollywood types.
+T9 311 Anonymous25 : What directors want is to specify the start and end conditions; the job of the system is to realistically get the character to the desired ending mark.
+T9 312 Anonymous25 : In real-world stunt work, there are wires, guides, and rails that make things go the way the director wants, even when that's not physically realistic.
+T9 313 Anonymous25 : When that's not enough, cuts are used to conceal the lack of realism.
+T9 314 Anonymous25 : Physics systems are inherently unidirectional - you keep working forward from the current state.
+T9 315 Anonymous25 : This is fundamentally incompatible with directorial control.
+T9 316 Anonymous25 : As a result, the
+T9 317 Anonymous25 : trend in character animation has been to get enough motion capture data to cover the things you want the character to do, and use a motion splicing engine to patch the pieces together.
+T9 318 Anonymous25 : This, incidentally, was first used in Godzilla, the movie, for the baby 'zillas.
+T9 319 Anonymous25 : That's become more or less the standard approach for games.
+T9 320 Anonymous25 : Using a character control AI to drive the character's muscles realistically has been attempted, but with modest success.
+T9 321 Anonymous25 : Motion Factory tried this in the 1990s; their system was only kinematic, and not too successful.
+T9 322 Anonymous25 : Havok is trying it now.
+T9 323 Anonymous25 : For this to work, you need computerized muscle control good enough to drive a real-world robot, like Big Dog.
+T9 324 Anonymous25 : And then it has to look good from an aesthetic perspective.
+T9 325 Anonymous25 : It's really a hard robotics problem, which is why I was interested in it in the first place.
+T9 326 Anonymous25 : From a gameplay perspective, if you take the physics seriously, you lose the "superhero" capabilities of game characters.
+T9 327 Anonymous25 : Jump off a balcony, and don't expect to land on your feet.
+T9 328 Anonymous25 : Jumping up to a balcony?
+T9 329 Anonymous25 : Forget it.
+T9 330 Anonymous25 : Hand-to-hand combat works about as well as it does at the dojo.
+T9 331 Anonymous25 : "Your left foot was too far forward for that throw.
+T9 332 Anonymous25 : Again!" "Yes, sensi.
+T9 333 Anonymous25 : " Trying to control a physically realistic character via a joystick is nearly hopeless.
+T9 334 Anonymous25 : You can't even drive a real car very well through a remote joystick, let alone a game pad.
+T9 335 Anonymous25 : I've actually done that; using a remote steering wheel is a huge improvement over a joystick.
+T9 336 Anonymous25 : In driving games for consoles, the physics is tweaked to make the car incredibly stable.
+T9 337 Anonymous25 : Lowering the center of gravity to below ground is a common trick.
+T9 338 Anonymous25 : So what do we have?
+T9 339 Anonymous25 : Ragdolls. "Infinitely destructible environments.
+T9 340 Anonymous25 : "  Some skin deformation.
+T9 341 Anonymous25 : Cloth.  Plus rain, snow, water, and explosions that don't feed into the game play at all.
+T9 342 Anonymous25 : That's mostly what the "physics cards" do.
+T9 343 jollyreaper : Way back when I was playing Syndicate for the first time and marveling at how awesome it was, I was still struck by how much cooler it would be if I could level buildings.
+T9 344 jollyreaper : Even these days, games like GTA would be even cooler if buildings could be as thoroughly trashed as the cars are.
+T9 345 jollyreaper : Real world physics has come a long way in games these days but there's so much more that could be done.
+T9 346 Anonymous26 : Crazy Taxi is all about Hollywood physics.
+T9 347 Anonymous26 : I would add that the hero or his vehicle temporarily becomes much heavier during collisions, without adversely affecting acceleration of course.
+T9 348 MikeBabcock : All boyish giggling aside, body motion physics do take a lot of the plasticity out of characters and make things more fluid.
+T9 349 MikeBabcock : Why doesn't someone's leg deform when kicked in a fighting game though?
+T9 350 MikeBabcock : Why don't people keel over when punched in the stomach okay, so they do in Drake's Fortune, etc.The new natural motion gamershell.com engine generates character impacts and animations in real-time for example, taking into account body structure, weight, strength and a neural AI simulation to create animations on the fly based on circumstances for the upcoming Backbreaker American Football game.
+T9 351 Anonymous27 : Agree with you 100\% on every point.
+T9 352 Anonymous27 : Mod parent Genious!
+T9 353 Dr.Boje : ...it's the gameplay, stupid!Technology is nice and all, but if it ain't fun to play then who gives a damn?
+T9 354 Dr.Boje : Granted, if a game utilizes new technologies in order to create a unique gameplay experience, then all is well.
+T9 355 Dr.Boje : The problem is, most of them don't.
+T9 356 Dr.Boje : It seems like the article is mainly looking at FPS games where you can blow up the environment.
+T9 357 Dr.Boje : SNORE.Unless the technology complements the gameplay experience, then all you have in your hands is boring tech demo with some re-hashed gameplay on the side.
+T9 358 Dr.Boje : I couldn't care less if the debris from whatever I just blew up bounces and reacts in a true-to-life fashion.
+T9 359 Dr.Boje : Now, if whatever it was I blew up allowed me to reach some hidden area of the level, crushed a group of enemies, or helped me solve a tricky puzzle, I would probably find it more interesting.I still think one of the best use of physics in a game was the ability to kick zombie heads around in Blood link: http://en.wikipedia.org/wiki/Blood\_computer\_game wikipedia.org.
+T9 360 Dr.Boje : Okay, so maybe it didn't add to the gameplay like I was just bitching about, but it was really fun!
+T9 361 Dr.Boje : I think there was even a level that had a soccer field and you could get access to a Life Seed if you kicked a zombie head into one of the goals.
+T9 362 Dr.Boje : Damn, that game was awesome.
+T9 363 Xest : I don't think that's true.It's the same with everything, there are good implementations and bad implementations, age of game IMO has nothing to do with it.In terms of FPS games, Quake 1 was always my favourite online for the reasons you state, the physics just felt nice, the game was fun to play with it's rocket jumping and the likes, it didn't need complex physics.Yet whilst Half-Life 1 was an excellent game I always felt the physics in it absolutely sucked, compare it to something like Crackdown on the XBox 360 where the physics pretty much make the game and you see that a good physics system can make a world of difference.
+T9 364 Xest : For those who haven't played Crackdown, the content of the game is pretty poor it's basically an open world and you have to kill about 18 "bosses" across the open world, you can do them in any order you want, there's not really much of a storyline there.
+T9 365 Xest : The fact you can jump your way up sky scrapers, ramp cars off of transporters, throw scud missile launchers at enemies to crush them just generally have fun stacking together random explosive objects into a pile to make a massive explosion still leaves you with a pretty fun game.Even Call of Duty 4 and 5 and also Halo 3 just feel much nicer to play than many older games with simpler physics engines.As you say, it's the gameplay that matters, but realistic or complex physics do not in any way have to detract from the gameplay, in fact, in recent years it's really come into it's own in actually making the gameplay in a handful of games - see games like Prey, Portal, the gravity gun in Half-Life 2, Crackdown and so on.I think the thing to bear in mind is that when you look to the games you enjoyed in the past as fine examples of how a game should be you only remember the good ones, you don't remember the countless bad or at least mediocre and hence easily forgettable ones.
+T9 366 Xest : It's easy to pick some great games from the past and compare a specific element against the average level of games today, but I believe if you take the average quality of games from that period and compare to the average quality now you'll notice that again, as always there's good games and there's bad games.I'd argue the issue now is that increased complexity does make it much more challenging for developers to get all those complex systems right and to work together well to make a nice game, but it's certainly not impossible again as many great games in recent years have shown.
+T10 367 nEoN_nOoDlE : Ok /.
+T10 368 nEoN_nOoDlE : people, get to work on turning this post into an old curmudgeon meme:Maybe I'm just old-fashioned, but I preferred the simpler games, the ones that didn't have new technology and things of the nature.
+T10 369 nEoN_nOoDlE : Compare modern genre and compare them to the classics like example, example or example.
+T10 370 nEoN_nOoDlE : They were so much fun because handling was so easy, you could move, you could strafe, etc.
+T10 371 nEoN_nOoDlE : It was so much better!
+T10 372 nEoN_nOoDlE : And yet, as games become more realistic, all that happens is that your character becomes more sluggish and less powerful, harder to manipulate.
+T10 373 nEoN_nOoDlE : All for the sake of reality, and graphics which will always get old.
+T10 374 nEoN_nOoDlE : But the gameplay never gets old.
+T10 375 nEoN_nOoDlE : That's why classics are what they are - they're acceptable graphically and a hell of a lot of fun to play.Want proof?
+T10 376 nEoN_nOoDlE : They still have classic example tournaments, Melee tournaments, etc.
+T10 377 nEoN_nOoDlE : if you look around in the right places.
+T10 378 nEoN_nOoDlE : On the other hand, who cares anymore about popular new game?
+T10 379 nEoN_nOoDlE : Man, even playing different classic example is much more fun than sequel on the modern console, simply by virtue of the fact that the older one is simpler, freer, gives you more control, more imagination, more room to enjoy it.Seriously?
+T10 380 nEoN_nOoDlE : It's gameplay that makes you come back, not reality.
+T10 381 nEoN_nOoDlE : I wish we'd drop the reality of things and just make games fun.
+T10 382 nEoN_nOoDlE : But I guess now I'm old enough to just make my own games.
+T10 383 nEoN_nOoDlE : Sigh. It had to come down to this, didn't it?
+T10 384 Anonymous28 : For Real Ultimate Power!
+T10 385 Anonymous28 : Fight with best strength!http://rockhardest.mybrute.com
+T10 386 Dutch_Gun : You forgot a few:12.
+T10 387 Dutch_Gun : Every car that crashes will explode.
+T10 388 Dutch_Gun :     12a.
+T10 389 Dutch_Gun : Exception - if the hero is in the car, it will only leak gas.
+T10 390 Dutch_Gun :     12b.
+T10 391 Dutch_Gun : In such a case, there will always be an ignition source nearby.
+T10 392 Dutch_Gun :     12c.
+T10 393 Dutch_Gun : The gas will always run toward the ignition source.
+T10 394 Dutch_Gun :     12d.
+T10 395 Dutch_Gun : The gas will ignite only when the hero has just gotten free of the car, and is running away.13.
+T10 396 Dutch_Gun : Heroes can outrun an explosive blast14.
+T11 397 Dutch_Gun : Bullets don't fly straight for bad guys.Optional Cartoon Physics Module:1.
+T11 398 Dutch_Gun : You won't fall off a cliff until you realize there is no solid ground beneath you.
+T11 399 Dutch_Gun :     1a.
+T11 400 Dutch_Gun : Attempts to run back to solid ground will be successfully unless you look down
+T11 401 Dutch_Gun :     1b.
+T11 402 Dutch_Gun : Bonus points if you are the one to point out to your adversary that he has no ground beneath him.2.
+T11 403 Dutch_Gun : Getting crushed by massive objects results not in death or serious injury, but an overall bodily compression with a look strikingly similar to an accordion.
+T11 404 Dutch_Gun :     2a.
+T11 405 Dutch_Gun : Bonus points will be awarded if victim puts up a tiny umbrella shortly before impact.3.
+T11 406 Dutch_Gun : Accidental exposure to high explosives will result in no injury except for a blackening of face, mussing of hair, and tattering of clothes.
+T11 407 Shadow_of_Eternity : I suppose it depends on the game.
+T11 408 Shadow_of_Eternity : If you went true realism in terms of destructive power players destroying buildings would very rarely be an issue even if they had grenades and RPGs.
+T11 409 Shadow_of_Eternity : Without actual shaped charges and large quantities of high explosives it'd be difficult for someone to take out the average "Near-Future" reinforced structure of a game building.But then you'd have people screaming over how unrealistic it is that one frag grenade doesn't blow a 5 foot pit in the ground.
+T11 410 Anonymous29 : Every scifi game where you can get out of a ship and run around has the same gravity in every location.This wasn't even true in the original Quake.
+T11 411 Anonymous29 : There was a special level, Ziggurat Vertigo, with low gravity.
+T11 412 Anonymous29 : You could jump insane distances, and grenade launchers were vastly longer-range.
+T11 413 Anonymous29 : They put lots of ogres on the level to show off the rocket launchers, and started you in a slight pit so you'd immediately try jumping and figure out about the low gravity.
+T12 414 Anonymous30 : in a military game, unacceptable civilian deaths leading to failure, or in a GTA type game, the feds arriving.Dude, have you ever played GTA?
+T12 415 Anonymous30 : The feds can arrive, and I'll tell you what it means: free tanks!
+T12 416 Anonymous30 : Woohoo!
+T12 417 BrightSpark : There is plenty software makers can do to make games more playable and enjoyable - start looking at the scripts, story play and character acting.
+T12 418 BrightSpark : The console gaming segment has made for fairly linear stories to get to check-points.
+T12 419 BrightSpark : Look, I'm not saying that the 80s games were terrific either with the "get object A and take to room B" gameplay, but there was only so much to stuff into 64Kb of memory.
+T12 420 BrightSpark : Some RPG open stories and environments, like Oblivion and Sacred show how characeters that want to explore and advance their character the way they want can do it.
+T13 421 BrightSpark : Far Cry 2 is a rare modern shooter that has the same concept.
+T13 422 BrightSpark : I'm sure it is cheaper to explore this avenue and probably more succesful than to invest in working out how to get quad cores cranking.
+T13 423 BrightSpark : I'm still using DX9 and happy with it.
+T13 424 BrightSpark : Now lets go get that Kilrathi scum, Paladin!
+T13 425 whatever3003 : gawd.
+T13 426 whatever3003 : It's "straight" not "strait".
+T13 427 flewp : Except even those bullets that are "sprayed" ARE going straight - they're just leaving the gun at a slightly different angle than the other bullets, but their trajectory is still straight.
+T14 428 ^\_^x : Have you heard of Euphoria?
+T14 429 ^\_^x : So far, it's the most realistic system I've seen for "ragdoll" - it's actually more ragdoll + AI.http://www.youtube.com/watch?v=Qi5adyccoKI youtube.comIt works to great effect in GTA4.
+T14 430 ^\_^x : What do you think of it?

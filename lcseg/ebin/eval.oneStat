@@ -1,0 +1,31 @@
+#!/usr/bin/perl
+
+# Reads a file containing scores (Pk, WindowDiff, execution time).
+# Format of each line read from std input:
+# <filename> <pk score> <wd score> <time>
+# Default: return Pk mean and stddev.
+# Can compute mean and stddev for other fields (WindowDiff or exec
+# time) through the use of the -f switch.
+
+my %args = @ARGV;
+my $f = $args{'-f'};
+$f = 1 unless $f;
+
+# Mean:
+my @val;
+my $sum = 0; my $n = 0;
+while(<STDIN>) {
+  my @w = split;
+  $sum += $w[$f];
+  push @val, $w[$f];
+  $n++
+}
+
+# Stddev:
+my $sum2=0;
+foreach(@val) { $sum2 += ($_-$mean)*($_-$mean) }
+
+exit if $n<2;
+print $sum/$n, "\t",
+      sqrt($sum2/($n-1)), "\t",
+      $n, "\n";

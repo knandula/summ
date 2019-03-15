@@ -1,0 +1,1818 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article10_02_16_1814217</id>
+	<title>Malicious Spam Jumps To 3B Messages Per Day</title>
+	<author>kdawson</author>
+	<datestamp>1266349380000</datestamp>
+	<htmltext>Trailrunner7 writes <i>"Last year saw a <a href="http://threatpost.com/en\_us/blogs/malicious-spam-jumps-3-billion-messages-day-021610">monstrous increase in the volume of malicious spam</a>, according to <a href="http://www.m86security.com/newsimages/trace/M86\_Labs\_Report\_Jan2010.pdf">a new report</a> (PDF). In the second half of 2009, the number of spam messages sent per day skyrocketed from 600 million to three billion, according to new research. For some time now, spam has been accounting for 90 or more percent of all email messages. But the volume of spam had been relatively steady in the last couple of years. Now, the emergence of several large-scale botnets, including Zeus and Koobface, has led to an enormous spike in the volume of spam."</i></htmltext>
+<tokenext>Trailrunner7 writes " Last year saw a monstrous increase in the volume of malicious spam , according to a new report ( PDF ) .
+In the second half of 2009 , the number of spam messages sent per day skyrocketed from 600 million to three billion , according to new research .
+For some time now , spam has been accounting for 90 or more percent of all email messages .
+But the volume of spam had been relatively steady in the last couple of years .
+Now , the emergence of several large-scale botnets , including Zeus and Koobface , has led to an enormous spike in the volume of spam .
+"</tokentext>
+<sentencetext>Trailrunner7 writes "Last year saw a monstrous increase in the volume of malicious spam, according to a new report (PDF).
+In the second half of 2009, the number of spam messages sent per day skyrocketed from 600 million to three billion, according to new research.
+For some time now, spam has been accounting for 90 or more percent of all email messages.
+But the volume of spam had been relatively steady in the last couple of years.
+Now, the emergence of several large-scale botnets, including Zeus and Koobface, has led to an enormous spike in the volume of spam.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159484</id>
+	<title>Maybe ISP should do something about it?</title>
+	<author>Anonymous</author>
+	<datestamp>1266311580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>I'm sure someone will post the standard reply to this comment but here it goes:<br>
+What if ISPs blocked ports and prevented everyone and his dog from running a mail server by default? (I can already hear the outcry from everyone running his own) - though as with DNS redirections this could be turned off by logging in to your profile (at your ISPs home page)? At least we'd get rid of all the crap coming from bot nets.</htmltext>
+<tokenext>I 'm sure someone will post the standard reply to this comment but here it goes : What if ISPs blocked ports and prevented everyone and his dog from running a mail server by default ?
+( I can already hear the outcry from everyone running his own ) - though as with DNS redirections this could be turned off by logging in to your profile ( at your ISPs home page ) ?
+At least we 'd get rid of all the crap coming from bot nets .</tokentext>
+<sentencetext>I'm sure someone will post the standard reply to this comment but here it goes:
+What if ISPs blocked ports and prevented everyone and his dog from running a mail server by default?
+(I can already hear the outcry from everyone running his own) - though as with DNS redirections this could be turned off by logging in to your profile (at your ISPs home page)?
+At least we'd get rid of all the crap coming from bot nets.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31164474</id>
+	<title>3B of spam...</title>
+	<author>Soiden</author>
+	<datestamp>1266339240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>...and in my Gmail account I never see even one.</p></htmltext>
+<tokenext>...and in my Gmail account I never see even one .</tokentext>
+<sentencetext>...and in my Gmail account I never see even one.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159624</id>
+	<title>Re:Oh really?</title>
+	<author>bondjamesbond</author>
+	<datestamp>1266312180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>Ditto with my using Appriver for my company.</htmltext>
+<tokenext>Ditto with my using Appriver for my company .</tokentext>
+<sentencetext>Ditto with my using Appriver for my company.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161838</id>
+	<title>Re:Oh really?</title>
+	<author>antdude</author>
+	<datestamp>1266322560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>What about your spam folder?</p></htmltext>
+<tokenext>What about your spam folder ?</tokentext>
+<sentencetext>What about your spam folder?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159278</id>
+	<title>charge for email</title>
+	<author>zaax</author>
+	<datestamp>1266353640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>1c each, first 30 per day free. It would stop all spam dead</htmltext>
+<tokenext>1c each , first 30 per day free .
+It would stop all spam dead</tokentext>
+<sentencetext>1c each, first 30 per day free.
+It would stop all spam dead</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159240</id>
+	<title>Want to See Spam?</title>
+	<author>Petersko</author>
+	<datestamp>1266353460000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext>Subscribe to one free daily naked chick mailing list. Imagine how much of that spam is about porn! There are probably more porn emails sent out every week than there are people on the planet.<br> <br>
+
+I keep three email accounts. One I give out for things - registrations, contests, all that stuff. One I give out to friends and family. The third just quietly sits there empty. I check it periodically anyway and it makes me happy when no mail is found.</htmltext>
+<tokenext>Subscribe to one free daily naked chick mailing list .
+Imagine how much of that spam is about porn !
+There are probably more porn emails sent out every week than there are people on the planet .
+I keep three email accounts .
+One I give out for things - registrations , contests , all that stuff .
+One I give out to friends and family .
+The third just quietly sits there empty .
+I check it periodically anyway and it makes me happy when no mail is found .</tokentext>
+<sentencetext>Subscribe to one free daily naked chick mailing list.
+Imagine how much of that spam is about porn!
+There are probably more porn emails sent out every week than there are people on the planet.
+I keep three email accounts.
+One I give out for things - registrations, contests, all that stuff.
+One I give out to friends and family.
+The third just quietly sits there empty.
+I check it periodically anyway and it makes me happy when no mail is found.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159858</id>
+	<title>Formatting</title>
+	<author>Anonymous</author>
+	<datestamp>1266313320000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>The report is very well written and provides very interesting information, but whoever decided to use light grey on white should get his or her eyes poked out with a needle.</p></htmltext>
+<tokenext>The report is very well written and provides very interesting information , but whoever decided to use light grey on white should get his or her eyes poked out with a needle .</tokentext>
+<sentencetext>The report is very well written and provides very interesting information, but whoever decided to use light grey on white should get his or her eyes poked out with a needle.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160600</id>
+	<title>Re:Want to See Spam?</title>
+	<author>Anonymous</author>
+	<datestamp>1266316620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I have my own domain, too.  I also have an ISP that's funny about ports.  Sure, I could drop them for such restrictions.  But my other choice is dial-up.</htmltext>
+<tokenext>I have my own domain , too .
+I also have an ISP that 's funny about ports .
+Sure , I could drop them for such restrictions .
+But my other choice is dial-up .</tokentext>
+<sentencetext>I have my own domain, too.
+I also have an ISP that's funny about ports.
+Sure, I could drop them for such restrictions.
+But my other choice is dial-up.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159408</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159408</id>
+	<title>Re:Want to See Spam?</title>
+	<author>StuartHankins</author>
+	<datestamp>1266311220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I have my own domain. I have only 4 "real" accounts and give a different account for everyone that needs an email address. My catch-all account sees all the stuff, and I trust SpamAssassin results. Very very little spam gets to me, and when it does I know which company gave out my email address.<br> <br>Cheap and easy to setup, and I don't rely on any third party's free email services (which seem to come with their own supplies of spam and losses of privacy).</htmltext>
+<tokenext>I have my own domain .
+I have only 4 " real " accounts and give a different account for everyone that needs an email address .
+My catch-all account sees all the stuff , and I trust SpamAssassin results .
+Very very little spam gets to me , and when it does I know which company gave out my email address .
+Cheap and easy to setup , and I do n't rely on any third party 's free email services ( which seem to come with their own supplies of spam and losses of privacy ) .</tokentext>
+<sentencetext>I have my own domain.
+I have only 4 "real" accounts and give a different account for everyone that needs an email address.
+My catch-all account sees all the stuff, and I trust SpamAssassin results.
+Very very little spam gets to me, and when it does I know which company gave out my email address.
+Cheap and easy to setup, and I don't rely on any third party's free email services (which seem to come with their own supplies of spam and losses of privacy).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159240</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160070</id>
+	<title>Re:Enough about malicious spam</title>
+	<author>Anonymous</author>
+	<datestamp>1266314160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>What about delicious spam?</p></div><p>I think that's an oxymoron.</p></div>
+	</htmltext>
+<tokenext>What about delicious spam ? I think that 's an oxymoron .</tokentext>
+<sentencetext>What about delicious spam?I think that's an oxymoron.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159178</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31165462</id>
+	<title>Re:Where's your beloved filter now?</title>
+	<author>miracle69</author>
+	<datestamp>1266345900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It's not an economic problem because there is little profit in spam from a legitimate business.  If there were, they wouldn't require the use of botnets to steal other peoples resources.  The spammer can only profit because their overhead is being spread to unsuspecting users on a global scale.</p></htmltext>
+<tokenext>It 's not an economic problem because there is little profit in spam from a legitimate business .
+If there were , they would n't require the use of botnets to steal other peoples resources .
+The spammer can only profit because their overhead is being spread to unsuspecting users on a global scale .</tokentext>
+<sentencetext>It's not an economic problem because there is little profit in spam from a legitimate business.
+If there were, they wouldn't require the use of botnets to steal other peoples resources.
+The spammer can only profit because their overhead is being spread to unsuspecting users on a global scale.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159994</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159878</id>
+	<title>Re:I have said this before...</title>
+	<author>vlm</author>
+	<datestamp>1266313440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>If we incorporate a pay per email scheme, with an email costing anywhere from 1/2 to 1 cent per email</p></div><p>I get more paper spam in my mailbox, than email spam that slips past spamassassin.</p><p>So... if capital one sent me two credit card offers per week, for several years, and each cost at least 50 cents to print and post, that one CC company is spending $50/yr trying to win my business... but charging 1 cent per email will stop spam?</p><p>I get coupon magazines that I toss out.  For over a decade, when I get a phone book, I toss it out.  I get endless catalogs.  All of which cost several orders of magnitude more than one cent.</p><p>Also if there's one thing the cellphone and landline business has shown, its impossible to bill in units below about one cent (per minute) or below about $20 per total bill.  They will have to charge WAY more than one cent, just to recover the costs of the billing infrastructure.</p></div>
+	</htmltext>
+<tokenext>If we incorporate a pay per email scheme , with an email costing anywhere from 1/2 to 1 cent per emailI get more paper spam in my mailbox , than email spam that slips past spamassassin.So... if capital one sent me two credit card offers per week , for several years , and each cost at least 50 cents to print and post , that one CC company is spending $ 50/yr trying to win my business... but charging 1 cent per email will stop spam ? I get coupon magazines that I toss out .
+For over a decade , when I get a phone book , I toss it out .
+I get endless catalogs .
+All of which cost several orders of magnitude more than one cent.Also if there 's one thing the cellphone and landline business has shown , its impossible to bill in units below about one cent ( per minute ) or below about $ 20 per total bill .
+They will have to charge WAY more than one cent , just to recover the costs of the billing infrastructure .</tokentext>
+<sentencetext>If we incorporate a pay per email scheme, with an email costing anywhere from 1/2 to 1 cent per emailI get more paper spam in my mailbox, than email spam that slips past spamassassin.So... if capital one sent me two credit card offers per week, for several years, and each cost at least 50 cents to print and post, that one CC company is spending $50/yr trying to win my business... but charging 1 cent per email will stop spam?I get coupon magazines that I toss out.
+For over a decade, when I get a phone book, I toss it out.
+I get endless catalogs.
+All of which cost several orders of magnitude more than one cent.Also if there's one thing the cellphone and landline business has shown, its impossible to bill in units below about one cent (per minute) or below about $20 per total bill.
+They will have to charge WAY more than one cent, just to recover the costs of the billing infrastructure.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159682</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31162830</id>
+	<title>Re:charge for email</title>
+	<author>Binder</author>
+	<datestamp>1266327780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Umm...<br>How about make windows illegal?</p></htmltext>
+<tokenext>Umm...How about make windows illegal ?</tokentext>
+<sentencetext>Umm...How about make windows illegal?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159552</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31163542</id>
+	<title>59 spam messages isn't that many.</title>
+	<author>ValuJet</author>
+	<datestamp>1266332940000</datestamp>
+	<modclass>Redundant</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>You nerds sure get hyped up over 59 spam messages a day. That really isn't that much when you think about the whole internet.</p><p>Wait... you mean that wasn't hex?</p></htmltext>
+<tokenext>You nerds sure get hyped up over 59 spam messages a day .
+That really is n't that much when you think about the whole internet.Wait... you mean that was n't hex ?</tokentext>
+<sentencetext>You nerds sure get hyped up over 59 spam messages a day.
+That really isn't that much when you think about the whole internet.Wait... you mean that wasn't hex?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159976</id>
+	<title>Re:I have said this before...</title>
+	<author>HungryHobo</author>
+	<datestamp>1266313800000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Your post advocates a</p><p>( ) technical (X) legislative (X) market-based ( ) vigilante</p><p>approach to fighting spam. Your idea will not work. Here is why it won't work. (One or more of the following may apply to your particular idea, and it may have other flaws which used to vary from state to state before a bad federal law was passed.)</p><p>( ) Spammers can easily use it to harvest email addresses<br>(X) Mailing lists and other legitimate email uses would be affected<br>( ) No one will be able to find the guy or collect the money<br>( ) It is defenseless against brute force attacks<br>( ) It will stop spam for two weeks and then we'll be stuck with it<br>(X) Users of email will not put up with it<br>(X) Microsoft will not put up with it<br>( ) The police will not put up with it<br>( ) Requires too much cooperation from spammers<br>(X) Requires immediate total cooperation from everybody at once<br>( ) Many email users cannot afford to lose business or alienate potential employers<br>( ) Spammers don't care about invalid addresses in their lists<br>( ) Anyone could anonymously destroy anyone else's career or business</p><p>Specifically, your plan fails to account for</p><p>( ) Laws expressly prohibiting it<br>(X) Lack of centrally controlling authority for email<br>(X) Open relays in foreign countries<br>( ) Ease of searching tiny alphanumeric address space of all email addresses<br>(X) Asshats<br>(X) Jurisdictional problems<br>(X) Unpopularity of weird new taxes<br>( ) Public reluctance to accept weird new forms of money<br>(X) Huge existing software investment in SMTP<br>( ) Susceptibility of protocols other than SMTP to attack<br>( ) Willingness of users to install OS patches received by email<br>( ) Armies of worm riddled broadband-connected Windows boxes<br>( ) Eternal arms race involved in all filtering approaches<br>(X) Extreme profitability of spam<br>( ) Joe jobs and/or identity theft<br>(X) Technically illiterate politicians<br>( ) Extreme stupidity on the part of people who do business with spammers<br>( ) Dishonesty on the part of spammers themselves<br>( ) Bandwidth costs that are unaffected by client filtering<br>(X) Outlook</p><p>and the following philosophical objections may also apply:</p><p>(X) Ideas similar to yours are easy to come up with, yet none have ever been shown practical<br>( ) Any scheme based on opt-out is unacceptable<br>(X) SMTP headers should not be the subject of legislation<br>( ) Blacklists suck<br>( ) Whitelists suck<br>( ) We should be able to talk about Viagra without being censored<br>( ) Countermeasures should not involve wire fraud or credit card fraud<br>( ) Countermeasures should not involve sabotage of public networks<br>(X) Countermeasures must work if phased in gradually<br>(X) Sending email should be free<br>( ) Why should we have to trust you and your servers?<br>( ) Incompatiblity with open source or open source licenses<br>( ) Feel-good measures do nothing to solve the problem<br>( ) Temporary/one-time email addresses are cumbersome<br>( ) I don't want the government reading my email<br>(X) Killing them that way is not slow and painful enough</p><p>Furthermore, this is what I think about you:</p><p>(X) Sorry dude, but I don't think it would work.<br>( ) This is a stupid idea, and you're a stupid person for suggesting it.<br>( ) Nice try, assh0le! I'm going to find out where you live and burn your house down!</p><p>
+&nbsp;</p></htmltext>
+<tokenext>Your post advocates a ( ) technical ( X ) legislative ( X ) market-based ( ) vigilanteapproach to fighting spam .
+Your idea will not work .
+Here is why it wo n't work .
+( One or more of the following may apply to your particular idea , and it may have other flaws which used to vary from state to state before a bad federal law was passed .
+) ( ) Spammers can easily use it to harvest email addresses ( X ) Mailing lists and other legitimate email uses would be affected ( ) No one will be able to find the guy or collect the money ( ) It is defenseless against brute force attacks ( ) It will stop spam for two weeks and then we 'll be stuck with it ( X ) Users of email will not put up with it ( X ) Microsoft will not put up with it ( ) The police will not put up with it ( ) Requires too much cooperation from spammers ( X ) Requires immediate total cooperation from everybody at once ( ) Many email users can not afford to lose business or alienate potential employers ( ) Spammers do n't care about invalid addresses in their lists ( ) Anyone could anonymously destroy anyone else 's career or businessSpecifically , your plan fails to account for ( ) Laws expressly prohibiting it ( X ) Lack of centrally controlling authority for email ( X ) Open relays in foreign countries ( ) Ease of searching tiny alphanumeric address space of all email addresses ( X ) Asshats ( X ) Jurisdictional problems ( X ) Unpopularity of weird new taxes ( ) Public reluctance to accept weird new forms of money ( X ) Huge existing software investment in SMTP ( ) Susceptibility of protocols other than SMTP to attack ( ) Willingness of users to install OS patches received by email ( ) Armies of worm riddled broadband-connected Windows boxes ( ) Eternal arms race involved in all filtering approaches ( X ) Extreme profitability of spam ( ) Joe jobs and/or identity theft ( X ) Technically illiterate politicians ( ) Extreme stupidity on the part of people who do business with spammers ( ) Dishonesty on the part of spammers themselves ( ) Bandwidth costs that are unaffected by client filtering ( X ) Outlookand the following philosophical objections may also apply : ( X ) Ideas similar to yours are easy to come up with , yet none have ever been shown practical ( ) Any scheme based on opt-out is unacceptable ( X ) SMTP headers should not be the subject of legislation ( ) Blacklists suck ( ) Whitelists suck ( ) We should be able to talk about Viagra without being censored ( ) Countermeasures should not involve wire fraud or credit card fraud ( ) Countermeasures should not involve sabotage of public networks ( X ) Countermeasures must work if phased in gradually ( X ) Sending email should be free ( ) Why should we have to trust you and your servers ?
+( ) Incompatiblity with open source or open source licenses ( ) Feel-good measures do nothing to solve the problem ( ) Temporary/one-time email addresses are cumbersome ( ) I do n't want the government reading my email ( X ) Killing them that way is not slow and painful enoughFurthermore , this is what I think about you : ( X ) Sorry dude , but I do n't think it would work .
+( ) This is a stupid idea , and you 're a stupid person for suggesting it .
+( ) Nice try , assh0le !
+I 'm going to find out where you live and burn your house down !
+¬ †</tokentext>
+<sentencetext>Your post advocates a( ) technical (X) legislative (X) market-based ( ) vigilanteapproach to fighting spam.
+Your idea will not work.
+Here is why it won't work.
+(One or more of the following may apply to your particular idea, and it may have other flaws which used to vary from state to state before a bad federal law was passed.
+)( ) Spammers can easily use it to harvest email addresses(X) Mailing lists and other legitimate email uses would be affected( ) No one will be able to find the guy or collect the money( ) It is defenseless against brute force attacks( ) It will stop spam for two weeks and then we'll be stuck with it(X) Users of email will not put up with it(X) Microsoft will not put up with it( ) The police will not put up with it( ) Requires too much cooperation from spammers(X) Requires immediate total cooperation from everybody at once( ) Many email users cannot afford to lose business or alienate potential employers( ) Spammers don't care about invalid addresses in their lists( ) Anyone could anonymously destroy anyone else's career or businessSpecifically, your plan fails to account for( ) Laws expressly prohibiting it(X) Lack of centrally controlling authority for email(X) Open relays in foreign countries( ) Ease of searching tiny alphanumeric address space of all email addresses(X) Asshats(X) Jurisdictional problems(X) Unpopularity of weird new taxes( ) Public reluctance to accept weird new forms of money(X) Huge existing software investment in SMTP( ) Susceptibility of protocols other than SMTP to attack( ) Willingness of users to install OS patches received by email( ) Armies of worm riddled broadband-connected Windows boxes( ) Eternal arms race involved in all filtering approaches(X) Extreme profitability of spam( ) Joe jobs and/or identity theft(X) Technically illiterate politicians( ) Extreme stupidity on the part of people who do business with spammers( ) Dishonesty on the part of spammers themselves( ) Bandwidth costs that are unaffected by client filtering(X) Outlookand the following philosophical objections may also apply:(X) Ideas similar to yours are easy to come up with, yet none have ever been shown practical( ) Any scheme based on opt-out is unacceptable(X) SMTP headers should not be the subject of legislation( ) Blacklists suck( ) Whitelists suck( ) We should be able to talk about Viagra without being censored( ) Countermeasures should not involve wire fraud or credit card fraud( ) Countermeasures should not involve sabotage of public networks(X) Countermeasures must work if phased in gradually(X) Sending email should be free( ) Why should we have to trust you and your servers?
+( ) Incompatiblity with open source or open source licenses( ) Feel-good measures do nothing to solve the problem( ) Temporary/one-time email addresses are cumbersome( ) I don't want the government reading my email(X) Killing them that way is not slow and painful enoughFurthermore, this is what I think about you:(X) Sorry dude, but I don't think it would work.
+( ) This is a stupid idea, and you're a stupid person for suggesting it.
+( ) Nice try, assh0le!
+I'm going to find out where you live and burn your house down!
+¬†</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159682</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159854</id>
+	<title>Seriously.</title>
+	<author>Anonymous</author>
+	<datestamp>1266313320000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>SPAM was the absolute bane of my existence (I have several very public email addresses that have to remain that way) until the day I finally (at at the time reluctantly) decided to run all of my mail through Gmail accounts, without exception. I had used block lists, several ISP-based filters, spamassassin post-POP3 on my own local net, and a bunch of filters, and it was eating hours a day of attending to SPAM (new filters, fixing filters, marking as spam, marking as ham) and so many CPU cycles that a dedicated box couldn't keep up.  Not to mention that due to the processing overhead of all that filtering, when someone did send me a message and told me so, I'd have to tell them "I'll get it in ten to fifteen minutes." And all for a few (three, really) email queues that belong to one person and a couple assistants?</p><p>Now I forget that SPAM exists, and my email comes in more or less instantly.</p><p>For a decade now, Google has more or less singlehandedly kept the internet usable.</p></htmltext>
+<tokenext>SPAM was the absolute bane of my existence ( I have several very public email addresses that have to remain that way ) until the day I finally ( at at the time reluctantly ) decided to run all of my mail through Gmail accounts , without exception .
+I had used block lists , several ISP-based filters , spamassassin post-POP3 on my own local net , and a bunch of filters , and it was eating hours a day of attending to SPAM ( new filters , fixing filters , marking as spam , marking as ham ) and so many CPU cycles that a dedicated box could n't keep up .
+Not to mention that due to the processing overhead of all that filtering , when someone did send me a message and told me so , I 'd have to tell them " I 'll get it in ten to fifteen minutes .
+" And all for a few ( three , really ) email queues that belong to one person and a couple assistants ? Now I forget that SPAM exists , and my email comes in more or less instantly.For a decade now , Google has more or less singlehandedly kept the internet usable .</tokentext>
+<sentencetext>SPAM was the absolute bane of my existence (I have several very public email addresses that have to remain that way) until the day I finally (at at the time reluctantly) decided to run all of my mail through Gmail accounts, without exception.
+I had used block lists, several ISP-based filters, spamassassin post-POP3 on my own local net, and a bunch of filters, and it was eating hours a day of attending to SPAM (new filters, fixing filters, marking as spam, marking as ham) and so many CPU cycles that a dedicated box couldn't keep up.
+Not to mention that due to the processing overhead of all that filtering, when someone did send me a message and told me so, I'd have to tell them "I'll get it in ten to fifteen minutes.
+" And all for a few (three, really) email queues that belong to one person and a couple assistants?Now I forget that SPAM exists, and my email comes in more or less instantly.For a decade now, Google has more or less singlehandedly kept the internet usable.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159450</id>
+	<title>Re:Want to See Spam?</title>
+	<author>Alwin Henseler</author>
+	<datestamp>1266311340000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Subscribe to one free daily naked chick mailing list. Imagine how much of that spam is about porn! There are probably more porn emails sent out every week than there are people on the planet.</p></div><p>If you subscribe to such a mailing list, then what you're getting <em>from them</em> isn't spam (because you asked for it). Only other, <em>uninvited</em> e-mail is spam.</p><p>Also, I don't know what network you're on. Spam I get is mostly for the famous blue pills &amp; co, fake watches, and the occassional silly 419 / phishing attempt or "get your degree now!" bullshit. Porn spam? What on earth are you talking about?</p></div>
+	</htmltext>
+<tokenext>Subscribe to one free daily naked chick mailing list .
+Imagine how much of that spam is about porn !
+There are probably more porn emails sent out every week than there are people on the planet.If you subscribe to such a mailing list , then what you 're getting from them is n't spam ( because you asked for it ) .
+Only other , uninvited e-mail is spam.Also , I do n't know what network you 're on .
+Spam I get is mostly for the famous blue pills &amp; co , fake watches , and the occassional silly 419 / phishing attempt or " get your degree now !
+" bullshit .
+Porn spam ?
+What on earth are you talking about ?</tokentext>
+<sentencetext>Subscribe to one free daily naked chick mailing list.
+Imagine how much of that spam is about porn!
+There are probably more porn emails sent out every week than there are people on the planet.If you subscribe to such a mailing list, then what you're getting from them isn't spam (because you asked for it).
+Only other, uninvited e-mail is spam.Also, I don't know what network you're on.
+Spam I get is mostly for the famous blue pills &amp; co, fake watches, and the occassional silly 419 / phishing attempt or "get your degree now!
+" bullshit.
+Porn spam?
+What on earth are you talking about?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159240</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159528</id>
+	<title>Re:Want to See Spam?</title>
+	<author>stimpleton</author>
+	<datestamp>1266311760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>"<i>I keep three email accounts.....</i>"<br> <br>
+My "third email" is a gmail and is for my one weakness in life: big breast websites(subscription based).<br> <br>
+Oddly, I get no spam. I do get the odd newsletter and update "notices". What I also get is the occassional promotion from old sites I subscribed to, which I do like to get.<br> <br>
+How Gmail manages to work out  what I want and do not want, and gets it right is either very clever or very chilling.</htmltext>
+<tokenext>" I keep three email accounts..... " My " third email " is a gmail and is for my one weakness in life : big breast websites ( subscription based ) .
+Oddly , I get no spam .
+I do get the odd newsletter and update " notices " .
+What I also get is the occassional promotion from old sites I subscribed to , which I do like to get .
+How Gmail manages to work out what I want and do not want , and gets it right is either very clever or very chilling .</tokentext>
+<sentencetext>"I keep three email accounts....." 
+My "third email" is a gmail and is for my one weakness in life: big breast websites(subscription based).
+Oddly, I get no spam.
+I do get the odd newsletter and update "notices".
+What I also get is the occassional promotion from old sites I subscribed to, which I do like to get.
+How Gmail manages to work out  what I want and do not want, and gets it right is either very clever or very chilling.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159240</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160332</id>
+	<title>Re:Oh really?</title>
+	<author>msclrhd</author>
+	<datestamp>1266315180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I like Gmail for many reasons, one of which is their awesome spam filter. I get only one or two mis-categorised email every couple of weeks, the rest goes to the spam box. Couple that with the coloured labels &amp; filters, and spam/not spam is very easy to identify.</p><p>Hotmail on the other hand is terrible. Ages ago when I was using Hotmail, I ended up with the majority of my inbox being spam so I gave up and tried Gmail. I don't know how good Hotmail is at the moment (or others like YahooMail).</p></htmltext>
+<tokenext>I like Gmail for many reasons , one of which is their awesome spam filter .
+I get only one or two mis-categorised email every couple of weeks , the rest goes to the spam box .
+Couple that with the coloured labels &amp; filters , and spam/not spam is very easy to identify.Hotmail on the other hand is terrible .
+Ages ago when I was using Hotmail , I ended up with the majority of my inbox being spam so I gave up and tried Gmail .
+I do n't know how good Hotmail is at the moment ( or others like YahooMail ) .</tokentext>
+<sentencetext>I like Gmail for many reasons, one of which is their awesome spam filter.
+I get only one or two mis-categorised email every couple of weeks, the rest goes to the spam box.
+Couple that with the coloured labels &amp; filters, and spam/not spam is very easy to identify.Hotmail on the other hand is terrible.
+Ages ago when I was using Hotmail, I ended up with the majority of my inbox being spam so I gave up and tried Gmail.
+I don't know how good Hotmail is at the moment (or others like YahooMail).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159550</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160034</id>
+	<title>Re:charge for email</title>
+	<author>JustNilt</author>
+	<datestamp>1266314040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Not to mention much of the corporate world's communications.  This is one of those "looks good on paper" things.</p></htmltext>
+<tokenext>Not to mention much of the corporate world 's communications .
+This is one of those " looks good on paper " things .</tokentext>
+<sentencetext>Not to mention much of the corporate world's communications.
+This is one of those "looks good on paper" things.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159278</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160650</id>
+	<title>Re:Out of curiosity...</title>
+	<author>aztracker1</author>
+	<datestamp>1266316860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I'd be happy if more of the bigger mail services recognized my mail server for my hobby site's user signups as non-spam.  Despite the fact the MX on record is the sending server, and the domain for the MX has been up for a while.   I've in the past year retired the use of my company's domain name, and revised my hobby site to use a newer domain.  Just the same, this has been over the course of a year, not all at once.</p></htmltext>
+<tokenext>I 'd be happy if more of the bigger mail services recognized my mail server for my hobby site 's user signups as non-spam .
+Despite the fact the MX on record is the sending server , and the domain for the MX has been up for a while .
+I 've in the past year retired the use of my company 's domain name , and revised my hobby site to use a newer domain .
+Just the same , this has been over the course of a year , not all at once .</tokentext>
+<sentencetext>I'd be happy if more of the bigger mail services recognized my mail server for my hobby site's user signups as non-spam.
+Despite the fact the MX on record is the sending server, and the domain for the MX has been up for a while.
+I've in the past year retired the use of my company's domain name, and revised my hobby site to use a newer domain.
+Just the same, this has been over the course of a year, not all at once.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159322</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31162730</id>
+	<title>Overzealous gateways</title>
+	<author>Anonymous</author>
+	<datestamp>1266327240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>As much as I hate spam, I hate overzealous gateways on the internet more. Earthlink for example refuses to receive mail without a valid return address (so no-reply@ must respond to RESP) and sends you one of these:<blockquote><div><p>I apologize for this automatic reply to your email.<br> <br>
+
+To control spam, I now allow incoming messages only from senders I have approved beforehand.<br> <br>
+
+If you would like to be added to my list of approved senders, please fill out the short request form (see link below). Once I approve you, I will receive your original message in my inbox. You do not need to resend your message. I apologize for this one-time inconvenience.<br> <br>
+
+Click the link below to fill out the request:</p></div></blockquote><p>
+
+
+There's no way I'll waste my time filling in that form, so I've added big warning on the registration page now - sorry users of a overzealous ISP, please disable your spam filter if you can or just use another email address to register from.</p></div>
+	</htmltext>
+<tokenext>As much as I hate spam , I hate overzealous gateways on the internet more .
+Earthlink for example refuses to receive mail without a valid return address ( so no-reply @ must respond to RESP ) and sends you one of these : I apologize for this automatic reply to your email .
+To control spam , I now allow incoming messages only from senders I have approved beforehand .
+If you would like to be added to my list of approved senders , please fill out the short request form ( see link below ) .
+Once I approve you , I will receive your original message in my inbox .
+You do not need to resend your message .
+I apologize for this one-time inconvenience .
+Click the link below to fill out the request : There 's no way I 'll waste my time filling in that form , so I 've added big warning on the registration page now - sorry users of a overzealous ISP , please disable your spam filter if you can or just use another email address to register from .</tokentext>
+<sentencetext>As much as I hate spam, I hate overzealous gateways on the internet more.
+Earthlink for example refuses to receive mail without a valid return address (so no-reply@ must respond to RESP) and sends you one of these:I apologize for this automatic reply to your email.
+To control spam, I now allow incoming messages only from senders I have approved beforehand.
+If you would like to be added to my list of approved senders, please fill out the short request form (see link below).
+Once I approve you, I will receive your original message in my inbox.
+You do not need to resend your message.
+I apologize for this one-time inconvenience.
+Click the link below to fill out the request:
+
+
+There's no way I'll waste my time filling in that form, so I've added big warning on the registration page now - sorry users of a overzealous ISP, please disable your spam filter if you can or just use another email address to register from.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159552</id>
+	<title>Re:charge for email</title>
+	<author>harp2812</author>
+	<datestamp>1266311880000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Let me know when you find a reliable way to...<br>a) Charge for email<br>b) Prevent unpaid mail from being sent<br>c) Prevent botnets from sending 30 free messages then stopping for the day<br>d) Prevent botnets from sending a ton of paid messages using financial info on the host computer<br>e) Prevent spammers from setting up a mail server that charges for messages, repeating d) and then collecting all the money.</p><p>etc, ad nauseum.</p></htmltext>
+<tokenext>Let me know when you find a reliable way to...a ) Charge for emailb ) Prevent unpaid mail from being sentc ) Prevent botnets from sending 30 free messages then stopping for the dayd ) Prevent botnets from sending a ton of paid messages using financial info on the host computere ) Prevent spammers from setting up a mail server that charges for messages , repeating d ) and then collecting all the money.etc , ad nauseum .</tokentext>
+<sentencetext>Let me know when you find a reliable way to...a) Charge for emailb) Prevent unpaid mail from being sentc) Prevent botnets from sending 30 free messages then stopping for the dayd) Prevent botnets from sending a ton of paid messages using financial info on the host computere) Prevent spammers from setting up a mail server that charges for messages, repeating d) and then collecting all the money.etc, ad nauseum.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159278</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31165410</id>
+	<title>Re:Out of curiosity...</title>
+	<author>innocent\_white\_lamb</author>
+	<datestamp>1266345540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>Although I think very low of the morality of those who do this for a living, but at times you really have to respect their skills.</i> <br>
+&nbsp; <br>Skills?  I think it's more a case of "even a blind pig occasionally turns up a nut."  There are so many wanna-be spammers and wanna-be "hackers" and wanna-be whatever's-hot-this-week that it doesn't take much of a success rate to land a ton of spam in your inbox, and mine.<br>
+&nbsp; <br>I susspect that at least 85\% of the people who read Slashdot could do a better job of spamming than the spammers, if they were so inclined.</p></htmltext>
+<tokenext>Although I think very low of the morality of those who do this for a living , but at times you really have to respect their skills .
+¬ † Skills ?
+I think it 's more a case of " even a blind pig occasionally turns up a nut .
+" There are so many wan na-be spammers and wan na-be " hackers " and wan na-be whatever 's-hot-this-week that it does n't take much of a success rate to land a ton of spam in your inbox , and mine .
+¬ † I susspect that at least 85 \ % of the people who read Slashdot could do a better job of spamming than the spammers , if they were so inclined .</tokentext>
+<sentencetext>Although I think very low of the morality of those who do this for a living, but at times you really have to respect their skills.
+¬† Skills?
+I think it's more a case of "even a blind pig occasionally turns up a nut.
+"  There are so many wanna-be spammers and wanna-be "hackers" and wanna-be whatever's-hot-this-week that it doesn't take much of a success rate to land a ton of spam in your inbox, and mine.
+¬† I susspect that at least 85\% of the people who read Slashdot could do a better job of spamming than the spammers, if they were so inclined.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159458</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31168508</id>
+	<title>Re:I have said this before...</title>
+	<author>hesaigo999ca</author>
+	<datestamp>1265037300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Your post advocates a<br>(x) lack of technical knowdlegde (X) ignorance () dumbass comment ( ) poor choice of words</p><p>Here's why your thoughts on why my idea will not work do not hold water<br>(X) Mailing lists and other legitimate email uses would be affected<br>Of course they would, and that is the reason why they incorporate it into the billing, being legit, they would do that, non legit, not so much.</p><p>(X) Users of email will not put up with it<br>You put up with being charged per phone call on your cell with a cap per month, don't you?</p><p>(X) Microsoft will not put up with it<br>M$ has nothing to say about the amount of emails coming or going, as long as they make money on the licenses using the software to do such actions, and might even create a new one to help monitor this new functionality, and make even more profits.<br>(X) Requires immediate total cooperation from everybody at once</p><p>Specifically, your plan fails to account for<br>(X) Lack of centrally controlling authority for email<br>Because we do not have a governing body for the internet as a whole??? Wow...(rollseyes)<br>(X) Open relays in foreign countries<br>So what you are saying is that international communication does not exist by internet<br>(X) Asshats<br>Explain this one to me, I am sure I my visual does not do you justice<br>(X) Jurisdictional problems<br>Each country have their own cell phone companies, why would this be any different?<br>(X) Unpopularity of weird new taxes<br>Wow, i mentioned a payment structure for a service, and you already want to tax it, even though it would be the companies making money on this that would pay their revenue taxes, you should become a politician.<br>(X) Huge existing software investment in SMTP<br>Adding a few lines of code, or a new service into an already existing infrasrtucture is not the end of the world...look at when spam first came out, or when dns cache poisoning came out, it is doable if we want to get it done.<br>(X) Extreme profitability of spam<br>Exactly my point, now non legit spammers will have to raise their prices, and force their clients to rethink if they want to spend 10 times the amount of money to keep spamming, for that 1\% that are gullible enough to think the nigerian king is really trying to send them his money.<br>(X) Technically illiterate politicians<br>Have i mentioned you should run for politics...<br>(X) Outlook<br>The software, or your bleak vision of what our future HAS to be...</p><p>and the following philosophical objections may also apply:<br>(X) Ideas similar to yours are easy to come up with, yet none have ever been shown practical<br>None have been implemented at the level that let's say DNS cahce poisoning has, and needs to be.</p><p>(X) SMTP headers should not be the subject of legislation<br>Wow, tell that to the white house with their million or so emails that went missing and forced Obama to rethink his cyber policies for future presidents to come.</p><p>(X) Countermeasures must work if phased in gradually<br>This can not be phased in slowly, it has to be done one shot like digital tv was, for it to work.<br>(X) Sending email should be free<br>Your sentiment, not mine.<br>(X) Killing them that way is not slow and painful enough<br>Killing who exactly, slashdot readers? Your doing a good job so far...</p><p>Furthermore, this is what I think about you:<br>(X) Sorry dude, but I don't think it would work.<br>Sorry dude, your self absorbed ranting about what you think without at least giving any real sound proof of your background in this field or any real points to substantiate your claims, make me think you are just trying to push an opinion, and like mine no one really cares, the difference between yours and mine, is I understand my opinion does not matter, but the idea I am trying to convey is to try and help by offering a potential idea to help others, you only have managed to waste my time, and yours by trying to grab some 15 minutes of fame by shooting down someone's<br>idea.</p></htmltext>
+<tokenext>Your post advocates a ( x ) lack of technical knowdlegde ( X ) ignorance ( ) dumbass comment ( ) poor choice of wordsHere 's why your thoughts on why my idea will not work do not hold water ( X ) Mailing lists and other legitimate email uses would be affectedOf course they would , and that is the reason why they incorporate it into the billing , being legit , they would do that , non legit , not so much .
+( X ) Users of email will not put up with itYou put up with being charged per phone call on your cell with a cap per month , do n't you ?
+( X ) Microsoft will not put up with itM $ has nothing to say about the amount of emails coming or going , as long as they make money on the licenses using the software to do such actions , and might even create a new one to help monitor this new functionality , and make even more profits .
+( X ) Requires immediate total cooperation from everybody at onceSpecifically , your plan fails to account for ( X ) Lack of centrally controlling authority for emailBecause we do not have a governing body for the internet as a whole ? ? ?
+Wow... ( rollseyes ) ( X ) Open relays in foreign countriesSo what you are saying is that international communication does not exist by internet ( X ) AsshatsExplain this one to me , I am sure I my visual does not do you justice ( X ) Jurisdictional problemsEach country have their own cell phone companies , why would this be any different ?
+( X ) Unpopularity of weird new taxesWow , i mentioned a payment structure for a service , and you already want to tax it , even though it would be the companies making money on this that would pay their revenue taxes , you should become a politician .
+( X ) Huge existing software investment in SMTPAdding a few lines of code , or a new service into an already existing infrasrtucture is not the end of the world...look at when spam first came out , or when dns cache poisoning came out , it is doable if we want to get it done .
+( X ) Extreme profitability of spamExactly my point , now non legit spammers will have to raise their prices , and force their clients to rethink if they want to spend 10 times the amount of money to keep spamming , for that 1 \ % that are gullible enough to think the nigerian king is really trying to send them his money .
+( X ) Technically illiterate politiciansHave i mentioned you should run for politics... ( X ) OutlookThe software , or your bleak vision of what our future HAS to be...and the following philosophical objections may also apply : ( X ) Ideas similar to yours are easy to come up with , yet none have ever been shown practicalNone have been implemented at the level that let 's say DNS cahce poisoning has , and needs to be .
+( X ) SMTP headers should not be the subject of legislationWow , tell that to the white house with their million or so emails that went missing and forced Obama to rethink his cyber policies for future presidents to come .
+( X ) Countermeasures must work if phased in graduallyThis can not be phased in slowly , it has to be done one shot like digital tv was , for it to work .
+( X ) Sending email should be freeYour sentiment , not mine .
+( X ) Killing them that way is not slow and painful enoughKilling who exactly , slashdot readers ?
+Your doing a good job so far...Furthermore , this is what I think about you : ( X ) Sorry dude , but I do n't think it would work.Sorry dude , your self absorbed ranting about what you think without at least giving any real sound proof of your background in this field or any real points to substantiate your claims , make me think you are just trying to push an opinion , and like mine no one really cares , the difference between yours and mine , is I understand my opinion does not matter , but the idea I am trying to convey is to try and help by offering a potential idea to help others , you only have managed to waste my time , and yours by trying to grab some 15 minutes of fame by shooting down someone'sidea .</tokentext>
+<sentencetext>Your post advocates a(x) lack of technical knowdlegde (X) ignorance () dumbass comment ( ) poor choice of wordsHere's why your thoughts on why my idea will not work do not hold water(X) Mailing lists and other legitimate email uses would be affectedOf course they would, and that is the reason why they incorporate it into the billing, being legit, they would do that, non legit, not so much.
+(X) Users of email will not put up with itYou put up with being charged per phone call on your cell with a cap per month, don't you?
+(X) Microsoft will not put up with itM$ has nothing to say about the amount of emails coming or going, as long as they make money on the licenses using the software to do such actions, and might even create a new one to help monitor this new functionality, and make even more profits.
+(X) Requires immediate total cooperation from everybody at onceSpecifically, your plan fails to account for(X) Lack of centrally controlling authority for emailBecause we do not have a governing body for the internet as a whole???
+Wow...(rollseyes)(X) Open relays in foreign countriesSo what you are saying is that international communication does not exist by internet(X) AsshatsExplain this one to me, I am sure I my visual does not do you justice(X) Jurisdictional problemsEach country have their own cell phone companies, why would this be any different?
+(X) Unpopularity of weird new taxesWow, i mentioned a payment structure for a service, and you already want to tax it, even though it would be the companies making money on this that would pay their revenue taxes, you should become a politician.
+(X) Huge existing software investment in SMTPAdding a few lines of code, or a new service into an already existing infrasrtucture is not the end of the world...look at when spam first came out, or when dns cache poisoning came out, it is doable if we want to get it done.
+(X) Extreme profitability of spamExactly my point, now non legit spammers will have to raise their prices, and force their clients to rethink if they want to spend 10 times the amount of money to keep spamming, for that 1\% that are gullible enough to think the nigerian king is really trying to send them his money.
+(X) Technically illiterate politiciansHave i mentioned you should run for politics...(X) OutlookThe software, or your bleak vision of what our future HAS to be...and the following philosophical objections may also apply:(X) Ideas similar to yours are easy to come up with, yet none have ever been shown practicalNone have been implemented at the level that let's say DNS cahce poisoning has, and needs to be.
+(X) SMTP headers should not be the subject of legislationWow, tell that to the white house with their million or so emails that went missing and forced Obama to rethink his cyber policies for future presidents to come.
+(X) Countermeasures must work if phased in graduallyThis can not be phased in slowly, it has to be done one shot like digital tv was, for it to work.
+(X) Sending email should be freeYour sentiment, not mine.
+(X) Killing them that way is not slow and painful enoughKilling who exactly, slashdot readers?
+Your doing a good job so far...Furthermore, this is what I think about you:(X) Sorry dude, but I don't think it would work.Sorry dude, your self absorbed ranting about what you think without at least giving any real sound proof of your background in this field or any real points to substantiate your claims, make me think you are just trying to push an opinion, and like mine no one really cares, the difference between yours and mine, is I understand my opinion does not matter, but the idea I am trying to convey is to try and help by offering a potential idea to help others, you only have managed to waste my time, and yours by trying to grab some 15 minutes of fame by shooting down someone'sidea.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159976</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31162670</id>
+	<title>Re:Where's your beloved filter now?</title>
+	<author>Anonymous</author>
+	<datestamp>1266326880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>Yeah, we can see how much of a wonderful difference all those filtering programs that are on the market today are doing for the worldwide spamming problem.  That is, no difference.</p></div><p>Spam filters are not there to stop spam -- they're there to stop YOU from receiving it.  Most people are completely unaware of how much spam gets blocked between when the spammer sends it and when it would have ended up in their inbox.</p><p>Now if we removed ALL spam filters, we might actually find that, as productivity ground to a halt, people might actually do something about the problem and kill off the botnets and spam organisations that cause all these issues... or people might just complain but go on as usual, and the volume might actually go DOWN as the ROI for each blast of spam would increase.</p></div>
+	</htmltext>
+<tokenext>Yeah , we can see how much of a wonderful difference all those filtering programs that are on the market today are doing for the worldwide spamming problem .
+That is , no difference.Spam filters are not there to stop spam -- they 're there to stop YOU from receiving it .
+Most people are completely unaware of how much spam gets blocked between when the spammer sends it and when it would have ended up in their inbox.Now if we removed ALL spam filters , we might actually find that , as productivity ground to a halt , people might actually do something about the problem and kill off the botnets and spam organisations that cause all these issues... or people might just complain but go on as usual , and the volume might actually go DOWN as the ROI for each blast of spam would increase .</tokentext>
+<sentencetext>Yeah, we can see how much of a wonderful difference all those filtering programs that are on the market today are doing for the worldwide spamming problem.
+That is, no difference.Spam filters are not there to stop spam -- they're there to stop YOU from receiving it.
+Most people are completely unaware of how much spam gets blocked between when the spammer sends it and when it would have ended up in their inbox.Now if we removed ALL spam filters, we might actually find that, as productivity ground to a halt, people might actually do something about the problem and kill off the botnets and spam organisations that cause all these issues... or people might just complain but go on as usual, and the volume might actually go DOWN as the ROI for each blast of spam would increase.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159994</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31162938</id>
+	<title>OH NOES11 THE INTARNETS R THE RUINED111</title>
+	<author>Anonymous</author>
+	<datestamp>1266328380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>holy SHIT, 3Billion messages per day, why that's equivalent to <b>one NEW individual piece of spam in EVERY LIVING PERSON'S INBOX ON EARTH...every 2 days!!</b>.  Or rather spam folder.  But still!  Looked at it another way, in <b>just one short month, that would be FIFTEEN messages in a single person's inbox</b>.  How many legitimate mails do you get per month?  Can you imagine sorting through FIFTEEN pieces of spam to get to just four weeks of real mail?  Email is useless.</p><p>um, not.   wake me when the number of spam messages reaches 3B per second.  That will be an interesting milestone...</p></htmltext>
+<tokenext>holy SHIT , 3Billion messages per day , why that 's equivalent to one NEW individual piece of spam in EVERY LIVING PERSON 'S INBOX ON EARTH...every 2 days ! ! .
+Or rather spam folder .
+But still !
+Looked at it another way , in just one short month , that would be FIFTEEN messages in a single person 's inbox .
+How many legitimate mails do you get per month ?
+Can you imagine sorting through FIFTEEN pieces of spam to get to just four weeks of real mail ?
+Email is useless.um , not .
+wake me when the number of spam messages reaches 3B per second .
+That will be an interesting milestone.. .</tokentext>
+<sentencetext>holy SHIT, 3Billion messages per day, why that's equivalent to one NEW individual piece of spam in EVERY LIVING PERSON'S INBOX ON EARTH...every 2 days!!.
+Or rather spam folder.
+But still!
+Looked at it another way, in just one short month, that would be FIFTEEN messages in a single person's inbox.
+How many legitimate mails do you get per month?
+Can you imagine sorting through FIFTEEN pieces of spam to get to just four weeks of real mail?
+Email is useless.um, not.
+wake me when the number of spam messages reaches 3B per second.
+That will be an interesting milestone...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31165086</id>
+	<title>Re:Enough about malicious spam</title>
+	<author>Phoghat</author>
+	<datestamp>1266343440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>How about something with a little less spam In it?
+There's:
+
+<a href="http://www.youtube.com/watch?v=anwy2MPT5RE" title="youtube.com" rel="nofollow">http://www.youtube.com/watch?v=anwy2MPT5RE</a> [youtube.com]</htmltext>
+<tokenext>How about something with a little less spam In it ?
+There 's : http : //www.youtube.com/watch ? v = anwy2MPT5RE [ youtube.com ]</tokentext>
+<sentencetext>How about something with a little less spam In it?
+There's:
+
+http://www.youtube.com/watch?v=anwy2MPT5RE [youtube.com]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159178</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159682</id>
+	<title>I have said this before...</title>
+	<author>hesaigo999ca</author>
+	<datestamp>1266312480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>If we incorporate a pay per email scheme, with an email costing anywhere from 1/2 to 1 cent per email....with a cap being set by the government so you don't get screwed over by the ISP, not only would it be beneficial for the ISP, as less bandwidth because less spam, but also, people infected would be aware that they are infected if not by the first bill, then by the second billing.</p><p>I am aware of my downloads next bill, cause i see the extra bandwith used, but i don't see the emails sent.<br>If i get charged on the side, and see 1 million emails, but a cap of 20$ (let's say), then you bet your *ss I will clean my pc, and<br>get myself organized not to get billed for that again. People that spend no time monitoring their system have no clue, unless someone points it out for them.</p><p>By forcing a pay per email, you also make sure to have paper trails, and someone has to pay for that..eventually as the botnets die out, the spammers will have to charge more for the less they are making, or it will not be worthwhile for them, and the spam kings will slowly go out of business. Right now, they incorporate the pricing into what they charge their clients, but if you raise the cost because now legit spammers have to pay per email, you will get clients investing elsewhere for their marketing.</p></htmltext>
+<tokenext>If we incorporate a pay per email scheme , with an email costing anywhere from 1/2 to 1 cent per email....with a cap being set by the government so you do n't get screwed over by the ISP , not only would it be beneficial for the ISP , as less bandwidth because less spam , but also , people infected would be aware that they are infected if not by the first bill , then by the second billing.I am aware of my downloads next bill , cause i see the extra bandwith used , but i do n't see the emails sent.If i get charged on the side , and see 1 million emails , but a cap of 20 $ ( let 's say ) , then you bet your * ss I will clean my pc , andget myself organized not to get billed for that again .
+People that spend no time monitoring their system have no clue , unless someone points it out for them.By forcing a pay per email , you also make sure to have paper trails , and someone has to pay for that..eventually as the botnets die out , the spammers will have to charge more for the less they are making , or it will not be worthwhile for them , and the spam kings will slowly go out of business .
+Right now , they incorporate the pricing into what they charge their clients , but if you raise the cost because now legit spammers have to pay per email , you will get clients investing elsewhere for their marketing .</tokentext>
+<sentencetext>If we incorporate a pay per email scheme, with an email costing anywhere from 1/2 to 1 cent per email....with a cap being set by the government so you don't get screwed over by the ISP, not only would it be beneficial for the ISP, as less bandwidth because less spam, but also, people infected would be aware that they are infected if not by the first bill, then by the second billing.I am aware of my downloads next bill, cause i see the extra bandwith used, but i don't see the emails sent.If i get charged on the side, and see 1 million emails, but a cap of 20$ (let's say), then you bet your *ss I will clean my pc, andget myself organized not to get billed for that again.
+People that spend no time monitoring their system have no clue, unless someone points it out for them.By forcing a pay per email, you also make sure to have paper trails, and someone has to pay for that..eventually as the botnets die out, the spammers will have to charge more for the less they are making, or it will not be worthwhile for them, and the spam kings will slowly go out of business.
+Right now, they incorporate the pricing into what they charge their clients, but if you raise the cost because now legit spammers have to pay per email, you will get clients investing elsewhere for their marketing.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161046</id>
+	<title>Re:Enough about malicious spam</title>
+	<author>datapharmer</author>
+	<datestamp>1266318600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Clearly you haven't had it mixed with vienna sausages and  anchovies. yum!</htmltext>
+<tokenext>Clearly you have n't had it mixed with vienna sausages and anchovies .
+yum !</tokentext>
+<sentencetext>Clearly you haven't had it mixed with vienna sausages and  anchovies.
+yum!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160070</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159322</id>
+	<title>Re:Out of curiosity...</title>
+	<author>HungryHobo</author>
+	<datestamp>1266353820000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Because one person sending a mailshot to a hundred or so people looks a lot like a botnet.<br>One person mailing their CV to 200 companies can look a lot like a botnet.<br>One teenage girl telling everyone about a party can look a lot like a spammer.</p><p>Sure if the botnet isn't well written then it'll just blast spam out of every node 24/7 but the really good ones are going to try hard to evade detection.<br>Hell if you've got enough compromised PC's and you're organised <i>as modern botnet herders are</i> then you can collect a lot of good data on how regular users send email and make sure the nodes of your botnet avoid going far outside the curve.</p></htmltext>
+<tokenext>Because one person sending a mailshot to a hundred or so people looks a lot like a botnet.One person mailing their CV to 200 companies can look a lot like a botnet.One teenage girl telling everyone about a party can look a lot like a spammer.Sure if the botnet is n't well written then it 'll just blast spam out of every node 24/7 but the really good ones are going to try hard to evade detection.Hell if you 've got enough compromised PC 's and you 're organised as modern botnet herders are then you can collect a lot of good data on how regular users send email and make sure the nodes of your botnet avoid going far outside the curve .</tokentext>
+<sentencetext>Because one person sending a mailshot to a hundred or so people looks a lot like a botnet.One person mailing their CV to 200 companies can look a lot like a botnet.One teenage girl telling everyone about a party can look a lot like a spammer.Sure if the botnet isn't well written then it'll just blast spam out of every node 24/7 but the really good ones are going to try hard to evade detection.Hell if you've got enough compromised PC's and you're organised as modern botnet herders are then you can collect a lot of good data on how regular users send email and make sure the nodes of your botnet avoid going far outside the curve.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159194</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159426</id>
+	<title>Ya know</title>
+	<author>Stan92057</author>
+	<datestamp>1266311280000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext>Ya know,until they start going after the people who hire the spammers nothing is going to change. Some businessperson is responsible for our spam not the spammer. Where and how is this Viagra getting into our country?Where are all the watches being made? and so on. Someone is paying theses spammers,get them.
+
+PS:
+Yes i know its not easy to catch them,but if we can send and control robots from earth on mars it CAN be done.</htmltext>
+<tokenext>Ya know,until they start going after the people who hire the spammers nothing is going to change .
+Some businessperson is responsible for our spam not the spammer .
+Where and how is this Viagra getting into our country ? Where are all the watches being made ?
+and so on .
+Someone is paying theses spammers,get them .
+PS : Yes i know its not easy to catch them,but if we can send and control robots from earth on mars it CAN be done .</tokentext>
+<sentencetext>Ya know,until they start going after the people who hire the spammers nothing is going to change.
+Some businessperson is responsible for our spam not the spammer.
+Where and how is this Viagra getting into our country?Where are all the watches being made?
+and so on.
+Someone is paying theses spammers,get them.
+PS:
+Yes i know its not easy to catch them,but if we can send and control robots from earth on mars it CAN be done.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159672</id>
+	<title>fuir5t</title>
+	<author>Anonymous</author>
+	<datestamp>1266312420000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext><A HREF="http://goat.cx/" title="goat.cx" rel="nofollow">ass of them aal, dying. All major mechanics.  So I'm DOG THAT IT IS. &IT Followed. Obviously development model for the project. Spot when done For</a> [goat.cx]</htmltext>
+<tokenext>ass of them aal , dying .
+All major mechanics .
+So I 'm DOG THAT IT IS .
+&amp;IT Followed .
+Obviously development model for the project .
+Spot when done For [ goat.cx ]</tokentext>
+<sentencetext>ass of them aal, dying.
+All major mechanics.
+So I'm DOG THAT IT IS.
+&amp;IT Followed.
+Obviously development model for the project.
+Spot when done For [goat.cx]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159344</id>
+	<title>Correct title should be that they saw 3 billion</title>
+	<author>Megor1</author>
+	<datestamp>1266353940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>3 billion spam is a drop in the bucket of the daily spam volumes seen worldwide, there has not been a global increase of spam volumes in the last year of that magnitude (Or really much at all).</htmltext>
+<tokenext>3 billion spam is a drop in the bucket of the daily spam volumes seen worldwide , there has not been a global increase of spam volumes in the last year of that magnitude ( Or really much at all ) .</tokentext>
+<sentencetext>3 billion spam is a drop in the bucket of the daily spam volumes seen worldwide, there has not been a global increase of spam volumes in the last year of that magnitude (Or really much at all).</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159598</id>
+	<title>You just won the lottery, click here</title>
+	<author>Geert Jalink</author>
+	<datestamp>1266312060000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Just joking.</p></htmltext>
+<tokenext>Just joking .</tokentext>
+<sentencetext>Just joking.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161998</id>
+	<title>Re:Oh really?</title>
+	<author>Anonymous</author>
+	<datestamp>1266323280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>And I still see less then 1 per month in my Inbox.<br>\_THIS\_ is the price I am willing to pay to allow Google to filter my email.</p></div><p>More like once a year. And I've had to go into my junk folder and remove a legitimate e-mail maybe once since I started using GMail (several years ago).</p></div>
+	</htmltext>
+<tokenext>And I still see less then 1 per month in my Inbox. \ _THIS \ _ is the price I am willing to pay to allow Google to filter my email.More like once a year .
+And I 've had to go into my junk folder and remove a legitimate e-mail maybe once since I started using GMail ( several years ago ) .</tokentext>
+<sentencetext>And I still see less then 1 per month in my Inbox.\_THIS\_ is the price I am willing to pay to allow Google to filter my email.More like once a year.
+And I've had to go into my junk folder and remove a legitimate e-mail maybe once since I started using GMail (several years ago).
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160168</id>
+	<title>Re:Thanks Largely To The Prevalance Of</title>
+	<author>Anonymous</author>
+	<datestamp>1266314520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>You're not the real Kilgore Trout, faggot.</htmltext>
+<tokenext>You 're not the real Kilgore Trout , faggot .</tokentext>
+<sentencetext>You're not the real Kilgore Trout, faggot.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159226</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31177964</id>
+	<title>Re:Out of curiosity...</title>
+	<author>HTH NE1</author>
+	<datestamp>1265026500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Original poster here, maybe I should elaborate.</p><p>Why don't ISPs providing service to home users require outgoing SMTP to pass through the ISP mailserver (firewalling port 25) and flag/block extreme usage so that their customers' virus infected machines don't spew further garbage into the Internet?</p></div><p>I refer you again to number 2. I think you underestimate how many machines are in a given botnet and therefore overestimate how much spam one machine in that botnet sends. They could easily slide under an ISP's per-user e-mail volume limit and still participate in a million-strong spam.</p></div>
+	</htmltext>
+<tokenext>Original poster here , maybe I should elaborate.Why do n't ISPs providing service to home users require outgoing SMTP to pass through the ISP mailserver ( firewalling port 25 ) and flag/block extreme usage so that their customers ' virus infected machines do n't spew further garbage into the Internet ? I refer you again to number 2 .
+I think you underestimate how many machines are in a given botnet and therefore overestimate how much spam one machine in that botnet sends .
+They could easily slide under an ISP 's per-user e-mail volume limit and still participate in a million-strong spam .</tokentext>
+<sentencetext>Original poster here, maybe I should elaborate.Why don't ISPs providing service to home users require outgoing SMTP to pass through the ISP mailserver (firewalling port 25) and flag/block extreme usage so that their customers' virus infected machines don't spew further garbage into the Internet?I refer you again to number 2.
+I think you underestimate how many machines are in a given botnet and therefore overestimate how much spam one machine in that botnet sends.
+They could easily slide under an ISP's per-user e-mail volume limit and still participate in a million-strong spam.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161166</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161002</id>
+	<title>Re:Out of curiosity...</title>
+	<author>Kardos</author>
+	<datestamp>1266318480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Hell if you've got enough compromised PC's and you're organised <i>as modern botnet herders are</i> then you can collect a lot of good data on how regular users send email and make sure the nodes of your botnet avoid going far outside the curve.</p></div><p>That, or the herders adjust their botnet so the behavior of each node is such that it *becomes* the curve...</p></div>
+	</htmltext>
+<tokenext>Hell if you 've got enough compromised PC 's and you 're organised as modern botnet herders are then you can collect a lot of good data on how regular users send email and make sure the nodes of your botnet avoid going far outside the curve.That , or the herders adjust their botnet so the behavior of each node is such that it * becomes * the curve.. .</tokentext>
+<sentencetext>Hell if you've got enough compromised PC's and you're organised as modern botnet herders are then you can collect a lot of good data on how regular users send email and make sure the nodes of your botnet avoid going far outside the curve.That, or the herders adjust their botnet so the behavior of each node is such that it *becomes* the curve...
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159322</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31174602</id>
+	<title>Re:Want to See Spam?</title>
+	<author>Hurricane78</author>
+	<datestamp>1265057280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I have one such subscription (something a bit more special which is actually really nice), and I don&rsquo;t have gotten more spam. (At least behind my spam filter.)</p></htmltext>
+<tokenext>I have one such subscription ( something a bit more special which is actually really nice ) , and I don ‚ Ä ô t have gotten more spam .
+( At least behind my spam filter .
+)</tokentext>
+<sentencetext>I have one such subscription (something a bit more special which is actually really nice), and I don‚Äôt have gotten more spam.
+(At least behind my spam filter.
+)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159240</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159588</id>
+	<title>Re:Oh really?</title>
+	<author>oodaloop</author>
+	<datestamp>1266312000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Your sig is deliciously ironic, no?</htmltext>
+<tokenext>Your sig is deliciously ironic , no ?</tokentext>
+<sentencetext>Your sig is deliciously ironic, no?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159550</id>
+	<title>Re:Oh really?</title>
+	<author>Jugalator</author>
+	<datestamp>1266311880000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><div class="quote"><p> And I still see less then 1 per month in my Inbox.<br>\_THIS\_ is the price I am willing to pay to allow Google to filter my email.</p></div><p>Hear, hear. I was very surprised when I recently checked my spam volume. That is, in my Gmail *spam* box, not inbox. The inbox is usually clear of it, but the surprising part was that I had around a third to a fourth of my former spam volume a few years ago! I used to have to have 1.5 pages of spam per day before, now you have around 0.5 pages of daily spam in the spambox.</p><p>I'm not sure what Google did if this article is true... Maybe they are so sure of that it's spam, that it doesn't even end up in the spam box? Because, as for my mail address, when it ends up in a register, I don't see why spammers would later remove it. It obviously receives the spam since the mail server doesn't return an error...</p><p>Or maybe it's what I heard being rumored once - that certain spam networks avoid Gmail to save costs, because it's so inefficient to spam those mail boxes.</p></div>
+	</htmltext>
+<tokenext>And I still see less then 1 per month in my Inbox. \ _THIS \ _ is the price I am willing to pay to allow Google to filter my email.Hear , hear .
+I was very surprised when I recently checked my spam volume .
+That is , in my Gmail * spam * box , not inbox .
+The inbox is usually clear of it , but the surprising part was that I had around a third to a fourth of my former spam volume a few years ago !
+I used to have to have 1.5 pages of spam per day before , now you have around 0.5 pages of daily spam in the spambox.I 'm not sure what Google did if this article is true... Maybe they are so sure of that it 's spam , that it does n't even end up in the spam box ?
+Because , as for my mail address , when it ends up in a register , I do n't see why spammers would later remove it .
+It obviously receives the spam since the mail server does n't return an error...Or maybe it 's what I heard being rumored once - that certain spam networks avoid Gmail to save costs , because it 's so inefficient to spam those mail boxes .</tokentext>
+<sentencetext> And I still see less then 1 per month in my Inbox.\_THIS\_ is the price I am willing to pay to allow Google to filter my email.Hear, hear.
+I was very surprised when I recently checked my spam volume.
+That is, in my Gmail *spam* box, not inbox.
+The inbox is usually clear of it, but the surprising part was that I had around a third to a fourth of my former spam volume a few years ago!
+I used to have to have 1.5 pages of spam per day before, now you have around 0.5 pages of daily spam in the spambox.I'm not sure what Google did if this article is true... Maybe they are so sure of that it's spam, that it doesn't even end up in the spam box?
+Because, as for my mail address, when it ends up in a register, I don't see why spammers would later remove it.
+It obviously receives the spam since the mail server doesn't return an error...Or maybe it's what I heard being rumored once - that certain spam networks avoid Gmail to save costs, because it's so inefficient to spam those mail boxes.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161288</id>
+	<title>Re:I have said this before...</title>
+	<author>Archangel Michael</author>
+	<datestamp>1266319680000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>3</modscore>
+	<htmltext><blockquote><div><p>Your post advocates a</p><p>( ) technical (X) legislative (X) market-based ( ) vigilante</p></div></blockquote><p>I've NEVER seen all four of those checked before on a singular suggestion. SO, I will attempt to propose the PERFECT solution, which will obviously have to take into account all four options<nobr> <wbr></nobr>.... THIS would definitely solve the problem.</p><p>We need to pass a law, that would create an incentive for Private Companies to generate an electric shock device that would automatically send a large electrical shock to anyone OPENING SPAM (legislation to define SPAM as broadly as possible and contain SNOPES and Chain letter provisions). The Winning company's device would be awarded the ONE day's cost of SPAM (to be determined).</p><p>This is based on my basic premise<nobr> <wbr></nobr>.... STUPID should hurt.</p></div>
+	</htmltext>
+<tokenext>Your post advocates a ( ) technical ( X ) legislative ( X ) market-based ( ) vigilanteI 've NEVER seen all four of those checked before on a singular suggestion .
+SO , I will attempt to propose the PERFECT solution , which will obviously have to take into account all four options .... THIS would definitely solve the problem.We need to pass a law , that would create an incentive for Private Companies to generate an electric shock device that would automatically send a large electrical shock to anyone OPENING SPAM ( legislation to define SPAM as broadly as possible and contain SNOPES and Chain letter provisions ) .
+The Winning company 's device would be awarded the ONE day 's cost of SPAM ( to be determined ) .This is based on my basic premise .... STUPID should hurt .</tokentext>
+<sentencetext>Your post advocates a( ) technical (X) legislative (X) market-based ( ) vigilanteI've NEVER seen all four of those checked before on a singular suggestion.
+SO, I will attempt to propose the PERFECT solution, which will obviously have to take into account all four options .... THIS would definitely solve the problem.We need to pass a law, that would create an incentive for Private Companies to generate an electric shock device that would automatically send a large electrical shock to anyone OPENING SPAM (legislation to define SPAM as broadly as possible and contain SNOPES and Chain letter provisions).
+The Winning company's device would be awarded the ONE day's cost of SPAM (to be determined).This is based on my basic premise .... STUPID should hurt.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159976</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160596</id>
+	<title>Re:Thanks Largely To The Prevalance Of</title>
+	<author>icebike</author>
+	<datestamp>1266316560000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Why is this modded troll?</p><p>Seriously people, bot nets are virtually 100\% windows machines, not because windows is popular, simply because windows is so EASY to subvert.</p><p>Nothing has improved or changed in this fact since spam started to be a serious problem.</p></htmltext>
+<tokenext>Why is this modded troll ? Seriously people , bot nets are virtually 100 \ % windows machines , not because windows is popular , simply because windows is so EASY to subvert.Nothing has improved or changed in this fact since spam started to be a serious problem .</tokentext>
+<sentencetext>Why is this modded troll?Seriously people, bot nets are virtually 100\% windows machines, not because windows is popular, simply because windows is so EASY to subvert.Nothing has improved or changed in this fact since spam started to be a serious problem.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159226</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161912</id>
+	<title>Re:Oh really?</title>
+	<author>Hittman</author>
+	<datestamp>1266322920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It happens from time to time, which is why you have to check your spam folder from time to time.  Usually simply marking it as "not spam" solves the problem. Even with a few pages of spam that shouldn't take you more than a minute or so.</p><p>Perfection doesn't exist in this area, but Google comes pretty close.</p></htmltext>
+<tokenext>It happens from time to time , which is why you have to check your spam folder from time to time .
+Usually simply marking it as " not spam " solves the problem .
+Even with a few pages of spam that should n't take you more than a minute or so.Perfection does n't exist in this area , but Google comes pretty close .</tokentext>
+<sentencetext>It happens from time to time, which is why you have to check your spam folder from time to time.
+Usually simply marking it as "not spam" solves the problem.
+Even with a few pages of spam that shouldn't take you more than a minute or so.Perfection doesn't exist in this area, but Google comes pretty close.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159814</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159950</id>
+	<title>Re:Enough about malicious spam</title>
+	<author>Anonymous</author>
+	<datestamp>1266313680000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>3</modscore>
+	<htmltext><p><div class="quote"><p>What about delicious spam?</p></div><p>What about it?  It's slightly less fictional than unicorn bacon?</p></div>
+	</htmltext>
+<tokenext>What about delicious spam ? What about it ?
+It 's slightly less fictional than unicorn bacon ?</tokentext>
+<sentencetext>What about delicious spam?What about it?
+It's slightly less fictional than unicorn bacon?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159178</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161166</id>
+	<title>Re:Out of curiosity...</title>
+	<author>Anonymous</author>
+	<datestamp>1266319140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Original poster here, maybe I should elaborate.</p><p>Why don't ISPs providing service to home users require outgoing SMTP to pass through the ISP mailserver (firewalling port 25) and flag/block extreme usage so that their customers' virus infected machines don't spew further garbage into the Internet?</p><p>In the very rare case where a customer needs to run a mailing list or the like, allow them to change their thresholds in their user profile.  For those who don't intend to send hundreds of thousands of messages, it might actually be of some benefit to them to shut down the spigot and send them a warning that their computer's infected.</p><p>I don't want to throttle the whole Internet, just implement some form of rationality test on mail output at the ISP level.</p></htmltext>
+<tokenext>Original poster here , maybe I should elaborate.Why do n't ISPs providing service to home users require outgoing SMTP to pass through the ISP mailserver ( firewalling port 25 ) and flag/block extreme usage so that their customers ' virus infected machines do n't spew further garbage into the Internet ? In the very rare case where a customer needs to run a mailing list or the like , allow them to change their thresholds in their user profile .
+For those who do n't intend to send hundreds of thousands of messages , it might actually be of some benefit to them to shut down the spigot and send them a warning that their computer 's infected.I do n't want to throttle the whole Internet , just implement some form of rationality test on mail output at the ISP level .</tokentext>
+<sentencetext>Original poster here, maybe I should elaborate.Why don't ISPs providing service to home users require outgoing SMTP to pass through the ISP mailserver (firewalling port 25) and flag/block extreme usage so that their customers' virus infected machines don't spew further garbage into the Internet?In the very rare case where a customer needs to run a mailing list or the like, allow them to change their thresholds in their user profile.
+For those who don't intend to send hundreds of thousands of messages, it might actually be of some benefit to them to shut down the spigot and send them a warning that their computer's infected.I don't want to throttle the whole Internet, just implement some form of rationality test on mail output at the ISP level.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159818</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159818</id>
+	<title>Re:Out of curiosity...</title>
+	<author>HTH NE1</author>
+	<datestamp>1266313080000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><div class="quote"><p>Why can't ISP's detect large numbers of messages suddenly going to a vast array of e-mail address and shut it down?</p></div><ol> <li>The messages aren't identical</li><li>The messages don't originate from just one machine but from botnet zombies scattered all over the net with distributed command and control with multiple contingencies for regaining control</li><li>The messages don't end up at just one mail host</li><li>By the time it's detected the damage is already done</li><li>Anyone who does detect it isn't in a position to stop it from happening again</li></ol><p>Basically what you're suggesting boils down to throttling the entire Internet so that it can't handle the capacity of spamming, which will make it useless for any e-mail delivery. You might as well just kill e-mail.</p></div>
+	</htmltext>
+<tokenext>Why ca n't ISP 's detect large numbers of messages suddenly going to a vast array of e-mail address and shut it down ?
+The messages are n't identicalThe messages do n't originate from just one machine but from botnet zombies scattered all over the net with distributed command and control with multiple contingencies for regaining controlThe messages do n't end up at just one mail hostBy the time it 's detected the damage is already doneAnyone who does detect it is n't in a position to stop it from happening againBasically what you 're suggesting boils down to throttling the entire Internet so that it ca n't handle the capacity of spamming , which will make it useless for any e-mail delivery .
+You might as well just kill e-mail .</tokentext>
+<sentencetext>Why can't ISP's detect large numbers of messages suddenly going to a vast array of e-mail address and shut it down?
+The messages aren't identicalThe messages don't originate from just one machine but from botnet zombies scattered all over the net with distributed command and control with multiple contingencies for regaining controlThe messages don't end up at just one mail hostBy the time it's detected the damage is already doneAnyone who does detect it isn't in a position to stop it from happening againBasically what you're suggesting boils down to throttling the entire Internet so that it can't handle the capacity of spamming, which will make it useless for any e-mail delivery.
+You might as well just kill e-mail.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159194</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31174648</id>
+	<title>Re:Too much thinking in hex.</title>
+	<author>Hurricane78</author>
+	<datestamp>1265057400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I went &ldquo;3 x 10^<strong>12</strong> spam mails? That is a LOT!&rdquo;</p></htmltext>
+<tokenext>I went ‚ Ä ú 3 x 10 ^ 12 spam mails ?
+That is a LOT ! ‚ Ä ù</tokentext>
+<sentencetext>I went ‚Äú3 x 10^12 spam mails?
+That is a LOT!‚Äù</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159772</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159194</id>
+	<title>Out of curiosity...</title>
+	<author>Anonymous</author>
+	<datestamp>1266353280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Why can't ISP's detect large numbers of messages suddenly going to a vast array of e-mail address and shut it down?</p><p>Nobody normally does that; seems like it should be easy behavior to detect and stamp out algorithmically.</p></htmltext>
+<tokenext>Why ca n't ISP 's detect large numbers of messages suddenly going to a vast array of e-mail address and shut it down ? Nobody normally does that ; seems like it should be easy behavior to detect and stamp out algorithmically .</tokentext>
+<sentencetext>Why can't ISP's detect large numbers of messages suddenly going to a vast array of e-mail address and shut it down?Nobody normally does that; seems like it should be easy behavior to detect and stamp out algorithmically.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159536</id>
+	<title>Re:Oh really?</title>
+	<author>Anonymous</author>
+	<datestamp>1266311820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>That's not the point!  The point is waste.  There should not be this amount of email traffic that is clogging the infrastructure -- reducing not only bandwidth but also raising latency in the process.</p><p>When I check gmail and I see 1000 spam message but my Inbox remains clean, that is still a failure!</p></htmltext>
+<tokenext>That 's not the point !
+The point is waste .
+There should not be this amount of email traffic that is clogging the infrastructure -- reducing not only bandwidth but also raising latency in the process.When I check gmail and I see 1000 spam message but my Inbox remains clean , that is still a failure !</tokentext>
+<sentencetext>That's not the point!
+The point is waste.
+There should not be this amount of email traffic that is clogging the infrastructure -- reducing not only bandwidth but also raising latency in the process.When I check gmail and I see 1000 spam message but my Inbox remains clean, that is still a failure!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31162590</id>
+	<title>Malicious spam report - in PDF format? ROFL!</title>
+	<author>Anonymous</author>
+	<datestamp>1266326340000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>In other news, Lifehacker's Remains of the Day for today reports that 80\% of malicious exploits use Adobe Acrobat PDF files as an attack vector. Download the report and get infected! ROFL!</p></htmltext>
+<tokenext>In other news , Lifehacker 's Remains of the Day for today reports that 80 \ % of malicious exploits use Adobe Acrobat PDF files as an attack vector .
+Download the report and get infected !
+ROFL !</tokentext>
+<sentencetext>In other news, Lifehacker's Remains of the Day for today reports that 80\% of malicious exploits use Adobe Acrobat PDF files as an attack vector.
+Download the report and get infected!
+ROFL!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159226</id>
+	<title>Thanks Largely To The Prevalance Of</title>
+	<author>Anonymous</author>
+	<datestamp>1266353340000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p><a href="http://www.microsoft.com/" title="microsoft.com" rel="nofollow">Windoze</a> [microsoft.com].</p><p>Yours In Minsk,<br>K. Trout</p></htmltext>
+<tokenext>Windoze [ microsoft.com ] .Yours In Minsk,K .
+Trout</tokentext>
+<sentencetext>Windoze [microsoft.com].Yours In Minsk,K.
+Trout</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160754</id>
+	<title>Re:Out of curiosity...</title>
+	<author>Anonymous</author>
+	<datestamp>1266317340000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Gmail works flawlessly. I haven't seen spam in years and because it's never accidentally flagged a real message, I've made a filter that automatically deletes any spam instead of filling up a spam folder that I'll never check.</p><p>If ISPs and other email providers can't provide the same level of service, then they suck.</p></htmltext>
+<tokenext>Gmail works flawlessly .
+I have n't seen spam in years and because it 's never accidentally flagged a real message , I 've made a filter that automatically deletes any spam instead of filling up a spam folder that I 'll never check.If ISPs and other email providers ca n't provide the same level of service , then they suck .</tokentext>
+<sentencetext>Gmail works flawlessly.
+I haven't seen spam in years and because it's never accidentally flagged a real message, I've made a filter that automatically deletes any spam instead of filling up a spam folder that I'll never check.If ISPs and other email providers can't provide the same level of service, then they suck.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159194</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159994</id>
+	<title>Where's your beloved filter now?</title>
+	<author>damn\_registrars</author>
+	<datestamp>1266313860000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext>Yeah, we can see how much of a wonderful difference all those filtering programs that are on the market today are doing for the worldwide spamming problem.  That is, no difference.<br> <br>
+If you want to do something about the spamming problem, start looking beyond your own nose.  Stop adjusting your filtering rules constantly.  Pay attention to the cause of the problem - <b>spam is an economic problem</b>.  Until something is done about the profit-motive (and the insane margins of profit) behind spam, the problem will only continue to grow.</htmltext>
+<tokenext>Yeah , we can see how much of a wonderful difference all those filtering programs that are on the market today are doing for the worldwide spamming problem .
+That is , no difference .
+If you want to do something about the spamming problem , start looking beyond your own nose .
+Stop adjusting your filtering rules constantly .
+Pay attention to the cause of the problem - spam is an economic problem .
+Until something is done about the profit-motive ( and the insane margins of profit ) behind spam , the problem will only continue to grow .</tokentext>
+<sentencetext>Yeah, we can see how much of a wonderful difference all those filtering programs that are on the market today are doing for the worldwide spamming problem.
+That is, no difference.
+If you want to do something about the spamming problem, start looking beyond your own nose.
+Stop adjusting your filtering rules constantly.
+Pay attention to the cause of the problem - spam is an economic problem.
+Until something is done about the profit-motive (and the insane margins of profit) behind spam, the problem will only continue to grow.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159872</id>
+	<title>Re:Oh really?</title>
+	<author>martin-boundary</author>
+	<datestamp>1266313380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>\_THIS\_ is the price I am willing to pay to allow Google to filter my email.</p></div>
+</blockquote><p>
+Then you're a fool. Use a personal Bayesian filter, and you'll get that same kind of accuracy without the privacy pricetag. You can find a bunch of them on freshmeat.</p></div>
+	</htmltext>
+<tokenext>\ _THIS \ _ is the price I am willing to pay to allow Google to filter my email .
+Then you 're a fool .
+Use a personal Bayesian filter , and you 'll get that same kind of accuracy without the privacy pricetag .
+You can find a bunch of them on freshmeat .</tokentext>
+<sentencetext>\_THIS\_ is the price I am willing to pay to allow Google to filter my email.
+Then you're a fool.
+Use a personal Bayesian filter, and you'll get that same kind of accuracy without the privacy pricetag.
+You can find a bunch of them on freshmeat.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159244</id>
+	<title>Let me be the first to say</title>
+	<author>Anonymous</author>
+	<datestamp>1266353460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Thanks Mr. Bill Gates.</p></htmltext>
+<tokenext>Thanks Mr. Bill Gates .</tokentext>
+<sentencetext>Thanks Mr. Bill Gates.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159422</id>
+	<title>Re:Oh really?</title>
+	<author>49152</author>
+	<datestamp>1266311280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I see about the same amount. Some times it goes months with no spam then I get two or three in a week. I reckon the spammers are constantly adjusting their techniques to try to get through the filters.</p><p>We are a small company running our own email server. Ubuntu Server with Postfix, spamassasin and all the trimmings.</p><p>I redirect all spam to an imap account I set up for the purpose, just in case we need to get hold of some blocked message. The last two years this has not been necessary. But I browse through this mailbox once in a while out of curiosity. The amount of spam it blocks is just staggering!</p><p>The price we pay is close to zero, the same box handles all other kind of stuff too and I spend perhaps half an hour every other week to check if any updated packages or security fixes need installing. It practically manages it self.</p></htmltext>
+<tokenext>I see about the same amount .
+Some times it goes months with no spam then I get two or three in a week .
+I reckon the spammers are constantly adjusting their techniques to try to get through the filters.We are a small company running our own email server .
+Ubuntu Server with Postfix , spamassasin and all the trimmings.I redirect all spam to an imap account I set up for the purpose , just in case we need to get hold of some blocked message .
+The last two years this has not been necessary .
+But I browse through this mailbox once in a while out of curiosity .
+The amount of spam it blocks is just staggering ! The price we pay is close to zero , the same box handles all other kind of stuff too and I spend perhaps half an hour every other week to check if any updated packages or security fixes need installing .
+It practically manages it self .</tokentext>
+<sentencetext>I see about the same amount.
+Some times it goes months with no spam then I get two or three in a week.
+I reckon the spammers are constantly adjusting their techniques to try to get through the filters.We are a small company running our own email server.
+Ubuntu Server with Postfix, spamassasin and all the trimmings.I redirect all spam to an imap account I set up for the purpose, just in case we need to get hold of some blocked message.
+The last two years this has not been necessary.
+But I browse through this mailbox once in a while out of curiosity.
+The amount of spam it blocks is just staggering!The price we pay is close to zero, the same box handles all other kind of stuff too and I spend perhaps half an hour every other week to check if any updated packages or security fixes need installing.
+It practically manages it self.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159202</id>
+	<title>Users get spammed</title>
+	<author>Anonymous</author>
+	<datestamp>1266353280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>1. Lusers get spammed by e-mail<br>2. Lusers migrate to facebook<br>3. Lusers, get infected with koobface <b>on</b> facebook<br>4. Lusers spam everyone by e-mail</p></htmltext>
+<tokenext>1 .
+Lusers get spammed by e-mail2 .
+Lusers migrate to facebook3 .
+Lusers , get infected with koobface on facebook4 .
+Lusers spam everyone by e-mail</tokentext>
+<sentencetext>1.
+Lusers get spammed by e-mail2.
+Lusers migrate to facebook3.
+Lusers, get infected with koobface on facebook4.
+Lusers spam everyone by e-mail</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159548</id>
+	<title>Botnet upgrades?</title>
+	<author>Alwin Henseler</author>
+	<datestamp>1266311880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>FTA: "The spamming botnets are constantly in flux, waxing and waning, morphing, becoming obsolete, being replaced, taken down, and upgraded."</p></div><p>Read: replace dual-core bots with quad-core ones.
+</p></div>
+	</htmltext>
+<tokenext>FTA : " The spamming botnets are constantly in flux , waxing and waning , morphing , becoming obsolete , being replaced , taken down , and upgraded .
+" Read : replace dual-core bots with quad-core ones .</tokentext>
+<sentencetext>FTA: "The spamming botnets are constantly in flux, waxing and waning, morphing, becoming obsolete, being replaced, taken down, and upgraded.
+"Read: replace dual-core bots with quad-core ones.
+
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238</id>
+	<title>Oh really?</title>
+	<author>Anonymous</author>
+	<datestamp>1266353460000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>And I still see less then 1 per month in my Inbox.<br>\_THIS\_ is the price I am willing to pay to allow Google to filter my email.</p></htmltext>
+<tokenext>And I still see less then 1 per month in my Inbox. \ _THIS \ _ is the price I am willing to pay to allow Google to filter my email .</tokentext>
+<sentencetext>And I still see less then 1 per month in my Inbox.\_THIS\_ is the price I am willing to pay to allow Google to filter my email.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31163610</id>
+	<title>torrents vs spam</title>
+	<author>Anonymous</author>
+	<datestamp>1266333360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I should think that spam is much more serious problem bandwidth-wise.</p></htmltext>
+<tokenext>I should think that spam is much more serious problem bandwidth-wise .</tokentext>
+<sentencetext>I should think that spam is much more serious problem bandwidth-wise.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159524</id>
+	<title>Re:charge for email</title>
+	<author>compro01</author>
+	<datestamp>1266311760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Yes, I am sure the botnet herders will be happy to send you a cheque.</p></htmltext>
+<tokenext>Yes , I am sure the botnet herders will be happy to send you a cheque .</tokentext>
+<sentencetext>Yes, I am sure the botnet herders will be happy to send you a cheque.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159278</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161626</id>
+	<title>unicorn bacon and failed humans</title>
+	<author>Anonymous</author>
+	<datestamp>1266321300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>where might i....oh wait<nobr> <wbr></nobr>...haha.<br>and i failed to confirm im a human<br>then what the fuck am i</p></htmltext>
+<tokenext>where might i....oh wait ...haha.and i failed to confirm im a humanthen what the fuck am i</tokentext>
+<sentencetext>where might i....oh wait ...haha.and i failed to confirm im a humanthen what the fuck am i</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159968</id>
+	<title>Re:Out of curiosity...</title>
+	<author>Anonymous</author>
+	<datestamp>1266313740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>One teenage girl telling everyone about a party can look a lot like a spammer.</p></div><p>And what would be so bad about ISPs blocking that???</p></div>
+	</htmltext>
+<tokenext>One teenage girl telling everyone about a party can look a lot like a spammer.And what would be so bad about ISPs blocking that ? ?
+?</tokentext>
+<sentencetext>One teenage girl telling everyone about a party can look a lot like a spammer.And what would be so bad about ISPs blocking that??
+?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159322</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161182</id>
+	<title>Re:Maybe ISP should do something about it?</title>
+	<author>compro01</author>
+	<datestamp>1266319200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>A lot of ISPs already block port 25, what else do you want?</p></htmltext>
+<tokenext>A lot of ISPs already block port 25 , what else do you want ?</tokentext>
+<sentencetext>A lot of ISPs already block port 25, what else do you want?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159484</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161150</id>
+	<title>there should be bounty to track down the spammer</title>
+	<author>swframe</author>
+	<datestamp>1266319080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Everyone is paying to filter the spam but maybe
+ISPs should pay to find the spammers. At some
+(probably low) cost, you can induce people to
+find the spammers. After all, the spammer has to have
+a way to collect money from his/her targets.
+
+Also, I wish ISPs would find the people who respond to
+spam and give them email accounts at a site that the
+spammers can freely target. These people are the real
+cause of spam.</htmltext>
+<tokenext>Everyone is paying to filter the spam but maybe ISPs should pay to find the spammers .
+At some ( probably low ) cost , you can induce people to find the spammers .
+After all , the spammer has to have a way to collect money from his/her targets .
+Also , I wish ISPs would find the people who respond to spam and give them email accounts at a site that the spammers can freely target .
+These people are the real cause of spam .</tokentext>
+<sentencetext>Everyone is paying to filter the spam but maybe
+ISPs should pay to find the spammers.
+At some
+(probably low) cost, you can induce people to
+find the spammers.
+After all, the spammer has to have
+a way to collect money from his/her targets.
+Also, I wish ISPs would find the people who respond to
+spam and give them email accounts at a site that the
+spammers can freely target.
+These people are the real
+cause of spam.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161310</id>
+	<title>spam is wasted bandwidth: I call BullShit</title>
+	<author>fregare</author>
+	<datestamp>1266319800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>-1</modscore>
+	<htmltext>There is so much waste on the internet.  And you complain about spam?  Look at Flash !  Most of the Flash movies out there are basically TV.  Is TV known for education as people had hoped when it was invented?  No it is dumbed down for the sheeple out there: reality shows ad anauseum.
+
+Should 24 be an example of an education show?  What exactly do we learn from 24?  In short, TV is basically a waste and now I fear that the internet is turning into shit.
+
+And you complain about waste?  Even slashdot itself seems to use so much goddamn javascript.  Soon one will need a supercomputer just to execute javascript.
+
+OIE VEY.</htmltext>
+<tokenext>There is so much waste on the internet .
+And you complain about spam ?
+Look at Flash !
+Most of the Flash movies out there are basically TV .
+Is TV known for education as people had hoped when it was invented ?
+No it is dumbed down for the sheeple out there : reality shows ad anauseum .
+Should 24 be an example of an education show ?
+What exactly do we learn from 24 ?
+In short , TV is basically a waste and now I fear that the internet is turning into shit .
+And you complain about waste ?
+Even slashdot itself seems to use so much goddamn javascript .
+Soon one will need a supercomputer just to execute javascript .
+OIE VEY .</tokentext>
+<sentencetext>There is so much waste on the internet.
+And you complain about spam?
+Look at Flash !
+Most of the Flash movies out there are basically TV.
+Is TV known for education as people had hoped when it was invented?
+No it is dumbed down for the sheeple out there: reality shows ad anauseum.
+Should 24 be an example of an education show?
+What exactly do we learn from 24?
+In short, TV is basically a waste and now I fear that the internet is turning into shit.
+And you complain about waste?
+Even slashdot itself seems to use so much goddamn javascript.
+Soon one will need a supercomputer just to execute javascript.
+OIE VEY.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31167488</id>
+	<title>Re:Oh really?</title>
+	<author>vegiVamp</author>
+	<datestamp>1265029440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I check mine daily. It's just part of my routine, and because I know it's mostly spam in there, a quick subject scan usually suffices to confirm there's nothing unusual and I can click delete-all.</p><p>A lot of spam seems to come in batches, btw, there's often four, five times almost identical subjects.</p></htmltext>
+<tokenext>I check mine daily .
+It 's just part of my routine , and because I know it 's mostly spam in there , a quick subject scan usually suffices to confirm there 's nothing unusual and I can click delete-all.A lot of spam seems to come in batches , btw , there 's often four , five times almost identical subjects .</tokentext>
+<sentencetext>I check mine daily.
+It's just part of my routine, and because I know it's mostly spam in there, a quick subject scan usually suffices to confirm there's nothing unusual and I can click delete-all.A lot of spam seems to come in batches, btw, there's often four, five times almost identical subjects.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159814</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31174540</id>
+	<title>Re:Oh really?</title>
+	<author>Hurricane78</author>
+	<datestamp>1265057100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>You don&rsquo;t need Google at all. You essentially sell the content of your mails &amp; co for the price of a root server with this installed: <a href="http://www.gentoo-wiki.info/Complete\_Virtual\_Mail\_Server" title="gentoo-wiki.info">http://www.gentoo-wiki.info/Complete\_Virtual\_Mail\_Server</a> [gentoo-wiki.info]</p><p>I used this, and it&rsquo;s just as good, if not better than Google&rsquo;s filter. But it&rsquo;s completely yours. (A huge advantage for me.)</p><p>Your choice. (No judgment from me.)</p></htmltext>
+<tokenext>You don ‚ Ä ô t need Google at all .
+You essentially sell the content of your mails &amp; co for the price of a root server with this installed : http : //www.gentoo-wiki.info/Complete \ _Virtual \ _Mail \ _Server [ gentoo-wiki.info ] I used this , and it ‚ Ä ô s just as good , if not better than Google ‚ Ä ô s filter .
+But it ‚ Ä ô s completely yours .
+( A huge advantage for me .
+) Your choice .
+( No judgment from me .
+)</tokentext>
+<sentencetext>You don‚Äôt need Google at all.
+You essentially sell the content of your mails &amp; co for the price of a root server with this installed: http://www.gentoo-wiki.info/Complete\_Virtual\_Mail\_Server [gentoo-wiki.info]I used this, and it‚Äôs just as good, if not better than Google‚Äôs filter.
+But it‚Äôs completely yours.
+(A huge advantage for me.
+)Your choice.
+(No judgment from me.
+)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31163948</id>
+	<title>Re:I have said this before...</title>
+	<author>shentino</author>
+	<datestamp>1266336060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>1.  Spammers already make a metric fuckton of money<br>2.  Crooks willing to hijack computers won't be deterred from stealing financial information to pay email fees with.<br>3.  Such crooks are already using zombie computers, so the victims would get stuck paying anyway</p></htmltext>
+<tokenext>1 .
+Spammers already make a metric fuckton of money2 .
+Crooks willing to hijack computers wo n't be deterred from stealing financial information to pay email fees with.3 .
+Such crooks are already using zombie computers , so the victims would get stuck paying anyway</tokentext>
+<sentencetext>1.
+Spammers already make a metric fuckton of money2.
+Crooks willing to hijack computers won't be deterred from stealing financial information to pay email fees with.3.
+Such crooks are already using zombie computers, so the victims would get stuck paying anyway</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159682</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159458</id>
+	<title>Re:Out of curiosity...</title>
+	<author>Jeng</author>
+	<datestamp>1266311400000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Although I think very low of the morality of those who do this for a living, but at times you really have to respect their skills.</p><p>This isn't just like running an email service for a fortune 500 company, its more like running a black ops email service for a fortune 500 company.</p><p>Every aspect of the operation is ran over with a fine tooth comb for discretion.   Not too many from each node, sending out the spam messages at a low rate, redundancy, resource management, payroll.  This cannot be easy.</p><p>Too bad these people are going with a life of crime, with their potential I would think they could do very well in legitimate work.</p></htmltext>
+<tokenext>Although I think very low of the morality of those who do this for a living , but at times you really have to respect their skills.This is n't just like running an email service for a fortune 500 company , its more like running a black ops email service for a fortune 500 company.Every aspect of the operation is ran over with a fine tooth comb for discretion .
+Not too many from each node , sending out the spam messages at a low rate , redundancy , resource management , payroll .
+This can not be easy.Too bad these people are going with a life of crime , with their potential I would think they could do very well in legitimate work .</tokentext>
+<sentencetext>Although I think very low of the morality of those who do this for a living, but at times you really have to respect their skills.This isn't just like running an email service for a fortune 500 company, its more like running a black ops email service for a fortune 500 company.Every aspect of the operation is ran over with a fine tooth comb for discretion.
+Not too many from each node, sending out the spam messages at a low rate, redundancy, resource management, payroll.
+This cannot be easy.Too bad these people are going with a life of crime, with their potential I would think they could do very well in legitimate work.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159194</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159178</id>
+	<title>Enough about malicious spam</title>
+	<author>Anonymous</author>
+	<datestamp>1266353160000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>What about delicious spam?</p></htmltext>
+<tokenext>What about delicious spam ?</tokentext>
+<sentencetext>What about delicious spam?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159814</id>
+	<title>Re:Oh really?</title>
+	<author>squisher</author>
+	<datestamp>1266313080000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><div class="quote"><p>And I still see less then 1 per month in my Inbox.<br>\_THIS\_ is the price I am willing to pay to allow Google to filter my email.</p></div><p>I do agree that gmail's spam filter does not let much through, in truth, it is way too aggressive. Are you subscribed to mailing lists? Often it'll just tag some random message as spam. I've had various things end up in spam over the years, and really wonder how many landed in there that I never noticed (who checks their spam folder every couple of days?).</p><p>Recently I got very upset because I tried to sell something on craigslist, and sure enough, an offer ended up in spam. Of course I didn't check until a couple of days later, and by then the person wasn't interested any more. Since I'm going to start job hunting soon, I can't really afford the uncertainty the gmail spam filter introduces, and plan on moving my email elsewhere.</p></div>
+	</htmltext>
+<tokenext>And I still see less then 1 per month in my Inbox. \ _THIS \ _ is the price I am willing to pay to allow Google to filter my email.I do agree that gmail 's spam filter does not let much through , in truth , it is way too aggressive .
+Are you subscribed to mailing lists ?
+Often it 'll just tag some random message as spam .
+I 've had various things end up in spam over the years , and really wonder how many landed in there that I never noticed ( who checks their spam folder every couple of days ?
+) .Recently I got very upset because I tried to sell something on craigslist , and sure enough , an offer ended up in spam .
+Of course I did n't check until a couple of days later , and by then the person was n't interested any more .
+Since I 'm going to start job hunting soon , I ca n't really afford the uncertainty the gmail spam filter introduces , and plan on moving my email elsewhere .</tokentext>
+<sentencetext>And I still see less then 1 per month in my Inbox.\_THIS\_ is the price I am willing to pay to allow Google to filter my email.I do agree that gmail's spam filter does not let much through, in truth, it is way too aggressive.
+Are you subscribed to mailing lists?
+Often it'll just tag some random message as spam.
+I've had various things end up in spam over the years, and really wonder how many landed in there that I never noticed (who checks their spam folder every couple of days?
+).Recently I got very upset because I tried to sell something on craigslist, and sure enough, an offer ended up in spam.
+Of course I didn't check until a couple of days later, and by then the person wasn't interested any more.
+Since I'm going to start job hunting soon, I can't really afford the uncertainty the gmail spam filter introduces, and plan on moving my email elsewhere.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160238</id>
+	<title>Re:Out of curiosity...</title>
+	<author>pclminion</author>
+	<datestamp>1266314820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Yeah, well, if it quacks like a duck...</p><p>Seriously, if you are trying to communicate with hundreds of people, there are technologies meant for that. Email isn't one of them.</p></htmltext>
+<tokenext>Yeah , well , if it quacks like a duck...Seriously , if you are trying to communicate with hundreds of people , there are technologies meant for that .
+Email is n't one of them .</tokentext>
+<sentencetext>Yeah, well, if it quacks like a duck...Seriously, if you are trying to communicate with hundreds of people, there are technologies meant for that.
+Email isn't one of them.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159322</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159772</id>
+	<title>Too much thinking in hex.</title>
+	<author>Anonymous</author>
+	<datestamp>1266312900000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Am I the only one who read this headline and thought, "59 messages a day isn't so bad?"</p></htmltext>
+<tokenext>Am I the only one who read this headline and thought , " 59 messages a day is n't so bad ?
+"</tokentext>
+<sentencetext>Am I the only one who read this headline and thought, "59 messages a day isn't so bad?
+"</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31179014</id>
+	<title>Re:Too much thinking in hex.</title>
+	<author>Anonymous</author>
+	<datestamp>1265033820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I read it as 3 bytes.</p></htmltext>
+<tokenext>I read it as 3 bytes .</tokentext>
+<sentencetext>I read it as 3 bytes.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159772</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161610</id>
+	<title>Hosting mail forwarding is ridiculous too!</title>
+	<author>TheNarrator</author>
+	<datestamp>1266321180000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>I have a domain name that I do mail forwarding for.  Some botnet owner decided it was worth finding emails to spam to on this domain.  So now every single day, 24/7 365 days a year, once or twice a minute I get an attempt to send an email to fsdfs34@mydomain.com where fsdfs34 gets replaced with every possible email conceivable.  At first I decided to add an ip blocker for anyone who spammed me, but it soon slowed down my mail server so much that I had to take it out once the list grew into the 10s of thousands of ips.</p><p>Now I just greylist and tightly check EHELOs which seems to keep any of the spam from getting anywhere.  Nevertheless, the attempts come relentlessly and continuously like clockwork form ips all over the world.</p></htmltext>
+<tokenext>I have a domain name that I do mail forwarding for .
+Some botnet owner decided it was worth finding emails to spam to on this domain .
+So now every single day , 24/7 365 days a year , once or twice a minute I get an attempt to send an email to fsdfs34 @ mydomain.com where fsdfs34 gets replaced with every possible email conceivable .
+At first I decided to add an ip blocker for anyone who spammed me , but it soon slowed down my mail server so much that I had to take it out once the list grew into the 10s of thousands of ips.Now I just greylist and tightly check EHELOs which seems to keep any of the spam from getting anywhere .
+Nevertheless , the attempts come relentlessly and continuously like clockwork form ips all over the world .</tokentext>
+<sentencetext>I have a domain name that I do mail forwarding for.
+Some botnet owner decided it was worth finding emails to spam to on this domain.
+So now every single day, 24/7 365 days a year, once or twice a minute I get an attempt to send an email to fsdfs34@mydomain.com where fsdfs34 gets replaced with every possible email conceivable.
+At first I decided to add an ip blocker for anyone who spammed me, but it soon slowed down my mail server so much that I had to take it out once the list grew into the 10s of thousands of ips.Now I just greylist and tightly check EHELOs which seems to keep any of the spam from getting anywhere.
+Nevertheless, the attempts come relentlessly and continuously like clockwork form ips all over the world.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159236</id>
+	<title>Conflict of Content</title>
+	<author>Dripdry</author>
+	<datestamp>1266353460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>So, if we try and hold ISPs or telecoms liable for what moves over their wires, they would have to hunt down the spammers as well as the pirates? What an awkward position to be in, especially when a big revenue stream is at stake.<br>Yeah, I didn't RTFA.</p><p>Also, what percentage of email is 3 billion, anyway?</p></htmltext>
+<tokenext>So , if we try and hold ISPs or telecoms liable for what moves over their wires , they would have to hunt down the spammers as well as the pirates ?
+What an awkward position to be in , especially when a big revenue stream is at stake.Yeah , I did n't RTFA.Also , what percentage of email is 3 billion , anyway ?</tokentext>
+<sentencetext>So, if we try and hold ISPs or telecoms liable for what moves over their wires, they would have to hunt down the spammers as well as the pirates?
+What an awkward position to be in, especially when a big revenue stream is at stake.Yeah, I didn't RTFA.Also, what percentage of email is 3 billion, anyway?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31167832</id>
+	<title>Re:Too much thinking in hex.</title>
+	<author>selvan</author>
+	<datestamp>1265033520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It looked like <b>38</b> to me</p></htmltext>
+<tokenext>It looked like 38 to me</tokentext>
+<sentencetext>It looked like 38 to me</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159772</parent>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_36</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31162670
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159994
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31179014
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159772
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31165410
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159458
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159194
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159588
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31174648
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159772
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160596
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159226
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_35</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159524
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159278
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_34</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161838
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31174602
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159240
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_41</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160332
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159550
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31162830
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159552
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159278
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_28</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159878
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159682
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_33</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161288
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159976
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159682
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159450
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159240
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161182
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159484
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160168
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159226
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31177964
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161166
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159818
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159194
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_26</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160238
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159322
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159194
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31168508
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159976
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159682
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161626
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161002
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159322
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159194
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161912
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159814
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31167832
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159772
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159968
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159322
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159194
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_37</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160034
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159278
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_39</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159528
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159240
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_38</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160650
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159322
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159194
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_29</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161998
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_32</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31174540
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159624
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159872
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_25</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159536
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_40</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159950
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159178
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31165462
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159994
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_31</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159422
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31163948
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159682
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_27</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161046
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160070
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159178
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_30</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159854
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31165086
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159178
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160600
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159408
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159240
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31167488
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159814
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_16_1814217_23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160754
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159194
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_16_1814217.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159682
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159878
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31163948
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159976
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31168508
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161288
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_16_1814217.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159202
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_16_1814217.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159226
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160168
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160596
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_16_1814217.13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159484
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161182
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_16_1814217.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159236
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_16_1814217.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159278
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160034
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159552
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31162830
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159524
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_16_1814217.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159178
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160070
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161046
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159950
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31165086
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_16_1814217.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159238
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159550
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160332
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161626
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159872
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161838
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159814
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31167488
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161912
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159624
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159854
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159588
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31174540
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159536
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159422
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161998
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_16_1814217.14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159240
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159528
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31174602
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159450
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159408
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160600
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_16_1814217.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159858
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_16_1814217.12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31162730
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_16_1814217.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159194
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159322
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159968
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161002
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160650
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160238
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159458
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31165410
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31160754
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159818
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31161166
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31177964
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_16_1814217.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159426
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_16_1814217.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159772
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31167832
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31179014
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31174648
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_16_1814217.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31159994
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31162670
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_16_1814217.31165462
+</commentlist>
+</conversation>

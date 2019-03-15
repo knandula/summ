@@ -1,0 +1,103 @@
+#!/usr/bin/perl
+
+#######################################################################
+# Perform a series of experiments with texts from Brown, TDT, and WSJ.
+# LCseg is used by default, but this script can also be used 
+# with C99 and U00 (these tools are not provided and must be downloaded
+# separately).
+#######################################################################
+
+use strict;
+use Getopt::Long;
+use vars qw( $help $c99 $u00 $lcseg $app
+             $k $unk $time $brown $tdt $wsj $len $def
+             $C99 $U00 $LCSEG);
+
+# Create a new LOG dir:
+our $LOGDIR=`mktempname logs/\`date --iso-8601\`.XXXXXXX`;
+chop $LOGDIR;
+
+# List of segmenters:
+$LCSEG = '../bin/segment';
+# Modify following paths if needed:
+$C99   = "$ENV{HOME}/tools/choiseg/bin/C99";
+$U00   = "$ENV{HOME}/tools/textseg/eseg";
+
+my $help_msg = <<MSG;
+Usage: $0 [segmenter options] [corpus options]
+segmenter options:
+       --def     : default: --lcseg, --k, --unk, --brown, --tdt, --wsj
+       --lcseg   : evaluate LCseg
+       --c99     : evaluate C99
+       --u00     : evaluate U00
+       --app APP : evaluate custom application (APP) 
+       --k       : known number of segmenter 
+       --unk     : unknown number of segmenter
+       --time    : evaluate running time
+corpus options:
+       --brown   : evaluate all selected segmenters on Brown (700 docs)
+       --tdt     : same with TDT (500 docs)
+       --wsj     : same with WSJ (500 docs)
+       --len     : same on a corpus of diverse lengths
+                   (to do running time evaluations)
+
+Note: choose at least one experimental setting (--k or --unk), and at 
+      least one corpus (--brown, --tdt, or --wsj). Otherwise, 
+      $0 is not going to do anything. 
+      Experiments are performed with LCseg, and optionally with C99 
+      (--c99) and U00 (--u00).
+      
+MSG
+
+# Process params:
+GetOptions(h => \$help, lcseg => \$lcseg, c99 => \$c99, "app=s" => \$app,
+           u00 => \$u00, k => \$k, unk => \$unk, 
+           time => \$time, brown => \$brown, tdt => \$tdt,
+           wsj => \$wsj, len => \$len, def => \$def);
+$lcseg = $k = $unk = $brown = $tdt = $wsj = 1 if($def);
+die $help_msg, "\n" if $help or $#ARGV != -1 or (!$k && !$unk);
+
+# List of segmenters to test:
+my @segs;
+push @segs, $LCSEG if($lcseg);
+push @segs, $C99 if($c99);
+push @segs, $U00 if($u00);
+push @segs, $app if($app);
+
+# List of corpora to evaluate:
+my @corpora = ( );
+push @corpora, 'brown' if($brown);
+push @corpora, 'tdt' if($tdt);
+push @corpora, 'wsj' if($wsj);
+# 'len' is data grouped by number of segments, 
+# to test the average segmentation speed 
+# on each group:
+push @corpora, 'len' if($len);
+
+my $evalID = 'test';
+mkdir $LOGDIR;
+
+foreach my $c (@corpora) {
+  while(<../corpora/$c/*/*.ref ../corpora/$c/*/*/*.ref>) {
+    foreach my $seg (@segs) {
+      (my $seg_name = $seg) =~ s=.*/==;
+      $seg_name =~ s=\.pl$==;
+      $seg_name =~ s= =_=g;
+      if($unk) {
+        # test 1: unknown number of segments: 
+        my $cmd = "eval.oneDoc \"$seg\" $_ >> $LOGDIR/$evalID.unk.$seg_name.$c";
+        print STDERR $cmd,"\n"; system $cmd;
+      }
+      if($k) {
+        # test 2: known number of segments:
+        my $cmd = "eval.oneDoc -b \"$seg\" $_ >> $LOGDIR/$evalID.k.$seg_name.$c";
+        print STDERR $cmd,"\n"; system $cmd;
+      }
+      if($time) {
+        # test 3: execution time:
+        my $cmd = "eval.oneDoc -E \"$seg\" $_ >> $LOGDIR/$evalID.t.$seg_name.$c";
+        print STDERR $cmd,"\n"; system $cmd;
+      }
+    }
+  }
+}

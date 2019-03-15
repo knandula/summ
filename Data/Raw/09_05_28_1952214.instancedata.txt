@@ -1,0 +1,1922 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_28_1952214</id>
+	<title>Hackers Breached US Army Servers</title>
+	<author>timothy</author>
+	<datestamp>1243498080000</datestamp>
+	<htmltext>An anonymous reader writes <i>"A Turkish hacking ring has <a href="http://www.informationweek.com/news/government/federal/showArticle.jhtml?articleID=217700619">broken into 2 sensitive US Army servers</a>, according to a new investigation uncovered by InformationWeek. The hackers, who go by the name 'm0sted' and are based in Turkey, penetrated servers at the Army's McAlester Ammunition Plant in Oklahoma in January. Users attempting to access the site were redirected to a page featuring a climate-change protest. In Sept, 2007, the hackers breached Army Corps of Engineers servers. That hack sent users to a page containing anti-American and anti-Israeli rhetoric. The hackers used simple SQL Server injection techniques to gain access. That's troubling because it shows a major Army security lapse, and also the ability to bypass supposedly sophisticated Defense Department tools and procedures designed to prevent such breaches."</i></htmltext>
+<tokenext>An anonymous reader writes " A Turkish hacking ring has broken into 2 sensitive US Army servers , according to a new investigation uncovered by InformationWeek .
+The hackers , who go by the name 'm0sted ' and are based in Turkey , penetrated servers at the Army 's McAlester Ammunition Plant in Oklahoma in January .
+Users attempting to access the site were redirected to a page featuring a climate-change protest .
+In Sept , 2007 , the hackers breached Army Corps of Engineers servers .
+That hack sent users to a page containing anti-American and anti-Israeli rhetoric .
+The hackers used simple SQL Server injection techniques to gain access .
+That 's troubling because it shows a major Army security lapse , and also the ability to bypass supposedly sophisticated Defense Department tools and procedures designed to prevent such breaches .
+"</tokentext>
+<sentencetext>An anonymous reader writes "A Turkish hacking ring has broken into 2 sensitive US Army servers, according to a new investigation uncovered by InformationWeek.
+The hackers, who go by the name 'm0sted' and are based in Turkey, penetrated servers at the Army's McAlester Ammunition Plant in Oklahoma in January.
+Users attempting to access the site were redirected to a page featuring a climate-change protest.
+In Sept, 2007, the hackers breached Army Corps of Engineers servers.
+That hack sent users to a page containing anti-American and anti-Israeli rhetoric.
+The hackers used simple SQL Server injection techniques to gain access.
+That's troubling because it shows a major Army security lapse, and also the ability to bypass supposedly sophisticated Defense Department tools and procedures designed to prevent such breaches.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129791</id>
+	<title>the only winning move is not to play</title>
+	<author>senorpoco</author>
+	<datestamp>1243503540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Start by protecting against the simple stuff and work up.</htmltext>
+<tokenext>Start by protecting against the simple stuff and work up .</tokentext>
+<sentencetext>Start by protecting against the simple stuff and work up.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28135075</id>
+	<title>Re:any good military has</title>
+	<author>Anonymous</author>
+	<datestamp>1243535100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>We won in Vietnam </p></div><p>WTF?! I must have woken up in a parallel universe or something.</p></div>
+	</htmltext>
+<tokenext>We won in Vietnam WTF ? !
+I must have woken up in a parallel universe or something .</tokentext>
+<sentencetext>We won in Vietnam WTF?!
+I must have woken up in a parallel universe or something.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28135651</id>
+	<title>Re:any good military has</title>
+	<author>Anonymous</author>
+	<datestamp>1243628580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>We won in Vietnam</p></div><p>WTF?! I must have woken up in a parallel universe.</p><p><div class="quote"><p>by separating the combatants from the civilians.</p></div><p>Yeah right, carpet bombing the jungle with napalm is just that, a surgical strike just on the bad guys.</p></div>
+	</htmltext>
+<tokenext>We won in VietnamWTF ? !
+I must have woken up in a parallel universe.by separating the combatants from the civilians.Yeah right , carpet bombing the jungle with napalm is just that , a surgical strike just on the bad guys .</tokentext>
+<sentencetext>We won in VietnamWTF?!
+I must have woken up in a parallel universe.by separating the combatants from the civilians.Yeah right, carpet bombing the jungle with napalm is just that, a surgical strike just on the bad guys.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28133389</id>
+	<title>Re:any good military has</title>
+	<author>AceofSpades19</author>
+	<datestamp>1243521120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>We are winning in Iraq by ending the use of civilians as shields.  We won in Vietnam by separating the combatants from the civilians.  It is going to take that sort of effort to win against hackers, crackers and identity thieves.  Unfortunately, right now the effort required to do this is intense enough that it is many, many times the losses so far.  So I don't think they are going to do an</p></div><p>Excuse me? The US did not win the Vietnam War, unless the US was aiming to make Vietnam a communist country and have lots of casualties.</p></div>
+	</htmltext>
+<tokenext>We are winning in Iraq by ending the use of civilians as shields .
+We won in Vietnam by separating the combatants from the civilians .
+It is going to take that sort of effort to win against hackers , crackers and identity thieves .
+Unfortunately , right now the effort required to do this is intense enough that it is many , many times the losses so far .
+So I do n't think they are going to do anExcuse me ?
+The US did not win the Vietnam War , unless the US was aiming to make Vietnam a communist country and have lots of casualties .</tokentext>
+<sentencetext>We are winning in Iraq by ending the use of civilians as shields.
+We won in Vietnam by separating the combatants from the civilians.
+It is going to take that sort of effort to win against hackers, crackers and identity thieves.
+Unfortunately, right now the effort required to do this is intense enough that it is many, many times the losses so far.
+So I don't think they are going to do anExcuse me?
+The US did not win the Vietnam War, unless the US was aiming to make Vietnam a communist country and have lots of casualties.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28134871</id>
+	<title>Re:Amazing.</title>
+	<author>mjwx</author>
+	<datestamp>1243533300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>Pardon the rant, but can anyone tell me why we're still having people write code that is subject to SQL injection attacks?</p></div></blockquote><p>
+
+Like everything else this system was built by the lowest bidder.</p></div>
+	</htmltext>
+<tokenext>Pardon the rant , but can anyone tell me why we 're still having people write code that is subject to SQL injection attacks ?
+Like everything else this system was built by the lowest bidder .</tokentext>
+<sentencetext>Pardon the rant, but can anyone tell me why we're still having people write code that is subject to SQL injection attacks?
+Like everything else this system was built by the lowest bidder.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431</id>
+	<title>Amazing.</title>
+	<author>Anonymous</author>
+	<datestamp>1243502220000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>Pardon the rant, but can anyone tell me why we're still having people write code that is subject to SQL injection attacks?</p><p>I mean, sometimes potential buffer overflows in C/C++ programs can be tricky to notice.  Writing threading code that's not subject to deadlock or starvation can often be a challenge.</p><p>But isn't code that's subject to SQL injection attacks just blindingly, amazingly obvious at first glance?</p></htmltext>
+<tokenext>Pardon the rant , but can anyone tell me why we 're still having people write code that is subject to SQL injection attacks ? I mean , sometimes potential buffer overflows in C/C + + programs can be tricky to notice .
+Writing threading code that 's not subject to deadlock or starvation can often be a challenge.But is n't code that 's subject to SQL injection attacks just blindingly , amazingly obvious at first glance ?</tokentext>
+<sentencetext>Pardon the rant, but can anyone tell me why we're still having people write code that is subject to SQL injection attacks?I mean, sometimes potential buffer overflows in C/C++ programs can be tricky to notice.
+Writing threading code that's not subject to deadlock or starvation can often be a challenge.But isn't code that's subject to SQL injection attacks just blindingly, amazingly obvious at first glance?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28138063</id>
+	<title>army morons</title>
+	<author>Anonymous</author>
+	<datestamp>1243608420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>but sir we are upgrading your systems to windblast 7</p><p>anyway I say good, buy some more of microsoft so you will be hacked to hell you army morons</p></htmltext>
+<tokenext>but sir we are upgrading your systems to windblast 7anyway I say good , buy some more of microsoft so you will be hacked to hell you army morons</tokentext>
+<sentencetext>but sir we are upgrading your systems to windblast 7anyway I say good, buy some more of microsoft so you will be hacked to hell you army morons</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130957</id>
+	<title>Re:Amazing.</title>
+	<author>jeff4747</author>
+	<datestamp>1243508460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>As mentioned by other posters, since we don't know how old the system is, we can't really measure it against "modern" perceptions.</p><p>In addition, they could be a victim of this kind of thing:</p><p> <b>Contractor</b>:  We'd like to make a prototype for a web site that will do XYZ.</p><p> <b>Govt</b>: K, here's some cash.</p><p> <b>Contractor</b>:  Here's a prototype, now can we have some cash to convert it from a prototype into a real system?</p><p> <b>Govt</b>: Nah.  I'd have to fill out a lot of paperwork for that.  We'll just use the prototype.</p></htmltext>
+<tokenext>As mentioned by other posters , since we do n't know how old the system is , we ca n't really measure it against " modern " perceptions.In addition , they could be a victim of this kind of thing : Contractor : We 'd like to make a prototype for a web site that will do XYZ .
+Govt : K , here 's some cash .
+Contractor : Here 's a prototype , now can we have some cash to convert it from a prototype into a real system ?
+Govt : Nah .
+I 'd have to fill out a lot of paperwork for that .
+We 'll just use the prototype .</tokentext>
+<sentencetext>As mentioned by other posters, since we don't know how old the system is, we can't really measure it against "modern" perceptions.In addition, they could be a victim of this kind of thing: Contractor:  We'd like to make a prototype for a web site that will do XYZ.
+Govt: K, here's some cash.
+Contractor:  Here's a prototype, now can we have some cash to convert it from a prototype into a real system?
+Govt: Nah.
+I'd have to fill out a lot of paperwork for that.
+We'll just use the prototype.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129697</id>
+	<title>Re:Amazing.</title>
+	<author>Lord Ender</author>
+	<datestamp>1243503060000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>How do you know the code was recently written? More likely, the app was written years ago, before the phrase "sql injection" was even coined.</p></htmltext>
+<tokenext>How do you know the code was recently written ?
+More likely , the app was written years ago , before the phrase " sql injection " was even coined .</tokentext>
+<sentencetext>How do you know the code was recently written?
+More likely, the app was written years ago, before the phrase "sql injection" was even coined.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129701</id>
+	<title>Re:any good military has</title>
+	<author>Anonymous</author>
+	<datestamp>1243503120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Um...no.</p><p>If they had managed to get passed a single firewall or router, I would be impressed.  As it stands, they redirected links on a public facing webserver...yawn.  I work with hundreds of other IT techs who's job it is to monitor the Army network down to every single interface and we do it 24/7.</p></htmltext>
+<tokenext>Um...no.If they had managed to get passed a single firewall or router , I would be impressed .
+As it stands , they redirected links on a public facing webserver...yawn .
+I work with hundreds of other IT techs who 's job it is to monitor the Army network down to every single interface and we do it 24/7 .</tokentext>
+<sentencetext>Um...no.If they had managed to get passed a single firewall or router, I would be impressed.
+As it stands, they redirected links on a public facing webserver...yawn.
+I work with hundreds of other IT techs who's job it is to monitor the Army network down to every single interface and we do it 24/7.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130683</id>
+	<title>Re:any good military has</title>
+	<author>JBdH</author>
+	<datestamp>1243507200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>We are winning in Iraq by ending the use of civilians as shields. We won in Vietnam by separating the combatants from the civilians.</p></div><p>
+I didn't know the Viet Cong was operating in Iraq.</p></div>
+	</htmltext>
+<tokenext>We are winning in Iraq by ending the use of civilians as shields .
+We won in Vietnam by separating the combatants from the civilians .
+I did n't know the Viet Cong was operating in Iraq .</tokentext>
+<sentencetext>We are winning in Iraq by ending the use of civilians as shields.
+We won in Vietnam by separating the combatants from the civilians.
+I didn't know the Viet Cong was operating in Iraq.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28136679</id>
+	<title>Subject</title>
+	<author>Anonymous</author>
+	<datestamp>1243598400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><i>Army's McAlester Ammunition Plant in Oklahoma<nobr> <wbr></nobr>... Users attempting to access the site were redirected to a page featuring a climate-change protest.</i><br>Who the hell would visit a Ammunition Plant website?</p></htmltext>
+<tokenext>Army 's McAlester Ammunition Plant in Oklahoma ... Users attempting to access the site were redirected to a page featuring a climate-change protest.Who the hell would visit a Ammunition Plant website ?</tokentext>
+<sentencetext>Army's McAlester Ammunition Plant in Oklahoma ... Users attempting to access the site were redirected to a page featuring a climate-change protest.Who the hell would visit a Ammunition Plant website?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131367</id>
+	<title>Re:Amazing.</title>
+	<author>Yvanhoe</author>
+	<datestamp>1243510440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>It is not people still writting such code, it is people still using such code. A website that has accumulated information and that has been working correctly for 10 years is not something most people are willing to rewrite.</htmltext>
+<tokenext>It is not people still writting such code , it is people still using such code .
+A website that has accumulated information and that has been working correctly for 10 years is not something most people are willing to rewrite .</tokentext>
+<sentencetext>It is not people still writting such code, it is people still using such code.
+A website that has accumulated information and that has been working correctly for 10 years is not something most people are willing to rewrite.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130503</id>
+	<title>Re:any good military has</title>
+	<author>Anonymous</author>
+	<datestamp>1243506360000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>[...] We won in Vietnam [...]</p></div><p>Sorry, but either you watched too many movies or you failed all your history classes.</p><p>No matter what Rambo, Forest Gump and Doctor Manhattan did, the US <b>lost</b> the war in Vietnam.</p></div>
+	</htmltext>
+<tokenext>[ ... ] We won in Vietnam [ ... ] Sorry , but either you watched too many movies or you failed all your history classes.No matter what Rambo , Forest Gump and Doctor Manhattan did , the US lost the war in Vietnam .</tokentext>
+<sentencetext>[...] We won in Vietnam [...]Sorry, but either you watched too many movies or you failed all your history classes.No matter what Rambo, Forest Gump and Doctor Manhattan did, the US lost the war in Vietnam.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129757</id>
+	<title>This</title>
+	<author>Anonymous</author>
+	<datestamp>1243503360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Makes my balls itch.</p></htmltext>
+<tokenext>Makes my balls itch .</tokentext>
+<sentencetext>Makes my balls itch.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129327</id>
+	<title>In other words ...</title>
+	<author>dkleinsc</author>
+	<datestamp>1243501860000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>as usual, military contracting companies provided over-hyped shoddy work to the military, who either didn't know better or didn't care.</p><p>Of course, I thought it was going to be as simple as knowing that the password was "Joshua".</p></htmltext>
+<tokenext>as usual , military contracting companies provided over-hyped shoddy work to the military , who either did n't know better or did n't care.Of course , I thought it was going to be as simple as knowing that the password was " Joshua " .</tokentext>
+<sentencetext>as usual, military contracting companies provided over-hyped shoddy work to the military, who either didn't know better or didn't care.Of course, I thought it was going to be as simple as knowing that the password was "Joshua".</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132437</id>
+	<title>Re:any good military has</title>
+	<author>Anonymous</author>
+	<datestamp>1243515720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><blockquote><div><p>We are winning in Iraq <br>
+We won in Vietnam</p></div> </blockquote><p>
+
+lol wut</p></div>
+	</htmltext>
+<tokenext>We are winning in Iraq We won in Vietnam lol wut</tokentext>
+<sentencetext>We are winning in Iraq 
+We won in Vietnam 
+
+lol wut
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130013</id>
+	<title>Re:any good military has</title>
+	<author>Anonymous</author>
+	<datestamp>1243504500000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The US (I presume that's who you're referring to) won in Vietnam?  By whose estimation?</p></htmltext>
+<tokenext>The US ( I presume that 's who you 're referring to ) won in Vietnam ?
+By whose estimation ?</tokentext>
+<sentencetext>The US (I presume that's who you're referring to) won in Vietnam?
+By whose estimation?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129461</id>
+	<title>Front end compromise...</title>
+	<author>Manip</author>
+	<datestamp>1243502340000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>I'm just playing devil's advocate but who puts their public website inside their defences?</p><p>I know it is an extremely common practice in this country to actually put sites like these on standard third party hosting services (e.g. Rackspace).</p><p>They set them up to be as secure as other e-commerce sites, so fairly secure, but without having to poke holes in a nice heavy firewall.</p></htmltext>
+<tokenext>I 'm just playing devil 's advocate but who puts their public website inside their defences ? I know it is an extremely common practice in this country to actually put sites like these on standard third party hosting services ( e.g .
+Rackspace ) .They set them up to be as secure as other e-commerce sites , so fairly secure , but without having to poke holes in a nice heavy firewall .</tokentext>
+<sentencetext>I'm just playing devil's advocate but who puts their public website inside their defences?I know it is an extremely common practice in this country to actually put sites like these on standard third party hosting services (e.g.
+Rackspace).They set them up to be as secure as other e-commerce sites, so fairly secure, but without having to poke holes in a nice heavy firewall.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130185</id>
+	<title>Re:Front end compromise...</title>
+	<author>whitefang1121</author>
+	<datestamp>1243505160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p><div class="quote"><p>I'm just playing devil's advocate but who puts their public website inside their defences?</p><p>
+
+
+ George W. Bush thats who</p></div></div>
+	</htmltext>
+<tokenext>I 'm just playing devil 's advocate but who puts their public website inside their defences ?
+George W. Bush thats who</tokentext>
+<sentencetext>I'm just playing devil's advocate but who puts their public website inside their defences?
+George W. Bush thats who
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129461</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28154243</id>
+	<title>TSA agents could have prevented this</title>
+	<author>josephcmiller2</author>
+	<datestamp>1243690800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>If they had TSA agents standing at all the firewalls, making each packet take off it's shoes before proceeding - this could have been stopped.</htmltext>
+<tokenext>If they had TSA agents standing at all the firewalls , making each packet take off it 's shoes before proceeding - this could have been stopped .</tokentext>
+<sentencetext>If they had TSA agents standing at all the firewalls, making each packet take off it's shoes before proceeding - this could have been stopped.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557</id>
+	<title>any good military has</title>
+	<author>Anonymous</author>
+	<datestamp>1243502640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>1. good tactics<br>2. the ability to adapt new tactics as previously good tactics become irrelevant</p><p>one way a tactic becomes irrelevant is changing battlefield conditions. you don't fight in a swamp the way you fight in a desert, for instance</p><p>well, the internet is valid battlefield. and you fight on it with new tactics. it remains to be seen now if the us military understands that</p><p>1. it needs to take this battlefield seriously<br>2. it can develop good tactics to fight on this battlefield</p><p>but as it stands now, a bunch of teenagers are thoroughly and repeatedly trouncing the us military</p></htmltext>
+<tokenext>1. good tactics2 .
+the ability to adapt new tactics as previously good tactics become irrelevantone way a tactic becomes irrelevant is changing battlefield conditions .
+you do n't fight in a swamp the way you fight in a desert , for instancewell , the internet is valid battlefield .
+and you fight on it with new tactics .
+it remains to be seen now if the us military understands that1 .
+it needs to take this battlefield seriously2 .
+it can develop good tactics to fight on this battlefieldbut as it stands now , a bunch of teenagers are thoroughly and repeatedly trouncing the us military</tokentext>
+<sentencetext>1. good tactics2.
+the ability to adapt new tactics as previously good tactics become irrelevantone way a tactic becomes irrelevant is changing battlefield conditions.
+you don't fight in a swamp the way you fight in a desert, for instancewell, the internet is valid battlefield.
+and you fight on it with new tactics.
+it remains to be seen now if the us military understands that1.
+it needs to take this battlefield seriously2.
+it can develop good tactics to fight on this battlefieldbut as it stands now, a bunch of teenagers are thoroughly and repeatedly trouncing the us military</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132303</id>
+	<title>Re:Again?????</title>
+	<author>Anonymous</author>
+	<datestamp>1243515180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>For a site ran by and for geeks<nobr> <wbr></nobr>/. has really gone down hill.</p><p>When the jscript isn't crapping out or running my cpu to the roof, or my comments disappear completely provided I can actually get it to post.</p><p>They really have to learn a lot about accessibility and basic scripting and stop all these redicilous changes like removing the comment count like nobody would notice.</p><p>I'm seconds away from finding a better homepage, If it wasn't for the Idle section I wouldn't even be here now.</p></htmltext>
+<tokenext>For a site ran by and for geeks / .
+has really gone down hill.When the jscript is n't crapping out or running my cpu to the roof , or my comments disappear completely provided I can actually get it to post.They really have to learn a lot about accessibility and basic scripting and stop all these redicilous changes like removing the comment count like nobody would notice.I 'm seconds away from finding a better homepage , If it was n't for the Idle section I would n't even be here now .</tokentext>
+<sentencetext>For a site ran by and for geeks /.
+has really gone down hill.When the jscript isn't crapping out or running my cpu to the roof, or my comments disappear completely provided I can actually get it to post.They really have to learn a lot about accessibility and basic scripting and stop all these redicilous changes like removing the comment count like nobody would notice.I'm seconds away from finding a better homepage, If it wasn't for the Idle section I wouldn't even be here now.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129849</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129859</id>
+	<title>Sript kiddies at work, nothing new</title>
+	<author>Anonymous</author>
+	<datestamp>1243503840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Sounds like little more than defacing public military websites to boost their "1337" egos. The real hacks, the serious ones, are the ones you never hear about because the perpetrators are smart enough to not go around publicly proclaiming that they broke in.</p></htmltext>
+<tokenext>Sounds like little more than defacing public military websites to boost their " 1337 " egos .
+The real hacks , the serious ones , are the ones you never hear about because the perpetrators are smart enough to not go around publicly proclaiming that they broke in .</tokentext>
+<sentencetext>Sounds like little more than defacing public military websites to boost their "1337" egos.
+The real hacks, the serious ones, are the ones you never hear about because the perpetrators are smart enough to not go around publicly proclaiming that they broke in.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28134999</id>
+	<title>Bad Taste</title>
+	<author>meyekul</author>
+	<datestamp>1243534380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Anti-climate change and anti-Israeli sites?  Why didn't they at least do something funny, like redirect to goatse?  This story would be so much better if it were 'Hackers Rick-Roll US Army Servers' or something along those lines.</htmltext>
+<tokenext>Anti-climate change and anti-Israeli sites ?
+Why did n't they at least do something funny , like redirect to goatse ?
+This story would be so much better if it were 'Hackers Rick-Roll US Army Servers ' or something along those lines .</tokentext>
+<sentencetext>Anti-climate change and anti-Israeli sites?
+Why didn't they at least do something funny, like redirect to goatse?
+This story would be so much better if it were 'Hackers Rick-Roll US Army Servers' or something along those lines.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28134293</id>
+	<title>Re:Hyperbole?</title>
+	<author>nametaken</author>
+	<datestamp>1243527720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Seems we don't have to know much about the situation to know one thing... a "major Army security lapse" is more like, say, strategic radio comm in the clear, close enough to be intercepted by the enemy, and results in casualties.</p><p>A public facing website that gets script-kiddied by some asshat from Turkey that thinks exploiting a site by SQL injection is Uber-L33t is not a major lapse.  I'm pretty sure this is not weighing heavily on some 5-star's mind.</p></htmltext>
+<tokenext>Seems we do n't have to know much about the situation to know one thing... a " major Army security lapse " is more like , say , strategic radio comm in the clear , close enough to be intercepted by the enemy , and results in casualties.A public facing website that gets script-kiddied by some asshat from Turkey that thinks exploiting a site by SQL injection is Uber-L33t is not a major lapse .
+I 'm pretty sure this is not weighing heavily on some 5-star 's mind .</tokentext>
+<sentencetext>Seems we don't have to know much about the situation to know one thing... a "major Army security lapse" is more like, say, strategic radio comm in the clear, close enough to be intercepted by the enemy, and results in casualties.A public facing website that gets script-kiddied by some asshat from Turkey that thinks exploiting a site by SQL injection is Uber-L33t is not a major lapse.
+I'm pretty sure this is not weighing heavily on some 5-star's mind.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129483</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28135501</id>
+	<title>Re:Amazing.</title>
+	<author>Yetihehe</author>
+	<datestamp>1243540500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>It's the fault of subpar developers. I have some of them in my company, tried to teach them, but nothing works. I still encounter some bad queries here and there in their code. Add lack of ANY programming/indenting style and you have today's web programming.</htmltext>
+<tokenext>It 's the fault of subpar developers .
+I have some of them in my company , tried to teach them , but nothing works .
+I still encounter some bad queries here and there in their code .
+Add lack of ANY programming/indenting style and you have today 's web programming .</tokentext>
+<sentencetext>It's the fault of subpar developers.
+I have some of them in my company, tried to teach them, but nothing works.
+I still encounter some bad queries here and there in their code.
+Add lack of ANY programming/indenting style and you have today's web programming.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129799</id>
+	<title>Oh noes</title>
+	<author>iPhr0stByt3</author>
+	<datestamp>1243503540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Oh no, they redirected web users.  My goodness, does this mean we'll see missles flying overhead soon?  <br> Seriously, every department in the world has trojans in some form "inside the network".  But retrieving the secretaries mail and retrieving classified information are different things.  Albeit, redirecting users IS a mediocre risk, but since when does<nobr> <wbr></nobr>/. care about mediocre over-hyped news?</htmltext>
+<tokenext>Oh no , they redirected web users .
+My goodness , does this mean we 'll see missles flying overhead soon ?
+Seriously , every department in the world has trojans in some form " inside the network " .
+But retrieving the secretaries mail and retrieving classified information are different things .
+Albeit , redirecting users IS a mediocre risk , but since when does / .
+care about mediocre over-hyped news ?</tokentext>
+<sentencetext>Oh no, they redirected web users.
+My goodness, does this mean we'll see missles flying overhead soon?
+Seriously, every department in the world has trojans in some form "inside the network".
+But retrieving the secretaries mail and retrieving classified information are different things.
+Albeit, redirecting users IS a mediocre risk, but since when does /.
+care about mediocre over-hyped news?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28135315</id>
+	<title>Re:any good military has</title>
+	<author>Anonymous</author>
+	<datestamp>1243537680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>We won in Vietnam</p></div><p>Who are you?</p></div>
+	</htmltext>
+<tokenext>We won in VietnamWho are you ?</tokentext>
+<sentencetext>We won in VietnamWho are you?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129381</id>
+	<title>No it isn't</title>
+	<author>avandesande</author>
+	<datestamp>1243502040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>That's troubling because it shows a major Army security lapse, and also the ability to bypass supposedly sophisticated Defense Department tools and procedures designed to prevent such breaches.</i></p><p>Who know where these outward facing servers reside? Having outward websites vandalized says nothing about the security of an organizations networks.</p></htmltext>
+<tokenext>That 's troubling because it shows a major Army security lapse , and also the ability to bypass supposedly sophisticated Defense Department tools and procedures designed to prevent such breaches.Who know where these outward facing servers reside ?
+Having outward websites vandalized says nothing about the security of an organizations networks .</tokentext>
+<sentencetext>That's troubling because it shows a major Army security lapse, and also the ability to bypass supposedly sophisticated Defense Department tools and procedures designed to prevent such breaches.Who know where these outward facing servers reside?
+Having outward websites vandalized says nothing about the security of an organizations networks.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28136307</id>
+	<title>Oh noes, we have a $X [i] gap !</title>
+	<author>Anonymous</author>
+	<datestamp>1243593300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>where $X = {"nuclear missle", "strategic bomber", "wmd", "UAV", "cyberspace"};</p><p>Remember Citiziens, your duty is to cower at all time and pay your tithes to your feudal masters.</p><p>Remember Citizens, thinking is for anti-State terrorists, so report all thinkers to your local Homeland Security officer.</p></htmltext>
+<tokenext>where $ X = { " nuclear missle " , " strategic bomber " , " wmd " , " UAV " , " cyberspace " } ; Remember Citiziens , your duty is to cower at all time and pay your tithes to your feudal masters.Remember Citizens , thinking is for anti-State terrorists , so report all thinkers to your local Homeland Security officer .</tokentext>
+<sentencetext>where $X = {"nuclear missle", "strategic bomber", "wmd", "UAV", "cyberspace"};Remember Citiziens, your duty is to cower at all time and pay your tithes to your feudal masters.Remember Citizens, thinking is for anti-State terrorists, so report all thinkers to your local Homeland Security officer.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129951</id>
+	<title>Cyber Security Cadence</title>
+	<author>Anonymous</author>
+	<datestamp>1243504320000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>I don't know what I've been told<br>But Army server's are quickly pwned<br>You don't need some high-tech decryption machine<br>Just a string with a semi-colon in between<br>I don't know what I will find<br>When good Army hacker's have resigned<br>We'll have a good laugh when some bored kid in China<br>Posts photos of Gen. Petraeus with a vagina</p></htmltext>
+<tokenext>I do n't know what I 've been toldBut Army server 's are quickly pwnedYou do n't need some high-tech decryption machineJust a string with a semi-colon in betweenI do n't know what I will findWhen good Army hacker 's have resignedWe 'll have a good laugh when some bored kid in ChinaPosts photos of Gen. Petraeus with a vagina</tokentext>
+<sentencetext>I don't know what I've been toldBut Army server's are quickly pwnedYou don't need some high-tech decryption machineJust a string with a semi-colon in betweenI don't know what I will findWhen good Army hacker's have resignedWe'll have a good laugh when some bored kid in ChinaPosts photos of Gen. Petraeus with a vagina</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131827</id>
+	<title>Re:any good military has</title>
+	<author>DeionXxX</author>
+	<datestamp>1243512780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Wait... we won Vietnam?</p></htmltext>
+<tokenext>Wait... we won Vietnam ?</tokentext>
+<sentencetext>Wait... we won Vietnam?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130035</id>
+	<title>Re:I thought Information Week was sensible.</title>
+	<author>Anonymous</author>
+	<datestamp>1243504680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Yeah, that's pretty terrible. You can be equally unclear if they had links to Nazism, or the Republican National Committee. Too bad spinspotter dotbombed - <a href="http://spinspotter.com/" title="spinspotter.com" rel="nofollow">http://spinspotter.com/</a> [spinspotter.com]</p></htmltext>
+<tokenext>Yeah , that 's pretty terrible .
+You can be equally unclear if they had links to Nazism , or the Republican National Committee .
+Too bad spinspotter dotbombed - http : //spinspotter.com/ [ spinspotter.com ]</tokentext>
+<sentencetext>Yeah, that's pretty terrible.
+You can be equally unclear if they had links to Nazism, or the Republican National Committee.
+Too bad spinspotter dotbombed - http://spinspotter.com/ [spinspotter.com]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129443</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132931</id>
+	<title>Re:Amazing.</title>
+	<author>Lunzo</author>
+	<datestamp>1243518360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>It could have been written by a newbie programmer. A lot of ODBC/JDBC/[Insert DB connector] tutorials I saw even a few years ago do dodgy stuff like string concatenation with the user input instead of proper parametrization. Even at uni the databases lecturer didn't mention parameter queries while teaching about JDBC. All his examples joined strings. Parameters should have been one of the first things he mentioned about DB programming and not using them in an assignment should have been an auto-fail.</htmltext>
+<tokenext>It could have been written by a newbie programmer .
+A lot of ODBC/JDBC/ [ Insert DB connector ] tutorials I saw even a few years ago do dodgy stuff like string concatenation with the user input instead of proper parametrization .
+Even at uni the databases lecturer did n't mention parameter queries while teaching about JDBC .
+All his examples joined strings .
+Parameters should have been one of the first things he mentioned about DB programming and not using them in an assignment should have been an auto-fail .</tokentext>
+<sentencetext>It could have been written by a newbie programmer.
+A lot of ODBC/JDBC/[Insert DB connector] tutorials I saw even a few years ago do dodgy stuff like string concatenation with the user input instead of proper parametrization.
+Even at uni the databases lecturer didn't mention parameter queries while teaching about JDBC.
+All his examples joined strings.
+Parameters should have been one of the first things he mentioned about DB programming and not using them in an assignment should have been an auto-fail.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129697</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132977</id>
+	<title>Re:I know this is old but,</title>
+	<author>Anonymous</author>
+	<datestamp>1243518600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>Make your time! HAHAHAHAHA</htmltext>
+<tokenext>Make your time !
+HAHAHAHAHA</tokentext>
+<sentencetext>Make your time!
+HAHAHAHAHA</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129347</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28137641</id>
+	<title>Re:Again?????  Moderation borked too...</title>
+	<author>Anonymous</author>
+	<datestamp>1243606380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Also annoying is that recently the "Moderate" button no longer appears when I use Firefox (which is all the time)  It's there if I use IE but if you thing I'm using that rubbish to surf the web you're crazy!  It's only a bloody HTML button for "Bob"s sake!</p><p>So for the third week running here I am browsing away with 20 moderator points ready for use but, without using IE, no way to use them.</p><p>Bring back the old Slashcode that's what I say - or at least the good bits.</p></htmltext>
+<tokenext>Also annoying is that recently the " Moderate " button no longer appears when I use Firefox ( which is all the time ) It 's there if I use IE but if you thing I 'm using that rubbish to surf the web you 're crazy !
+It 's only a bloody HTML button for " Bob " s sake ! So for the third week running here I am browsing away with 20 moderator points ready for use but , without using IE , no way to use them.Bring back the old Slashcode that 's what I say - or at least the good bits .</tokentext>
+<sentencetext>Also annoying is that recently the "Moderate" button no longer appears when I use Firefox (which is all the time)  It's there if I use IE but if you thing I'm using that rubbish to surf the web you're crazy!
+It's only a bloody HTML button for "Bob"s sake!So for the third week running here I am browsing away with 20 moderator points ready for use but, without using IE, no way to use them.Bring back the old Slashcode that's what I say - or at least the good bits.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129849</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28139235</id>
+	<title>Re:any good military has</title>
+	<author>Anonymous</author>
+	<datestamp>1243614000000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I do agree that fighting hacker is guerilla warfare that our government is not capable of fighting and for them the fight cannot be won.  They don't underdstand that tatics and most of their cool toys don't work against an enemy such has this.  On two points you are tottaly wrong.</p><p><div class="quote"><p> We are winning in Iraq by ending the use of civilians as shields.</p></div><p>Yes we ended the use of civilians as shields.  We ended this by changing the term "Civilians" to "Enemy Combatants".  No matter what "term" you use to call them the people we are killing is the local population.  You can call them Enemy Combatants but it doesn't change the fact they are women and children.</p><p><div class="quote"><p>We won in Vietnam by separating the combatants from the civilians.</p></div><p>Dude <strong> we lost that stupid war!</strong>  I know I was there!  The reason we lost was we <strong>could not</strong> separate the combatants from the civilians because the Combatants WERE! the civilians!  No one except the poloticat eliete wanted us their.  They are a happy thriving peaceful country now that we are gone.</p><p>The one thing the US Military has yet to figure out is you can win a war against an "Army" but you cannot win a war against a "People" except by completely wiping them out.  Yes and you must kill them all.  If you leave a few they have babies and then you have a bunch of pissed off Grand kids in a few hundred years.  Ask any American Indian.  After over 500 years they still give the US Government a headache.</p><p>Please as a Vietnam Vet I ask you to not ever make the statement again that we won that fucking war.  We didn't.  I lost a lot of good friends for nothing except to make a few people rich.</p></div>
+	</htmltext>
+<tokenext>I do agree that fighting hacker is guerilla warfare that our government is not capable of fighting and for them the fight can not be won .
+They do n't underdstand that tatics and most of their cool toys do n't work against an enemy such has this .
+On two points you are tottaly wrong .
+We are winning in Iraq by ending the use of civilians as shields.Yes we ended the use of civilians as shields .
+We ended this by changing the term " Civilians " to " Enemy Combatants " .
+No matter what " term " you use to call them the people we are killing is the local population .
+You can call them Enemy Combatants but it does n't change the fact they are women and children.We won in Vietnam by separating the combatants from the civilians.Dude we lost that stupid war !
+I know I was there !
+The reason we lost was we could not separate the combatants from the civilians because the Combatants WERE !
+the civilians !
+No one except the poloticat eliete wanted us their .
+They are a happy thriving peaceful country now that we are gone.The one thing the US Military has yet to figure out is you can win a war against an " Army " but you can not win a war against a " People " except by completely wiping them out .
+Yes and you must kill them all .
+If you leave a few they have babies and then you have a bunch of pissed off Grand kids in a few hundred years .
+Ask any American Indian .
+After over 500 years they still give the US Government a headache.Please as a Vietnam Vet I ask you to not ever make the statement again that we won that fucking war .
+We did n't .
+I lost a lot of good friends for nothing except to make a few people rich .</tokentext>
+<sentencetext>I do agree that fighting hacker is guerilla warfare that our government is not capable of fighting and for them the fight cannot be won.
+They don't underdstand that tatics and most of their cool toys don't work against an enemy such has this.
+On two points you are tottaly wrong.
+We are winning in Iraq by ending the use of civilians as shields.Yes we ended the use of civilians as shields.
+We ended this by changing the term "Civilians" to "Enemy Combatants".
+No matter what "term" you use to call them the people we are killing is the local population.
+You can call them Enemy Combatants but it doesn't change the fact they are women and children.We won in Vietnam by separating the combatants from the civilians.Dude  we lost that stupid war!
+I know I was there!
+The reason we lost was we could not separate the combatants from the civilians because the Combatants WERE!
+the civilians!
+No one except the poloticat eliete wanted us their.
+They are a happy thriving peaceful country now that we are gone.The one thing the US Military has yet to figure out is you can win a war against an "Army" but you cannot win a war against a "People" except by completely wiping them out.
+Yes and you must kill them all.
+If you leave a few they have babies and then you have a bunch of pissed off Grand kids in a few hundred years.
+Ask any American Indian.
+After over 500 years they still give the US Government a headache.Please as a Vietnam Vet I ask you to not ever make the statement again that we won that fucking war.
+We didn't.
+I lost a lot of good friends for nothing except to make a few people rich.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28133929</id>
+	<title>Wrong words - there is no war there</title>
+	<author>dbIII</author>
+	<datestamp>1243525200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Changing wording to create fiction in the hope that somebody gullible will hand over some cash is not the way to fight this increasingly organised and increasingly common criminal activity, but unfortunately that is how the current head of the NSA and others scrambling for funding are doing it.  One such idiot full of cyberhype recently showed he knew less about Trojans than anyone with even a passing knowlege of european culture let alone a computer professional (ie. the Trojan horse lets the other nasty stuff in).  Forget the "guerrilla war against hackers" bullshit since the people we really want to catch are fraudsters, money launderers and the occassional trespasser onto military networks which makes them a spy and not some "cyberterrorist".  When we escalate the words into the realm of fantasy you end up with pointless running around in circles trying to catch fantastic supervillians that may not exist instead of looking at reality and catching those that do exist.</htmltext>
+<tokenext>Changing wording to create fiction in the hope that somebody gullible will hand over some cash is not the way to fight this increasingly organised and increasingly common criminal activity , but unfortunately that is how the current head of the NSA and others scrambling for funding are doing it .
+One such idiot full of cyberhype recently showed he knew less about Trojans than anyone with even a passing knowlege of european culture let alone a computer professional ( ie .
+the Trojan horse lets the other nasty stuff in ) .
+Forget the " guerrilla war against hackers " bullshit since the people we really want to catch are fraudsters , money launderers and the occassional trespasser onto military networks which makes them a spy and not some " cyberterrorist " .
+When we escalate the words into the realm of fantasy you end up with pointless running around in circles trying to catch fantastic supervillians that may not exist instead of looking at reality and catching those that do exist .</tokentext>
+<sentencetext>Changing wording to create fiction in the hope that somebody gullible will hand over some cash is not the way to fight this increasingly organised and increasingly common criminal activity, but unfortunately that is how the current head of the NSA and others scrambling for funding are doing it.
+One such idiot full of cyberhype recently showed he knew less about Trojans than anyone with even a passing knowlege of european culture let alone a computer professional (ie.
+the Trojan horse lets the other nasty stuff in).
+Forget the "guerrilla war against hackers" bullshit since the people we really want to catch are fraudsters, money launderers and the occassional trespasser onto military networks which makes them a spy and not some "cyberterrorist".
+When we escalate the words into the realm of fantasy you end up with pointless running around in circles trying to catch fantastic supervillians that may not exist instead of looking at reality and catching those that do exist.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129555</id>
+	<title>Basic Security Principles</title>
+	<author>Anonymous</author>
+	<datestamp>1243502580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>A chain is not stronger than it's weakest link.</p><p>A simple and powerful principle when dealing with security, whatever side of the law or order you are.</p></htmltext>
+<tokenext>A chain is not stronger than it 's weakest link.A simple and powerful principle when dealing with security , whatever side of the law or order you are .</tokentext>
+<sentencetext>A chain is not stronger than it's weakest link.A simple and powerful principle when dealing with security, whatever side of the law or order you are.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131209</id>
+	<title>Re:Front end compromise...</title>
+	<author>Zapotek</author>
+	<datestamp>1243509540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Devil's advocate? Every comment here is already against the admins of the servers...</htmltext>
+<tokenext>Devil 's advocate ?
+Every comment here is already against the admins of the servers.. .</tokentext>
+<sentencetext>Devil's advocate?
+Every comment here is already against the admins of the servers...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129461</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131471</id>
+	<title>Re:I know this is old but,</title>
+	<author>Onymous Coward</author>
+	<datestamp>1243510980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Take off every 'Information Aggressor Squadron'<em>!!</em></p></htmltext>
+<tokenext>Take off every 'Information Aggressor Squadron ' !
+!</tokentext>
+<sentencetext>Take off every 'Information Aggressor Squadron'!
+!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129347</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129997</id>
+	<title>Re:Wait...</title>
+	<author>Finallyjoined!!!</author>
+	<datestamp>1243504440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>The Royal Navy now uses Windows for Warships<nobr> <wbr></nobr>:-(</htmltext>
+<tokenext>The Royal Navy now uses Windows for Warships : - (</tokentext>
+<sentencetext>The Royal Navy now uses Windows for Warships :-(</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129387</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28139205</id>
+	<title>DoD Network Security</title>
+	<author>Anonymous</author>
+	<datestamp>1243613760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><blockquote><div><p>and also the ability to bypass supposedly sophisticated Defense Department tools and procedures designed to prevent such breaches.</p></div></blockquote><p>
+
+I have personal experience with DoD networks and there is nothing particularly sophisticated about their tools and procedures. Security of classified material comes from keeping it offline altogether and there is a difference between "sensitive" and "classified" material.</p></div>
+	</htmltext>
+<tokenext>and also the ability to bypass supposedly sophisticated Defense Department tools and procedures designed to prevent such breaches .
+I have personal experience with DoD networks and there is nothing particularly sophisticated about their tools and procedures .
+Security of classified material comes from keeping it offline altogether and there is a difference between " sensitive " and " classified " material .</tokentext>
+<sentencetext>and also the ability to bypass supposedly sophisticated Defense Department tools and procedures designed to prevent such breaches.
+I have personal experience with DoD networks and there is nothing particularly sophisticated about their tools and procedures.
+Security of classified material comes from keeping it offline altogether and there is a difference between "sensitive" and "classified" material.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28160109</id>
+	<title>Re:Wait...</title>
+	<author>TheSpoom</author>
+	<datestamp>1243799640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Mods: I don't think this is flamebait; or at least, I never intended it to be.  I'm just surprised... generally organizations that care about security above other issues tend to go with a Unix-based system.  I never said there wasn't a place for Windows servers, just that I'm kinda surprised that the army apparently prefers them over *nix.</p></htmltext>
+<tokenext>Mods : I do n't think this is flamebait ; or at least , I never intended it to be .
+I 'm just surprised... generally organizations that care about security above other issues tend to go with a Unix-based system .
+I never said there was n't a place for Windows servers , just that I 'm kinda surprised that the army apparently prefers them over * nix .</tokentext>
+<sentencetext>Mods: I don't think this is flamebait; or at least, I never intended it to be.
+I'm just surprised... generally organizations that care about security above other issues tend to go with a Unix-based system.
+I never said there wasn't a place for Windows servers, just that I'm kinda surprised that the army apparently prefers them over *nix.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129387</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28141807</id>
+	<title>Re:No it isn't</title>
+	<author>Gallomimia</author>
+	<datestamp>1243626120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Or this could be a simple technique by the information security agents to create a sort of "honeypot" for hackers to target so they can keep the serious information out of the crosshairs. Such as the F-35</htmltext>
+<tokenext>Or this could be a simple technique by the information security agents to create a sort of " honeypot " for hackers to target so they can keep the serious information out of the crosshairs .
+Such as the F-35</tokentext>
+<sentencetext>Or this could be a simple technique by the information security agents to create a sort of "honeypot" for hackers to target so they can keep the serious information out of the crosshairs.
+Such as the F-35</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129381</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130129</id>
+	<title>defcon 5</title>
+	<author>Anonymous</author>
+	<datestamp>1243504980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>come on people, sql injection attack == hackers? plz
+web server defraud is only for even more sad audience who thinks its a form of haking</htmltext>
+<tokenext>come on people , sql injection attack = = hackers ?
+plz web server defraud is only for even more sad audience who thinks its a form of haking</tokentext>
+<sentencetext>come on people, sql injection attack == hackers?
+plz
+web server defraud is only for even more sad audience who thinks its a form of haking</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</id>
+	<title>Re:any good military has</title>
+	<author>cdrguru</author>
+	<datestamp>1243503480000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>The US military is pretty much incapable of fighting a guerrilla war where the combatents are intermixed with civilians and civilian casualties are forbidden.  It made Vietnam very difficult and it has made Iraq difficult as well.</p><p>What we have is a guerrilla war against hackers where they are effectiely shielded in most cases by the ISP and their own country's law enforcement.  The end result is almost an unwinnable war.</p><p>We are winning in Iraq by ending the use of civilians as shields.  We won in Vietnam by separating the combatants from the civilians.  It is going to take that sort of effort to win against hackers, crackers and identity thieves.  Unfortunately, right now the effort required to do this is intense enough that it is many, many times the losses so far.  So I don't think they are going to do anything until the losses mount up a lot more.</p><p>What makes this worse is in order to effectively combat these people it is going to take either the cooperation of foreign law enforcement or just going around them.  Neither one is going to make these other countries want to be our friends, but they seem to be happy with the hackers running around doing whatever.</p></htmltext>
+<tokenext>The US military is pretty much incapable of fighting a guerrilla war where the combatents are intermixed with civilians and civilian casualties are forbidden .
+It made Vietnam very difficult and it has made Iraq difficult as well.What we have is a guerrilla war against hackers where they are effectiely shielded in most cases by the ISP and their own country 's law enforcement .
+The end result is almost an unwinnable war.We are winning in Iraq by ending the use of civilians as shields .
+We won in Vietnam by separating the combatants from the civilians .
+It is going to take that sort of effort to win against hackers , crackers and identity thieves .
+Unfortunately , right now the effort required to do this is intense enough that it is many , many times the losses so far .
+So I do n't think they are going to do anything until the losses mount up a lot more.What makes this worse is in order to effectively combat these people it is going to take either the cooperation of foreign law enforcement or just going around them .
+Neither one is going to make these other countries want to be our friends , but they seem to be happy with the hackers running around doing whatever .</tokentext>
+<sentencetext>The US military is pretty much incapable of fighting a guerrilla war where the combatents are intermixed with civilians and civilian casualties are forbidden.
+It made Vietnam very difficult and it has made Iraq difficult as well.What we have is a guerrilla war against hackers where they are effectiely shielded in most cases by the ISP and their own country's law enforcement.
+The end result is almost an unwinnable war.We are winning in Iraq by ending the use of civilians as shields.
+We won in Vietnam by separating the combatants from the civilians.
+It is going to take that sort of effort to win against hackers, crackers and identity thieves.
+Unfortunately, right now the effort required to do this is intense enough that it is many, many times the losses so far.
+So I don't think they are going to do anything until the losses mount up a lot more.What makes this worse is in order to effectively combat these people it is going to take either the cooperation of foreign law enforcement or just going around them.
+Neither one is going to make these other countries want to be our friends, but they seem to be happy with the hackers running around doing whatever.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132127</id>
+	<title>Re:Amateurs</title>
+	<author>Anonymous</author>
+	<datestamp>1243514220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>So long as the work involves "hack" and "US Government",  it doesn't matter what really happened.  Remember, both the US and now Canada are trying to convince us that Cyberwars are more dangerous then "conventional" war and they need more examples to justify their outrageous budgets.</p><p>*@users.slashdot.org will not fall for it but *.gov and *.gc.ca are.</p></htmltext>
+<tokenext>So long as the work involves " hack " and " US Government " , it does n't matter what really happened .
+Remember , both the US and now Canada are trying to convince us that Cyberwars are more dangerous then " conventional " war and they need more examples to justify their outrageous budgets .
+* @ users.slashdot.org will not fall for it but * .gov and * .gc.ca are .</tokentext>
+<sentencetext>So long as the work involves "hack" and "US Government",  it doesn't matter what really happened.
+Remember, both the US and now Canada are trying to convince us that Cyberwars are more dangerous then "conventional" war and they need more examples to justify their outrageous budgets.
+*@users.slashdot.org will not fall for it but *.gov and *.gc.ca are.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129399</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132077</id>
+	<title>Re:any good military has</title>
+	<author>Anonymous</author>
+	<datestamp>1243513980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>"We won in Vietnam"</p><p>ummmmm.. assuming you're not Vietnamese, you lost that war.</p></htmltext>
+<tokenext>" We won in Vietnam " ummmmm.. assuming you 're not Vietnamese , you lost that war .</tokentext>
+<sentencetext>"We won in Vietnam"ummmmm.. assuming you're not Vietnamese, you lost that war.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129347</id>
+	<title>I know this is old but,</title>
+	<author>Anonymous</author>
+	<datestamp>1243501920000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>All your base are belong to us</p></htmltext>
+<tokenext>All your base are belong to us</tokentext>
+<sentencetext>All your base are belong to us</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131615</id>
+	<title>Re:wood for the trees</title>
+	<author>AHuxley</author>
+	<datestamp>1243511640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>"most advanced" and Microsoft? Giggles<nobr> <wbr></nobr>:)  Gary McKinnon showed the way in<nobr> <wbr></nobr>:)</htmltext>
+<tokenext>" most advanced " and Microsoft ?
+Giggles : ) Gary McKinnon showed the way in : )</tokentext>
+<sentencetext>"most advanced" and Microsoft?
+Giggles :)  Gary McKinnon showed the way in :)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129295</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130821</id>
+	<title>Re:Again?????</title>
+	<author>commodoresloat</author>
+	<datestamp>1243507860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>So, what do I need to do, type really really slow?</p></div><p>Maybe you can package your comment as the payload of an SQL injection?</p></div>
+	</htmltext>
+<tokenext>So , what do I need to do , type really really slow ? Maybe you can package your comment as the payload of an SQL injection ?</tokentext>
+<sentencetext>So, what do I need to do, type really really slow?Maybe you can package your comment as the payload of an SQL injection?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129849</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131629</id>
+	<title>Re:In other words ...</title>
+	<author>AHuxley</author>
+	<datestamp>1243511760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>They used to work for the US mil, but hated it so much.<br>
+Now they sell their skills back at 3X the price as contractors and do not get treated like trash.<br>
+Small tip, US mil, treat your men and woman right.</htmltext>
+<tokenext>They used to work for the US mil , but hated it so much .
+Now they sell their skills back at 3X the price as contractors and do not get treated like trash .
+Small tip , US mil , treat your men and woman right .</tokentext>
+<sentencetext>They used to work for the US mil, but hated it so much.
+Now they sell their skills back at 3X the price as contractors and do not get treated like trash.
+Small tip, US mil, treat your men and woman right.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129429</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129399</id>
+	<title>Amateurs</title>
+	<author>Anonymous</author>
+	<datestamp>1243502100000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>If they want to prove a point they have to stop targeting US Defense facilities. Hack a serious portal like Slashdot if you can! Ha!</p></htmltext>
+<tokenext>If they want to prove a point they have to stop targeting US Defense facilities .
+Hack a serious portal like Slashdot if you can !
+Ha !</tokentext>
+<sentencetext>If they want to prove a point they have to stop targeting US Defense facilities.
+Hack a serious portal like Slashdot if you can!
+Ha!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129599</id>
+	<title>SQL Injection?  *Yawn*</title>
+	<author>Anonymous</author>
+	<datestamp>1243502760000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext>I think using SQL injection hasn't qualified as "hacking" since it showed up on XKCD.</htmltext>
+<tokenext>I think using SQL injection has n't qualified as " hacking " since it showed up on XKCD .</tokentext>
+<sentencetext>I think using SQL injection hasn't qualified as "hacking" since it showed up on XKCD.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132369</id>
+	<title>Re:any good military has</title>
+	<author>Anonymous</author>
+	<datestamp>1243515480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>We won in Vietnam by separating the combatants from the civilians.</p></div><p>Is this a parallel universe or something ?</p></div>
+	</htmltext>
+<tokenext>We won in Vietnam by separating the combatants from the civilians.Is this a parallel universe or something ?</tokentext>
+<sentencetext>We won in Vietnam by separating the combatants from the civilians.Is this a parallel universe or something ?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131133</id>
+	<title>Re:any good military has</title>
+	<author>jeff4747</author>
+	<datestamp>1243509240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>but as it stands now, a bunch of teenagers are thoroughly and repeatedly trouncing the us military</p></div></blockquote><p>Not really.  Do you have any idea just how many computers have<nobr> <wbr></nobr>.mil addresses?  If somebody screwed up on the configuration for an infinitesimally small percentage of them, that's still a lot of systems open to attack.  And the script kiddies will get lucky.</p><p>But the US military also doesn't talk about their own "cyber" offensive and defensive capabilities for obvious reasons.  Which leads to the erroneous presumption that such capabilities don't exist.</p><p>Besides, these kinds of stories are great for getting additional funding for somebody's pet project.  Much like Kennedy's complaining about the "Missile Gap" when he beat Nixon.  No such gap existed, but it let Kennedy spend a lot of money fixing the gap.</p></div>
+	</htmltext>
+<tokenext>but as it stands now , a bunch of teenagers are thoroughly and repeatedly trouncing the us militaryNot really .
+Do you have any idea just how many computers have .mil addresses ?
+If somebody screwed up on the configuration for an infinitesimally small percentage of them , that 's still a lot of systems open to attack .
+And the script kiddies will get lucky.But the US military also does n't talk about their own " cyber " offensive and defensive capabilities for obvious reasons .
+Which leads to the erroneous presumption that such capabilities do n't exist.Besides , these kinds of stories are great for getting additional funding for somebody 's pet project .
+Much like Kennedy 's complaining about the " Missile Gap " when he beat Nixon .
+No such gap existed , but it let Kennedy spend a lot of money fixing the gap .</tokentext>
+<sentencetext>but as it stands now, a bunch of teenagers are thoroughly and repeatedly trouncing the us militaryNot really.
+Do you have any idea just how many computers have .mil addresses?
+If somebody screwed up on the configuration for an infinitesimally small percentage of them, that's still a lot of systems open to attack.
+And the script kiddies will get lucky.But the US military also doesn't talk about their own "cyber" offensive and defensive capabilities for obvious reasons.
+Which leads to the erroneous presumption that such capabilities don't exist.Besides, these kinds of stories are great for getting additional funding for somebody's pet project.
+Much like Kennedy's complaining about the "Missile Gap" when he beat Nixon.
+No such gap existed, but it let Kennedy spend a lot of money fixing the gap.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129841</id>
+	<title>Policies that are better.</title>
+	<author>Celeste R</author>
+	<datestamp>1243503720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Cue a new cold war information protection policy!  Dibs on the grey goo defense!</p></htmltext>
+<tokenext>Cue a new cold war information protection policy !
+Dibs on the grey goo defense !</tokentext>
+<sentencetext>Cue a new cold war information protection policy!
+Dibs on the grey goo defense!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132599</id>
+	<title>Re:Amateurs</title>
+	<author>Anonymous</author>
+	<datestamp>1243516620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Oh no, a web page.</p><p>If somebody were able to get into SIPRnet, that would be proving a point.  Not that we would hear about it, probably.</p><p>Put your pants back on, this is bullshit.</p></htmltext>
+<tokenext>Oh no , a web page.If somebody were able to get into SIPRnet , that would be proving a point .
+Not that we would hear about it , probably.Put your pants back on , this is bullshit .</tokentext>
+<sentencetext>Oh no, a web page.If somebody were able to get into SIPRnet, that would be proving a point.
+Not that we would hear about it, probably.Put your pants back on, this is bullshit.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129399</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129785</id>
+	<title>Re:Amazing.</title>
+	<author>Anonymous</author>
+	<datestamp>1243503480000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>I'd like you to stop by my work and bludgeon a few developers of mine over the head, if you would. Seems they're all too busy posting on a site called "BackSlash" or something to check their code.</p></htmltext>
+<tokenext>I 'd like you to stop by my work and bludgeon a few developers of mine over the head , if you would .
+Seems they 're all too busy posting on a site called " BackSlash " or something to check their code .</tokentext>
+<sentencetext>I'd like you to stop by my work and bludgeon a few developers of mine over the head, if you would.
+Seems they're all too busy posting on a site called "BackSlash" or something to check their code.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129295</id>
+	<title>wood for the trees</title>
+	<author>Anonymous</author>
+	<datestamp>1243501800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>when you are busy trying to defend against the most advanced crackers around, and whatever complex tools they are using, its probably easy to overlook the simpler stuff</htmltext>
+<tokenext>when you are busy trying to defend against the most advanced crackers around , and whatever complex tools they are using , its probably easy to overlook the simpler stuff</tokentext>
+<sentencetext>when you are busy trying to defend against the most advanced crackers around, and whatever complex tools they are using, its probably easy to overlook the simpler stuff</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129985</id>
+	<title>Re:any good military has</title>
+	<author>Anonymous</author>
+	<datestamp>1243504440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>These were not "Army" sites and they are not maintained or administered by soldiers.  One is for a munitions plant where the government owns the facility but it is leased to a private company who operates it for the government.  The other is for the Corps of Engineers, the guys who do things like make sure dams don't have any leaks.</p></htmltext>
+<tokenext>These were not " Army " sites and they are not maintained or administered by soldiers .
+One is for a munitions plant where the government owns the facility but it is leased to a private company who operates it for the government .
+The other is for the Corps of Engineers , the guys who do things like make sure dams do n't have any leaks .</tokentext>
+<sentencetext>These were not "Army" sites and they are not maintained or administered by soldiers.
+One is for a munitions plant where the government owns the facility but it is leased to a private company who operates it for the government.
+The other is for the Corps of Engineers, the guys who do things like make sure dams don't have any leaks.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28140063</id>
+	<title>Pure Garbage</title>
+	<author>Hasai</author>
+	<datestamp>1243618320000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>This was nothing more than a simple-minded attack on a handful of public websites containing NO classified data.</p><p>The U.S. military follows a rigid security discipline of having separate network for secure ("black") and non-secure ("red") traffic. There is NO PHYSICAL CONNECTION between these networks, and there is NO connection between the black networks and the Internet.</p><p>This article was right up there with Swine Flu II: Pure sensationalism.</p></htmltext>
+<tokenext>This was nothing more than a simple-minded attack on a handful of public websites containing NO classified data.The U.S. military follows a rigid security discipline of having separate network for secure ( " black " ) and non-secure ( " red " ) traffic .
+There is NO PHYSICAL CONNECTION between these networks , and there is NO connection between the black networks and the Internet.This article was right up there with Swine Flu II : Pure sensationalism .</tokentext>
+<sentencetext>This was nothing more than a simple-minded attack on a handful of public websites containing NO classified data.The U.S. military follows a rigid security discipline of having separate network for secure ("black") and non-secure ("red") traffic.
+There is NO PHYSICAL CONNECTION between these networks, and there is NO connection between the black networks and the Internet.This article was right up there with Swine Flu II: Pure sensationalism.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132377</id>
+	<title>Re:any good military has</title>
+	<author>Anonymous</author>
+	<datestamp>1243515480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>We <b>won</b> in Vietnam by separating the combatants from the civilians.</p></div><p>Wait, who and when won Vietnam? I thought the US ran with its tail between its legs?</p></div>
+	</htmltext>
+<tokenext>We won in Vietnam by separating the combatants from the civilians.Wait , who and when won Vietnam ?
+I thought the US ran with its tail between its legs ?</tokentext>
+<sentencetext>We won in Vietnam by separating the combatants from the civilians.Wait, who and when won Vietnam?
+I thought the US ran with its tail between its legs?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28133595</id>
+	<title>Re:wood for the trees</title>
+	<author>alfs boner</author>
+	<datestamp>1243522680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>-1</modscore>
+	<htmltext><i>when you are busy trying to defend against the most advanced <b>crackers</b> around</i> <p>
+Are you serious? Are you really going to parrot that asinine "hacker vs. cracker" bullshit in 2009? You're like one of those stranded Japanese soldiers who thinks World War II is still going on.</p></htmltext>
+<tokenext>when you are busy trying to defend against the most advanced crackers around Are you serious ?
+Are you really going to parrot that asinine " hacker vs. cracker " bullshit in 2009 ?
+You 're like one of those stranded Japanese soldiers who thinks World War II is still going on .</tokentext>
+<sentencetext>when you are busy trying to defend against the most advanced crackers around 
+Are you serious?
+Are you really going to parrot that asinine "hacker vs. cracker" bullshit in 2009?
+You're like one of those stranded Japanese soldiers who thinks World War II is still going on.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129295</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129741</id>
+	<title>Microsoft SQL Server</title>
+	<author>akabigbro</author>
+	<datestamp>1243503300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Hmm... Not surprised.</p></htmltext>
+<tokenext>Hmm... Not surprised .</tokentext>
+<sentencetext>Hmm... Not surprised.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28145031</id>
+	<title>Re:I know this is old but,</title>
+	<author>Anonymous</author>
+	<datestamp>1243597620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>except the bases in Turkey!</p></htmltext>
+<tokenext>except the bases in Turkey !</tokentext>
+<sentencetext>except the bases in Turkey!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129347</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129909</id>
+	<title>Re:wood for the trees</title>
+	<author>Anonymous</author>
+	<datestamp>1243504140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>I have worked with the U.S. Army "Network Engineers".  I was apalled at their lack of knowledge and understanding of security.</htmltext>
+<tokenext>I have worked with the U.S. Army " Network Engineers " .
+I was apalled at their lack of knowledge and understanding of security .</tokentext>
+<sentencetext>I have worked with the U.S. Army "Network Engineers".
+I was apalled at their lack of knowledge and understanding of security.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129295</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28166421</id>
+	<title>Re:any good military has</title>
+	<author>MariusBoo</author>
+	<datestamp>1243862820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>You didn't win in Vietnam. And you are not winning in Iraq.</htmltext>
+<tokenext>You did n't win in Vietnam .
+And you are not winning in Iraq .</tokentext>
+<sentencetext>You didn't win in Vietnam.
+And you are not winning in Iraq.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129387</id>
+	<title>Wait...</title>
+	<author>TheSpoom</author>
+	<datestamp>1243502040000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>The US Army uses Windows servers?</p></htmltext>
+<tokenext>The US Army uses Windows servers ?</tokentext>
+<sentencetext>The US Army uses Windows servers?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129817</id>
+	<title>Sensitive?</title>
+	<author>stuntpope</author>
+	<datestamp>1243503660000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It appears the servers in question were used for serving up web sites. Probably publicly-facing web sites. So, what sensitive information was at risk? There are already regulations about what content can be approved to sit on a DoD server with a publicly-facing web site.</p></htmltext>
+<tokenext>It appears the servers in question were used for serving up web sites .
+Probably publicly-facing web sites .
+So , what sensitive information was at risk ?
+There are already regulations about what content can be approved to sit on a DoD server with a publicly-facing web site .</tokentext>
+<sentencetext>It appears the servers in question were used for serving up web sites.
+Probably publicly-facing web sites.
+So, what sensitive information was at risk?
+There are already regulations about what content can be approved to sit on a DoD server with a publicly-facing web site.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28137269</id>
+	<title>Re:Cyber Security Cadence</title>
+	<author>Anonymous</author>
+	<datestamp>1243604100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Full disclosure: I lol'd.</p><p>Screw the US military pussies.</p></htmltext>
+<tokenext>Full disclosure : I lol 'd.Screw the US military pussies .</tokentext>
+<sentencetext>Full disclosure: I lol'd.Screw the US military pussies.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129951</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28154363</id>
+	<title>Re:Amazing.</title>
+	<author>josephcmiller2</author>
+	<datestamp>1243691760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I completely agree.  All of my SQL variables are escaped IMMEDIATELY before the executed code.  This way, you can look at any SQL code I've written and instantly know if it's secure or not.  I would call this code "obviously secure" (at least the SQL part is).  It may still contain bugs, but SQL injection won't be possible.
+
+
+I've seen several other safety mechanisms that escape any variables before sending them to SQL-related functions, but looking inside the function (instead of the caller) you really don't know what data you have and whether it is safe or not.
+
+
+I think secure code should be obviously secure.  Of course there are those buffer overflow problems and threading etc like you mention, but how about quit using sprintf and instead use snprintf?  WTF?  And don't give me that "If I know I'm just printing a simple variable and I know how long it is, then it's OK" crap either.  Ever seen a calculator come up with a wrong answer that was really close?  Like 3.99897876 instead of 4?  I have.  And we all know that there have been widely-used CPUs with math processor errors.  If your code isn't obviously secure, I argue that it's not secure.  Especially if you aren't the only developer in the pipeline.  We all organize this code differently in our own heads and what makes sense to one dev is confusing to another.  If the code is obviously secure, most of that is eliminated anyways.</htmltext>
+<tokenext>I completely agree .
+All of my SQL variables are escaped IMMEDIATELY before the executed code .
+This way , you can look at any SQL code I 've written and instantly know if it 's secure or not .
+I would call this code " obviously secure " ( at least the SQL part is ) .
+It may still contain bugs , but SQL injection wo n't be possible .
+I 've seen several other safety mechanisms that escape any variables before sending them to SQL-related functions , but looking inside the function ( instead of the caller ) you really do n't know what data you have and whether it is safe or not .
+I think secure code should be obviously secure .
+Of course there are those buffer overflow problems and threading etc like you mention , but how about quit using sprintf and instead use snprintf ?
+WTF ? And do n't give me that " If I know I 'm just printing a simple variable and I know how long it is , then it 's OK " crap either .
+Ever seen a calculator come up with a wrong answer that was really close ?
+Like 3.99897876 instead of 4 ?
+I have .
+And we all know that there have been widely-used CPUs with math processor errors .
+If your code is n't obviously secure , I argue that it 's not secure .
+Especially if you are n't the only developer in the pipeline .
+We all organize this code differently in our own heads and what makes sense to one dev is confusing to another .
+If the code is obviously secure , most of that is eliminated anyways .</tokentext>
+<sentencetext>I completely agree.
+All of my SQL variables are escaped IMMEDIATELY before the executed code.
+This way, you can look at any SQL code I've written and instantly know if it's secure or not.
+I would call this code "obviously secure" (at least the SQL part is).
+It may still contain bugs, but SQL injection won't be possible.
+I've seen several other safety mechanisms that escape any variables before sending them to SQL-related functions, but looking inside the function (instead of the caller) you really don't know what data you have and whether it is safe or not.
+I think secure code should be obviously secure.
+Of course there are those buffer overflow problems and threading etc like you mention, but how about quit using sprintf and instead use snprintf?
+WTF?  And don't give me that "If I know I'm just printing a simple variable and I know how long it is, then it's OK" crap either.
+Ever seen a calculator come up with a wrong answer that was really close?
+Like 3.99897876 instead of 4?
+I have.
+And we all know that there have been widely-used CPUs with math processor errors.
+If your code isn't obviously secure, I argue that it's not secure.
+Especially if you aren't the only developer in the pipeline.
+We all organize this code differently in our own heads and what makes sense to one dev is confusing to another.
+If the code is obviously secure, most of that is eliminated anyways.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131093</id>
+	<title>Re:any good military has</title>
+	<author>ultranova</author>
+	<datestamp>1243509000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>What we have is a guerrilla war against hackers where they are effectiely shielded in most cases by the ISP and their own country's law enforcement. The end result is almost an unwinnable war.</p></div> </blockquote><p>What you have is a few teenagers writing graffiti on the army bulletin board located outside the base. And yes, the War on Vandals is likely unwinnable. However, you might try declaring War on Exaggeration.</p><blockquote><div><p>We won in Vietnam by separating the combatants from the civilians.</p></div> </blockquote><p>You didn't win in Vietnam, you lost and fled.</p></div>
+	</htmltext>
+<tokenext>What we have is a guerrilla war against hackers where they are effectiely shielded in most cases by the ISP and their own country 's law enforcement .
+The end result is almost an unwinnable war .
+What you have is a few teenagers writing graffiti on the army bulletin board located outside the base .
+And yes , the War on Vandals is likely unwinnable .
+However , you might try declaring War on Exaggeration.We won in Vietnam by separating the combatants from the civilians .
+You did n't win in Vietnam , you lost and fled .</tokentext>
+<sentencetext>What we have is a guerrilla war against hackers where they are effectiely shielded in most cases by the ISP and their own country's law enforcement.
+The end result is almost an unwinnable war.
+What you have is a few teenagers writing graffiti on the army bulletin board located outside the base.
+And yes, the War on Vandals is likely unwinnable.
+However, you might try declaring War on Exaggeration.We won in Vietnam by separating the combatants from the civilians.
+You didn't win in Vietnam, you lost and fled.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132395</id>
+	<title>Re:any good military has</title>
+	<author>Anonymous</author>
+	<datestamp>1243515540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>We won in Vietnam by...</p></div><p>is that you Charlie?</p></div>
+	</htmltext>
+<tokenext>We won in Vietnam by...is that you Charlie ?</tokentext>
+<sentencetext>We won in Vietnam by...is that you Charlie?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129443</id>
+	<title>I thought Information Week was sensible.</title>
+	<author>Anonymous</author>
+	<datestamp>1243502220000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext>So much for Information Week being reasoned and sensible.<br> <br>"Equally troubling is the fact that the hacks appear to have originated outside the United States. Turkey is known to harbor significant elements of the al-Qaida network. It was not clear if "m0sted" has links to the terrorist group."<br> <br>Hooray for sensationalism!</htmltext>
+<tokenext>So much for Information Week being reasoned and sensible .
+" Equally troubling is the fact that the hacks appear to have originated outside the United States .
+Turkey is known to harbor significant elements of the al-Qaida network .
+It was not clear if " m0sted " has links to the terrorist group .
+" Hooray for sensationalism !</tokentext>
+<sentencetext>So much for Information Week being reasoned and sensible.
+"Equally troubling is the fact that the hacks appear to have originated outside the United States.
+Turkey is known to harbor significant elements of the al-Qaida network.
+It was not clear if "m0sted" has links to the terrorist group.
+" Hooray for sensationalism!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131181</id>
+	<title>Re:any good military has</title>
+	<author>Gizzmonic</author>
+	<datestamp>1243509420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>We won in Vietnam by separating the combatants from the civilians.</i></p><p>Are you Ho Chi Minh?</p></htmltext>
+<tokenext>We won in Vietnam by separating the combatants from the civilians.Are you Ho Chi Minh ?</tokentext>
+<sentencetext>We won in Vietnam by separating the combatants from the civilians.Are you Ho Chi Minh?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28134909</id>
+	<title>Re:any good military has</title>
+	<author>mjwx</author>
+	<datestamp>1243533540000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>We are winning in Iraq</p></div></blockquote><p>
+
+That's doubtful at the best of times, but for the sake of argument entertain you.</p><blockquote><div><p>by ending the use of civilians as shields.</p></div></blockquote><p>
+
+No you haven't. There hasn't been any noticeable decrease in violence, just less reporting of it. Just because the US army has the media on a tight leash doesn't mean that you're winning, in fact this is about the only lesson the US armed forces learned in Vietnam and in my opinion the most useless one taught.</p><blockquote><div><p>We won in Vietnam</p></div></blockquote><p>
+
+Ahh yes, we've all seen the famous "victory in Vietnam" photo. You know the one where all the people are rushing to the roof of the US embassy to get on the last chopper out of Saigon.</p><blockquote><div><p>by separating the combatants from the civilians.</p></div></blockquote><p>
+
+Once again, you did no such thing. The US didnt know about half the double agents inside the South Vietnamese government and army until after the NVA rocked up in Saigon and pat them on the back.<br> <br>
+
+Reality is on line 1 for you. It also wants to know how this got modded up.</p></div>
+	</htmltext>
+<tokenext>We are winning in Iraq That 's doubtful at the best of times , but for the sake of argument entertain you.by ending the use of civilians as shields .
+No you have n't .
+There has n't been any noticeable decrease in violence , just less reporting of it .
+Just because the US army has the media on a tight leash does n't mean that you 're winning , in fact this is about the only lesson the US armed forces learned in Vietnam and in my opinion the most useless one taught.We won in Vietnam Ahh yes , we 've all seen the famous " victory in Vietnam " photo .
+You know the one where all the people are rushing to the roof of the US embassy to get on the last chopper out of Saigon.by separating the combatants from the civilians .
+Once again , you did no such thing .
+The US didnt know about half the double agents inside the South Vietnamese government and army until after the NVA rocked up in Saigon and pat them on the back .
+Reality is on line 1 for you .
+It also wants to know how this got modded up .</tokentext>
+<sentencetext>We are winning in Iraq
+
+That's doubtful at the best of times, but for the sake of argument entertain you.by ending the use of civilians as shields.
+No you haven't.
+There hasn't been any noticeable decrease in violence, just less reporting of it.
+Just because the US army has the media on a tight leash doesn't mean that you're winning, in fact this is about the only lesson the US armed forces learned in Vietnam and in my opinion the most useless one taught.We won in Vietnam
+
+Ahh yes, we've all seen the famous "victory in Vietnam" photo.
+You know the one where all the people are rushing to the roof of the US embassy to get on the last chopper out of Saigon.by separating the combatants from the civilians.
+Once again, you did no such thing.
+The US didnt know about half the double agents inside the South Vietnamese government and army until after the NVA rocked up in Saigon and pat them on the back.
+Reality is on line 1 for you.
+It also wants to know how this got modded up.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28145105</id>
+	<title>Re:any good military has</title>
+	<author>Anonymous</author>
+	<datestamp>1243598100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>We won in Vietnam?</p></htmltext>
+<tokenext>We won in Vietnam ?</tokentext>
+<sentencetext>We won in Vietnam?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129591</id>
+	<title>pfffft</title>
+	<author>TheRealMindChild</author>
+	<datestamp>1243502760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>This is what you get when you recruit kids out of high school and renege on the promise of the money they will get for joining up. It is communism-on-a-stick. Where is the motivation to do well&gt;</htmltext>
+<tokenext>This is what you get when you recruit kids out of high school and renege on the promise of the money they will get for joining up .
+It is communism-on-a-stick .
+Where is the motivation to do well &gt;</tokentext>
+<sentencetext>This is what you get when you recruit kids out of high school and renege on the promise of the money they will get for joining up.
+It is communism-on-a-stick.
+Where is the motivation to do well&gt;</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130369</id>
+	<title>Re:any good military has</title>
+	<author>rampant poodle</author>
+	<datestamp>1243505760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Continuing the military analogy...  What great battles have been won purely by defense?  Denying yourself he ability to "reach out and touch someone", will always give the advantage to those  who seek to blow you up -- or to bring your server down.</p></htmltext>
+<tokenext>Continuing the military analogy... What great battles have been won purely by defense ?
+Denying yourself he ability to " reach out and touch someone " , will always give the advantage to those who seek to blow you up -- or to bring your server down .</tokentext>
+<sentencetext>Continuing the military analogy...  What great battles have been won purely by defense?
+Denying yourself he ability to "reach out and touch someone", will always give the advantage to those  who seek to blow you up -- or to bring your server down.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129849</id>
+	<title>Again?????</title>
+	<author>Anonymous</author>
+	<datestamp>1243503840000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Again?</p><p>Slashdot requires you to wait longer between hitting 'reply' and submitting a comment.</p><p>It's been 17 seconds since you hit 'reply'.</p><p>Chances are, you're behind a firewall or proxy, or clicked the Back button to accidentally reuse a form. Please try again. If the problem persists, and all other options have been tried, contact the site administrator.</p><p>So, what do I need to do, type really really slow?</p></htmltext>
+<tokenext>Again ? Slashdot requires you to wait longer between hitting 'reply ' and submitting a comment.It 's been 17 seconds since you hit 'reply'.Chances are , you 're behind a firewall or proxy , or clicked the Back button to accidentally reuse a form .
+Please try again .
+If the problem persists , and all other options have been tried , contact the site administrator.So , what do I need to do , type really really slow ?</tokentext>
+<sentencetext>Again?Slashdot requires you to wait longer between hitting 'reply' and submitting a comment.It's been 17 seconds since you hit 'reply'.Chances are, you're behind a firewall or proxy, or clicked the Back button to accidentally reuse a form.
+Please try again.
+If the problem persists, and all other options have been tried, contact the site administrator.So, what do I need to do, type really really slow?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131027</id>
+	<title>Re:Front end compromise...</title>
+	<author>jeff4747</author>
+	<datestamp>1243508760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>I'm just playing devil's advocate but who puts their public website inside their defences?</p></div></blockquote><p>Who says it's behind their real defenses?</p><p>Look, it's a web server on the Internet.  It's gonna need at least a firewall.  Just like if they used Rackspace to host it and you were behind Rackspace's firewall.  But there's also gonna be additional defenses for other systems.</p><p>And, btw, anything that's on the server is gonna be unclassified or somebody's goin' to jail regardless of the breach.</p></div>
+	</htmltext>
+<tokenext>I 'm just playing devil 's advocate but who puts their public website inside their defences ? Who says it 's behind their real defenses ? Look , it 's a web server on the Internet .
+It 's gon na need at least a firewall .
+Just like if they used Rackspace to host it and you were behind Rackspace 's firewall .
+But there 's also gon na be additional defenses for other systems.And , btw , anything that 's on the server is gon na be unclassified or somebody 's goin ' to jail regardless of the breach .</tokentext>
+<sentencetext>I'm just playing devil's advocate but who puts their public website inside their defences?Who says it's behind their real defenses?Look, it's a web server on the Internet.
+It's gonna need at least a firewall.
+Just like if they used Rackspace to host it and you were behind Rackspace's firewall.
+But there's also gonna be additional defenses for other systems.And, btw, anything that's on the server is gonna be unclassified or somebody's goin' to jail regardless of the breach.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129461</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28137539</id>
+	<title>Shouldn't that be "crackers" or "cyber-criminals"?</title>
+	<author>AP31R0N</author>
+	<datestamp>1243605780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Shouldn't that be "crackers" or "cyber-criminals"?</p><p>Are we giving up on resisting the bastardization of the word hacker?</p></htmltext>
+<tokenext>Should n't that be " crackers " or " cyber-criminals " ? Are we giving up on resisting the bastardization of the word hacker ?</tokentext>
+<sentencetext>Shouldn't that be "crackers" or "cyber-criminals"?Are we giving up on resisting the bastardization of the word hacker?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28141843</id>
+	<title>MS SQL The server of choice for...</title>
+	<author>Gallomimia</author>
+	<datestamp>1243626300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Nuclear Silos!
+
+I really hope not.
+
+But this so called cyberwarfare that previous posters are talking about that requires outlandish budgets because it's supposedly more dangerous than real warfare is only dangerous when you link weapons to computers. And here we are sitting on top of tens of thousands of nuclear bombs controlled by computers, and building airplanes and tanks and robots with guns. It doesn't matter if they're linked to the internet or not. The fact remains they have radio receivers that can give commands to shoot and kill people.
+
+Please stop listing cyber-graffiti and start talking about the serious problems.</htmltext>
+<tokenext>Nuclear Silos !
+I really hope not .
+But this so called cyberwarfare that previous posters are talking about that requires outlandish budgets because it 's supposedly more dangerous than real warfare is only dangerous when you link weapons to computers .
+And here we are sitting on top of tens of thousands of nuclear bombs controlled by computers , and building airplanes and tanks and robots with guns .
+It does n't matter if they 're linked to the internet or not .
+The fact remains they have radio receivers that can give commands to shoot and kill people .
+Please stop listing cyber-graffiti and start talking about the serious problems .</tokentext>
+<sentencetext>Nuclear Silos!
+I really hope not.
+But this so called cyberwarfare that previous posters are talking about that requires outlandish budgets because it's supposedly more dangerous than real warfare is only dangerous when you link weapons to computers.
+And here we are sitting on top of tens of thousands of nuclear bombs controlled by computers, and building airplanes and tanks and robots with guns.
+It doesn't matter if they're linked to the internet or not.
+The fact remains they have radio receivers that can give commands to shoot and kill people.
+Please stop listing cyber-graffiti and start talking about the serious problems.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129483</id>
+	<title>Hyperbole?</title>
+	<author>Anonymous</author>
+	<datestamp>1243502400000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>I didn't bother to RTFA, but summary is inflamatory at best.</p><p>A public-facing, high-profile (perception) server gets compromised?  That's not news.</p><p>Let's say it is news for a minute.  What was the budget for this public-facing project?  This is not a "major Army security lapse" by any stretch of the imagination.</p><p>Of course, my line of thinking wouldn't be widely accepted because it ignores the emotional response that the summary probably provokes in most people.</p></htmltext>
+<tokenext>I did n't bother to RTFA , but summary is inflamatory at best.A public-facing , high-profile ( perception ) server gets compromised ?
+That 's not news.Let 's say it is news for a minute .
+What was the budget for this public-facing project ?
+This is not a " major Army security lapse " by any stretch of the imagination.Of course , my line of thinking would n't be widely accepted because it ignores the emotional response that the summary probably provokes in most people .</tokentext>
+<sentencetext>I didn't bother to RTFA, but summary is inflamatory at best.A public-facing, high-profile (perception) server gets compromised?
+That's not news.Let's say it is news for a minute.
+What was the budget for this public-facing project?
+This is not a "major Army security lapse" by any stretch of the imagination.Of course, my line of thinking wouldn't be widely accepted because it ignores the emotional response that the summary probably provokes in most people.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129429</id>
+	<title>Re:In other words ...</title>
+	<author>Anonymous</author>
+	<datestamp>1243502160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>A lot of defense spending is basically taxpayers helping out some overpaid well-connected idiots.</p></htmltext>
+<tokenext>A lot of defense spending is basically taxpayers helping out some overpaid well-connected idiots .</tokentext>
+<sentencetext>A lot of defense spending is basically taxpayers helping out some overpaid well-connected idiots.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129327</parent>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129985
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_35</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28145105
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28133595
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129295
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_49</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28134909
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_25</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130821
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129849
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130683
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_44</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131629
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129429
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129327
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28137269
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129951
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132377
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131133
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132395
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_47</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131367
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_41</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28134871
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129785
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130035
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129443
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28133929
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_39</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28137641
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129849
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_42</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131615
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129295
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_33</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130369
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_29</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132931
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129697
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_32</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131093
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131471
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129347
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_34</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131181
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28135315
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132369
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_26</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28141807
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129381
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_31</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28135075
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_45</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132599
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129399
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129909
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129295
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28145031
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129347
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129997
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129387
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_51</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130013
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132437
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_48</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28135651
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_50</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130503
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132077
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28160109
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129387
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28135501
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_38</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132977
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129347
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_43</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28134293
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129483
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28154363
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130957
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131209
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129461
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_46</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132127
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129399
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_37</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28139235
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130185
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129461
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_40</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131027
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129461
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129701
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_36</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131827
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_27</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28133389
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_30</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28166421
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_28_1952214_28</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132303
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129849
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1952214.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129347
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28145031
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131471
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132977
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1952214.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129431
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131367
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129697
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132931
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28135501
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129785
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130957
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28154363
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28134871
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1952214.14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129951
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28137269
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1952214.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129387
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129997
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28160109
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1952214.12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129295
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131615
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28133595
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129909
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1952214.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129461
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131027
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130185
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131209
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1952214.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129381
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28141807
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1952214.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129483
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28134293
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1952214.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129555
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1952214.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129599
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1952214.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129327
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129429
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131629
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1952214.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129443
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130035
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1952214.13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129849
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132303
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28137641
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130821
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1952214.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129557
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129985
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130369
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131133
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129787
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132395
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28133389
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131093
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132077
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130013
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28135651
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28135315
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132437
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28135075
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28133929
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131827
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130683
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28131181
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132377
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28139235
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28130503
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28145105
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132369
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28166421
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28134909
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129701
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_28_1952214.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28129399
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132599
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_28_1952214.28132127
+</commentlist>
+</conversation>

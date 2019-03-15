@@ -1,0 +1,53 @@
+-------------------------------------------------------------
+Version 1.7
+
+- Cleaned up c++-src/Env.mak
+- Switched from CVS to Subversion.
+
+-------------------------------------------------------------
+Version 1.6
+
+- Re-wrote lcseg.pl (renamed 'segment'); minor bug fixes.
+- The path to the database file is no longer hard-coded
+  inside the binary (if you move LCseg around, you just
+  need to modify the path inside the Perl script).
+- Ability to segment more than one document per execution, e.g.:
+    
+	./bin/segment file1 file2 file3
+
+  produces file1.tsegs file2.tsegs file3.tsegs.
+  
+- A FAQ is now available in the root directory.
+- bin/segment wastes less time pre-processing documents 
+  (bin/removeseg and bin/cleanup are now part of the Perl script).
+  This means that execution on thousands of small documents
+  is much faster now (see FAQ).
+- Less problems with shared libraries: bin/segment now looks for
+  them in the sharedlibs directory.
+- With the '-t' flag, 'segment' runs as TextTiling (Hearst, 94). 
+
+-------------------------------------------------------------
+
+Version 1.5
+
+- Minor bug fixes.
+- Support for gcc/g++ version 4.0.
+- LCseg is no longer distributed with Solaris binaries,
+  though it should continue to compile fine on Solaris 
+  machines.
+
+-------------------------------------------------------------
+
+Version 1.4
+
+- Minor bug fixes.
+- LCseg provides an API to run LCseg from other c/c++ programs 
+  (compile your programs with c++-src/liblcseg.a).
+
+-------------------------------------------------------------
+
+Version 1.3
+
+- First public release.
+
+-------------------------------------------------------------

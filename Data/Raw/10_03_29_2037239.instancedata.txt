@@ -1,0 +1,1560 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article10_03_29_2037239</id>
+	<title>Lord British Claims He Owns the Moon<span class="vballoon-marquee rd\_5"><span>Comments:</span><a href="#">144</a></span></title>
+	<author>Soulskill</author>
+	<datestamp>1269854040000</datestamp>
+	<htmltext>An anonymous reader writes <i>"Following the <a href="http://science.slashdot.org/story/10/03/17/2143248/Lord-Britishs-Lost-Lunar-Rover-Found-After-37-Years">recent discovery</a> of Richard Garriott's old moon rover, the man known as Lord British has <a href="http://www.techeye.net/software/lord-british-claims-he-owns-the-moon">laid claim to his own lunar territory</a>. Moon dwellers, all hail your new overlord!"</i></htmltext>
+<tokenext>An anonymous reader writes " Following the recent discovery of Richard Garriott 's old moon rover , the man known as Lord British has laid claim to his own lunar territory .
+Moon dwellers , all hail your new overlord !
+"</tokentext>
+<sentencetext>An anonymous reader writes "Following the recent discovery of Richard Garriott's old moon rover, the man known as Lord British has laid claim to his own lunar territory.
+Moon dwellers, all hail your new overlord!
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31666212</id>
+	<title>Which moon?</title>
+	<author>dido</author>
+	<datestamp>1269880860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Trammel or Felluca?</p></htmltext>
+<tokenext>Trammel or Felluca ?</tokentext>
+<sentencetext>Trammel or Felluca?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663144</id>
+	<title>What did I tell you?  Larkin Decision!</title>
+	<author>Tetsujin</author>
+	<datestamp>1269861300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Last time this came up I joked about the Larkin Decision...  I didn't think he'd really look into laying claim to Lunar territory..  XD</p><p>(Larkin Decision wouldn't actually apply, though - owning a piece of gear on the Moon isn't enough, you have to live there...)</p></htmltext>
+<tokenext>Last time this came up I joked about the Larkin Decision... I did n't think he 'd really look into laying claim to Lunar territory.. XD ( Larkin Decision would n't actually apply , though - owning a piece of gear on the Moon is n't enough , you have to live there... )</tokentext>
+<sentencetext>Last time this came up I joked about the Larkin Decision...  I didn't think he'd really look into laying claim to Lunar territory..  XD(Larkin Decision wouldn't actually apply, though - owning a piece of gear on the Moon isn't enough, you have to live there...)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664358</id>
+	<title>Re:Property Values</title>
+	<author>Anonymous</author>
+	<datestamp>1269867840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Reminds me of the short story by Robert Heinlein, "The Man Who Sold the Moon" in 1950 and appeared later in different collections.</p></htmltext>
+<tokenext>Reminds me of the short story by Robert Heinlein , " The Man Who Sold the Moon " in 1950 and appeared later in different collections .</tokentext>
+<sentencetext>Reminds me of the short story by Robert Heinlein, "The Man Who Sold the Moon" in 1950 and appeared later in different collections.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662436</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31667814</id>
+	<title>Pac-Man hungry and he eats Moon</title>
+	<author>nibbles2004</author>
+	<datestamp>1269942720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>not the best place to invest at the moment , when you have 1980's Arcade monster's eating your moon, where's the pink ghost when you need it
+<a href="http://news.bbc.co.uk/1/hi/sci/tech/8594101.stm" title="bbc.co.uk" rel="nofollow">http://news.bbc.co.uk/1/hi/sci/tech/8594101.stm</a> [bbc.co.uk]</htmltext>
+<tokenext>not the best place to invest at the moment , when you have 1980 's Arcade monster 's eating your moon , where 's the pink ghost when you need it http : //news.bbc.co.uk/1/hi/sci/tech/8594101.stm [ bbc.co.uk ]</tokentext>
+<sentencetext>not the best place to invest at the moment , when you have 1980's Arcade monster's eating your moon, where's the pink ghost when you need it
+http://news.bbc.co.uk/1/hi/sci/tech/8594101.stm [bbc.co.uk]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665420</id>
+	<title>Re:I'm so sick of Garriot. ENOUGH!</title>
+	<author>Mike Buddha</author>
+	<datestamp>1269874560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Even back in the day they weren't good RPGs. The ONLY thing they had going was that they were available on Apple II. That's it. That's the only reason Ultima sold a single copy. Ultima was a huge failure on all other platforms. People were so starved for software they'd put up with his lousy storylines and horrible interfaces. Oh, and you got a printed-on-cloth map. Of course, these were the nimnuls who were too stupid to spend less than a third of the money buying a Commodore 64, with it's far more impressive capabilities.</p></htmltext>
+<tokenext>Even back in the day they were n't good RPGs .
+The ONLY thing they had going was that they were available on Apple II .
+That 's it .
+That 's the only reason Ultima sold a single copy .
+Ultima was a huge failure on all other platforms .
+People were so starved for software they 'd put up with his lousy storylines and horrible interfaces .
+Oh , and you got a printed-on-cloth map .
+Of course , these were the nimnuls who were too stupid to spend less than a third of the money buying a Commodore 64 , with it 's far more impressive capabilities .</tokentext>
+<sentencetext>Even back in the day they weren't good RPGs.
+The ONLY thing they had going was that they were available on Apple II.
+That's it.
+That's the only reason Ultima sold a single copy.
+Ultima was a huge failure on all other platforms.
+People were so starved for software they'd put up with his lousy storylines and horrible interfaces.
+Oh, and you got a printed-on-cloth map.
+Of course, these were the nimnuls who were too stupid to spend less than a third of the money buying a Commodore 64, with it's far more impressive capabilities.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662746</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662956</id>
+	<title>The moon is owned by a chilean. Period!</title>
+	<author>nomorecwrd</author>
+	<datestamp>1269860160000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>Here is the proof!<br>
+<a href="http://en.wikipedia.org/wiki/Jenaro\_Gajardo\_Vera" title="wikipedia.org" rel="nofollow">in English</a> [wikipedia.org] and <a href="http://es.wikipedia.org/wiki/Jenaro\_Gajardo\_Vera" title="wikipedia.org" rel="nofollow">Spanish (more complete)</a> [wikipedia.org] <br> <br>
+Don't argue with me about Wikipedia not being the total truth.</htmltext>
+<tokenext>Here is the proof !
+in English [ wikipedia.org ] and Spanish ( more complete ) [ wikipedia.org ] Do n't argue with me about Wikipedia not being the total truth .</tokentext>
+<sentencetext>Here is the proof!
+in English [wikipedia.org] and Spanish (more complete) [wikipedia.org]  
+Don't argue with me about Wikipedia not being the total truth.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663574</id>
+	<title>The Case for Lunar Property Rights</title>
+	<author>Anonymous</author>
+	<datestamp>1269863580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>According to an <a href="http://www.popularmechanics.com/science/air\_space/4264325.htm" title="popularmechanics.com">article in Popular Mechanics</a> [popularmechanics.com] from the June 2008 issue:</p><p>With the space race in full flower, though, the real worry was national sovereignty. Both the United States and the Soviet Union wanted to reach the moon first but, in fact, each was more worried about what would happen if they arrived second. Fears that the competition might trigger World War III led to the 1967 Outer Space Treaty, which was eventually ratified by 62 countries. According to article II of the treaty, "Outer Space, including the moon and other celestial bodies, is not subject to national appropriation by claim of sovereignty, by means of use or occupation, or by any other means."</p><p>Ideally, title would be recognized by an international agreement that all nations would endorse. The 1979 Moon Treaty was a flop, but there's no reason the space powers couldn't agree on a new treaty that recognizes property rights and encourages investment. After all, the international climate has warmed to property rights and capitalism over the past 30 years.</p></htmltext>
+<tokenext>According to an article in Popular Mechanics [ popularmechanics.com ] from the June 2008 issue : With the space race in full flower , though , the real worry was national sovereignty .
+Both the United States and the Soviet Union wanted to reach the moon first but , in fact , each was more worried about what would happen if they arrived second .
+Fears that the competition might trigger World War III led to the 1967 Outer Space Treaty , which was eventually ratified by 62 countries .
+According to article II of the treaty , " Outer Space , including the moon and other celestial bodies , is not subject to national appropriation by claim of sovereignty , by means of use or occupation , or by any other means .
+" Ideally , title would be recognized by an international agreement that all nations would endorse .
+The 1979 Moon Treaty was a flop , but there 's no reason the space powers could n't agree on a new treaty that recognizes property rights and encourages investment .
+After all , the international climate has warmed to property rights and capitalism over the past 30 years .</tokentext>
+<sentencetext>According to an article in Popular Mechanics [popularmechanics.com] from the June 2008 issue:With the space race in full flower, though, the real worry was national sovereignty.
+Both the United States and the Soviet Union wanted to reach the moon first but, in fact, each was more worried about what would happen if they arrived second.
+Fears that the competition might trigger World War III led to the 1967 Outer Space Treaty, which was eventually ratified by 62 countries.
+According to article II of the treaty, "Outer Space, including the moon and other celestial bodies, is not subject to national appropriation by claim of sovereignty, by means of use or occupation, or by any other means.
+"Ideally, title would be recognized by an international agreement that all nations would endorse.
+The 1979 Moon Treaty was a flop, but there's no reason the space powers couldn't agree on a new treaty that recognizes property rights and encourages investment.
+After all, the international climate has warmed to property rights and capitalism over the past 30 years.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664324</id>
+	<title>Thought this was a different story.</title>
+	<author>Anonymous</author>
+	<datestamp>1269867600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Anyone else remember the rocketship in the original Ultima?</p></htmltext>
+<tokenext>Anyone else remember the rocketship in the original Ultima ?</tokentext>
+<sentencetext>Anyone else remember the rocketship in the original Ultima?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663206</id>
+	<title>Geez</title>
+	<author>kaffiene</author>
+	<datestamp>1269861660000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>You guys really need to learn to grow a sense of humour.</p></htmltext>
+<tokenext>You guys really need to learn to grow a sense of humour .</tokentext>
+<sentencetext>You guys really need to learn to grow a sense of humour.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662506</id>
+	<title>His new neighbor...</title>
+	<author>GPLDAN</author>
+	<datestamp>1269858120000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>In other news, a man named 'Rainz' bought the plot next to British on the moon, and wondered if Lord British wanted some bread as a housewarming present.</htmltext>
+<tokenext>In other news , a man named 'Rainz ' bought the plot next to British on the moon , and wondered if Lord British wanted some bread as a housewarming present .</tokentext>
+<sentencetext>In other news, a man named 'Rainz' bought the plot next to British on the moon, and wondered if Lord British wanted some bread as a housewarming present.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662982</id>
+	<title>Re:And I'm a Duke of Sealand</title>
+	<author>Anonymous</author>
+	<datestamp>1269860280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>There is an actual Sealand btw....
+<br> <br>
+</htmltext>
+<tokenext>There is an actual Sealand btw... .</tokentext>
+<sentencetext>There is an actual Sealand btw....
+ 
+</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662456</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663288</id>
+	<title>Re:Not Bloody Likely</title>
+	<author>Brian Boitano</author>
+	<datestamp>1269862140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Joanne Irene Gabrynowicz.... <i>Space Lawyer!!</i></p></htmltext>
+<tokenext>Joanne Irene Gabrynowicz.... Space Lawyer !
+!</tokentext>
+<sentencetext>Joanne Irene Gabrynowicz.... Space Lawyer!
+!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662700</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663064</id>
+	<title>I hope he's just joking around...</title>
+	<author>Anonymous</author>
+	<datestamp>1269860760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Last time I heard, there was an international treaty or something preventing countries from owning the moon, or the rest of the solar system for that matter.<br>Lord British (aka Richard Garriot) is a citizen of one of those signatory countries, and I believe that also prevents him from laying claim.<br>On top of that, the little understanding I have of settler or homesteading laws require that the person be on that land, and he has never been to the moon.<br>Trying to claim that you own the land under or near your 2nd hand space junk is kind of like claiming you own the land around a rock you threw into the fog.<br>Now as nobody has made any attempts at recovery of the lander I suspect international law allows a salvager to claim it, if they salvage it. (Not likely to happen anytime soon.)</p><p>Of course, IANAL, and this is all just my opinion based on the few things I've read on some of these laws, but still, let's get some sense in here.</p><p>Besides, everyone knows that the best lunar property is on the darkside.   &gt;^\_^</p></htmltext>
+<tokenext>Last time I heard , there was an international treaty or something preventing countries from owning the moon , or the rest of the solar system for that matter.Lord British ( aka Richard Garriot ) is a citizen of one of those signatory countries , and I believe that also prevents him from laying claim.On top of that , the little understanding I have of settler or homesteading laws require that the person be on that land , and he has never been to the moon.Trying to claim that you own the land under or near your 2nd hand space junk is kind of like claiming you own the land around a rock you threw into the fog.Now as nobody has made any attempts at recovery of the lander I suspect international law allows a salvager to claim it , if they salvage it .
+( Not likely to happen anytime soon .
+) Of course , IANAL , and this is all just my opinion based on the few things I 've read on some of these laws , but still , let 's get some sense in here.Besides , everyone knows that the best lunar property is on the darkside .
+&gt; ^ \ _ ^</tokentext>
+<sentencetext>Last time I heard, there was an international treaty or something preventing countries from owning the moon, or the rest of the solar system for that matter.Lord British (aka Richard Garriot) is a citizen of one of those signatory countries, and I believe that also prevents him from laying claim.On top of that, the little understanding I have of settler or homesteading laws require that the person be on that land, and he has never been to the moon.Trying to claim that you own the land under or near your 2nd hand space junk is kind of like claiming you own the land around a rock you threw into the fog.Now as nobody has made any attempts at recovery of the lander I suspect international law allows a salvager to claim it, if they salvage it.
+(Not likely to happen anytime soon.
+)Of course, IANAL, and this is all just my opinion based on the few things I've read on some of these laws, but still, let's get some sense in here.Besides, everyone knows that the best lunar property is on the darkside.
+&gt;^\_^</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662622</id>
+	<title>Lemme guess</title>
+	<author>Moraelin</author>
+	<datestamp>1269858540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Actually, if I were to guess what next, it would be "Lord British accuses cabbages of conspiring to invade his lunar domain."<nobr> <wbr></nobr>;)</p></htmltext>
+<tokenext>Actually , if I were to guess what next , it would be " Lord British accuses cabbages of conspiring to invade his lunar domain .
+" ; )</tokentext>
+<sentencetext>Actually, if I were to guess what next, it would be "Lord British accuses cabbages of conspiring to invade his lunar domain.
+" ;)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662444</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663516</id>
+	<title>Re:Not Bloody Likely</title>
+	<author>Anonymous</author>
+	<datestamp>1269863280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Didn't some company in Neveda try selling titles/deeds to the Moon years back? You know, I don't think any of those titles/deeds are going to be worth anything. I think true ownership will be when someone actually takes up residence or makes use of a given property on the Moon. No pointing and saying, "Hey, that there, it's mine!"</p><p>I'm not a lawyer, but common sense sort of dictates this, doesn't it? I mean, under whose authority will those titles/deeds be enforced? We're all here back on Earth afterall.</p></htmltext>
+<tokenext>Did n't some company in Neveda try selling titles/deeds to the Moon years back ?
+You know , I do n't think any of those titles/deeds are going to be worth anything .
+I think true ownership will be when someone actually takes up residence or makes use of a given property on the Moon .
+No pointing and saying , " Hey , that there , it 's mine !
+" I 'm not a lawyer , but common sense sort of dictates this , does n't it ?
+I mean , under whose authority will those titles/deeds be enforced ?
+We 're all here back on Earth afterall .</tokentext>
+<sentencetext>Didn't some company in Neveda try selling titles/deeds to the Moon years back?
+You know, I don't think any of those titles/deeds are going to be worth anything.
+I think true ownership will be when someone actually takes up residence or makes use of a given property on the Moon.
+No pointing and saying, "Hey, that there, it's mine!
+"I'm not a lawyer, but common sense sort of dictates this, doesn't it?
+I mean, under whose authority will those titles/deeds be enforced?
+We're all here back on Earth afterall.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662700</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664020</id>
+	<title>What a luna(r)tic!</title>
+	<author>Anonymous</author>
+	<datestamp>1269866160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>... now get off my lawn...</p></htmltext>
+<tokenext>... now get off my lawn.. .</tokentext>
+<sentencetext>... now get off my lawn...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662444</id>
+	<title>Headline.</title>
+	<author>daniel.waterfield</author>
+	<datestamp>1269857880000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>As headlines go, this is into the 'warner bros cartoon' surreal territory. What's next? 'Lord British holds earth to ransom from his moon fortress!'</htmltext>
+<tokenext>As headlines go , this is into the 'warner bros cartoon ' surreal territory .
+What 's next ?
+'Lord British holds earth to ransom from his moon fortress !
+'</tokentext>
+<sentencetext>As headlines go, this is into the 'warner bros cartoon' surreal territory.
+What's next?
+'Lord British holds earth to ransom from his moon fortress!
+'</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662472</id>
+	<title>not the entire moon</title>
+	<author>Power\_Pentode</author>
+	<datestamp>1269857940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Actually, his quote in the article claims "...territory - at the very least around my rover and, potentially, along its point of travel".  He does not appear to be claiming that he owns the entire moon.</div>
+	</htmltext>
+<tokenext>Actually , his quote in the article claims " ...territory - at the very least around my rover and , potentially , along its point of travel " .
+He does not appear to be claiming that he owns the entire moon .</tokentext>
+<sentencetext>Actually, his quote in the article claims "...territory - at the very least around my rover and, potentially, along its point of travel".
+He does not appear to be claiming that he owns the entire moon.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663106</id>
+	<title>I hereby claim ownership of Uranus.</title>
+	<author>Anonymous</author>
+	<datestamp>1269860940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I hereby claim ownership of Uranus.<br> <br><nobr> <wbr></nobr>/all hail your Uranus Overlord!</htmltext>
+<tokenext>I hereby claim ownership of Uranus .
+/all hail your Uranus Overlord !</tokentext>
+<sentencetext>I hereby claim ownership of Uranus.
+/all hail your Uranus Overlord!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663988</id>
+	<title>Re:Not Bloody Likely</title>
+	<author>Anonymous</author>
+	<datestamp>1269865980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>So, at best, he might have an implicit <a href="http://en.wikipedia.org/wiki/Easement" title="wikipedia.org" rel="nofollow">easement</a> [wikipedia.org] that lets him park his stuff on the surface of the Moon, which is otherwise public property (I'm thinking of <a href="http://en.wikipedia.org/wiki/Easement#Easement\_by\_Prior\_Use" title="wikipedia.org" rel="nofollow">this type</a> [wikipedia.org]).</p><p>At worst, he might owe a few decades of parking fees for leaving his stuff unattended on the commons.<nobr> <wbr></nobr>:-)</p></htmltext>
+<tokenext>So , at best , he might have an implicit easement [ wikipedia.org ] that lets him park his stuff on the surface of the Moon , which is otherwise public property ( I 'm thinking of this type [ wikipedia.org ] ) .At worst , he might owe a few decades of parking fees for leaving his stuff unattended on the commons .
+: - )</tokentext>
+<sentencetext>So, at best, he might have an implicit easement [wikipedia.org] that lets him park his stuff on the surface of the Moon, which is otherwise public property (I'm thinking of this type [wikipedia.org]).At worst, he might owe a few decades of parking fees for leaving his stuff unattended on the commons.
+:-)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662700</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662448</id>
+	<title>moo</title>
+	<author>Anonymous</author>
+	<datestamp>1269857880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>moo</p></htmltext>
+<tokenext>moo</tokentext>
+<sentencetext>moo</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31667102</id>
+	<title>Funny as well as foolish</title>
+	<author>randolbov</author>
+	<datestamp>1269890520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>This is really funny!! now tomorrow someone will lay claim on the sun and say that the sun is his private property and he will not give its sunlight to anyone.
+<a href="http://www.articlesbase.com/finance-articles/automated-forex-trading-system-find-the-best-automatic-forex-trading-tool-2066204.html" title="articlesbase.com" rel="nofollow">http://www.articlesbase.com/finance-articles/automated-forex-trading-system-find-the-best-automatic-forex-trading-tool-2066204.html</a> [articlesbase.com]</htmltext>
+<tokenext>This is really funny ! !
+now tomorrow someone will lay claim on the sun and say that the sun is his private property and he will not give its sunlight to anyone .
+http : //www.articlesbase.com/finance-articles/automated-forex-trading-system-find-the-best-automatic-forex-trading-tool-2066204.html [ articlesbase.com ]</tokentext>
+<sentencetext>This is really funny!!
+now tomorrow someone will lay claim on the sun and say that the sun is his private property and he will not give its sunlight to anyone.
+http://www.articlesbase.com/finance-articles/automated-forex-trading-system-find-the-best-automatic-forex-trading-tool-2066204.html [articlesbase.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31672756</id>
+	<title>Well, if he does own the moon...</title>
+	<author>wwphx</author>
+	<datestamp>1269970140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>he needs to get his butt up there and fix the retro reflector on the other Lunokhod!  They launched two that mounted retro reflectors for laser ranging experiments, which my wife does on a regular basis (Apache Point Observatory's Dr. Russet McMillan, as featured on Mythbusters) and they can't hit one of the LK's.  The three Apollo reflectors are fine, just one of the LK's.  And maybe he could upgrade the other, it doesn't work when in full sunlight.
+
+Stupid absentee slumlords....</htmltext>
+<tokenext>he needs to get his butt up there and fix the retro reflector on the other Lunokhod !
+They launched two that mounted retro reflectors for laser ranging experiments , which my wife does on a regular basis ( Apache Point Observatory 's Dr. Russet McMillan , as featured on Mythbusters ) and they ca n't hit one of the LK 's .
+The three Apollo reflectors are fine , just one of the LK 's .
+And maybe he could upgrade the other , it does n't work when in full sunlight .
+Stupid absentee slumlords... .</tokentext>
+<sentencetext>he needs to get his butt up there and fix the retro reflector on the other Lunokhod!
+They launched two that mounted retro reflectors for laser ranging experiments, which my wife does on a regular basis (Apache Point Observatory's Dr. Russet McMillan, as featured on Mythbusters) and they can't hit one of the LK's.
+The three Apollo reflectors are fine, just one of the LK's.
+And maybe he could upgrade the other, it doesn't work when in full sunlight.
+Stupid absentee slumlords....</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663286</id>
+	<title>Re:I hereby claim ownership of Uranus.</title>
+	<author>gestalt\_n\_pepper</author>
+	<datestamp>1269862140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Ow! STOP That!!!</p></htmltext>
+<tokenext>Ow !
+STOP That ! !
+!</tokentext>
+<sentencetext>Ow!
+STOP That!!
+!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663106</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665484</id>
+	<title>Nice try, but...</title>
+	<author>VampDuc</author>
+	<datestamp>1269874980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Sorry, an Oklahoma City mayor already annexed the moon in the '80's.</htmltext>
+<tokenext>Sorry , an Oklahoma City mayor already annexed the moon in the '80 's .</tokentext>
+<sentencetext>Sorry, an Oklahoma City mayor already annexed the moon in the '80's.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31668446</id>
+	<title>Re:Property Values</title>
+	<author>Anonymous</author>
+	<datestamp>1269951420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Assuming that his title is not mere vulgar affectation, me must assume that the Lord British has sworn fealty to his liege, HRH Queen Elizabeth II.  Hence his title to the land exists solely at Her Majesty's pleasure and, dammit, if you try to take what is ours we shall fight on the dust, we shall fight on the landing sites, we shall right on the maria, we shall fight in the hills; we shall never surrender.</p></htmltext>
+<tokenext>Assuming that his title is not mere vulgar affectation , me must assume that the Lord British has sworn fealty to his liege , HRH Queen Elizabeth II .
+Hence his title to the land exists solely at Her Majesty 's pleasure and , dammit , if you try to take what is ours we shall fight on the dust , we shall fight on the landing sites , we shall right on the maria , we shall fight in the hills ; we shall never surrender .</tokentext>
+<sentencetext>Assuming that his title is not mere vulgar affectation, me must assume that the Lord British has sworn fealty to his liege, HRH Queen Elizabeth II.
+Hence his title to the land exists solely at Her Majesty's pleasure and, dammit, if you try to take what is ours we shall fight on the dust, we shall fight on the landing sites, we shall right on the maria, we shall fight in the hills; we shall never surrender.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664630</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662748</id>
+	<title>Sire</title>
+	<author>enter to exit</author>
+	<datestamp>1269859200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>so will his peerage still be valid on the moon? <br> <br>
+or will he discard the lowly <i>earth</i> titles and declare himself "King <b>Moon</b>"?</htmltext>
+<tokenext>so will his peerage still be valid on the moon ?
+or will he discard the lowly earth titles and declare himself " King Moon " ?</tokentext>
+<sentencetext>so will his peerage still be valid on the moon?
+or will he discard the lowly earth titles and declare himself "King Moon"?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662910</id>
+	<title>Lord British can go suck a dick.</title>
+	<author>Chas</author>
+	<datestamp>1269859980000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>'Nuff said.</p></htmltext>
+<tokenext>'Nuff said .</tokentext>
+<sentencetext>'Nuff said.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663514</id>
+	<title>PUBLIC NOTICE!</title>
+	<author>ryanisflyboy</author>
+	<datestamp>1269863280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I have purchased the entire galaxy known as NGC 1365. If you're interested in renting a planet, the price is $1.8M/month US. If anyone settles there without my permission, expect to be sued.</p><p>Further, I am leasing all the space between the Earth and the Moon. If you'd like access to the Moon, the toll will be set at $750,000 US each way.</p><p>For ownership verification please see the public records division on Alpha Centauri.</p><p>Thank you.</p></htmltext>
+<tokenext>I have purchased the entire galaxy known as NGC 1365 .
+If you 're interested in renting a planet , the price is $ 1.8M/month US .
+If anyone settles there without my permission , expect to be sued.Further , I am leasing all the space between the Earth and the Moon .
+If you 'd like access to the Moon , the toll will be set at $ 750,000 US each way.For ownership verification please see the public records division on Alpha Centauri.Thank you .</tokentext>
+<sentencetext>I have purchased the entire galaxy known as NGC 1365.
+If you're interested in renting a planet, the price is $1.8M/month US.
+If anyone settles there without my permission, expect to be sued.Further, I am leasing all the space between the Earth and the Moon.
+If you'd like access to the Moon, the toll will be set at $750,000 US each way.For ownership verification please see the public records division on Alpha Centauri.Thank you.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664728</id>
+	<title>It's much simpler than that</title>
+	<author>raddan</author>
+	<datestamp>1269869820000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext>Most people around here are taking Garriott's bait and are picking apart the legal ramifications of his rover ownership, but it's much simpler than that.  You own something if you can defend it.  I.e., you have an army.  Treaties are meaningless outside the context of force.  Ever wonder why making someone follow a contract is called 'enforcement'?
+<br> <br>
+And, because R.A.H. is taken as Gospel around here: the moon dwellers didn't gain sovereignty until they showed that they could pummel the bejeezus out of Earth.  It turns out that it actually works that way in real life.</htmltext>
+<tokenext>Most people around here are taking Garriott 's bait and are picking apart the legal ramifications of his rover ownership , but it 's much simpler than that .
+You own something if you can defend it .
+I.e. , you have an army .
+Treaties are meaningless outside the context of force .
+Ever wonder why making someone follow a contract is called 'enforcement ' ?
+And , because R.A.H .
+is taken as Gospel around here : the moon dwellers did n't gain sovereignty until they showed that they could pummel the bejeezus out of Earth .
+It turns out that it actually works that way in real life .</tokentext>
+<sentencetext>Most people around here are taking Garriott's bait and are picking apart the legal ramifications of his rover ownership, but it's much simpler than that.
+You own something if you can defend it.
+I.e., you have an army.
+Treaties are meaningless outside the context of force.
+Ever wonder why making someone follow a contract is called 'enforcement'?
+And, because R.A.H.
+is taken as Gospel around here: the moon dwellers didn't gain sovereignty until they showed that they could pummel the bejeezus out of Earth.
+It turns out that it actually works that way in real life.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662700</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665878</id>
+	<title>Re:I'm so sick of Garriot. ENOUGH!</title>
+	<author>IgnoramusMaximus</author>
+	<datestamp>1269877800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Well, that depends. </p><p>If he is in orbit above the opposite side of the planet, we are actually looking <b>down</b> on him. Or when in the John we are even peeing down or poo-pooing  down or<nobr> <wbr></nobr>....  you get the idea.</p></htmltext>
+<tokenext>Well , that depends .
+If he is in orbit above the opposite side of the planet , we are actually looking down on him .
+Or when in the John we are even peeing down or poo-pooing down or .... you get the idea .</tokentext>
+<sentencetext>Well, that depends.
+If he is in orbit above the opposite side of the planet, we are actually looking down on him.
+Or when in the John we are even peeing down or poo-pooing  down or ....  you get the idea.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663290</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662700</id>
+	<title>Not Bloody Likely</title>
+	<author>careysub</author>
+	<datestamp>1269858900000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>Garriott may or may not own a legal title to Lunokhod (it is by no means a given that the auction sale was a legitimate title), but there is no way buying Lunokhod gives him any ownership rights to any piece of the Moon, however small.</p><p>From <a href="http://www.space.com/news/soviet-moon-rover-space-law-100322.html" title="space.com">http://www.space.com/news/soviet-moon-rover-space-law-100322.html</a> [space.com]:</p><p> <b>Validity of ownership?</b> <br>
+
+Enter space lawyer, Joanne Irene Gabrynowicz. She is Director of the National Center for Remote Sensing, Air and Space Law and Research Professor of Law at the University of Mississippi.<br>
+
+"The soundness of a property right depends in large part on the integrity of the documents that memorialize the right," Gabrynowicz told SPACE.com via email. "This is why property buyers conduct title searches before buying property. They want to be sure that the title is good."<br>
+
+Gabrynowicz said that without reading the papers or knowing how they were processed and by whom, she can't speak to the validity of the ownership of a space object purchased at auction.<br>
+
+"However, a contention that buying a space object that landed on the lunar surface from a sovereign nation gives rise to a property right to the territory under it is wrong," Gabrynowicz said.<br>
+
+Gabrynowicz said that States-Parties to the Outer Space Treaty of 1966 cannot acquire lunar territory by landing an object on the moon.<br>
+
+"The USSR was and Russia is a party to the Outer Space Treaty," she added. "It did not acquire the territory under the object when it landed. One cannot sell what one does not own. Since USSR/Russia did not have a property right to the territory under the landed object, there was nothing to sell."</p></htmltext>
+<tokenext>Garriott may or may not own a legal title to Lunokhod ( it is by no means a given that the auction sale was a legitimate title ) , but there is no way buying Lunokhod gives him any ownership rights to any piece of the Moon , however small.From http : //www.space.com/news/soviet-moon-rover-space-law-100322.html [ space.com ] : Validity of ownership ?
+Enter space lawyer , Joanne Irene Gabrynowicz .
+She is Director of the National Center for Remote Sensing , Air and Space Law and Research Professor of Law at the University of Mississippi .
+" The soundness of a property right depends in large part on the integrity of the documents that memorialize the right , " Gabrynowicz told SPACE.com via email .
+" This is why property buyers conduct title searches before buying property .
+They want to be sure that the title is good .
+" Gabrynowicz said that without reading the papers or knowing how they were processed and by whom , she ca n't speak to the validity of the ownership of a space object purchased at auction .
+" However , a contention that buying a space object that landed on the lunar surface from a sovereign nation gives rise to a property right to the territory under it is wrong , " Gabrynowicz said .
+Gabrynowicz said that States-Parties to the Outer Space Treaty of 1966 can not acquire lunar territory by landing an object on the moon .
+" The USSR was and Russia is a party to the Outer Space Treaty , " she added .
+" It did not acquire the territory under the object when it landed .
+One can not sell what one does not own .
+Since USSR/Russia did not have a property right to the territory under the landed object , there was nothing to sell .
+"</tokentext>
+<sentencetext>Garriott may or may not own a legal title to Lunokhod (it is by no means a given that the auction sale was a legitimate title), but there is no way buying Lunokhod gives him any ownership rights to any piece of the Moon, however small.From http://www.space.com/news/soviet-moon-rover-space-law-100322.html [space.com]: Validity of ownership?
+Enter space lawyer, Joanne Irene Gabrynowicz.
+She is Director of the National Center for Remote Sensing, Air and Space Law and Research Professor of Law at the University of Mississippi.
+"The soundness of a property right depends in large part on the integrity of the documents that memorialize the right," Gabrynowicz told SPACE.com via email.
+"This is why property buyers conduct title searches before buying property.
+They want to be sure that the title is good.
+"
+
+Gabrynowicz said that without reading the papers or knowing how they were processed and by whom, she can't speak to the validity of the ownership of a space object purchased at auction.
+"However, a contention that buying a space object that landed on the lunar surface from a sovereign nation gives rise to a property right to the territory under it is wrong," Gabrynowicz said.
+Gabrynowicz said that States-Parties to the Outer Space Treaty of 1966 cannot acquire lunar territory by landing an object on the moon.
+"The USSR was and Russia is a party to the Outer Space Treaty," she added.
+"It did not acquire the territory under the object when it landed.
+One cannot sell what one does not own.
+Since USSR/Russia did not have a property right to the territory under the landed object, there was nothing to sell.
+"</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662456</id>
+	<title>And I'm a Duke of Sealand</title>
+	<author>Low Ranked Craig</author>
+	<datestamp>1269857880000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>1</modscore>
+	<htmltext>So what?
+
+<a href="http://uncyclopedia.wikia.com/wiki/Sealand" title="wikia.com">http://uncyclopedia.wikia.com/wiki/Sealand</a> [wikia.com]</htmltext>
+<tokenext>So what ?
+http : //uncyclopedia.wikia.com/wiki/Sealand [ wikia.com ]</tokentext>
+<sentencetext>So what?
+http://uncyclopedia.wikia.com/wiki/Sealand [wikia.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663786</id>
+	<title>Re:Headline.</title>
+	<author>Low Ranked Craig</author>
+	<datestamp>1269864900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Yeah.  He's gonna be real pissed when Marvin destroys the Earth moon system to enhance his view of Venus...</htmltext>
+<tokenext>Yeah .
+He 's gon na be real pissed when Marvin destroys the Earth moon system to enhance his view of Venus.. .</tokentext>
+<sentencetext>Yeah.
+He's gonna be real pissed when Marvin destroys the Earth moon system to enhance his view of Venus...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662444</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662878</id>
+	<title>The American Flag</title>
+	<author>DigiShaman</author>
+	<datestamp>1269859800000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Well, if you want to place this game, the Lord can pound luna soil. The American's landed and placed a national Flag on the surface of the moon. So technically, it's property of the USA.</p></htmltext>
+<tokenext>Well , if you want to place this game , the Lord can pound luna soil .
+The American 's landed and placed a national Flag on the surface of the moon .
+So technically , it 's property of the USA .</tokentext>
+<sentencetext>Well, if you want to place this game, the Lord can pound luna soil.
+The American's landed and placed a national Flag on the surface of the moon.
+So technically, it's property of the USA.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663154</id>
+	<title>Moon Town</title>
+	<author>Anonymous</author>
+	<datestamp>1269861360000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>I believe he was referring to <a href="http://shrines.rpgclassics.com/nes/ultima3/images/moon.gif" title="rpgclassics.com">the town</a> [rpgclassics.com] in Ultima III, which he really could lay claim to.</p><p>Also, couldn't you visit the moon in Ultima II?  My memory of that is hazy.  I know Ronald McDonald was in it at some point.</p></htmltext>
+<tokenext>I believe he was referring to the town [ rpgclassics.com ] in Ultima III , which he really could lay claim to.Also , could n't you visit the moon in Ultima II ?
+My memory of that is hazy .
+I know Ronald McDonald was in it at some point .</tokentext>
+<sentencetext>I believe he was referring to the town [rpgclassics.com] in Ultima III, which he really could lay claim to.Also, couldn't you visit the moon in Ultima II?
+My memory of that is hazy.
+I know Ronald McDonald was in it at some point.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664858</id>
+	<title>Planet orbiting Earth</title>
+	<author>sheehaje</author>
+	<datestamp>1269870540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>FTFA:  "Last week, NASA's Lunar Reconnaissance Orbiter found Lunokhod 2, sitting clearly on the planet&rsquo;s surface."</p><p>First Pluto ceases to be a planet...  Now the Moon is no longer a moon, but a planet...  What is this solar system coming to?</p></htmltext>
+<tokenext>FTFA : " Last week , NASA 's Lunar Reconnaissance Orbiter found Lunokhod 2 , sitting clearly on the planet â € ™ s surface .
+" First Pluto ceases to be a planet... Now the Moon is no longer a moon , but a planet... What is this solar system coming to ?</tokentext>
+<sentencetext>FTFA:  "Last week, NASA's Lunar Reconnaissance Orbiter found Lunokhod 2, sitting clearly on the planetâ€™s surface.
+"First Pluto ceases to be a planet...  Now the Moon is no longer a moon, but a planet...  What is this solar system coming to?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663258</id>
+	<title>Not yet his...</title>
+	<author>Anonymous</author>
+	<datestamp>1269861960000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><a href="http://en.wikipedia.org/wiki/Outer\_Space\_Treaty" title="wikipedia.org">http://en.wikipedia.org/wiki/Outer\_Space\_Treaty</a> [wikipedia.org]</p><p>As a citizen of a nation whom signed that treaty, his government's law is still held over him, and the UK law (by treaty) is that no nation or person can own the moon, it is there for all of mankind.</p><p>Maybe possibly he could do so if he has his citizenship canceled (Is that possible in the UK?  I know it is in the USA but obviously that doesn't apply here)</p><p>However with no citizenship to pretty much any first world nation with space technology, that will leave him out in the cold for trying to claim his property.  He also stands a good chance of getting shot down if he did somehow manage to launch from a country that does not have a space program.<br>(ZOMG, is that an incoming ICMB?!  better not take any chances, press the red button!)</p></htmltext>
+<tokenext>http : //en.wikipedia.org/wiki/Outer \ _Space \ _Treaty [ wikipedia.org ] As a citizen of a nation whom signed that treaty , his government 's law is still held over him , and the UK law ( by treaty ) is that no nation or person can own the moon , it is there for all of mankind.Maybe possibly he could do so if he has his citizenship canceled ( Is that possible in the UK ?
+I know it is in the USA but obviously that does n't apply here ) However with no citizenship to pretty much any first world nation with space technology , that will leave him out in the cold for trying to claim his property .
+He also stands a good chance of getting shot down if he did somehow manage to launch from a country that does not have a space program .
+( ZOMG , is that an incoming ICMB ? !
+better not take any chances , press the red button !
+)</tokentext>
+<sentencetext>http://en.wikipedia.org/wiki/Outer\_Space\_Treaty [wikipedia.org]As a citizen of a nation whom signed that treaty, his government's law is still held over him, and the UK law (by treaty) is that no nation or person can own the moon, it is there for all of mankind.Maybe possibly he could do so if he has his citizenship canceled (Is that possible in the UK?
+I know it is in the USA but obviously that doesn't apply here)However with no citizenship to pretty much any first world nation with space technology, that will leave him out in the cold for trying to claim his property.
+He also stands a good chance of getting shot down if he did somehow manage to launch from a country that does not have a space program.
+(ZOMG, is that an incoming ICMB?!
+better not take any chances, press the red button!
+)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663130</id>
+	<title>Re:Headline.</title>
+	<author>elynnia</author>
+	<datestamp>1269861120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>"Garriott added that his assertion is somewhat tongue in cheek."<br>
+-<a href="http://www.space.com/news/soviet-moon-rover-space-law-100322.html" title="space.com">a less dodgy source</a> [space.com]</htmltext>
+<tokenext>" Garriott added that his assertion is somewhat tongue in cheek .
+" -a less dodgy source [ space.com ]</tokentext>
+<sentencetext>"Garriott added that his assertion is somewhat tongue in cheek.
+"
+-a less dodgy source [space.com]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662444</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662436</id>
+	<title>Property Values</title>
+	<author>Anonymous</author>
+	<datestamp>1269857820000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext>So if another probe lands in the vicinity, or roves its away across the supposed territory, would Lord British then have grounds to sue for ruining the property values?  "Good Lord, man, look at what you've done!  All those tracks ruin the pristine scenery!"</htmltext>
+<tokenext>So if another probe lands in the vicinity , or roves its away across the supposed territory , would Lord British then have grounds to sue for ruining the property values ?
+" Good Lord , man , look at what you 've done !
+All those tracks ruin the pristine scenery !
+"</tokentext>
+<sentencetext>So if another probe lands in the vicinity, or roves its away across the supposed territory, would Lord British then have grounds to sue for ruining the property values?
+"Good Lord, man, look at what you've done!
+All those tracks ruin the pristine scenery!
+"</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662684</id>
+	<title>The Lunar Embassy might disagree</title>
+	<author>Anonymous</author>
+	<datestamp>1269858780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>http://www.lunarembassy.com<br>The lunar embassy has been selling land on the moon for years.  It may already be owned.</p></htmltext>
+<tokenext>http : //www.lunarembassy.comThe lunar embassy has been selling land on the moon for years .
+It may already be owned .</tokentext>
+<sentencetext>http://www.lunarembassy.comThe lunar embassy has been selling land on the moon for years.
+It may already be owned.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31666008</id>
+	<title>Anonymous Coward</title>
+	<author>Anonymous</author>
+	<datestamp>1269879000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>If the moon is his, do we have to pay to see the moon?</p></htmltext>
+<tokenext>If the moon is his , do we have to pay to see the moon ?</tokentext>
+<sentencetext>If the moon is his, do we have to pay to see the moon?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662746</id>
+	<title>I'm so sick of Garriot. ENOUGH!</title>
+	<author>Zaphod The 42nd</author>
+	<datestamp>1269859140000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>-1</modscore>
+	<htmltext>Can we stop giving this guy attention? He's hardly worth all the celebrity and admiration he seems to be getting lately (and likely seeking for himself). He made a few crap games back when nobody knew how to make MMORPGs yet, and capitalized on it, made a fortune, and HASN'T MADE A SINGLE DECENT GAME SINCE.<br> <br>
+Now just cuz his dad was a TRUE astronaut, he bought his way into space with his ridiculous riches and he expects to be looked up to? Going around on talk shows acting like he's the talk of the town?
+<br> <br>
+Now THIS? Okay, I'm done. I never want to hear about Richard Garriot again. He hasn't done anything worth respecting.</htmltext>
+<tokenext>Can we stop giving this guy attention ?
+He 's hardly worth all the celebrity and admiration he seems to be getting lately ( and likely seeking for himself ) .
+He made a few crap games back when nobody knew how to make MMORPGs yet , and capitalized on it , made a fortune , and HAS N'T MADE A SINGLE DECENT GAME SINCE .
+Now just cuz his dad was a TRUE astronaut , he bought his way into space with his ridiculous riches and he expects to be looked up to ?
+Going around on talk shows acting like he 's the talk of the town ?
+Now THIS ?
+Okay , I 'm done .
+I never want to hear about Richard Garriot again .
+He has n't done anything worth respecting .</tokentext>
+<sentencetext>Can we stop giving this guy attention?
+He's hardly worth all the celebrity and admiration he seems to be getting lately (and likely seeking for himself).
+He made a few crap games back when nobody knew how to make MMORPGs yet, and capitalized on it, made a fortune, and HASN'T MADE A SINGLE DECENT GAME SINCE.
+Now just cuz his dad was a TRUE astronaut, he bought his way into space with his ridiculous riches and he expects to be looked up to?
+Going around on talk shows acting like he's the talk of the town?
+Now THIS?
+Okay, I'm done.
+I never want to hear about Richard Garriot again.
+He hasn't done anything worth respecting.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31666784</id>
+	<title>Anonymous Coward</title>
+	<author>Anonymous</author>
+	<datestamp>1269887160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p> nonsense, I am the owner of the moon. But now I know at least whom to send the parking tickets for the last decades.</p><p>Sincerly Yours,<br>
+&nbsp; &nbsp; &nbsp; The Man in the Moon</p></htmltext>
+<tokenext>nonsense , I am the owner of the moon .
+But now I know at least whom to send the parking tickets for the last decades.Sincerly Yours , Â   Â   Â   The Man in the Moon</tokentext>
+<sentencetext> nonsense, I am the owner of the moon.
+But now I know at least whom to send the parking tickets for the last decades.Sincerly Yours,
+Â  Â  Â  The Man in the Moon</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665186</id>
+	<title>Re:And I'm a Duke of Sealand</title>
+	<author>Starayo</author>
+	<datestamp>1269872760000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>I think <a href="http://en.wikipedia.org/wiki/Principality\_of\_Sealand" title="wikipedia.org">the real history</a> [wikipedia.org] of Sealand is actually a little more ridiculous than uncyclopedia's page. After all, there was a mercenary war.</htmltext>
+<tokenext>I think the real history [ wikipedia.org ] of Sealand is actually a little more ridiculous than uncyclopedia 's page .
+After all , there was a mercenary war .</tokentext>
+<sentencetext>I think the real history [wikipedia.org] of Sealand is actually a little more ridiculous than uncyclopedia's page.
+After all, there was a mercenary war.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662456</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663318</id>
+	<title>Idle stories from Britain...</title>
+	<author>denelson83</author>
+	<datestamp>1269862260000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>...should be classified as "Eric Idle".
+
+(gets crushed by a big cartoon foot)</htmltext>
+<tokenext>...should be classified as " Eric Idle " .
+( gets crushed by a big cartoon foot )</tokentext>
+<sentencetext>...should be classified as "Eric Idle".
+(gets crushed by a big cartoon foot)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662464</id>
+	<title>TFA</title>
+	<author>gazbo</author>
+	<datestamp>1269857940000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>Who the fuck wrote that article?  The spelling, grammar and flow would suggest it was a retarded foetus.</htmltext>
+<tokenext>Who the fuck wrote that article ?
+The spelling , grammar and flow would suggest it was a retarded foetus .</tokentext>
+<sentencetext>Who the fuck wrote that article?
+The spelling, grammar and flow would suggest it was a retarded foetus.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662886</id>
+	<title>Disputed</title>
+	<author>IGnatius T Foobar</author>
+	<datestamp>1269859800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I'm pretty sure it's Eolas that owns all of the lunar intellectual property.<br> <br>(We like da moon / and it is pa-ten-ted...)</htmltext>
+<tokenext>I 'm pretty sure it 's Eolas that owns all of the lunar intellectual property .
+( We like da moon / and it is pa-ten-ted... )</tokentext>
+<sentencetext>I'm pretty sure it's Eolas that owns all of the lunar intellectual property.
+(We like da moon / and it is pa-ten-ted...)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31669938</id>
+	<title>Re:And I'm a Duke of Sealand</title>
+	<author>Anonymous</author>
+	<datestamp>1269961560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>Does that make you a seaman?</htmltext>
+<tokenext>Does that make you a seaman ?</tokentext>
+<sentencetext>Does that make you a seaman?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662456</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663980</id>
+	<title>Re:Not Bloody Likely</title>
+	<author>TheRaven64</author>
+	<datestamp>1269865920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p> space lawyer</p></div><p>Now there's a job title with a B-movie behind it...</p></div>
+	</htmltext>
+<tokenext>space lawyerNow there 's a job title with a B-movie behind it.. .</tokentext>
+<sentencetext> space lawyerNow there's a job title with a B-movie behind it...
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662700</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31674908</id>
+	<title>Re:Moon Town</title>
+	<author>T.E.D.</author>
+	<datestamp>1269977400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>In Ultima (I) you could end up space traveling.
+</p><p>Boy, that takes me back....1982, I believe.</p></htmltext>
+<tokenext>In Ultima ( I ) you could end up space traveling .
+Boy , that takes me back....1982 , I believe .</tokentext>
+<sentencetext>In Ultima (I) you could end up space traveling.
+Boy, that takes me back....1982, I believe.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663154</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663784</id>
+	<title>Re:Headline.</title>
+	<author>interkin3tic</author>
+	<datestamp>1269864900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>What's next? 'Lord British holds earth to ransom from his moon fortress!</p></div><p>I don't know, but if I see this guy, I'll be tempted to start an interorbital* war by punching the moon's ambasador.  Not that I bear any ill will to the guy, just want to get into the history books.</p><p>
+&nbsp; *I suppose I should learn what type of war I'll be starting, and this is probably a good place to find that out.  What would that be called?  I mean, besides assault.  Intrasolar system war?  Intertidal orbit war?</p></div>
+	</htmltext>
+<tokenext>What 's next ?
+'Lord British holds earth to ransom from his moon fortress ! I do n't know , but if I see this guy , I 'll be tempted to start an interorbital * war by punching the moon 's ambasador .
+Not that I bear any ill will to the guy , just want to get into the history books .
+Â   * I suppose I should learn what type of war I 'll be starting , and this is probably a good place to find that out .
+What would that be called ?
+I mean , besides assault .
+Intrasolar system war ?
+Intertidal orbit war ?</tokentext>
+<sentencetext>What's next?
+'Lord British holds earth to ransom from his moon fortress!I don't know, but if I see this guy, I'll be tempted to start an interorbital* war by punching the moon's ambasador.
+Not that I bear any ill will to the guy, just want to get into the history books.
+Â  *I suppose I should learn what type of war I'll be starting, and this is probably a good place to find that out.
+What would that be called?
+I mean, besides assault.
+Intrasolar system war?
+Intertidal orbit war?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662444</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662852</id>
+	<title>Guess he's a...</title>
+	<author>Anonymous</author>
+	<datestamp>1269859740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>lunatic</p></htmltext>
+<tokenext>lunatic</tokentext>
+<sentencetext>lunatic</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31667480</id>
+	<title>Lunakhod???</title>
+	<author>pandrijeczko</author>
+	<datestamp>1269981840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>"Loony clod" more like!</p></htmltext>
+<tokenext>" Loony clod " more like !</tokentext>
+<sentencetext>"Loony clod" more like!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662604</id>
+	<title>Explorers stick a flag on new land</title>
+	<author>Anonymous</author>
+	<datestamp>1269858480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>and that very same though was what goes through my mind why the space race went so frantically up until the point the american flag was planted in the moon, and since then, no other country bothered to go.
+
+I know that there are covenants that say such territory ownerships do not cover the moon, but they said the same thing about the Arctic Circle and that didn't stop Russia from making a territorial claim.  Who knows, maybe they find oil or diamonds under the lunar surface and the US might just one day say "just kidding, we are claiming the moon as the 51st state".</htmltext>
+<tokenext>and that very same though was what goes through my mind why the space race went so frantically up until the point the american flag was planted in the moon , and since then , no other country bothered to go .
+I know that there are covenants that say such territory ownerships do not cover the moon , but they said the same thing about the Arctic Circle and that did n't stop Russia from making a territorial claim .
+Who knows , maybe they find oil or diamonds under the lunar surface and the US might just one day say " just kidding , we are claiming the moon as the 51st state " .</tokentext>
+<sentencetext>and that very same though was what goes through my mind why the space race went so frantically up until the point the american flag was planted in the moon, and since then, no other country bothered to go.
+I know that there are covenants that say such territory ownerships do not cover the moon, but they said the same thing about the Arctic Circle and that didn't stop Russia from making a territorial claim.
+Who knows, maybe they find oil or diamonds under the lunar surface and the US might just one day say "just kidding, we are claiming the moon as the 51st state".</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665822</id>
+	<title>Re:Explorers stick a flag on new land</title>
+	<author>Artifakt</author>
+	<datestamp>1269877320000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>If the US manages to emplace enough population to let Luna qualify for immediate statehood, ahead of anyone else occupying the land, I'm not sure there's anything in the UN treaty excluding doing it. Claiming it as an annexed territory is one thing, having its permanent inhabitants petition for statehood is constitutionally very much another.<br>
+&nbsp;</p></htmltext>
+<tokenext>If the US manages to emplace enough population to let Luna qualify for immediate statehood , ahead of anyone else occupying the land , I 'm not sure there 's anything in the UN treaty excluding doing it .
+Claiming it as an annexed territory is one thing , having its permanent inhabitants petition for statehood is constitutionally very much another .
+Â  </tokentext>
+<sentencetext>If the US manages to emplace enough population to let Luna qualify for immediate statehood, ahead of anyone else occupying the land, I'm not sure there's anything in the UN treaty excluding doing it.
+Claiming it as an annexed territory is one thing, having its permanent inhabitants petition for statehood is constitutionally very much another.
+Â </sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662604</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662848</id>
+	<title>Can't believe he is being serious</title>
+	<author>KatchooNJ</author>
+	<datestamp>1269859680000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>I guess I could be wrong, but I have a feeling he is kinda joking around when he made the cracks about having people pay to "park in his spot."  I find it hard to believe that he is being serious about having real claim to any moon property (other than the landers, themselves).  Am I the only one thinking he is just goofing off with such statements?</p></htmltext>
+<tokenext>I guess I could be wrong , but I have a feeling he is kinda joking around when he made the cracks about having people pay to " park in his spot .
+" I find it hard to believe that he is being serious about having real claim to any moon property ( other than the landers , themselves ) .
+Am I the only one thinking he is just goofing off with such statements ?</tokentext>
+<sentencetext>I guess I could be wrong, but I have a feeling he is kinda joking around when he made the cracks about having people pay to "park in his spot.
+"  I find it hard to believe that he is being serious about having real claim to any moon property (other than the landers, themselves).
+Am I the only one thinking he is just goofing off with such statements?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31668808</id>
+	<title>Moon Treaty</title>
+	<author>Kopachris</author>
+	<datestamp>1269955140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Article 11, paragraph 2 of the Moon Treaty states:<br>
+"The moon is not subject to national appropriation by any claim of
+sovereignty, by means of use or occupation, or by any other means."<br>
+Of course, England hasn't signed or ratified the Moon Treaty, so it all kinda depends on the international reaction whether or not his claim is valid.<br>
+<br>
+Links:<br>
+<a href="http://en.wikipedia.org/wiki/Moon\_treaty" title="wikipedia.org" rel="nofollow">Wikipedia -- Moon Treaty</a> [wikipedia.org] <br>
+<a href="http://www.islandone.org/Treaties/BH766.html" title="islandone.org" rel="nofollow">Full text of the Moon Treaty</a> [islandone.org]</htmltext>
+<tokenext>Article 11 , paragraph 2 of the Moon Treaty states : " The moon is not subject to national appropriation by any claim of sovereignty , by means of use or occupation , or by any other means .
+" Of course , England has n't signed or ratified the Moon Treaty , so it all kinda depends on the international reaction whether or not his claim is valid .
+Links : Wikipedia -- Moon Treaty [ wikipedia.org ] Full text of the Moon Treaty [ islandone.org ]</tokentext>
+<sentencetext>Article 11, paragraph 2 of the Moon Treaty states:
+"The moon is not subject to national appropriation by any claim of
+sovereignty, by means of use or occupation, or by any other means.
+"
+Of course, England hasn't signed or ratified the Moon Treaty, so it all kinda depends on the international reaction whether or not his claim is valid.
+Links:
+Wikipedia -- Moon Treaty [wikipedia.org] 
+Full text of the Moon Treaty [islandone.org]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662436</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664150</id>
+	<title>He needs to move there to claim it</title>
+	<author>hobbes64</author>
+	<datestamp>1269866820000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext>It is possible that someday a group of private (super rich) citizens or a corporation will make some spaceships and fly to the moon, build a lunar base there, and live there. It is possible for them to do it long before a government does it. That would be really interesting because they could reasonably claim the moon as theirs. The response of various countries to this claim would be even more interesting. I'll bet there would be a lot more interest in going to the moon right away to move out those squatters.</htmltext>
+<tokenext>It is possible that someday a group of private ( super rich ) citizens or a corporation will make some spaceships and fly to the moon , build a lunar base there , and live there .
+It is possible for them to do it long before a government does it .
+That would be really interesting because they could reasonably claim the moon as theirs .
+The response of various countries to this claim would be even more interesting .
+I 'll bet there would be a lot more interest in going to the moon right away to move out those squatters .</tokentext>
+<sentencetext>It is possible that someday a group of private (super rich) citizens or a corporation will make some spaceships and fly to the moon, build a lunar base there, and live there.
+It is possible for them to do it long before a government does it.
+That would be really interesting because they could reasonably claim the moon as theirs.
+The response of various countries to this claim would be even more interesting.
+I'll bet there would be a lot more interest in going to the moon right away to move out those squatters.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31668552</id>
+	<title>Re:TFA</title>
+	<author>tkjtkj</author>
+	<datestamp>1269952620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>".. retarded foetus" ??</p><p>You might begin your re-education by using this link: <a href="http://en.wikipedia.org/wiki/Foetus" title="wikipedia.org" rel="nofollow">http://en.wikipedia.org/wiki/Foetus</a> [wikipedia.org].  Your use of the word 'retarded' suggests that you are aware of at least one 'IQ' test appropriate to a fetus (old, misguided spellings are not used in science).  If you know of such a test, kindly inform us so that we can possibly ask you to take it.  Your score will then be compared (inappropriately, yes, but as a 'chastising', no).<br>So, you see, you have opened the door to the exploration of at least two errors: 1) archaic spelling is not scientific, and 2) the presumption that you can define 'retarded fetus' in any meaningful way.  I suggest you return to your pseudo-erudite and disingenuous cave and beg forgiveness of the party whom you so rudely bullied.</p></htmltext>
+<tokenext>" .. retarded foetus " ?
+? You might begin your re-education by using this link : http : //en.wikipedia.org/wiki/Foetus [ wikipedia.org ] .
+Your use of the word 'retarded ' suggests that you are aware of at least one 'IQ ' test appropriate to a fetus ( old , misguided spellings are not used in science ) .
+If you know of such a test , kindly inform us so that we can possibly ask you to take it .
+Your score will then be compared ( inappropriately , yes , but as a 'chastising ' , no ) .So , you see , you have opened the door to the exploration of at least two errors : 1 ) archaic spelling is not scientific , and 2 ) the presumption that you can define 'retarded fetus ' in any meaningful way .
+I suggest you return to your pseudo-erudite and disingenuous cave and beg forgiveness of the party whom you so rudely bullied .</tokentext>
+<sentencetext>".. retarded foetus" ?
+?You might begin your re-education by using this link: http://en.wikipedia.org/wiki/Foetus [wikipedia.org].
+Your use of the word 'retarded' suggests that you are aware of at least one 'IQ' test appropriate to a fetus (old, misguided spellings are not used in science).
+If you know of such a test, kindly inform us so that we can possibly ask you to take it.
+Your score will then be compared (inappropriately, yes, but as a 'chastising', no).So, you see, you have opened the door to the exploration of at least two errors: 1) archaic spelling is not scientific, and 2) the presumption that you can define 'retarded fetus' in any meaningful way.
+I suggest you return to your pseudo-erudite and disingenuous cave and beg forgiveness of the party whom you so rudely bullied.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662464</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31669602</id>
+	<title>TFA is a misquote</title>
+	<author>MillenneumMan</author>
+	<datestamp>1269959880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Here is Garriott's complete statement from a DIFFERENT article, and it is pretty clear he is writing tongue-in-cheek: <a href="http://www.parabolicarc.com/2010/03/23/rover-discovered-garriott-ponders-lunar-property-rights/" title="parabolicarc.com">http://www.parabolicarc.com/2010/03/23/rover-discovered-garriott-ponders-lunar-property-rights/</a> [parabolicarc.com]</htmltext>
+<tokenext>Here is Garriott 's complete statement from a DIFFERENT article , and it is pretty clear he is writing tongue-in-cheek : http : //www.parabolicarc.com/2010/03/23/rover-discovered-garriott-ponders-lunar-property-rights/ [ parabolicarc.com ]</tokentext>
+<sentencetext>Here is Garriott's complete statement from a DIFFERENT article, and it is pretty clear he is writing tongue-in-cheek: http://www.parabolicarc.com/2010/03/23/rover-discovered-garriott-ponders-lunar-property-rights/ [parabolicarc.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663320</id>
+	<title>Moonglow</title>
+	<author>Samah</author>
+	<datestamp>1269862260000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Well after all, Britannia does have the city of Moonglow...<nobr> <wbr></nobr>;)</htmltext>
+<tokenext>Well after all , Britannia does have the city of Moonglow... ; )</tokentext>
+<sentencetext>Well after all, Britannia does have the city of Moonglow... ;)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663772</id>
+	<title>I keep telling him...</title>
+	<author>KingOfTheMoon</author>
+	<datestamp>1269864840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The moon already has a king.</p></htmltext>
+<tokenext>The moon already has a king .</tokentext>
+<sentencetext>The moon already has a king.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664422</id>
+	<title>Re:Property Values</title>
+	<author>Anonymous</author>
+	<datestamp>1269868140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>maybe he should be charged a land tax, say 5 cents to every person in the world.</p></htmltext>
+<tokenext>maybe he should be charged a land tax , say 5 cents to every person in the world .</tokentext>
+<sentencetext>maybe he should be charged a land tax, say 5 cents to every person in the world.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662436</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662540</id>
+	<title>Blowhard, or blows hard, your choice</title>
+	<author>WillyWanker</author>
+	<datestamp>1269858240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Since he can't hack it as a game developer anymore I guess he's got to do something with the millions he's scammed, er, earned over the years.</htmltext>
+<tokenext>Since he ca n't hack it as a game developer anymore I guess he 's got to do something with the millions he 's scammed , er , earned over the years .</tokentext>
+<sentencetext>Since he can't hack it as a game developer anymore I guess he's got to do something with the millions he's scammed, er, earned over the years.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663290</id>
+	<title>Re:I'm so sick of Garriot. ENOUGH!</title>
+	<author>corbettw</author>
+	<datestamp>1269862140000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><div class="quote"><p>he bought his way into space with his ridiculous riches and he expects to be looked up to?</p></div><p>Well, if he's in space, then aren't we all looking up to him?</p></div>
+	</htmltext>
+<tokenext>he bought his way into space with his ridiculous riches and he expects to be looked up to ? Well , if he 's in space , then are n't we all looking up to him ?</tokentext>
+<sentencetext>he bought his way into space with his ridiculous riches and he expects to be looked up to?Well, if he's in space, then aren't we all looking up to him?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662746</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662486</id>
+	<title>This came up last time</title>
+	<author>PCM2</author>
+	<datestamp>1269858000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>This claim may be new to the submitter, and to Soulskill, but <a href="http://science.slashdot.org/comments.pl?sid=1586526&amp;cid=31516414" title="slashdot.org">not to Slashdot.</a> [slashdot.org]</p></htmltext>
+<tokenext>This claim may be new to the submitter , and to Soulskill , but not to Slashdot .
+[ slashdot.org ]</tokentext>
+<sentencetext>This claim may be new to the submitter, and to Soulskill, but not to Slashdot.
+[slashdot.org]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662568</id>
+	<title>The lord has already been deposed!</title>
+	<author>assemblerex</author>
+	<datestamp>1269858300000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><a href="http://gmtristan.com/the-man-who-killed-lord-british/" title="gmtristan.com">http://gmtristan.com/the-man-who-killed-lord-british/</a> [gmtristan.com]</htmltext>
+<tokenext>http : //gmtristan.com/the-man-who-killed-lord-british/ [ gmtristan.com ]</tokentext>
+<sentencetext>http://gmtristan.com/the-man-who-killed-lord-british/ [gmtristan.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31667732</id>
+	<title>Re:Not yet his...</title>
+	<author>Anubis IV</author>
+	<datestamp>1269941760000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>Contrary to his title, "Lord British" is not, in fact, British. He's actually American and even went to my high school in League City, Texas, USA. One of my teachers was a classmate of his and used to talk about him passing out versions of a game...that later became known as Ultima.</htmltext>
+<tokenext>Contrary to his title , " Lord British " is not , in fact , British .
+He 's actually American and even went to my high school in League City , Texas , USA .
+One of my teachers was a classmate of his and used to talk about him passing out versions of a game...that later became known as Ultima .</tokentext>
+<sentencetext>Contrary to his title, "Lord British" is not, in fact, British.
+He's actually American and even went to my high school in League City, Texas, USA.
+One of my teachers was a classmate of his and used to talk about him passing out versions of a game...that later became known as Ultima.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663258</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31675816</id>
+	<title>Loony</title>
+	<author>kenp2002</author>
+	<datestamp>1269981060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>And in further news Loony British still thinks Ultima is relvant...</p></htmltext>
+<tokenext>And in further news Loony British still thinks Ultima is relvant.. .</tokentext>
+<sentencetext>And in further news Loony British still thinks Ultima is relvant...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31667202</id>
+	<title>Oh Yeah?</title>
+	<author>man\_the\_king</author>
+	<datestamp>1269891840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Well, I own the Sun. Every living being on the Earth owes me as long as MY Sun sustains them<nobr> <wbr></nobr>:)</htmltext>
+<tokenext>Well , I own the Sun .
+Every living being on the Earth owes me as long as MY Sun sustains them : )</tokentext>
+<sentencetext>Well, I own the Sun.
+Every living being on the Earth owes me as long as MY Sun sustains them :)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665590</id>
+	<title>Moongate</title>
+	<author>Culture20</author>
+	<datestamp>1269875700000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>He's going to need a powerful moongate to get there.</htmltext>
+<tokenext>He 's going to need a powerful moongate to get there .</tokentext>
+<sentencetext>He's going to need a powerful moongate to get there.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662596</id>
+	<title>Lord British...</title>
+	<author>Anonymous</author>
+	<datestamp>1269858420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Wasn't he Captain America's sidekick?</p></htmltext>
+<tokenext>Was n't he Captain America 's sidekick ?</tokentext>
+<sentencetext>Wasn't he Captain America's sidekick?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665918</id>
+	<title>Re:TFA</title>
+	<author>rubycodez</author>
+	<datestamp>1269878100000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>The poor foetus was a lobotomite, you insensitive clod.</p></htmltext>
+<tokenext>The poor foetus was a lobotomite , you insensitive clod .</tokentext>
+<sentencetext>The poor foetus was a lobotomite, you insensitive clod.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662464</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663612</id>
+	<title>No!  It's Mine, not His</title>
+	<author>anorlunda</author>
+	<datestamp>1269863820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>In 1967 I bought a square inch of the Moon for $1 from a street vendor in San Francisco; and I have the deed to prove it.</p></htmltext>
+<tokenext>In 1967 I bought a square inch of the Moon for $ 1 from a street vendor in San Francisco ; and I have the deed to prove it .</tokentext>
+<sentencetext>In 1967 I bought a square inch of the Moon for $1 from a street vendor in San Francisco; and I have the deed to prove it.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663172</id>
+	<title>vehicle ownership OK: but the parking spot?</title>
+	<author>juliusbeezer</author>
+	<datestamp>1269861480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>No doubt he's bought the vehicle, but it seems like the ownership of the parking spot may still be contested. Still, I guess he's got a better excuse than most to mount a private space program so he can go and pick it up. In this instance, the moon artefact was bought direct from its owner, but it's also fun to think about the problems the delivery page would have caused eBay's programmers if it had passed through the used space vehicle market that way.</htmltext>
+<tokenext>No doubt he 's bought the vehicle , but it seems like the ownership of the parking spot may still be contested .
+Still , I guess he 's got a better excuse than most to mount a private space program so he can go and pick it up .
+In this instance , the moon artefact was bought direct from its owner , but it 's also fun to think about the problems the delivery page would have caused eBay 's programmers if it had passed through the used space vehicle market that way .</tokentext>
+<sentencetext>No doubt he's bought the vehicle, but it seems like the ownership of the parking spot may still be contested.
+Still, I guess he's got a better excuse than most to mount a private space program so he can go and pick it up.
+In this instance, the moon artefact was bought direct from its owner, but it's also fun to think about the problems the delivery page would have caused eBay's programmers if it had passed through the used space vehicle market that way.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662802</id>
+	<title>Let him eat cheese!</title>
+	<author>david.emery</author>
+	<datestamp>1269859440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>(subject says it all...)</p></htmltext>
+<tokenext>( subject says it all... )</tokentext>
+<sentencetext>(subject says it all...)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664630</id>
+	<title>Re:Property Values</title>
+	<author>Hurricane78</author>
+	<datestamp>1269869220000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Simple. We declare, that as he now has his own land, he and that land, is a country. And that that country just declared war upon us.<br>*BOOOM*<br>Done. ^^</p></htmltext>
+<tokenext>Simple .
+We declare , that as he now has his own land , he and that land , is a country .
+And that that country just declared war upon us. * BOOOM * Done .
+^ ^</tokentext>
+<sentencetext>Simple.
+We declare, that as he now has his own land, he and that land, is a country.
+And that that country just declared war upon us.*BOOOM*Done.
+^^</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662436</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662984</id>
+	<title>Poor Fact Checking in Article</title>
+	<author>Anonymous</author>
+	<datestamp>1269860340000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Wow. No fact checking. Typical over-the-top-can't-get-the-facts-right journalism. The article tries to paint Lord British as laying claim to the entire moon, in the title, when in reality he's only even trying to claim at least the land on which the rover sits, and at most the land the rover crossed before it laid to rest.</p><p>The lawyer who was quoted when asked if he really owned the lander, is, quite frankly, covering her ass, as any good lawyer would do, when asked a question like that. What she says, that she can't determine if he owns it or not without seeing the title, is true. Any good lawyer would say the same thing if you called them to ask if you owned your house. They're not going to assume you do, even if you have been living there for the last 10 years. That would be borderline malpractice.</p><p>What Gariott is doing is, in fact, not nearly as crazy as it sounds. Since virtually every spacefaring nation gave up their rights to the moon in the Outer Space Treaty, any claims to the moon by right of discovery that could have been made by the US or Russia (as USSR's successor state) are void under international law. The treaty, however, does not contemplate private ownership of the moon. Gariott actually has a number of very very reasonable legal arguments that he owns a part of the moon. Yes, it does sound very strange to a lay person that he might have a "right of discovery" some land on the moon, since in the lay sense he did obviously not discover the moon. That said, legally, it's not unreasonable to say that he might. Nor is it unreasonable to say that he might gain the land through simply owning the rover on it long enough.</p><p>While the auction could not and did not sell him the land, this does not mean he can't own it. If no-one owns the land, then there are a number of legal ways to acquire it, as I've briefly discussed above.</p><p>The article, frankly, was clearly written by someone with no understanding of the legal circumstances around the matter.</p></htmltext>
+<tokenext>Wow .
+No fact checking .
+Typical over-the-top-ca n't-get-the-facts-right journalism .
+The article tries to paint Lord British as laying claim to the entire moon , in the title , when in reality he 's only even trying to claim at least the land on which the rover sits , and at most the land the rover crossed before it laid to rest.The lawyer who was quoted when asked if he really owned the lander , is , quite frankly , covering her ass , as any good lawyer would do , when asked a question like that .
+What she says , that she ca n't determine if he owns it or not without seeing the title , is true .
+Any good lawyer would say the same thing if you called them to ask if you owned your house .
+They 're not going to assume you do , even if you have been living there for the last 10 years .
+That would be borderline malpractice.What Gariott is doing is , in fact , not nearly as crazy as it sounds .
+Since virtually every spacefaring nation gave up their rights to the moon in the Outer Space Treaty , any claims to the moon by right of discovery that could have been made by the US or Russia ( as USSR 's successor state ) are void under international law .
+The treaty , however , does not contemplate private ownership of the moon .
+Gariott actually has a number of very very reasonable legal arguments that he owns a part of the moon .
+Yes , it does sound very strange to a lay person that he might have a " right of discovery " some land on the moon , since in the lay sense he did obviously not discover the moon .
+That said , legally , it 's not unreasonable to say that he might .
+Nor is it unreasonable to say that he might gain the land through simply owning the rover on it long enough.While the auction could not and did not sell him the land , this does not mean he ca n't own it .
+If no-one owns the land , then there are a number of legal ways to acquire it , as I 've briefly discussed above.The article , frankly , was clearly written by someone with no understanding of the legal circumstances around the matter .</tokentext>
+<sentencetext>Wow.
+No fact checking.
+Typical over-the-top-can't-get-the-facts-right journalism.
+The article tries to paint Lord British as laying claim to the entire moon, in the title, when in reality he's only even trying to claim at least the land on which the rover sits, and at most the land the rover crossed before it laid to rest.The lawyer who was quoted when asked if he really owned the lander, is, quite frankly, covering her ass, as any good lawyer would do, when asked a question like that.
+What she says, that she can't determine if he owns it or not without seeing the title, is true.
+Any good lawyer would say the same thing if you called them to ask if you owned your house.
+They're not going to assume you do, even if you have been living there for the last 10 years.
+That would be borderline malpractice.What Gariott is doing is, in fact, not nearly as crazy as it sounds.
+Since virtually every spacefaring nation gave up their rights to the moon in the Outer Space Treaty, any claims to the moon by right of discovery that could have been made by the US or Russia (as USSR's successor state) are void under international law.
+The treaty, however, does not contemplate private ownership of the moon.
+Gariott actually has a number of very very reasonable legal arguments that he owns a part of the moon.
+Yes, it does sound very strange to a lay person that he might have a "right of discovery" some land on the moon, since in the lay sense he did obviously not discover the moon.
+That said, legally, it's not unreasonable to say that he might.
+Nor is it unreasonable to say that he might gain the land through simply owning the rover on it long enough.While the auction could not and did not sell him the land, this does not mean he can't own it.
+If no-one owns the land, then there are a number of legal ways to acquire it, as I've briefly discussed above.The article, frankly, was clearly written by someone with no understanding of the legal circumstances around the matter.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31668180</id>
+	<title>Re:Property Values</title>
+	<author>philgp</author>
+	<datestamp>1269947820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>*BOOOM* adequately describes what my head did while trying to parse your post!</htmltext>
+<tokenext>* BOOOM * adequately describes what my head did while trying to parse your post !</tokentext>
+<sentencetext>*BOOOM* adequately describes what my head did while trying to parse your post!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664630</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31667870</id>
+	<title>Re:Property Values</title>
+	<author>metacell</author>
+	<datestamp>1269943440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>War? Nah, just declare him to be a terrorist, and we don't need to go to the trouble of declaring war.</htmltext>
+<tokenext>War ?
+Nah , just declare him to be a terrorist , and we do n't need to go to the trouble of declaring war .</tokentext>
+<sentencetext>War?
+Nah, just declare him to be a terrorist, and we don't need to go to the trouble of declaring war.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664630</parent>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663516
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662700
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_25</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665420
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662746
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31669938
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662456
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665822
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662604
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31668552
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662464
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31674908
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663154
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31668446
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664630
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662436
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664728
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662700
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663784
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662444
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665918
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662464
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664358
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662436
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663130
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662444
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664422
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662436
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31668808
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662436
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663988
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662700
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662982
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662456
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31667732
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663258
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663288
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662700
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665878
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663290
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662746
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663286
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663106
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662622
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662444
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663786
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662444
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665186
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662456
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31668180
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664630
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662436
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31667870
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664630
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662436
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_03_29_2037239_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663980
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662700
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662464
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31668552
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665918
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663154
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31674908
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662472
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662444
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663786
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662622
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663784
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663130
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662506
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662486
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663106
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663286
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662604
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665822
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662700
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663288
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663988
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664728
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663516
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663980
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664150
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662984
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662746
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665420
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663290
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665878
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663574
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662456
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31665186
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662982
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31669938
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663612
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31662436
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31668808
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664422
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664630
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31667870
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31668180
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31668446
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31664358
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_03_29_2037239.12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31663258
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_03_29_2037239.31667732
+</commentlist>
+</conversation>

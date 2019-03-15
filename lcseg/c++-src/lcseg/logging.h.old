@@ -1,0 +1,21 @@
+/**
+ * Copyright © 2003-2006 by The Trustees of Columbia University in 
+ * the City of New York.  All rights reserved.  This software is being
+ * provided at no cost for educational and/or research purposes only.
+ *
+ * Author: Michel Galley, galley@cs.columbia.edu
+ * $Id: logging.h 43 2006-11-14 00:22:30Z galley $
+ */
+
+#ifndef __LOGGING_H__
+#define __LOGGING_H__
+
+#define DEBUGLEVEL 2
+#define CLOG(L) \
+  if(DEBUGLEVEL >= 2) \
+  std::clog<<__BASE_FILE__<<"("<<__LINE__<<"): "<<L<<std::endl
+#define CERR(L) \
+  if(DEBUGLEVEL >= 1) \
+  std::cerr<<__BASE_FILE__<<"("<<__LINE__<<"): "<<L<<std::endl
+
+#endif

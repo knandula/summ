@@ -1,0 +1,140 @@
+T1 1 timothy : Ade writes "Looks like the challenge to the Swiss Administrative Court concerning the government contract given to Microsoft without any public bidding was successful: The court has issued a temporary injunction (note: article in German) against the Federal Office of Buildings and Logistics (BBL), effectively stopping the CHF 14M (£8M; $15M)-contract to deliver licenses and support for software used on government computers for the next three years.
+T1 2 timothy : According to Swiss Government practices, any contract over CHF 50'000 has to undergo a public call for offers.
+T1 3 timothy : The BBL cited 'no serious alternatives' as the reason which this contract never did.
+T2 4 Anonymous1 : Why don't you just leave Microsoft alone, after everything it's been through!
+T2 5 Anonymous2 : If your requirement is to be able to run Windows software, then there may in fact be "no serious alternatives".
+T2 6 Anonymous2 : Now, clearly they should step back and look at the bigger picture.
+T2 7 Anonymous3 : Linux just isn't ready for the desktop yet.
+T2 8 Anonymous3 : It may be ready for the web servers that you nerds use to distribute your TRON fanzines and personal Dungeons and Dragons web-sights across the world wide web, but the average computer user isn't going to spend months learning how to use a CLI and then hours compiling packages so that they can get a workable graphic interface to check their mail with, especially not when they already have a Windows machine that does its job perfectly well and is backed by a major corporation, as opposed to Linux which is only supported by a few unemployed nerds living in their mother's basement somewhere.
+T2 9 Anonymous3 : The last thing I want is a level 5 dwarf haha providing me my OS.
+T2 10 Anonymous4 : Too many idiots write specifications in terms of products vs protocols.
+T2 11 jellomizer : Having done work for the State of NY, I am sure this happens else where.Fair and Competitive bidding work like this...You need a job to be done.You call the guys who you want to do it.They do some "Free" analysis of the problem.They give you the requirements as they would do it.They also attach the Resume of the people who they want to do the work.They make the bids to match the requirements and fit the resume of the people.They take in all the bid.Then they find the winning bid which isn't the cheapest but is a perfect match to the requirements.
+T2 12 jellomizer : which happens to be the company that did the free analysis
+T2 13 macbeth66 : I bet/hope that they are using this opportunity to call into question the validity of "be able to run Windows software" requirement.And to what degree does the software need to run?
+T2 14 macbeth66 : I have been able to run Office 2003 in Wine on Ubuntu 8.04.
+T2 15 macbeth66 : Some of the 'features' do not work.
+T2 16 macbeth66 : Like VBA.
+T2 17 macbeth66 : IMHO, not being able to run VBA is a feature, not a liablilty.
+T2 18 macbeth66 : Screw that IMHO.
+T2 19 halivar : ...but it's close enough for government work!
+T2 20 halivar : *ducks**runs*
+T2 21 Late_Adopter : The Swiss Franc has been consistently weaker than the dollar.
+T2 22 Late_Adopter : Right now Google says CHF 14M = USD 12.9M.
+T2 23 Anonymous5 : Even if the requirement is to run Windows software, there may be alternatives.
+T2 24 Anonymous5 : How will they know if they don't put it up for bid?
+T2 25 Anonymous5 : E.g, someone might bid a system based on Linux and Wine.
+T2 26 Anonymous5 : That may or may not actually do the job, depending on the specific software and how much work the bidder is willing to put in to tweak things.
+T2 27 Anonymous5 : But yeah, the requirements ought to be based on functionality, not a specific software package.
+T2 28 Jurily : In Hungary, the winning bid is usually the one who contributes the most back to the party in power.
+T2 29 Col._Klink_(retired) : Yes, that is the correct everyone follows.
+T2 30 Col._Klink_(retired) : In this case, they simply forgot to pretend to open the bidding process...
+T2 31 Anonymous6 : "no serious alternatives" is purchase order speak for "too lazy to look, what we have works" or "renewing contract the easy way".
+T2 32 Anonymous6 : Many times its easier to continue with the software you have, rather than force a regime change, especially when the Microsoft Software is already factored into the annual budget.
+T2 33 Anonymous6 : It's hard to blame them in this case.
+T3 34 Alain_Williams : OK: I have be benefit of not knowing exactly what the tender was for, but it appears to include ''support and maintenance''.
+T3 35 Alain_Williams : Assuming that MS s/ware is provided could not this support be provided by a local Swiss company rather than directly with MS ?
+T3 36 Alain_Williams : ''Applications'' is horribly vague.
+T3 37 Alain_Williams : Part of the problem with this sort of thing is that the people who write the specifications tend to think in terms of solutions, thus ''Word Processing'' is ''MS Word''.
+T3 38 Alain_Williams : These people need to think in terms of what they are trying to achieve and to draft the specifications in those terms.
+T3 39 Alain_Williams : This will allow different/innovative tenders.
+T3 40 91degrees : Well, it's possible that another vendor may be a subcontractor of MS and capable of getting a lower price.
+T3 41 91degrees : They may make the argument that the specific task specification is incorrect and what they want to do can be achieved with non-MS platforms.
+T3 42 Anonymous7 : I wonder what the outcome of this will be.
+T3 43 Anonymous7 : Lets see, they have the money approved, they want an "install it, and if there's a problem, it should be fixed by the manufacturer" approach, they want compatibility with standard file formats used throughout the business and government world except for technical/scientific/HPC based workplaces...
+T3 44 aztracker1 : Thanks for filling in the "???
+T3 45 aztracker1 : " before "Profit!".
+T3 46 aztracker1 : Really wish that I had mod points to give you...
+T3 47 icebike : Or, as we in the contracting business say...Close Government, Enough Work!
+T4 48 Anonymous8 : Does anyone knows how the Swiss law handles a wrongly done bidding?
+T4 49 Anonymous8 : In the Netherlands and probably the rest of the EU, when a bidding was done against the law, the company that won the bidding may not enter the new bidding.
+T4 50 Anonymous8 : At my old university they had this situation with the coffee machines, there was only one company that had a machine that produced decent coffee and so they won the contract.
+T4 51 Anonymous8 : However a mistake was made in the bidding the bidding was nationally, instead of European, contracts worth more then a ceratin amount get a European bidding procedure and the bidding had to be done again, however the only company that could produce decent coffee was excluded and the university got stuck with terrible coffee machines.
+T4 52 calmofthestorm : Sounds like somebody tried to use Gentoo.
+T4 53 Anonymous9 : What are they implying here?
+T4 54 Anonymous9 : Linux is funny?
+T4 55 Anonymous9 : Are they calling us comedians?
+T4 56 jedidiah : Hey, if it is a detailed specification you at least have that document left over.Someone could use that as a means to determine if some other option would workor if some other option could be easily adapted.
+T4 57 jedidiah : So even if you game the system,you at least have something left over that you can work with.Plus you kind of at least appear to want to follow the rules and appear to besomething other than completely corrupt.
+T4 58 jedidiah : "Going through the motions" at leastbeats the Mad Max sort of alternative.
+T4 59 symbolset : Way to think inside the box.
+T4 60 Anonymous10 : What a horrible system.
+T4 61 Anonymous10 : Unless the company that originally won the bid was the wrong-doer, why should they be excluded?
+T4 62 Anonymous10 : Sounds like something a lawyer could sue over and a bureaucrat could manipulate to game the system.
+T5 63 KevMar : Sometimes it is just not that simple.We have one software package that we have tried to phase out for several years.
+T5 64 KevMar : We do not support it, but a hand full of users still demand it.
+T5 65 KevMar : We do not have the power to not let them have it.
+T5 66 KevMar : We tried, but it is out of our hands.We replaced a system that was central to the business we do 4 years ago.
+T5 67 KevMar : There were at most 5 options to choose from, only 2 were realistic options, and none of them ran on Linux or were OSS.
+T5 68 KevMar : The vender did give us a choice on database backend though.
+T5 69 KevMar : Pick SQL or ORACLE.
+T5 70 KevMar : The option we passed on did not give us that option.In one area we do lots of specialized digital imaging.
+T5 71 KevMar : We use several different venders for different items and Linux support is not a feature they provide.
+T5 72 KevMar : In one case we cannot even get the software they provide to integrate into our central image store.We have another software package that is central to another department that integrates features of office into and require office to be on the system.
+T5 73 KevMar : This is one such system where the users picked the features that they wanted and we picked from the limited selection of available software.The IT we have are under staffed and over extended.
+T5 74 KevMar : There is a cost to retraining people to new products.
+T5 75 KevMar : There is a cost to replacing an existing product with something new.
+T5 76 KevMar : There is a cost to the amount of new help IT would have to provide.
+T5 77 KevMar : While you transition from one product to another, you have to support and know both.
+T5 78 KevMar : In most of these examples the product may be free but the time to do it has a huge price.
+T5 79 KevMar : More so when it currently works, users already know it, and you have bigger issues to deal with.It may not be that simple for us to switch, I do think Microsoft recently created a window for others to make the jump.
+T5 80 KevMar : Office 2007 was a major change from 2003.
+T5 81 KevMar : The UI is so different, that it requires retraining of staff and a few days of lost productivity to make the change.
+T5 82 KevMar : Why not go open office, you have to retrain either way.
+T5 83 KevMar : Vista did the same thing.
+T5 84 KevMar : People that are on XP should be looking at OSX or Linux as an option to Windows 7.
+T5 85 KevMar : You already have to reinstall, get new drivers, get updated software.
+T5 86 KevMar : For the average user, it will make little difference what OS they are running.
+T5 87 KevMar : I can search the web and check my email from any one of them just as easy.For as much as I would love to make the jump, I have nothing driving me to do it and only resistance preventing me from doing it.
+T5 88 Anonymous11 : Presumably that's what the BBL meant by 'no serious alternatives' and sadly they are right.
+T5 89 Anonymous11 : In my experience Wine in any of it's manifestations is highly unlikely to provide the kind of stability they would get with MS software for all kinds of high availability enterprise software.
+T5 90 Anonymous11 : This whole mess just underlines: Why I am firmly convinced the *NIX type systems are a superior choice to Windows.
+T5 91 Anonymous11 : Not necessarily because they are inherently better than Windows but because moving your software to a different  OS vendor's product is a viable proposition with Linux/Unix but obviously not with Windows.Why the Microsoft monopoly is harmful to the IT industry and why that monopoly should be broken up or Microsoft somehow forced into competition in a way that would loosen the strangle hold like vendor lock Microsoft has on many companies.
+T5 92 Anonymous11 : One could for example force Microsoft to license it's API's to third parties so as to provide a choice of deployment platforms from different vendors that can run Windows software which would basically open the door on creating legal, up-to-date and stable Wine or Wine like products.Normally I'm not in favor of forcing the hand of companies like this but Microsoft's strangle hold is really harmful, competition killing and generally wrong.
+T5 93 Anonymous11 : I'd like to know how many people would stand up and cheer if Ford had a 90\% market share on the automobile markets and somebody stood up and claimed like the MS fanboys do: "O.K.
+T6 94 Anonymous11 : so it's a monopoly but that has all sorts of advantages like: no matter what car you get in everything is so familiar, no matter where you are in the world never a problem with spares ... blah, blah ... long list ... and besides who needs cars in colors other than black?
+T6 95 Anonymous12 : I don't usually feed the trolls, but I'm feeling generous today.1.
+T6 96 Anonymous12 : Many servers run on Linux, and have done so for a decade.2.
+T6 97 Anonymous12 : Every Linux distro I've installed since 2000 has installed using a GUI, and then booted into a GUI, and needed no compilation or tricks to get to my mail.
+T6 98 Anonymous12 : I just clicked on the Thunderbird icon, entered my POP information and mail was flowing.3.
+T6 99 Anonymous12 : Linux is supported by major corporations.
+T6 100 Anonymous12 : Unless you consider IBM to be some type of small-fry company.4.
+T6 101 Anonymous12 : Races don't have levels, professions have levels.
+T6 102 Anonymous12 : Thus there is no such thing as a "level 5 dwarf".
+T6 103 Anonymous12 : But there is such thing as a "level one slashdot troll"Oh, and you are showing your age there gramps... not many people under 30 have even heard of Tron, let alone know what the word "fanzine" means.
+T6 104 Anonymous12 : Oh, and it's not referred to as the "world wide web" anymore, people just call it the internet or the web.One final word... this story is about a government contract.
+T6 105 Anonymous12 : Governments networks are run by industry professionals, not "average users" and even if they end up with Windows, the admins will almost certainly know plenty about how to use Unix and Linux, as well as other OS's.
+T6 106 hey! : Well, as is always the case in these matters, you have to consider what would need be done to fix the problem.
+T7 107 hey! : The solution is simple: you hire enough talent of sufficient quality that you can do your own requirements analysis.The problem is that inflates head count.
+T7 108 hey! : There are people who *hate* anybody who has the temerity to work for them as a public employee, and they'll go beserk when they see state government ballooning.
+T7 109 hey! : They have some sound points as well.
+T7 110 hey! : A larger headcount means that it is more complex and painful to tighten the fiscal belt during hard times.
+T7 111 hey! : Rather than not letting as many contracts, you've got to let *people* go.The other thing is that you've got to grade the positions you hire very high if you want to hire *experienced* people.
+T7 112 hey! : One of the things you give up, if you are a public employee drawing a pension, is the right to collect Social Security.
+T7 113 hey! : You don't even get your contributions back.
+T7 114 hey! : So if you hire a guy who's been paying into Social Security for fifteen years, you've got to pay him enough to make up for his future retirement losses.
+T7 115 hey! : Or, you have to restrict yourselves to inexperienced hires, or hires that have worked their entire career in public service, which makes growing the corps of experienced IT people difficult.So all told, this might be better than the alternative.
+T7 116 hey! : You pay more than low bid, but you get free systems analysis.
+T7 117 hey! : The alternative to is to increase head count in a way that will be extremely disruptive to deal with if you want to reduce it later.
+T7 118 hey! : You can shit on the public employees later, of course, but that doesn't get you *efficient* government.
+T7 119 hey! : It gets you government run by employees looking to get some of their own back.
+T7 120 hey! : I've seen this in the most rabidly anti-public employee states.
+T7 121 hey! : They have the most corrupt an inefficient governments.
+T7 122 Anonymous13 : I just happened to go through "Government contracts" training nd what you describe is illegal, punishable by up to 5 years in prison for the official giving the info to would be contractors and whoever got the info + up to 50.000 in fines from persons and up to 500.000 from the corporation that improperly obtained such contract + damages and stuff.The rule is if you write specs, you cannot bid.If you leak exact specs or bid details to participating bidders you get fined and go to jail.
+T7 123 Anonymous13 : there are total of 5 rules or so.
+T7 124 retchdog : In the original D&amp;D as opposed to AD&amp;D, dwarves were a class; i.e.
+T7 125 retchdog : all dwarves were basically fighters with racial abilities and modifiers and a d8 ?
+T7 126 retchdog : instead of a d10 for HP.
+T7 127 retchdog : I think maybe they got some limited hide-in-cave-shadows ability or something too.
+T7 128 retchdog : I don't remember.Hey, pedantry and trolling go together like a PC and a 10' pole.
+T7 129 hesaigo999ca : It might just be the person who decides there are no viable option other then windows needs to be replacedwith a more up to date technology wise person with aptitude for the tech department!!
+T7 130 Anonymous14 : We do not have such a law in Switzerland, Microsoft can still bid.The thing is that there was no wrongly done bidding because there was no bidding at all.
+T7 131 Anonymous14 : The government needed to renew its license and support contract.
+T7 132 Anonymous14 : The government agency responsible for the renewal stated that there are no competitors for this specific task and they thus decided against a public bidding.
+T7 133 Anonymous15 : Is there a -1 Woosh!
+T8 134 Anonymous15 : mod?
+T8 135 lovesignal : Ok, so take that step back indeed and look at it:
+T9 136 lovesignal : For a very low price, you get access to the largest and most complete software ecosystem in the world.
+T9 137 lovesignal : Well documented software.
+T10 138 lovesignal : Large availability of human resources trained in using this particular OS.
+T10 139 lovesignal : Linux has its place.
+T10 140 lovesignal : But not as the desktop of complex large scale companies.

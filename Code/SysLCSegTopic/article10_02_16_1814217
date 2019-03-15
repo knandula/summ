@@ -1,0 +1,278 @@
+T1 1 kdawson : Trailrunner7 writes "Last year saw a monstrous increase in the volume of malicious spam, according to a new report (PDF).
+T1 2 kdawson : In the second half of 2009, the number of spam messages sent per day skyrocketed from 600 million to three billion, according to new research.
+T1 3 kdawson : For some time now, spam has been accounting for 90 or more percent of all email messages.
+T1 4 kdawson : But the volume of spam had been relatively steady in the last couple of years.
+T1 5 kdawson : Now, the emergence of several large-scale botnets, including Zeus and Koobface, has led to an enormous spike in the volume of spam.
+T1 6 Anonymous1 : What about delicious spam?
+T1 7 Anonymous2 : Why can't ISP's detect large numbers of messages suddenly going to a vast array of e-mail address and shut it down?Nobody normally does that; seems like it should be easy behavior to detect and stamp out algorithmically.
+T1 8 Anonymous3 : 1.
+T2 9 Anonymous3 : Lusers get spammed by e-mail2.
+T2 10 Anonymous3 : Lusers migrate to facebook3.
+T2 11 Anonymous3 : Lusers, get infected with koobface on facebook4.
+T2 12 Anonymous3 : Lusers spam everyone by e-mail
+T2 13 Anonymous4 : Windoze microsoft.com.Yours In Minsk,K.
+T3 14 Anonymous4 : Trout
+T3 15 Dripdry : So, if we try and hold ISPs or telecoms liable for what moves over their wires, they would have to hunt down the spammers as well as the pirates?
+T3 16 Dripdry : What an awkward position to be in, especially when a big revenue stream is at stake.Yeah, I didn't RTFA.Also, what percentage of email is 3 billion, anyway?
+T3 17 Anonymous5 : And I still see less then 1 per month in my Inbox.\_THIS\_ is the price I am willing to pay to allow Google to filter my email.
+T3 18 Petersko : Subscribe to one free daily naked chick mailing list.
+T3 19 Petersko : Imagine how much of that spam is about porn!
+T3 20 Petersko : There are probably more porn emails sent out every week than there are people on the planet.
+T3 21 Petersko : I keep three email accounts.
+T3 22 Petersko : One I give out for things - registrations, contests, all that stuff.
+T3 23 Petersko : One I give out to friends and family.
+T3 24 Petersko : The third just quietly sits there empty.
+T3 25 Petersko : I check it periodically anyway and it makes me happy when no mail is found.
+T3 26 Anonymous6 : Thanks Mr. Bill Gates.
+T3 27 zaax : 1c each, first 30 per day free.
+T3 28 zaax : It would stop all spam dead
+T3 29 HungryHobo : Because one person sending a mailshot to a hundred or so people looks a lot like a botnet.One person mailing their CV to 200 companies can look a lot like a botnet.One teenage girl telling everyone about a party can look a lot like a spammer.Sure if the botnet isn't well written then it'll just blast spam out of every node 24/7 but the really good ones are going to try hard to evade detection.Hell if you've got enough compromised PC's and you're organised as modern botnet herders are then you can collect a lot of good data on how regular users send email and make sure the nodes of your botnet avoid going far outside the curve.
+T3 30 Megor1 : 3 billion spam is a drop in the bucket of the daily spam volumes seen worldwide, there has not been a global increase of spam volumes in the last year of that magnitude Or really much at all.
+T3 31 StuartHankins : I have my own domain.
+T3 32 StuartHankins : I have only 4 "real" accounts and give a different account for everyone that needs an email address.
+T3 33 StuartHankins : My catch-all account sees all the stuff, and I trust SpamAssassin results.
+T3 34 StuartHankins : Very very little spam gets to me, and when it does I know which company gave out my email address.
+T3 35 StuartHankins : Cheap and easy to setup, and I don't rely on any third party's free email services which seem to come with their own supplies of spam and losses of privacy.
+T3 36 49152 : I see about the same amount.
+T3 37 49152 : Some times it goes months with no spam then I get two or three in a week.
+T3 38 49152 : I reckon the spammers are constantly adjusting their techniques to try to get through the filters.We are a small company running our own email server.
+T3 39 49152 : Ubuntu Server with Postfix, spamassasin and all the trimmings.I redirect all spam to an imap account I set up for the purpose, just in case we need to get hold of some blocked message.
+T3 40 49152 : The last two years this has not been necessary.
+T3 41 49152 : But I browse through this mailbox once in a while out of curiosity.
+T3 42 49152 : The amount of spam it blocks is just staggering!The price we pay is close to zero, the same box handles all other kind of stuff too and I spend perhaps half an hour every other week to check if any updated packages or security fixes need installing.
+T3 43 49152 : It practically manages it self.
+T3 44 Stan92057 : Ya know,until they start going after the people who hire the spammers nothing is going to change.
+T3 45 Stan92057 : Some businessperson is responsible for our spam not the spammer.
+T3 46 Stan92057 : Where and how is this Viagra getting into our country?Where are all the watches being made?
+T3 47 Stan92057 : and so on.
+T3 48 Stan92057 : Someone is paying theses spammers,get them.
+T3 49 Stan92057 : PS:
+T3 50 Stan92057 : Yes i know its not easy to catch them,but if we can send and control robots from earth on mars it CAN be done.
+T3 51 Alwin_Henseler : There are probably more porn emails sent out every week than there are people on the planet.If you subscribe to such a mailing list, then what you're getting from them isn't spam because you asked for it.
+T3 52 Alwin_Henseler : Only other, uninvited e-mail is spam.Also, I don't know what network you're on.
+T3 53 Alwin_Henseler : Spam I get is mostly for the famous blue pills &amp; co, fake watches, and the occassional silly 419 / phishing attempt or "get your degree now!
+T3 54 Alwin_Henseler : " bullshit.
+T3 55 Alwin_Henseler : Porn spam?
+T3 56 Alwin_Henseler : What on earth are you talking about?
+T3 57 Jeng : Although I think very low of the morality of those who do this for a living, but at times you really have to respect their skills.This isn't just like running an email service for a fortune 500 company, its more like running a black ops email service for a fortune 500 company.Every aspect of the operation is ran over with a fine tooth comb for discretion.
+T3 58 Jeng : Not too many from each node, sending out the spam messages at a low rate, redundancy, resource management, payroll.
+T3 59 Jeng : This cannot be easy.Too bad these people are going with a life of crime, with their potential I would think they could do very well in legitimate work.
+T4 60 Anonymous7 : I'm sure someone will post the standard reply to this comment but here it goes:
+T4 61 Anonymous7 : What if ISPs blocked ports and prevented everyone and his dog from running a mail server by default?
+T4 62 Anonymous7 : I can already hear the outcry from everyone running his own - though as with DNS redirections this could be turned off by logging in to your profile at your ISPs home page?
+T4 63 Anonymous7 : At least we'd get rid of all the crap coming from bot nets.
+T4 64 compro01 : Yes, I am sure the botnet herders will be happy to send you a cheque.
+T4 65 stimpleton : "I keep three email accounts....."
+T4 66 stimpleton : My "third email" is a gmail and is for my one weakness in life: big breast websitessubscription based.
+T4 67 stimpleton : Oddly, I get no spam.
+T4 68 stimpleton : I do get the odd newsletter and update "notices".
+T4 69 stimpleton : What I also get is the occassional promotion from old sites I subscribed to, which I do like to get.
+T4 70 stimpleton : How Gmail manages to work out  what I want and do not want, and gets it right is either very clever or very chilling.
+T4 71 Anonymous8 : That's not the point!
+T4 72 Anonymous8 : The point is waste.
+T4 73 Anonymous8 : There should not be this amount of email traffic that is clogging the infrastructure -- reducing not only bandwidth but also raising latency in the process.When I check gmail and I see 1000 spam message but my Inbox remains clean, that is still a failure!
+T4 74 Alwin_Henseler : "Read: replace dual-core bots with quad-core ones.
+T4 75 Jugalator : And I still see less then 1 per month in my Inbox.\_THIS\_ is the price I am willing to pay to allow Google to filter my email.Hear, hear.
+T4 76 Jugalator : I was very surprised when I recently checked my spam volume.
+T4 77 Jugalator : That is, in my Gmail *spam* box, not inbox.
+T4 78 Jugalator : The inbox is usually clear of it, but the surprising part was that I had around a third to a fourth of my former spam volume a few years ago!
+T4 79 Jugalator : I used to have to have 1.5 pages of spam per day before, now you have around 0.5 pages of daily spam in the spambox.I'm not sure what Google did if this article is true... Maybe they are so sure of that it's spam, that it doesn't even end up in the spam box?
+T4 80 Jugalator : Because, as for my mail address, when it ends up in a register, I don't see why spammers would later remove it.
+T4 81 Jugalator : It obviously receives the spam since the mail server doesn't return an error...Or maybe it's what I heard being rumored once - that certain spam networks avoid Gmail to save costs, because it's so inefficient to spam those mail boxes.
+T4 82 harp2812 : Let me know when you find a reliable way to...a Charge for emailb Prevent unpaid mail from being sentc Prevent botnets from sending 30 free messages then stopping for the dayd Prevent botnets from sending a ton of paid messages using financial info on the host computere Prevent spammers from setting up a mail server that charges for messages, repeating d and then collecting all the money.etc, ad nauseum.
+T4 83 oodaloop : Your sig is deliciously ironic, no?
+T4 84 Geert_Jalink : Just joking.
+T4 85 bondjamesbond : Ditto with my using Appriver for my company.
+T4 86 Anonymous9 : ass of them aal, dying.
+T4 87 Anonymous9 : All major mechanics.
+T4 88 Anonymous9 : So I'm DOG THAT IT IS.
+T4 89 Anonymous9 : &amp;IT Followed.
+T4 90 Anonymous9 : Obviously development model for the project.
+T4 91 Anonymous9 : Spot when done For goat.cx
+T4 92 hesaigo999ca : If we incorporate a pay per email scheme, with an email costing anywhere from 1/2 to 1 cent per email....with a cap being set by the government so you don't get screwed over by the ISP, not only would it be beneficial for the ISP, as less bandwidth because less spam, but also, people infected would be aware that they are infected if not by the first bill, then by the second billing.I am aware of my downloads next bill, cause i see the extra bandwith used, but i don't see the emails sent.If i get charged on the side, and see 1 million emails, but a cap of 20$ let's say, then you bet your *ss I will clean my pc, andget myself organized not to get billed for that again.
+T4 93 hesaigo999ca : People that spend no time monitoring their system have no clue, unless someone points it out for them.By forcing a pay per email, you also make sure to have paper trails, and someone has to pay for that..eventually as the botnets die out, the spammers will have to charge more for the less they are making, or it will not be worthwhile for them, and the spam kings will slowly go out of business.
+T4 94 hesaigo999ca : Right now, they incorporate the pricing into what they charge their clients, but if you raise the cost because now legit spammers have to pay per email, you will get clients investing elsewhere for their marketing.
+T4 95 Anonymous10 : Am I the only one who read this headline and thought, "59 messages a day isn't so bad?
+T4 96 squisher : And I still see less then 1 per month in my Inbox.\_THIS\_ is the price I am willing to pay to allow Google to filter my email.I do agree that gmail's spam filter does not let much through, in truth, it is way too aggressive.
+T4 97 squisher : Are you subscribed to mailing lists?
+T4 98 squisher : Often it'll just tag some random message as spam.
+T4 99 squisher : I've had various things end up in spam over the years, and really wonder how many landed in there that I never noticed who checks their spam folder every couple of days?
+T4 100 squisher : .Recently I got very upset because I tried to sell something on craigslist, and sure enough, an offer ended up in spam.
+T4 101 squisher : Of course I didn't check until a couple of days later, and by then the person wasn't interested any more.
+T4 102 squisher : Since I'm going to start job hunting soon, I can't really afford the uncertainty the gmail spam filter introduces, and plan on moving my email elsewhere.
+T4 103 HTH_NE1 : The messages aren't identicalThe messages don't originate from just one machine but from botnet zombies scattered all over the net with distributed command and control with multiple contingencies for regaining controlThe messages don't end up at just one mail hostBy the time it's detected the damage is already doneAnyone who does detect it isn't in a position to stop it from happening againBasically what you're suggesting boils down to throttling the entire Internet so that it can't handle the capacity of spamming, which will make it useless for any e-mail delivery.
+T4 104 HTH_NE1 : You might as well just kill e-mail.
+T4 105 Anonymous11 : SPAM was the absolute bane of my existence I have several very public email addresses that have to remain that way until the day I finally at at the time reluctantly decided to run all of my mail through Gmail accounts, without exception.
+T4 106 Anonymous11 : I had used block lists, several ISP-based filters, spamassassin post-POP3 on my own local net, and a bunch of filters, and it was eating hours a day of attending to SPAM new filters, fixing filters, marking as spam, marking as ham and so many CPU cycles that a dedicated box couldn't keep up.
+T4 107 Anonymous11 : Not to mention that due to the processing overhead of all that filtering, when someone did send me a message and told me so, I'd have to tell them "I'll get it in ten to fifteen minutes.
+T4 108 Anonymous11 : " And all for a few three, really email queues that belong to one person and a couple assistants?Now I forget that SPAM exists, and my email comes in more or less instantly.For a decade now, Google has more or less singlehandedly kept the internet usable.
+T4 109 Anonymous12 : The report is very well written and provides very interesting information, but whoever decided to use light grey on white should get his or her eyes poked out with a needle.
+T4 110 martin-boundary : \_THIS\_ is the price I am willing to pay to allow Google to filter my email.
+T4 111 martin-boundary : Then you're a fool.
+T4 112 martin-boundary : Use a personal Bayesian filter, and you'll get that same kind of accuracy without the privacy pricetag.
+T4 113 martin-boundary : You can find a bunch of them on freshmeat.
+T4 114 vlm : I get more paper spam in my mailbox, than email spam that slips past spamassassin.So... if capital one sent me two credit card offers per week, for several years, and each cost at least 50 cents to print and post, that one CC company is spending $50/yr trying to win my business... but charging 1 cent per email will stop spam?I get coupon magazines that I toss out.
+T4 115 vlm : For over a decade, when I get a phone book, I toss it out.
+T4 116 vlm : I get endless catalogs.
+T4 117 vlm : All of which cost several orders of magnitude more than one cent.Also if there's one thing the cellphone and landline business has shown, its impossible to bill in units below about one cent per minute or below about $20 per total bill.
+T4 118 vlm : They will have to charge WAY more than one cent, just to recover the costs of the billing infrastructure.
+T4 119 Anonymous13 : ?What about it?
+T4 120 Anonymous13 : It's slightly less fictional than unicorn bacon?
+T4 121 Anonymous14 : And what would be so bad about ISPs blocking that??
+T4 122 HungryHobo : Your post advocates a  technical X legislative X market-based   vigilanteapproach to fighting spam.
+T4 123 HungryHobo : Your idea will not work.
+T4 124 HungryHobo : Here is why it won't work.
+T4 125 HungryHobo : One or more of the following may apply to your particular idea, and it may have other flaws which used to vary from state to state before a bad federal law was passed.
+T4 126 HungryHobo : Spammers can easily use it to harvest email addressesX Mailing lists and other legitimate email uses would be affected  No one will be able to find the guy or collect the money  It is defenseless against brute force attacks  It will stop spam for two weeks and then we'll be stuck with itX Users of email will not put up with itX Microsoft will not put up with it  The police will not put up with it  Requires too much cooperation from spammersX Requires immediate total cooperation from everybody at once  Many email users cannot afford to lose business or alienate potential employers  Spammers don't care about invalid addresses in their lists  Anyone could anonymously destroy anyone else's career or businessSpecifically, your plan fails to account for  Laws expressly prohibiting itX Lack of centrally controlling authority for emailX Open relays in foreign countries  Ease of searching tiny alphanumeric address space of all email addressesX AsshatsX Jurisdictional problemsX Unpopularity of weird new taxes  Public reluctance to accept weird new forms of moneyX Huge existing software investment in SMTP  Susceptibility of protocols other than SMTP to attack  Willingness of users to install OS patches received by email  Armies of worm riddled broadband-connected Windows boxes  Eternal arms race involved in all filtering approachesX Extreme profitability of spam  Joe jobs and/or identity theftX Technically illiterate politicians  Extreme stupidity on the part of people who do business with spammers  Dishonesty on the part of spammers themselves  Bandwidth costs that are unaffected by client filteringX Outlookand the following philosophical objections may also apply:X Ideas similar to yours are easy to come up with, yet none have ever been shown practical  Any scheme based on opt-out is unacceptableX SMTP headers should not be the subject of legislation  Blacklists suck  Whitelists suck  We should be able to talk about Viagra without being censored  Countermeasures should not involve wire fraud or credit card fraud  Countermeasures should not involve sabotage of public networksX Countermeasures must work if phased in graduallyX Sending email should be free  Why should we have to trust you and your servers?
+T4 127 HungryHobo : Incompatiblity with open source or open source licenses  Feel-good measures do nothing to solve the problem  Temporary/one-time email addresses are cumbersome  I don't want the government reading my emailX Killing them that way is not slow and painful enoughFurthermore, this is what I think about you:X Sorry dude, but I don't think it would work.
+T5 128 HungryHobo : This is a stupid idea, and you're a stupid person for suggesting it.
+T5 129 HungryHobo : Nice try, assh0le!
+T5 130 HungryHobo : I'm going to find out where you live and burn your house down!
+T5 131 damn\_registrars : Yeah, we can see how much of a wonderful difference all those filtering programs that are on the market today are doing for the worldwide spamming problem.
+T5 132 damn\_registrars : That is, no difference.
+T5 133 damn\_registrars : If you want to do something about the spamming problem, start looking beyond your own nose.
+T5 134 damn\_registrars : Stop adjusting your filtering rules constantly.
+T5 135 damn\_registrars : Pay attention to the cause of the problem - spam is an economic problem.
+T5 136 damn\_registrars : Until something is done about the profit-motive and the insane margins of profit behind spam, the problem will only continue to grow.
+T5 137 JustNilt : Not to mention much of the corporate world's communications.
+T5 138 JustNilt : This is one of those "looks good on paper" things.
+T5 139 Anonymous15 : ?I think that's an oxymoron.
+T5 140 Anonymous16 : You're not the real Kilgore Trout, faggot.
+T5 141 pclminion : Yeah, well, if it quacks like a duck...Seriously, if you are trying to communicate with hundreds of people, there are technologies meant for that.
+T5 142 pclminion : Email isn't one of them.
+T5 143 msclrhd : I like Gmail for many reasons, one of which is their awesome spam filter.
+T5 144 msclrhd : I get only one or two mis-categorised email every couple of weeks, the rest goes to the spam box.
+T5 145 msclrhd : Couple that with the coloured labels &amp; filters, and spam/not spam is very easy to identify.Hotmail on the other hand is terrible.
+T5 146 msclrhd : Ages ago when I was using Hotmail, I ended up with the majority of my inbox being spam so I gave up and tried Gmail.
+T5 147 msclrhd : I don't know how good Hotmail is at the moment or others like YahooMail.
+T5 148 icebike : Why is this modded troll?Seriously people, bot nets are virtually 100\% windows machines, not because windows is popular, simply because windows is so EASY to subvert.Nothing has improved or changed in this fact since spam started to be a serious problem.
+T6 149 Anonymous17 : I have my own domain, too.
+T6 150 Anonymous17 : I also have an ISP that's funny about ports.
+T6 151 Anonymous17 : Sure, I could drop them for such restrictions.
+T6 152 Anonymous17 : But my other choice is dial-up.
+T6 153 aztracker1 : I'd be happy if more of the bigger mail services recognized my mail server for my hobby site's user signups as non-spam.
+T6 154 aztracker1 : Despite the fact the MX on record is the sending server, and the domain for the MX has been up for a while.
+T6 155 aztracker1 : I've in the past year retired the use of my company's domain name, and revised my hobby site to use a newer domain.
+T6 156 aztracker1 : Just the same, this has been over the course of a year, not all at once.
+T7 157 Anonymous18 : Gmail works flawlessly.
+T7 158 Anonymous18 : I haven't seen spam in years and because it's never accidentally flagged a real message, I've made a filter that automatically deletes any spam instead of filling up a spam folder that I'll never check.If ISPs and other email providers can't provide the same level of service, then they suck.
+T7 159 Kardos : That, or the herders adjust their botnet so the behavior of each node is such that it *becomes* the curve...
+T7 160 datapharmer : Clearly you haven't had it mixed with vienna sausages and  anchovies.
+T7 161 datapharmer : yum!
+T7 162 swframe : Everyone is paying to filter the spam but maybe
+T7 163 swframe : ISPs should pay to find the spammers.
+T7 164 swframe : At some
+T7 165 swframe : probably low cost, you can induce people to
+T7 166 swframe : find the spammers.
+T7 167 swframe : After all, the spammer has to have
+T7 168 swframe : a way to collect money from his/her targets.
+T7 169 swframe : Also, I wish ISPs would find the people who respond to
+T7 170 swframe : spam and give them email accounts at a site that the
+T7 171 swframe : spammers can freely target.
+T7 172 swframe : These people are the real
+T7 173 swframe : cause of spam.
+T7 174 Anonymous19 : Original poster here, maybe I should elaborate.Why don't ISPs providing service to home users require outgoing SMTP to pass through the ISP mailserver firewalling port 25 and flag/block extreme usage so that their customers' virus infected machines don't spew further garbage into the Internet?In the very rare case where a customer needs to run a mailing list or the like, allow them to change their thresholds in their user profile.
+T7 175 Anonymous19 : For those who don't intend to send hundreds of thousands of messages, it might actually be of some benefit to them to shut down the spigot and send them a warning that their computer's infected.I don't want to throttle the whole Internet, just implement some form of rationality test on mail output at the ISP level.
+T7 176 compro01 : A lot of ISPs already block port 25, what else do you want?
+T8 177 Archangel_Michael : I've NEVER seen all four of those checked before on a singular suggestion.
+T8 178 Archangel_Michael : SO, I will attempt to propose the PERFECT solution, which will obviously have to take into account all four options .... THIS would definitely solve the problem.We need to pass a law, that would create an incentive for Private Companies to generate an electric shock device that would automatically send a large electrical shock to anyone OPENING SPAM legislation to define SPAM as broadly as possible and contain SNOPES and Chain letter provisions.
+T8 179 Archangel_Michael : The Winning company's device would be awarded the ONE day's cost of SPAM to be determined.This is based on my basic premise .... STUPID should hurt.
+T8 180 fregare : There is so much waste on the internet.
+T8 181 fregare : And you complain about spam?
+T8 182 fregare : Look at Flash !
+T8 183 fregare : Most of the Flash movies out there are basically TV.
+T8 184 fregare : Is TV known for education as people had hoped when it was invented?
+T8 185 fregare : No it is dumbed down for the sheeple out there: reality shows ad anauseum.
+T8 186 fregare : Should 24 be an example of an education show?
+T8 187 fregare : What exactly do we learn from 24?
+T8 188 fregare : In short, TV is basically a waste and now I fear that the internet is turning into shit.
+T8 189 fregare : And you complain about waste?
+T8 190 fregare : Even slashdot itself seems to use so much goddamn javascript.
+T8 191 fregare : Soon one will need a supercomputer just to execute javascript.
+T8 192 fregare : OIE VEY.
+T8 193 TheNarrator : I have a domain name that I do mail forwarding for.
+T8 194 TheNarrator : Some botnet owner decided it was worth finding emails to spam to on this domain.
+T8 195 TheNarrator : So now every single day, 24/7 365 days a year, once or twice a minute I get an attempt to send an email to fsdfs34@mydomain.com where fsdfs34 gets replaced with every possible email conceivable.
+T8 196 TheNarrator : At first I decided to add an ip blocker for anyone who spammed me, but it soon slowed down my mail server so much that I had to take it out once the list grew into the 10s of thousands of ips.Now I just greylist and tightly check EHELOs which seems to keep any of the spam from getting anywhere.
+T8 197 TheNarrator : Nevertheless, the attempts come relentlessly and continuously like clockwork form ips all over the world.
+T8 198 Anonymous20 : where might i....oh wait ...haha.and i failed to confirm im a humanthen what the fuck am i
+T8 199 antdude : What about your spam folder?
+T8 200 Hittman : It happens from time to time, which is why you have to check your spam folder from time to time.
+T8 201 Hittman : Usually simply marking it as "not spam" solves the problem.
+T8 202 Hittman : Even with a few pages of spam that shouldn't take you more than a minute or so.Perfection doesn't exist in this area, but Google comes pretty close.
+T8 203 Anonymous21 : And I still see less then 1 per month in my Inbox.\_THIS\_ is the price I am willing to pay to allow Google to filter my email.More like once a year.
+T8 204 Anonymous21 : And I've had to go into my junk folder and remove a legitimate e-mail maybe once since I started using GMail several years ago.
+T8 205 Anonymous22 : In other news, Lifehacker's Remains of the Day for today reports that 80\% of malicious exploits use Adobe Acrobat PDF files as an attack vector.
+T8 206 Anonymous22 : Download the report and get infected!
+T8 207 Anonymous22 : ROFL!
+T8 208 Anonymous23 : That is, no difference.Spam filters are not there to stop spam -- they're there to stop YOU from receiving it.
+T8 209 Anonymous23 : Most people are completely unaware of how much spam gets blocked between when the spammer sends it and when it would have ended up in their inbox.Now if we removed ALL spam filters, we might actually find that, as productivity ground to a halt, people might actually do something about the problem and kill off the botnets and spam organisations that cause all these issues... or people might just complain but go on as usual, and the volume might actually go DOWN as the ROI for each blast of spam would increase.
+T8 210 Anonymous24 : As much as I hate spam, I hate overzealous gateways on the internet more.
+T9 211 Anonymous24 : Earthlink for example refuses to receive mail without a valid return address so no-reply@ must respond to RESP and sends you one of these:I apologize for this automatic reply to your email.
+T9 212 Anonymous24 : To control spam, I now allow incoming messages only from senders I have approved beforehand.
+T9 213 Anonymous24 : If you would like to be added to my list of approved senders, please fill out the short request form see link below.
+T9 214 Anonymous24 : Once I approve you, I will receive your original message in my inbox.
+T9 215 Anonymous24 : You do not need to resend your message.
+T9 216 Anonymous24 : I apologize for this one-time inconvenience.
+T9 217 Anonymous24 : Click the link below to fill out the request:
+T9 218 Anonymous24 : There's no way I'll waste my time filling in that form, so I've added big warning on the registration page now - sorry users of a overzealous ISP, please disable your spam filter if you can or just use another email address to register from.
+T10 219 Binder : Umm...How about make windows illegal?
+T10 220 Anonymous25 : holy SHIT, 3Billion messages per day, why that's equivalent to one NEW individual piece of spam in EVERY LIVING PERSON'S INBOX ON EARTH...every 2 days!!.
+T10 221 Anonymous25 : Or rather spam folder.
+T10 222 Anonymous25 : But still!
+T10 223 Anonymous25 : Looked at it another way, in just one short month, that would be FIFTEEN messages in a single person's inbox.
+T10 224 Anonymous25 : How many legitimate mails do you get per month?
+T10 225 Anonymous25 : Can you imagine sorting through FIFTEEN pieces of spam to get to just four weeks of real mail?
+T10 226 Anonymous25 : Email is useless.um, not.
+T10 227 Anonymous25 : wake me when the number of spam messages reaches 3B per second.
+T10 228 Anonymous25 : That will be an interesting milestone...
+T10 229 ValuJet : You nerds sure get hyped up over 59 spam messages a day.
+T11 230 ValuJet : That really isn't that much when you think about the whole internet.Wait... you mean that wasn't hex?
+T11 231 Anonymous26 : I should think that spam is much more serious problem bandwidth-wise.
+T11 232 shentino : 1.
+T11 233 shentino : Spammers already make a metric fuckton of money2.
+T11 234 shentino : Crooks willing to hijack computers won't be deterred from stealing financial information to pay email fees with.3.
+T11 235 shentino : Such crooks are already using zombie computers, so the victims would get stuck paying anyway
+T11 236 Soiden : ...and in my Gmail account I never see even one.
+T11 237 Phoghat : How about something with a little less spam In it?
+T11 238 Phoghat : There's:
+T11 239 Phoghat : http://www.youtube.com/watch?v=anwy2MPT5RE youtube.com
+T11 240 innocent\_white\_lamb : Although I think very low of the morality of those who do this for a living, but at times you really have to respect their skills.
+T11 241 innocent\_white\_lamb :   Skills?
+T11 242 innocent\_white\_lamb : I think it's more a case of "even a blind pig occasionally turns up a nut.
+T11 243 innocent\_white\_lamb : "  There are so many wanna-be spammers and wanna-be "hackers" and wanna-be whatever's-hot-this-week that it doesn't take much of a success rate to land a ton of spam in your inbox, and mine.
+T11 244 innocent\_white\_lamb :   I susspect that at least 85\% of the people who read Slashdot could do a better job of spamming than the spammers, if they were so inclined.
+T11 245 miracle69 : It's not an economic problem because there is little profit in spam from a legitimate business.
+T11 246 miracle69 : If there were, they wouldn't require the use of botnets to steal other peoples resources.
+T11 247 miracle69 : The spammer can only profit because their overhead is being spread to unsuspecting users on a global scale.
+T11 248 vegiVamp : I check mine daily.
+T11 249 vegiVamp : It's just part of my routine, and because I know it's mostly spam in there, a quick subject scan usually suffices to confirm there's nothing unusual and I can click delete-all.A lot of spam seems to come in batches, btw, there's often four, five times almost identical subjects.
+T11 250 selvan : It looked like 38 to me
+T11 251 hesaigo999ca : Your post advocates ax lack of technical knowdlegde X ignorance  dumbass comment   poor choice of wordsHere's why your thoughts on why my idea will not work do not hold waterX Mailing lists and other legitimate email uses would be affectedOf course they would, and that is the reason why they incorporate it into the billing, being legit, they would do that, non legit, not so much.
+T11 252 hesaigo999ca : X Users of email will not put up with itYou put up with being charged per phone call on your cell with a cap per month, don't you?
+T11 253 hesaigo999ca : X Microsoft will not put up with itM$ has nothing to say about the amount of emails coming or going, as long as they make money on the licenses using the software to do such actions, and might even create a new one to help monitor this new functionality, and make even more profits.
+T11 254 hesaigo999ca : X Requires immediate total cooperation from everybody at onceSpecifically, your plan fails to account forX Lack of centrally controlling authority for emailBecause we do not have a governing body for the internet as a whole???
+T11 255 hesaigo999ca : Wow...rollseyesX Open relays in foreign countriesSo what you are saying is that international communication does not exist by internetX AsshatsExplain this one to me, I am sure I my visual does not do you justiceX Jurisdictional problemsEach country have their own cell phone companies, why would this be any different?
+T11 256 hesaigo999ca : X Unpopularity of weird new taxesWow, i mentioned a payment structure for a service, and you already want to tax it, even though it would be the companies making money on this that would pay their revenue taxes, you should become a politician.
+T11 257 hesaigo999ca : X Huge existing software investment in SMTPAdding a few lines of code, or a new service into an already existing infrasrtucture is not the end of the world...look at when spam first came out, or when dns cache poisoning came out, it is doable if we want to get it done.
+T11 258 hesaigo999ca : X Extreme profitability of spamExactly my point, now non legit spammers will have to raise their prices, and force their clients to rethink if they want to spend 10 times the amount of money to keep spamming, for that 1\% that are gullible enough to think the nigerian king is really trying to send them his money.
+T11 259 hesaigo999ca : X Technically illiterate politiciansHave i mentioned you should run for politics...X OutlookThe software, or your bleak vision of what our future HAS to be...and the following philosophical objections may also apply:X Ideas similar to yours are easy to come up with, yet none have ever been shown practicalNone have been implemented at the level that let's say DNS cahce poisoning has, and needs to be.
+T11 260 hesaigo999ca : X SMTP headers should not be the subject of legislationWow, tell that to the white house with their million or so emails that went missing and forced Obama to rethink his cyber policies for future presidents to come.
+T11 261 hesaigo999ca : X Countermeasures must work if phased in graduallyThis can not be phased in slowly, it has to be done one shot like digital tv was, for it to work.
+T11 262 hesaigo999ca : X Sending email should be freeYour sentiment, not mine.
+T11 263 hesaigo999ca : X Killing them that way is not slow and painful enoughKilling who exactly, slashdot readers?
+T11 264 hesaigo999ca : Your doing a good job so far...Furthermore, this is what I think about you:X Sorry dude, but I don't think it would work.Sorry dude, your self absorbed ranting about what you think without at least giving any real sound proof of your background in this field or any real points to substantiate your claims, make me think you are just trying to push an opinion, and like mine no one really cares, the difference between yours and mine, is I understand my opinion does not matter, but the idea I am trying to convey is to try and help by offering a potential idea to help others, you only have managed to waste my time, and yours by trying to grab some 15 minutes of fame by shooting down someone'sidea.
+T12 265 Hurricane78 : You don’t need Google at all.
+T12 266 Hurricane78 : You essentially sell the content of your mails &amp; co for the price of a root server with this installed: http://www.gentoo-wiki.info/Complete\_Virtual\_Mail\_Server gentoo-wiki.infoI used this, and it’s just as good, if not better than Google’s filter.
+T12 267 Hurricane78 : But it’s completely yours.
+T12 268 Hurricane78 : A huge advantage for me.
+T12 269 Hurricane78 : Your choice.
+T12 270 Hurricane78 : No judgment from me.
+T12 271 Hurricane78 : I have one such subscription something a bit more special which is actually really nice, and I don’t have gotten more spam.
+T12 272 Hurricane78 : At least behind my spam filter.
+T12 273 Hurricane78 : I went “3 x 10^12 spam mails?
+T12 274 Hurricane78 : That is a LOT!”
+T12 275 HTH_NE1 : ?I refer you again to number 2.
+T12 276 HTH_NE1 : I think you underestimate how many machines are in a given botnet and therefore overestimate how much spam one machine in that botnet sends.
+T12 277 HTH_NE1 : They could easily slide under an ISP's per-user e-mail volume limit and still participate in a million-strong spam.
+T12 278 Anonymous27 : I read it as 3 bytes.

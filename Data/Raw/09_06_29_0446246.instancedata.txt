@@ -1,0 +1,774 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_06_29_0446246</id>
+	<title><em>Serious Sam</em> Remake Coming In Fall</title>
+	<author>Soulskill</author>
+	<datestamp>1246303620000</datestamp>
+	<htmltext>Majesco Entertainment has announced that <a href="http://www.offworld.com/2009/06/croteam-former-gamecock-crew-b.html"> <em>Serious Sam: The First Encounter HD</em> will be coming to Xbox Live this fall</a>, and to the PC sometime later. It's a remake of the original game using the CroTech engine, and it will support up to four player co-op. Joystiq has some screenshots, including <a href="http://www.joystiq.com/2009/06/25/compari-shot-serious-sams-hd-return/">a comparison between the old graphics and the new look</a>. "The textures are sharper and cleaner than before. The original's perfectly flat lawns are now replaced with individual blades of grass &mdash; and look at that foliage, rendered with some classy <em>Crysis</em>-styled soft focus. Notice the dynamic shadows over our pumpkin-wearing, chainsaw-wielding friend? Now, imagine this level of detail on hundreds of on-screen enemies."</htmltext>
+<tokenext>Majesco Entertainment has announced that Serious Sam : The First Encounter HD will be coming to Xbox Live this fall , and to the PC sometime later .
+It 's a remake of the original game using the CroTech engine , and it will support up to four player co-op .
+Joystiq has some screenshots , including a comparison between the old graphics and the new look .
+" The textures are sharper and cleaner than before .
+The original 's perfectly flat lawns are now replaced with individual blades of grass â € ” and look at that foliage , rendered with some classy Crysis-styled soft focus .
+Notice the dynamic shadows over our pumpkin-wearing , chainsaw-wielding friend ?
+Now , imagine this level of detail on hundreds of on-screen enemies .
+"</tokentext>
+<sentencetext>Majesco Entertainment has announced that  Serious Sam: The First Encounter HD will be coming to Xbox Live this fall, and to the PC sometime later.
+It's a remake of the original game using the CroTech engine, and it will support up to four player co-op.
+Joystiq has some screenshots, including a comparison between the old graphics and the new look.
+"The textures are sharper and cleaner than before.
+The original's perfectly flat lawns are now replaced with individual blades of grass â€” and look at that foliage, rendered with some classy Crysis-styled soft focus.
+Notice the dynamic shadows over our pumpkin-wearing, chainsaw-wielding friend?
+Now, imagine this level of detail on hundreds of on-screen enemies.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28514101</id>
+	<title>Do Redneck Rampage Next!</title>
+	<author>pecosdave</author>
+	<datestamp>1246290720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Yeah, I really want that one redone like this!</p><p>Maybe throw in some more Rock-A-Billy while you're at it, and make the cuss pack a check mark in the menu.  Other than that, leave it alone!</p></htmltext>
+<tokenext>Yeah , I really want that one redone like this ! Maybe throw in some more Rock-A-Billy while you 're at it , and make the cuss pack a check mark in the menu .
+Other than that , leave it alone !</tokentext>
+<sentencetext>Yeah, I really want that one redone like this!Maybe throw in some more Rock-A-Billy while you're at it, and make the cuss pack a check mark in the menu.
+Other than that, leave it alone!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28515621</id>
+	<title>Re:Out of ideas?</title>
+	<author>Anonymous</author>
+	<datestamp>1246297440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I think they're just trying to cash in on a market they could have better sales in.</p><p>There's lots of console gamers who've never heard of Serious Sam, so bringing it to them seems like an easy way to make some money.</p><p>Money = more profit = more projects = more staff = new games</p><p>Plus - I've found there isn't enough games that are suitable for a wide range of skill levels, for 4 people, to just hang out and drink some beers over.</p><p>Games like Call of Duty on an Xbox 360, I usually clean up since I play fps games far more than most of my friends.</p><p>Enough with the competitive games - bring on the co-op!</p></htmltext>
+<tokenext>I think they 're just trying to cash in on a market they could have better sales in.There 's lots of console gamers who 've never heard of Serious Sam , so bringing it to them seems like an easy way to make some money.Money = more profit = more projects = more staff = new gamesPlus - I 've found there is n't enough games that are suitable for a wide range of skill levels , for 4 people , to just hang out and drink some beers over.Games like Call of Duty on an Xbox 360 , I usually clean up since I play fps games far more than most of my friends.Enough with the competitive games - bring on the co-op !</tokentext>
+<sentencetext>I think they're just trying to cash in on a market they could have better sales in.There's lots of console gamers who've never heard of Serious Sam, so bringing it to them seems like an easy way to make some money.Money = more profit = more projects = more staff = new gamesPlus - I've found there isn't enough games that are suitable for a wide range of skill levels, for 4 people, to just hang out and drink some beers over.Games like Call of Duty on an Xbox 360, I usually clean up since I play fps games far more than most of my friends.Enough with the competitive games - bring on the co-op!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511315</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28521277</id>
+	<title>Re:Graphics and content</title>
+	<author>Anonymous</author>
+	<datestamp>1246276620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I recently took a trip to Egypt and got the itch to play SS:FE. But the thing ran so !@#$ choppy on my quad core/7950 setup that I could not play it. Google was not any help and I have feared I would need to put together an old machine if I wanted to play this game again. Maybe this will help so long as they leave the game alone, just updating the engine and graphics.</p></htmltext>
+<tokenext>I recently took a trip to Egypt and got the itch to play SS : FE .
+But the thing ran so !
+@ # $ choppy on my quad core/7950 setup that I could not play it .
+Google was not any help and I have feared I would need to put together an old machine if I wanted to play this game again .
+Maybe this will help so long as they leave the game alone , just updating the engine and graphics .</tokentext>
+<sentencetext>I recently took a trip to Egypt and got the itch to play SS:FE.
+But the thing ran so !
+@#$ choppy on my quad core/7950 setup that I could not play it.
+Google was not any help and I have feared I would need to put together an old machine if I wanted to play this game again.
+Maybe this will help so long as they leave the game alone, just updating the engine and graphics.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511447</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511529</id>
+	<title>Re:Newer Games Should Take Lessons</title>
+	<author>Donniedarkness</author>
+	<datestamp>1246271220000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext>Give "Left 4 Dead" a try. I don't think you'll complain about a lack of enemies there.</htmltext>
+<tokenext>Give " Left 4 Dead " a try .
+I do n't think you 'll complain about a lack of enemies there .</tokentext>
+<sentencetext>Give "Left 4 Dead" a try.
+I don't think you'll complain about a lack of enemies there.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511181</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28516555</id>
+	<title>Re:Out of ideas?</title>
+	<author>Anonymous</author>
+	<datestamp>1246300920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I'd love to see a graphical update of Deus Ex, but I'm certain with an update they would remove a lot of the goofy cheats, like the unlimited inventory space, infinite augmentation canisters, pushing buttons that were covered if you stood at the correct angle, and so on.</p></htmltext>
+<tokenext>I 'd love to see a graphical update of Deus Ex , but I 'm certain with an update they would remove a lot of the goofy cheats , like the unlimited inventory space , infinite augmentation canisters , pushing buttons that were covered if you stood at the correct angle , and so on .</tokentext>
+<sentencetext>I'd love to see a graphical update of Deus Ex, but I'm certain with an update they would remove a lot of the goofy cheats, like the unlimited inventory space, infinite augmentation canisters, pushing buttons that were covered if you stood at the correct angle, and so on.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28514519</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28515045</id>
+	<title>Games Comapnies Are Running Out Of Ideas</title>
+	<author>pandrijeczko</author>
+	<datestamp>1246295100000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>We've been seeing this decline in the games industry for years with the ever-increasing numbers of derivative sequels and even different titles from different companies being copies of each other.</p><p>The "remake" is exactly the way Hollywood has gone with movies - now they've all run out of ideas, they just redo the old stuff.</p><p>Incidentally, these comments come from a big Serious Sam fan - I still play the First and Second Encounters regularly on LAN parties with friends, it really doesn't need any graphical improvements. Especially because having a few older PCs kicking around the house, it's not always necessary for friends to bring PCs over themselves since one of my older PCs will run it (as well as Doom, Duke Nukem, Quake and a few others).</p></htmltext>
+<tokenext>We 've been seeing this decline in the games industry for years with the ever-increasing numbers of derivative sequels and even different titles from different companies being copies of each other.The " remake " is exactly the way Hollywood has gone with movies - now they 've all run out of ideas , they just redo the old stuff.Incidentally , these comments come from a big Serious Sam fan - I still play the First and Second Encounters regularly on LAN parties with friends , it really does n't need any graphical improvements .
+Especially because having a few older PCs kicking around the house , it 's not always necessary for friends to bring PCs over themselves since one of my older PCs will run it ( as well as Doom , Duke Nukem , Quake and a few others ) .</tokentext>
+<sentencetext>We've been seeing this decline in the games industry for years with the ever-increasing numbers of derivative sequels and even different titles from different companies being copies of each other.The "remake" is exactly the way Hollywood has gone with movies - now they've all run out of ideas, they just redo the old stuff.Incidentally, these comments come from a big Serious Sam fan - I still play the First and Second Encounters regularly on LAN parties with friends, it really doesn't need any graphical improvements.
+Especially because having a few older PCs kicking around the house, it's not always necessary for friends to bring PCs over themselves since one of my older PCs will run it (as well as Doom, Duke Nukem, Quake and a few others).</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511075</id>
+	<title>Seriously?</title>
+	<author>BigDXLT</author>
+	<datestamp>1246308660000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>Let's try to be serious with the posts, okay folks?</htmltext>
+<tokenext>Let 's try to be serious with the posts , okay folks ?</tokentext>
+<sentencetext>Let's try to be serious with the posts, okay folks?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511181</id>
+	<title>Newer Games Should Take Lessons</title>
+	<author>NBarnes</author>
+	<datestamp>1246266720000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>I wish more games would take the 'more is more' approach to enemies that Serious Sam did.  I loved the HUGE SCREAMING HORDES of bad guys that would try to zerg you down.  It was a nice change of pace from, say, Unreal's 'kill a bad guy, which triggers another bad guy, because the engine chokes and dies if two mobs are on the screen at the same time'.  And I liked Unreal.  More games should have more swarms.</p></htmltext>
+<tokenext>I wish more games would take the 'more is more ' approach to enemies that Serious Sam did .
+I loved the HUGE SCREAMING HORDES of bad guys that would try to zerg you down .
+It was a nice change of pace from , say , Unreal 's 'kill a bad guy , which triggers another bad guy , because the engine chokes and dies if two mobs are on the screen at the same time' .
+And I liked Unreal .
+More games should have more swarms .</tokentext>
+<sentencetext>I wish more games would take the 'more is more' approach to enemies that Serious Sam did.
+I loved the HUGE SCREAMING HORDES of bad guys that would try to zerg you down.
+It was a nice change of pace from, say, Unreal's 'kill a bad guy, which triggers another bad guy, because the engine chokes and dies if two mobs are on the screen at the same time'.
+And I liked Unreal.
+More games should have more swarms.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511117</id>
+	<title>Original handled 8+ in co-op multi</title>
+	<author>Sehnsucht</author>
+	<datestamp>1246309080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Only 4 players? What a disappointment.</htmltext>
+<tokenext>Only 4 players ?
+What a disappointment .</tokentext>
+<sentencetext>Only 4 players?
+What a disappointment.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28515261</id>
+	<title>No more Croateam for me.</title>
+	<author>Anonymous</author>
+	<datestamp>1246296120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>They lost me at Serious Sam 2.  I and my friends all picked it up soon after release to co-op through it, and the multiplayer was SERIOUSly unfinished.  You couldn't even password protect a game, so any random person could jump into our group and start griefing us.  I mean, it's one thing to have a few glitches here and there on odd hardware, but no private multi games?  When I brought up this issue on their forums, their mods/admins were rude to the point of personal insults, and I was directed to appreciate what they chose to give me.  They'll not get any more of my money.</htmltext>
+<tokenext>They lost me at Serious Sam 2 .
+I and my friends all picked it up soon after release to co-op through it , and the multiplayer was SERIOUSly unfinished .
+You could n't even password protect a game , so any random person could jump into our group and start griefing us .
+I mean , it 's one thing to have a few glitches here and there on odd hardware , but no private multi games ?
+When I brought up this issue on their forums , their mods/admins were rude to the point of personal insults , and I was directed to appreciate what they chose to give me .
+They 'll not get any more of my money .</tokentext>
+<sentencetext>They lost me at Serious Sam 2.
+I and my friends all picked it up soon after release to co-op through it, and the multiplayer was SERIOUSly unfinished.
+You couldn't even password protect a game, so any random person could jump into our group and start griefing us.
+I mean, it's one thing to have a few glitches here and there on odd hardware, but no private multi games?
+When I brought up this issue on their forums, their mods/admins were rude to the point of personal insults, and I was directed to appreciate what they chose to give me.
+They'll not get any more of my money.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28517625</id>
+	<title>Re:Graphics and content</title>
+	<author>Anonymous</author>
+	<datestamp>1246304940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>From what I've seen it's just new textures and models.</p></htmltext>
+<tokenext>From what I 've seen it 's just new textures and models .</tokentext>
+<sentencetext>From what I've seen it's just new textures and models.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511083</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511315</id>
+	<title>Out of ideas?</title>
+	<author>Anonymous</author>
+	<datestamp>1246268520000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Remake some old awesome game with NEW GRAPHICS!  It will sell well!   not...</p><p>So now they want people to upgrade their graphics cards...  not for some awesome gotta have it brand new title?  no..  now they want you to upgrade for some OLD ass game!</p><p>Remake?  So they couldnt come up with any new content after the total mess that was the last serious sam game?  well. ok.  thats a given.  since the original two awesome ones were made by people who no longer work for croteam.</p><p>And only 4 player co-op?   Um...  the old game would handle way more people than that.</p><p>Could it sound anymorel like a desperate attempt to cash in on something that WAS good?</p></htmltext>
+<tokenext>Remake some old awesome game with NEW GRAPHICS !
+It will sell well !
+not...So now they want people to upgrade their graphics cards... not for some awesome got ta have it brand new title ?
+no.. now they want you to upgrade for some OLD ass game ! Remake ?
+So they couldnt come up with any new content after the total mess that was the last serious sam game ?
+well. ok. thats a given .
+since the original two awesome ones were made by people who no longer work for croteam.And only 4 player co-op ?
+Um... the old game would handle way more people than that.Could it sound anymorel like a desperate attempt to cash in on something that WAS good ?</tokentext>
+<sentencetext>Remake some old awesome game with NEW GRAPHICS!
+It will sell well!
+not...So now they want people to upgrade their graphics cards...  not for some awesome gotta have it brand new title?
+no..  now they want you to upgrade for some OLD ass game!Remake?
+So they couldnt come up with any new content after the total mess that was the last serious sam game?
+well. ok.  thats a given.
+since the original two awesome ones were made by people who no longer work for croteam.And only 4 player co-op?
+Um...  the old game would handle way more people than that.Could it sound anymorel like a desperate attempt to cash in on something that WAS good?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28514819</id>
+	<title>Re:What made SS1 great?</title>
+	<author>MercBoy</author>
+	<datestamp>1246293960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Things that made SS great.  Sam's voice.  The humor.  The music in some locations was fantastic.  Carts.</htmltext>
+<tokenext>Things that made SS great .
+Sam 's voice .
+The humor .
+The music in some locations was fantastic .
+Carts .</tokentext>
+<sentencetext>Things that made SS great.
+Sam's voice.
+The humor.
+The music in some locations was fantastic.
+Carts.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511375</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28512791</id>
+	<title>Re:Newer Games Should Take Lessons</title>
+	<author>KDR\_11k</author>
+	<datestamp>1246283040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Earth Defense Force is a good example too. It also adds something that the bugs can crawl over buildings so you might get attacked from above.</p></htmltext>
+<tokenext>Earth Defense Force is a good example too .
+It also adds something that the bugs can crawl over buildings so you might get attacked from above .</tokentext>
+<sentencetext>Earth Defense Force is a good example too.
+It also adds something that the bugs can crawl over buildings so you might get attacked from above.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511181</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511189</id>
+	<title>Why do I have to imagine hundreds of enemies?</title>
+	<author>Rogerborg</author>
+	<datestamp>1246266840000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>I'm a little concerned that the marketing has exceeded the technology here.  The entire point of the SS games (as contrasted with SS2) was to swamp you with goons.
+
+</p><p>So... where are they?
+
+</p><p>The screenshots look purty, but if I were writing SS:FE:HD, then I'd start with a screen full of goons, and tailor the detail to keep the framerate up.  Showing a couple of high detail models, wow, it's like they're demoing the exact opposite of SS.
+
+</p><p>I have a feeling that somebody's going to be working a lot of overtime to deliver on that promise, and it's not going to be the marketing guy.</p></htmltext>
+<tokenext>I 'm a little concerned that the marketing has exceeded the technology here .
+The entire point of the SS games ( as contrasted with SS2 ) was to swamp you with goons .
+So... where are they ?
+The screenshots look purty , but if I were writing SS : FE : HD , then I 'd start with a screen full of goons , and tailor the detail to keep the framerate up .
+Showing a couple of high detail models , wow , it 's like they 're demoing the exact opposite of SS .
+I have a feeling that somebody 's going to be working a lot of overtime to deliver on that promise , and it 's not going to be the marketing guy .</tokentext>
+<sentencetext>I'm a little concerned that the marketing has exceeded the technology here.
+The entire point of the SS games (as contrasted with SS2) was to swamp you with goons.
+So... where are they?
+The screenshots look purty, but if I were writing SS:FE:HD, then I'd start with a screen full of goons, and tailor the detail to keep the framerate up.
+Showing a couple of high detail models, wow, it's like they're demoing the exact opposite of SS.
+I have a feeling that somebody's going to be working a lot of overtime to deliver on that promise, and it's not going to be the marketing guy.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511061</id>
+	<title>Graphics and content</title>
+	<author>Luc1fel</author>
+	<datestamp>1246308480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>As much as I like Serious Sam, I really hope fancy graphics aren't the only improvement in the remake. I like looking at pretty effects as much as the next guy, but the game content counts for much more.</htmltext>
+<tokenext>As much as I like Serious Sam , I really hope fancy graphics are n't the only improvement in the remake .
+I like looking at pretty effects as much as the next guy , but the game content counts for much more .</tokentext>
+<sentencetext>As much as I like Serious Sam, I really hope fancy graphics aren't the only improvement in the remake.
+I like looking at pretty effects as much as the next guy, but the game content counts for much more.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28514519</id>
+	<title>Re:Out of ideas?</title>
+	<author>dunkelfalke</author>
+	<datestamp>1246292700000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Remakes of good games would sell perfectly fine.</p><p>If somebody would remake Deus Ex and MechWarrior 2 with updated graphics and levels I would buy both games immediately.</p></htmltext>
+<tokenext>Remakes of good games would sell perfectly fine.If somebody would remake Deus Ex and MechWarrior 2 with updated graphics and levels I would buy both games immediately .</tokentext>
+<sentencetext>Remakes of good games would sell perfectly fine.If somebody would remake Deus Ex and MechWarrior 2 with updated graphics and levels I would buy both games immediately.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511315</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28515477</id>
+	<title>Re:Why do I have to imagine hundreds of enemies?</title>
+	<author>Lord Kano</author>
+	<datestamp>1246296840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>The entire point of the SS games (as contrasted with SS2) was to swamp you with goons.</i></p><p>That's why I never got into SS. At the time my PC could run HL and Q2 without any problem, but SS bogged it down to no end. It couldn't handle all of those goons. I just couldn't enjoy the game. I ended up never getting into it.</p><p>LK</p></htmltext>
+<tokenext>The entire point of the SS games ( as contrasted with SS2 ) was to swamp you with goons.That 's why I never got into SS .
+At the time my PC could run HL and Q2 without any problem , but SS bogged it down to no end .
+It could n't handle all of those goons .
+I just could n't enjoy the game .
+I ended up never getting into it.LK</tokentext>
+<sentencetext>The entire point of the SS games (as contrasted with SS2) was to swamp you with goons.That's why I never got into SS.
+At the time my PC could run HL and Q2 without any problem, but SS bogged it down to no end.
+It couldn't handle all of those goons.
+I just couldn't enjoy the game.
+I ended up never getting into it.LK</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511189</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28512033</id>
+	<title>What's the point?</title>
+	<author>Blimey85</author>
+	<datestamp>1246276200000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext>Serious Sam was never about being the prettiest. We loved the first two because of the game play. You ran, you killed, and you either kept killing at a brutal pace or you were overwhelmed by the insane number of enemies. That was it. No complex puzzles. No crazy strategy. Just run and gun and have a blast. Nobody cared that the lawn was flat because we knew if there was a lot of detail, the game would never have run at all. Way too many enemies on the screen to have serious levels of detail.<br> <br>
+Now, many years later, computers are faster, we have more memory and all that, but the point of the game hasn't changed. With SS2 they changed things and nobody liked it. For me the main problem was it locked up a lot. I didn't have that problem at all with the first two. I still have the first two and I'd much rather play them as is than prettier versions of the same thing.<br> <br>Why not instead take the original engine and make a Third Encounter? And then a Fourth Encounter? We LOVED the first two and two more games just like those, different maps and what have you, but same exact style of game play, would be awesome!</htmltext>
+<tokenext>Serious Sam was never about being the prettiest .
+We loved the first two because of the game play .
+You ran , you killed , and you either kept killing at a brutal pace or you were overwhelmed by the insane number of enemies .
+That was it .
+No complex puzzles .
+No crazy strategy .
+Just run and gun and have a blast .
+Nobody cared that the lawn was flat because we knew if there was a lot of detail , the game would never have run at all .
+Way too many enemies on the screen to have serious levels of detail .
+Now , many years later , computers are faster , we have more memory and all that , but the point of the game has n't changed .
+With SS2 they changed things and nobody liked it .
+For me the main problem was it locked up a lot .
+I did n't have that problem at all with the first two .
+I still have the first two and I 'd much rather play them as is than prettier versions of the same thing .
+Why not instead take the original engine and make a Third Encounter ?
+And then a Fourth Encounter ?
+We LOVED the first two and two more games just like those , different maps and what have you , but same exact style of game play , would be awesome !</tokentext>
+<sentencetext>Serious Sam was never about being the prettiest.
+We loved the first two because of the game play.
+You ran, you killed, and you either kept killing at a brutal pace or you were overwhelmed by the insane number of enemies.
+That was it.
+No complex puzzles.
+No crazy strategy.
+Just run and gun and have a blast.
+Nobody cared that the lawn was flat because we knew if there was a lot of detail, the game would never have run at all.
+Way too many enemies on the screen to have serious levels of detail.
+Now, many years later, computers are faster, we have more memory and all that, but the point of the game hasn't changed.
+With SS2 they changed things and nobody liked it.
+For me the main problem was it locked up a lot.
+I didn't have that problem at all with the first two.
+I still have the first two and I'd much rather play them as is than prettier versions of the same thing.
+Why not instead take the original engine and make a Third Encounter?
+And then a Fourth Encounter?
+We LOVED the first two and two more games just like those, different maps and what have you, but same exact style of game play, would be awesome!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28513757</id>
+	<title>Re:Out of ideas?</title>
+	<author>L4t3r4lu5</author>
+	<datestamp>1246289100000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>Yeah, it could be called "Doom Movie."</htmltext>
+<tokenext>Yeah , it could be called " Doom Movie .
+"</tokentext>
+<sentencetext>Yeah, it could be called "Doom Movie.
+"</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511315</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28512851</id>
+	<title>Re:What's the point?</title>
+	<author>KDR\_11k</author>
+	<datestamp>1246283460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>Nobody cared that the lawn was flat because we knew if there was a lot of detail, the game would never have run at all.</i></p><p>Did you forget the grass in Second Encounter?</p></htmltext>
+<tokenext>Nobody cared that the lawn was flat because we knew if there was a lot of detail , the game would never have run at all.Did you forget the grass in Second Encounter ?</tokentext>
+<sentencetext>Nobody cared that the lawn was flat because we knew if there was a lot of detail, the game would never have run at all.Did you forget the grass in Second Encounter?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28512033</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28514727</id>
+	<title>I'd rather see id Software's old 3D FPS games.</title>
+	<author>Anonymous</author>
+	<datestamp>1246293600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Like DOOM, Heretic, Hexen, etc. Those were fun especially multiplayers!</p></htmltext>
+<tokenext>Like DOOM , Heretic , Hexen , etc .
+Those were fun especially multiplayers !</tokentext>
+<sentencetext>Like DOOM, Heretic, Hexen, etc.
+Those were fun especially multiplayers!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511399</id>
+	<title>Re:Cool</title>
+	<author>Anonymous</author>
+	<datestamp>1246269960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Did you even play SS2? It had MORE enemy models and more simultaneous enemies on screen than either of the first games. SS2 was definitely the best game in the series.</p></htmltext>
+<tokenext>Did you even play SS2 ?
+It had MORE enemy models and more simultaneous enemies on screen than either of the first games .
+SS2 was definitely the best game in the series .</tokentext>
+<sentencetext>Did you even play SS2?
+It had MORE enemy models and more simultaneous enemies on screen than either of the first games.
+SS2 was definitely the best game in the series.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511081</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511375</id>
+	<title>What made SS1 great?</title>
+	<author>Opportunist</author>
+	<datestamp>1246269540000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>And what made SS2 such a disappointment? Numbers of enemies. Simple as that. Screw graphics and pretty, I want to be swarmed by mindless, soulless, expendable goons to mow down. THAT is Serious Sam! Let the killing be in the 1000 BPMs (bodies-per-minute).</p><p>And for god's sake, gimme more than 4 people to play with. 8 was already great. 16 would be awesome. 32 would be just too awesome to not flood the keyboard with<nobr> <wbr></nobr>... erh<nobr> <wbr></nobr>... coke. Me and my buddies take on the world. Ain't that what every blood-lusting boy dreamt of?</p></htmltext>
+<tokenext>And what made SS2 such a disappointment ?
+Numbers of enemies .
+Simple as that .
+Screw graphics and pretty , I want to be swarmed by mindless , soulless , expendable goons to mow down .
+THAT is Serious Sam !
+Let the killing be in the 1000 BPMs ( bodies-per-minute ) .And for god 's sake , gim me more than 4 people to play with .
+8 was already great .
+16 would be awesome .
+32 would be just too awesome to not flood the keyboard with ... erh ... coke. Me and my buddies take on the world .
+Ai n't that what every blood-lusting boy dreamt of ?</tokentext>
+<sentencetext>And what made SS2 such a disappointment?
+Numbers of enemies.
+Simple as that.
+Screw graphics and pretty, I want to be swarmed by mindless, soulless, expendable goons to mow down.
+THAT is Serious Sam!
+Let the killing be in the 1000 BPMs (bodies-per-minute).And for god's sake, gimme more than 4 people to play with.
+8 was already great.
+16 would be awesome.
+32 would be just too awesome to not flood the keyboard with ... erh ... coke. Me and my buddies take on the world.
+Ain't that what every blood-lusting boy dreamt of?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511607</id>
+	<title>Re:Newer Games Should Take Lessons</title>
+	<author>ShakaUVM</author>
+	<datestamp>1246271940000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><i>I wish more games would take the 'more is more' approach to enemies that Serious Sam did. I loved the HUGE SCREAMING HORDES of bad guys that would try to zerg you down. It was a nice change of pace from, say, Unreal's 'kill a bad guy, which triggers another bad guy, because the engine chokes and dies if two mobs are on the screen at the same time'. And I liked Unreal. More games should have more swarms.</i></p><p>Ditto. There was something very satisfying about fighting 800 monsters on screen at once.</p></htmltext>
+<tokenext>I wish more games would take the 'more is more ' approach to enemies that Serious Sam did .
+I loved the HUGE SCREAMING HORDES of bad guys that would try to zerg you down .
+It was a nice change of pace from , say , Unreal 's 'kill a bad guy , which triggers another bad guy , because the engine chokes and dies if two mobs are on the screen at the same time' .
+And I liked Unreal .
+More games should have more swarms.Ditto .
+There was something very satisfying about fighting 800 monsters on screen at once .</tokentext>
+<sentencetext>I wish more games would take the 'more is more' approach to enemies that Serious Sam did.
+I loved the HUGE SCREAMING HORDES of bad guys that would try to zerg you down.
+It was a nice change of pace from, say, Unreal's 'kill a bad guy, which triggers another bad guy, because the engine chokes and dies if two mobs are on the screen at the same time'.
+And I liked Unreal.
+More games should have more swarms.Ditto.
+There was something very satisfying about fighting 800 monsters on screen at once.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511181</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511083</id>
+	<title>Re:Graphics and content</title>
+	<author>El\_Muerte\_TDS</author>
+	<datestamp>1246308720000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>I hope they only touched up the graphics, and didn't mess with the gameplay at all. SS:FE and SS:SE were just great games, I had a lot of fun, specially in co-op. For SS2 they made changes to the gameplay, to make it a bit more "modern", and that didn't work out at all. So I hope they left the gameplay as it was.</p></htmltext>
+<tokenext>I hope they only touched up the graphics , and did n't mess with the gameplay at all .
+SS : FE and SS : SE were just great games , I had a lot of fun , specially in co-op .
+For SS2 they made changes to the gameplay , to make it a bit more " modern " , and that did n't work out at all .
+So I hope they left the gameplay as it was .</tokentext>
+<sentencetext>I hope they only touched up the graphics, and didn't mess with the gameplay at all.
+SS:FE and SS:SE were just great games, I had a lot of fun, specially in co-op.
+For SS2 they made changes to the gameplay, to make it a bit more "modern", and that didn't work out at all.
+So I hope they left the gameplay as it was.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511061</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28512537</id>
+	<title>Really?</title>
+	<author>Anonymous</author>
+	<datestamp>1246281120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Are they serious?</p></htmltext>
+<tokenext>Are they serious ?</tokentext>
+<sentencetext>Are they serious?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28512159</id>
+	<title>Re:Graphics and content</title>
+	<author>Anonymous</author>
+	<datestamp>1246277460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Well fuck, if you liked the original, you will also like it with prettier graphics.</p><p>But I agree, Serious Sam has always been about the "game content" unlike those other idiotic mindless shooters.</p></htmltext>
+<tokenext>Well fuck , if you liked the original , you will also like it with prettier graphics.But I agree , Serious Sam has always been about the " game content " unlike those other idiotic mindless shooters .</tokentext>
+<sentencetext>Well fuck, if you liked the original, you will also like it with prettier graphics.But I agree, Serious Sam has always been about the "game content" unlike those other idiotic mindless shooters.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511061</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511447</id>
+	<title>Re:Graphics and content</title>
+	<author>TheRaven64</author>
+	<datestamp>1246270620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I just replayed SS:FE a few weeks ago.  Still looks good to me, and the gameplay is great.  It's the only FPS I've ever enjoyed in co-op mode.  Turn blood to flowers, difficulty to maximum, have a few beers, and play on one of the big levels where everyone tries to kill you at once...</p><p>
+I should probably try to pick up a copy of SS:SE.  It works great for me in Crossover Games (I no longer have a Windows machine), but for some strange reason only works in Direct3D mode; the graphics in OpenGL mode seem to have the winding direction set wrongly so half of the buildings are transparent (gives you an advantage if you can wrap your head around it, bit isn't very fun).</p></htmltext>
+<tokenext>I just replayed SS : FE a few weeks ago .
+Still looks good to me , and the gameplay is great .
+It 's the only FPS I 've ever enjoyed in co-op mode .
+Turn blood to flowers , difficulty to maximum , have a few beers , and play on one of the big levels where everyone tries to kill you at once.. . I should probably try to pick up a copy of SS : SE .
+It works great for me in Crossover Games ( I no longer have a Windows machine ) , but for some strange reason only works in Direct3D mode ; the graphics in OpenGL mode seem to have the winding direction set wrongly so half of the buildings are transparent ( gives you an advantage if you can wrap your head around it , bit is n't very fun ) .</tokentext>
+<sentencetext>I just replayed SS:FE a few weeks ago.
+Still looks good to me, and the gameplay is great.
+It's the only FPS I've ever enjoyed in co-op mode.
+Turn blood to flowers, difficulty to maximum, have a few beers, and play on one of the big levels where everyone tries to kill you at once...
+I should probably try to pick up a copy of SS:SE.
+It works great for me in Crossover Games (I no longer have a Windows machine), but for some strange reason only works in Direct3D mode; the graphics in OpenGL mode seem to have the winding direction set wrongly so half of the buildings are transparent (gives you an advantage if you can wrap your head around it, bit isn't very fun).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511083</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28516281</id>
+	<title>Re:Out of ideas?</title>
+	<author>Anonymous</author>
+	<datestamp>1246299900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>So now they want people to upgrade their graphics cards... not for some awesome gotta have it brand new title? no.. now they want you to upgrade for some OLD ass game!</p></div><p>This is for the Xbox 360. Forget RTFA, you didn't even check the summary.</p></div>
+	</htmltext>
+<tokenext>So now they want people to upgrade their graphics cards... not for some awesome got ta have it brand new title ?
+no.. now they want you to upgrade for some OLD ass game ! This is for the Xbox 360 .
+Forget RTFA , you did n't even check the summary .</tokentext>
+<sentencetext>So now they want people to upgrade their graphics cards... not for some awesome gotta have it brand new title?
+no.. now they want you to upgrade for some OLD ass game!This is for the Xbox 360.
+Forget RTFA, you didn't even check the summary.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511315</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511047</id>
+	<title>Frosty Piss</title>
+	<author>Anonymous</author>
+	<datestamp>1246308060000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>Yum!</p></htmltext>
+<tokenext>Yum !</tokentext>
+<sentencetext>Yum!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511081</id>
+	<title>Cool</title>
+	<author>Lord Lode</author>
+	<datestamp>1246308720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>That's cool, SS2 was disappointing compared to SS1 and SS:SE due to much less enemies and stuff. I would sure like to replay SS1 and if it's with better graphics, that's even better.
+
+They should do remakes more often IMHO, e.g. the original Unreal, Tomb Raider II, etc...</htmltext>
+<tokenext>That 's cool , SS2 was disappointing compared to SS1 and SS : SE due to much less enemies and stuff .
+I would sure like to replay SS1 and if it 's with better graphics , that 's even better .
+They should do remakes more often IMHO , e.g .
+the original Unreal , Tomb Raider II , etc.. .</tokentext>
+<sentencetext>That's cool, SS2 was disappointing compared to SS1 and SS:SE due to much less enemies and stuff.
+I would sure like to replay SS1 and if it's with better graphics, that's even better.
+They should do remakes more often IMHO, e.g.
+the original Unreal, Tomb Raider II, etc...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511407</id>
+	<title>Suck my dick /.!</title>
+	<author>Anonymous</author>
+	<datestamp>1246270080000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>Imagine your willy being smacked until it comes in your dad's mouth.</p><p>j. delanoy</p><p>captcha: admits</p></htmltext>
+<tokenext>Imagine your willy being smacked until it comes in your dad 's mouth.j .
+delanoycaptcha : admits</tokentext>
+<sentencetext>Imagine your willy being smacked until it comes in your dad's mouth.j.
+delanoycaptcha: admits</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511369</id>
+	<title>Re:Graphics and content</title>
+	<author>V!NCENT</author>
+	<datestamp>1246269480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>And I hope that now that the Serious Engine 3 is done, that they get back to uhm... Oh yeah I remember, the Serious Sam II Linux port and get it out of <b>beta</b>, like Corteam promised on their website.*</p><p> <i>*I will use Google before asking for stupid citations</i> </p></htmltext>
+<tokenext>And I hope that now that the Serious Engine 3 is done , that they get back to uhm... Oh yeah I remember , the Serious Sam II Linux port and get it out of beta , like Corteam promised on their website .
+* * I will use Google before asking for stupid citations</tokentext>
+<sentencetext>And I hope that now that the Serious Engine 3 is done, that they get back to uhm... Oh yeah I remember, the Serious Sam II Linux port and get it out of beta, like Corteam promised on their website.
+* *I will use Google before asking for stupid citations </sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511061</parent>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_29_0446246_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28516281
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511315
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_29_0446246_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28512159
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511061
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_29_0446246_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28512851
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28512033
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_29_0446246_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511399
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511081
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_29_0446246_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28517625
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511083
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511061
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_29_0446246_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28513757
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511315
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_29_0446246_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28516555
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28514519
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511315
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_29_0446246_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28514819
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511375
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_29_0446246_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511529
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511181
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_29_0446246_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28515477
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511189
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_29_0446246_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28521277
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511447
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511083
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511061
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_29_0446246_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511369
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511061
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_29_0446246_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28515621
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511315
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_29_0446246_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511607
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511181
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_06_29_0446246_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28512791
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511181
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_29_0446246.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511181
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511529
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28512791
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511607
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_29_0446246.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28512033
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28512851
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_29_0446246.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511117
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_29_0446246.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511315
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28516281
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28513757
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28514519
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28516555
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28515621
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_29_0446246.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511081
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511399
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_29_0446246.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511375
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28514819
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_29_0446246.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28515261
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_29_0446246.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511061
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511369
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511083
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511447
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28521277
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28517625
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28512159
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_29_0446246.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28514727
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_29_0446246.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511189
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28515477
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_29_0446246.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28511075
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_06_29_0446246.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_06_29_0446246.28515045
+</commentlist>
+</conversation>

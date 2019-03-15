@@ -1,0 +1,21 @@
+This directory contains an efficient implementation of Paice's stemmer.
+If you have trouble setting up the Berkeley DB to use the stem classes of
+Jeremy Pickens, I advise you to use Paice's stemmer (Porter's and Lovins'
+have been extensively tested along with Paice's; the latter seems to work 
+better in the task of automatic segmentation).
+
+Contact the authors if you have any question regarding the code
+contained in this directory:
+ - Written by Chris Campbell, November 1993.
+ - Modified by C. Fox, 7/30/98
+
+The code was downloaded from:
+http://www.cs.jmu.edu/common/projects/Stemming
+
+I made a few modifications to the original code; they appear in the 
+*.diff files. 
+
+--
+Michel Galley
+galley@cs.columbia.edu
+(03/19/2003)

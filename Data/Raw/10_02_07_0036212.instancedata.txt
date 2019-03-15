@@ -1,0 +1,719 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article10_02_07_0036212</id>
+	<title>19th-Century Photographer Captured 5,000 Snowflakes</title>
+	<author>kdawson</author>
+	<datestamp>1265560800000</datestamp>
+	<htmltext>tcd004 writes <i>"Wilson Bentley <a href="http://www.pbs.org/newshour/art/blog/2010/02/snowflakes.html">began photographing snowflakes in 1885</a>, and managed to immortalize more than 5,000 crystals before his death in 1931. Now his images are widely recognized and highly sought after. At the age of 19, 'Snowflake' Bentley jury-rigged a microscope to a bulky bellows camera and took the first-ever photograph of a snowflake. Photography then, particularly microphotography, was much closer to science than art. In a 1910 article published in the journal Technical World, he wrote, 'Here is a gem bestrewn realm of nature possessing the charm of mystery, of the unknown, sure richly to reward the investigator."</i> The video embedded at the link above touches on another long-forgotten piece of history: a sketch of the photographers who captured arial views of assemblages of tens of thousands of soldiers returning from WW-I, carefully choreographed and arranged to form a Liberty Bell, a Stature of Liberty, a US flag... as forgotten as the origin of the WW-I term <a href="http://twistedsifter.com/2010/02/razzle-dazzle-camouflage/">razzle-dazzle</a>.</htmltext>
+<tokenext>tcd004 writes " Wilson Bentley began photographing snowflakes in 1885 , and managed to immortalize more than 5,000 crystals before his death in 1931 .
+Now his images are widely recognized and highly sought after .
+At the age of 19 , 'Snowflake ' Bentley jury-rigged a microscope to a bulky bellows camera and took the first-ever photograph of a snowflake .
+Photography then , particularly microphotography , was much closer to science than art .
+In a 1910 article published in the journal Technical World , he wrote , 'Here is a gem bestrewn realm of nature possessing the charm of mystery , of the unknown , sure richly to reward the investigator .
+" The video embedded at the link above touches on another long-forgotten piece of history : a sketch of the photographers who captured arial views of assemblages of tens of thousands of soldiers returning from WW-I , carefully choreographed and arranged to form a Liberty Bell , a Stature of Liberty , a US flag... as forgotten as the origin of the WW-I term razzle-dazzle .</tokentext>
+<sentencetext>tcd004 writes "Wilson Bentley began photographing snowflakes in 1885, and managed to immortalize more than 5,000 crystals before his death in 1931.
+Now his images are widely recognized and highly sought after.
+At the age of 19, 'Snowflake' Bentley jury-rigged a microscope to a bulky bellows camera and took the first-ever photograph of a snowflake.
+Photography then, particularly microphotography, was much closer to science than art.
+In a 1910 article published in the journal Technical World, he wrote, 'Here is a gem bestrewn realm of nature possessing the charm of mystery, of the unknown, sure richly to reward the investigator.
+" The video embedded at the link above touches on another long-forgotten piece of history: a sketch of the photographers who captured arial views of assemblages of tens of thousands of soldiers returning from WW-I, carefully choreographed and arranged to form a Liberty Bell, a Stature of Liberty, a US flag... as forgotten as the origin of the WW-I term razzle-dazzle.</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31055062</id>
+	<title>It's photomicroscopy, not tiny, tiny pictures</title>
+	<author>Tom DBA</author>
+	<datestamp>1265539140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>A microphotograph is a very small photo.  Like the micro dots spys used to send under postage stamps or the flaps of envelopes.  A photomicrograph is a photo taken through a microscope.  I think he took photomicrographs or micrographs.</htmltext>
+<tokenext>A microphotograph is a very small photo .
+Like the micro dots spys used to send under postage stamps or the flaps of envelopes .
+A photomicrograph is a photo taken through a microscope .
+I think he took photomicrographs or micrographs .</tokentext>
+<sentencetext>A microphotograph is a very small photo.
+Like the micro dots spys used to send under postage stamps or the flaps of envelopes.
+A photomicrograph is a photo taken through a microscope.
+I think he took photomicrographs or micrographs.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050410</id>
+	<title>Bring forth ye Olde English Grammar Nazis</title>
+	<author>Anonymous</author>
+	<datestamp>1265478420000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext>Sayeth thy worst to this befuddled reader of text.</htmltext>
+<tokenext>Sayeth thy worst to this befuddled reader of text .</tokentext>
+<sentencetext>Sayeth thy worst to this befuddled reader of text.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050788</id>
+	<title>Off topic</title>
+	<author>electrosoccertux</author>
+	<datestamp>1265484300000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>I'm wondering who <a href="http://yfrog.com/72capturesrp" title="yfrog.com">this advertiser</a> [yfrog.com] thinks they're going to make money off of here at slashdot.<br>Just saw it to the right of the<nobr> <wbr></nobr>/. homepage.</p></htmltext>
+<tokenext>I 'm wondering who this advertiser [ yfrog.com ] thinks they 're going to make money off of here at slashdot.Just saw it to the right of the / .
+homepage .</tokentext>
+<sentencetext>I'm wondering who this advertiser [yfrog.com] thinks they're going to make money off of here at slashdot.Just saw it to the right of the /.
+homepage.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31052576</id>
+	<title>Re:Bring forth ye Olde English Grammar Nazis</title>
+	<author>Anonymous</author>
+	<datestamp>1265560320000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>T&#246;flunum skal kyngja heilum, &#230;r m&#225; hvorki mylja n&#233; tyggja. Geymi&#240; i upprunalegum umb&#250;&#240;um til varnar gegn raka og lj&#243;si.</htmltext>
+<tokenext>T √ ∂ flunum skal kyngja heilum , √ ¶ r m √ ° hvorki mylja n √ © tyggja .
+Geymi √ ∞ i upprunalegum umb √ ∫ √ ∞ um til varnar gegn raka og lj √ ≥ si .</tokentext>
+<sentencetext>T√∂flunum skal kyngja heilum, √¶r m√° hvorki mylja n√© tyggja.
+Geymi√∞ i upprunalegum umb√∫√∞um til varnar gegn raka og lj√≥si.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050936</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051782</id>
+	<title>Re:Dazzle Camouflage</title>
+	<author>Dupple</author>
+	<datestamp>1265548680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>If you happen to be in London, take a walk down the Thames and you'll see HMS Belfast in her dazzle
+
+<a href="http://www.edwud.com/photos/hms\_belfast.jpg" title="edwud.com" rel="nofollow">http://www.edwud.com/photos/hms\_belfast.jpg</a> [edwud.com]</htmltext>
+<tokenext>If you happen to be in London , take a walk down the Thames and you 'll see HMS Belfast in her dazzle http : //www.edwud.com/photos/hms \ _belfast.jpg [ edwud.com ]</tokentext>
+<sentencetext>If you happen to be in London, take a walk down the Thames and you'll see HMS Belfast in her dazzle
+
+http://www.edwud.com/photos/hms\_belfast.jpg [edwud.com]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050768</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050936</id>
+	<title>Re:Bring forth ye Olde English Grammar Nazis</title>
+	<author>Anonymous</author>
+	<datestamp>1265575020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>&#208;u &#240;inum bro&#240;rum to banan wurde, heafodm&#230;gum. &#208;&#230;s &#240;u in helle scealt werh&#240;o dreogan.</p></htmltext>
+<tokenext>√ ê u √ ∞ inum bro √ ∞ rum to banan wurde , heafodm √ ¶ gum .
+√ ê √ ¶ s √ ∞ u in helle scealt werh √ ∞ o dreogan .</tokentext>
+<sentencetext>√êu √∞inum bro√∞rum to banan wurde, heafodm√¶gum.
+√ê√¶s √∞u in helle scealt werh√∞o dreogan.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050410</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050770</id>
+	<title>Re:Bring forth ye Olde English Grammar Nazis</title>
+	<author>Anonymous</author>
+	<datestamp>1265483700000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><i>Sayeth thy worst to this befuddled reader of text.</i></p><p>I think you meant "thine" (that which belongs to thee).</p><p>Also, it's "wurst", not "worst".  Speakers of Ye Olde English were big on sausages.  And ale.  Lots of ale.  And wenches, of course.</p></htmltext>
+<tokenext>Sayeth thy worst to this befuddled reader of text.I think you meant " thine " ( that which belongs to thee ) .Also , it 's " wurst " , not " worst " .
+Speakers of Ye Olde English were big on sausages .
+And ale .
+Lots of ale .
+And wenches , of course .</tokentext>
+<sentencetext>Sayeth thy worst to this befuddled reader of text.I think you meant "thine" (that which belongs to thee).Also, it's "wurst", not "worst".
+Speakers of Ye Olde English were big on sausages.
+And ale.
+Lots of ale.
+And wenches, of course.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050410</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051198</id>
+	<title>GOMAT</title>
+	<author>Anonymous</author>
+	<datestamp>1265538480000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><A HREF="http://goat.cx/" title="goat.cx" rel="nofollow">being GAY NIIGERS. much as Windows Myself. This isn't</a> [goat.cx]</htmltext>
+<tokenext>being GAY NIIGERS .
+much as Windows Myself .
+This is n't [ goat.cx ]</tokentext>
+<sentencetext>being GAY NIIGERS.
+much as Windows Myself.
+This isn't [goat.cx]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051160</id>
+	<title>sex wi7h a gnaa</title>
+	<author>Anonymous</author>
+	<datestamp>1265537160000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><A HREF="http://goat.cx/" title="goat.cx" rel="nofollow">op3rating systems, Shall we? OK! triumphs would soon</a> [goat.cx]</htmltext>
+<tokenext>op3rating systems , Shall we ?
+OK ! triumphs would soon [ goat.cx ]</tokentext>
+<sentencetext>op3rating systems, Shall we?
+OK! triumphs would soon [goat.cx]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31057610</id>
+	<title>Re:Off topic</title>
+	<author>drinkypoo</author>
+	<datestamp>1265560980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I imagine there's a number of slashdotters who can afford an "escort" like that. I hear those guys like to buy those girls gifts for some reason...</p></htmltext>
+<tokenext>I imagine there 's a number of slashdotters who can afford an " escort " like that .
+I hear those guys like to buy those girls gifts for some reason.. .</tokentext>
+<sentencetext>I imagine there's a number of slashdotters who can afford an "escort" like that.
+I hear those guys like to buy those girls gifts for some reason...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050788</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050416</id>
+	<title>Arial?</title>
+	<author>Anonymous</author>
+	<datestamp>1265478540000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Ariel: A character in "The Tempest".   Also "The Little Mermaid".<br>Aerial: existing or living or growing or operating in the air<br>Arial: A font from Monotype.</p></htmltext>
+<tokenext>Ariel : A character in " The Tempest " .
+Also " The Little Mermaid " .Aerial : existing or living or growing or operating in the airArial : A font from Monotype .</tokentext>
+<sentencetext>Ariel: A character in "The Tempest".
+Also "The Little Mermaid".Aerial: existing or living or growing or operating in the airArial: A font from Monotype.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31052372</id>
+	<title>"Long Forgotten"?</title>
+	<author>lenroc</author>
+	<datestamp>1265557980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I don't really think Snowflake Bentley has been "long forgotten", as the summary implies. Our homeschooled children just finished a unit study on him a few weeks ago (which doesn't prove anything of course except that he's still well known enough for there to be unit studies made available on him...).</p><p>In fact, a book about him, appropriately titled <a href="http://www.amazon.com/Snowflake-Bentley-Caldecott-Medal-Book/dp/0395861624" title="amazon.com" rel="nofollow">Snowflake Bentley</a> [amazon.com] won the Caldecott medal as recently as 1999!</p></htmltext>
+<tokenext>I do n't really think Snowflake Bentley has been " long forgotten " , as the summary implies .
+Our homeschooled children just finished a unit study on him a few weeks ago ( which does n't prove anything of course except that he 's still well known enough for there to be unit studies made available on him... ) .In fact , a book about him , appropriately titled Snowflake Bentley [ amazon.com ] won the Caldecott medal as recently as 1999 !</tokentext>
+<sentencetext>I don't really think Snowflake Bentley has been "long forgotten", as the summary implies.
+Our homeschooled children just finished a unit study on him a few weeks ago (which doesn't prove anything of course except that he's still well known enough for there to be unit studies made available on him...).In fact, a book about him, appropriately titled Snowflake Bentley [amazon.com] won the Caldecott medal as recently as 1999!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051738</id>
+	<title>Re:Dazzle Camouflage</title>
+	<author>Registered Coward v2</author>
+	<datestamp>1265548020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Radar didn't exist during WWI, so U-Boats cruised on the surface with lookouts who could eyeball ships or ship smoke at 10 miles, maybe 20 on a good day.</p>  </div><p>Actaully, WWII boats also cruise on the surface looking for targets; once they found one they would maneuver to intercept and make a submerged attack run.  It wasn't until nuclear power submarines came into existence that the submarine was transformed from a surface vessel that attacked submerged to a true submarine.  Adm Flukey, amongst others, began cruising with the periscope fully extended to be able to see further over the horizon.</p><p>Yes, I realize the snorkel enabled longer under water operations, and that there are other propulsion systems that enable sustained underwater operations; but nuke boats were the technology that really changed submarine warfare.</p></div>
+	</htmltext>
+<tokenext>Radar did n't exist during WWI , so U-Boats cruised on the surface with lookouts who could eyeball ships or ship smoke at 10 miles , maybe 20 on a good day .
+Actaully , WWII boats also cruise on the surface looking for targets ; once they found one they would maneuver to intercept and make a submerged attack run .
+It was n't until nuclear power submarines came into existence that the submarine was transformed from a surface vessel that attacked submerged to a true submarine .
+Adm Flukey , amongst others , began cruising with the periscope fully extended to be able to see further over the horizon.Yes , I realize the snorkel enabled longer under water operations , and that there are other propulsion systems that enable sustained underwater operations ; but nuke boats were the technology that really changed submarine warfare .</tokentext>
+<sentencetext>Radar didn't exist during WWI, so U-Boats cruised on the surface with lookouts who could eyeball ships or ship smoke at 10 miles, maybe 20 on a good day.
+Actaully, WWII boats also cruise on the surface looking for targets; once they found one they would maneuver to intercept and make a submerged attack run.
+It wasn't until nuclear power submarines came into existence that the submarine was transformed from a surface vessel that attacked submerged to a true submarine.
+Adm Flukey, amongst others, began cruising with the periscope fully extended to be able to see further over the horizon.Yes, I realize the snorkel enabled longer under water operations, and that there are other propulsion systems that enable sustained underwater operations; but nuke boats were the technology that really changed submarine warfare.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050768</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051374</id>
+	<title>As good as the shoulder's I've stood on before?</title>
+	<author>Phat\_Tony</author>
+	<datestamp>1265541840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>In the linked video, at 1:44 the narrator says <p><div class="quote"><p>Gallileo said "I'm only as good as those shoulders I've stood on before,"</p></div><p> which nearly had me rolling around on the floor laughing.<br> <br>
+
+I think he's trying to reference Newton's statement "If I have been able to see further than others, it is because I have stood on the shoulders of giants."</p></div>
+	</htmltext>
+<tokenext>In the linked video , at 1 : 44 the narrator says Gallileo said " I 'm only as good as those shoulders I 've stood on before , " which nearly had me rolling around on the floor laughing .
+I think he 's trying to reference Newton 's statement " If I have been able to see further than others , it is because I have stood on the shoulders of giants .
+"</tokentext>
+<sentencetext>In the linked video, at 1:44 the narrator says Gallileo said "I'm only as good as those shoulders I've stood on before," which nearly had me rolling around on the floor laughing.
+I think he's trying to reference Newton's statement "If I have been able to see further than others, it is because I have stood on the shoulders of giants.
+"
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31053500</id>
+	<title>Re:Why?</title>
+	<author>Anonymous</author>
+	<datestamp>1265569440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I read about this once. Basically the shape of a snowflake is determined by the exact conditions over the course of the formation of the snowflake. This is why finding two identical snowflakes is so unlikely. That being said, apparently the vast majority of snow flakes aren't symmetrical. It's just that they aren't pretty so no one posts pictures of them. According to this site &lt;URL: http://www.its.caltech.edu/~atomic/snowcrystals/class/class.htm&gt; (run by a Caltech physics prof, its got amazing info and pictures of snowflakes), "The most common snow crystals by far are the irregular crystals.  These are small, usually clumped together, and show little of the symmetry seen in stellar or columnar crystals."<br><br>In any case, the reason for the "perfect" symmetry that you can find it, "As the crystal becomes larger, however,  branches begin to sprout from the six corners of the hexagon (this is the third stage in the diagram at right).  Since the atmospheric conditions (e. g. temperature and humidity) are nearly constant across the small crystal, the six budding arms all grow out at roughly the same rate.".</htmltext>
+<tokenext>I read about this once .
+Basically the shape of a snowflake is determined by the exact conditions over the course of the formation of the snowflake .
+This is why finding two identical snowflakes is so unlikely .
+That being said , apparently the vast majority of snow flakes are n't symmetrical .
+It 's just that they are n't pretty so no one posts pictures of them .
+According to this site ( run by a Caltech physics prof , its got amazing info and pictures of snowflakes ) , " The most common snow crystals by far are the irregular crystals .
+These are small , usually clumped together , and show little of the symmetry seen in stellar or columnar crystals .
+" In any case , the reason for the " perfect " symmetry that you can find it , " As the crystal becomes larger , however , branches begin to sprout from the six corners of the hexagon ( this is the third stage in the diagram at right ) .
+Since the atmospheric conditions ( e. g. temperature and humidity ) are nearly constant across the small crystal , the six budding arms all grow out at roughly the same rate .
+" .</tokentext>
+<sentencetext>I read about this once.
+Basically the shape of a snowflake is determined by the exact conditions over the course of the formation of the snowflake.
+This is why finding two identical snowflakes is so unlikely.
+That being said, apparently the vast majority of snow flakes aren't symmetrical.
+It's just that they aren't pretty so no one posts pictures of them.
+According to this site  (run by a Caltech physics prof, its got amazing info and pictures of snowflakes), "The most common snow crystals by far are the irregular crystals.
+These are small, usually clumped together, and show little of the symmetry seen in stellar or columnar crystals.
+"In any case, the reason for the "perfect" symmetry that you can find it, "As the crystal becomes larger, however,  branches begin to sprout from the six corners of the hexagon (this is the third stage in the diagram at right).
+Since the atmospheric conditions (e. g. temperature and humidity) are nearly constant across the small crystal, the six budding arms all grow out at roughly the same rate.
+".</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31052044</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31058492</id>
+	<title>Re:Dazzle Camouflage</title>
+	<author>Anonymous</author>
+	<datestamp>1265570940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Dazzle and the whole underlying idea is neat.  I have no idea why there's a link to it in the summary, which is ostensibly about snowflake photos.  Or, wait, was it Liberty Bell infantry formations?</p><p>The editors aren't even trying anymore.</p></htmltext>
+<tokenext>Dazzle and the whole underlying idea is neat .
+I have no idea why there 's a link to it in the summary , which is ostensibly about snowflake photos .
+Or , wait , was it Liberty Bell infantry formations ? The editors are n't even trying anymore .</tokentext>
+<sentencetext>Dazzle and the whole underlying idea is neat.
+I have no idea why there's a link to it in the summary, which is ostensibly about snowflake photos.
+Or, wait, was it Liberty Bell infantry formations?The editors aren't even trying anymore.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050768</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31053596</id>
+	<title>Re:Shame they don't show the photographs.</title>
+	<author>Reziac</author>
+	<datestamp>1265570280000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><a href="http://snowflakebentley.com/snowflakes.htm" title="snowflakebentley.com">http://snowflakebentley.com/snowflakes.htm</a> [snowflakebentley.com]</p></htmltext>
+<tokenext>http : //snowflakebentley.com/snowflakes.htm [ snowflakebentley.com ]</tokentext>
+<sentencetext>http://snowflakebentley.com/snowflakes.htm [snowflakebentley.com]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051296</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050486</id>
+	<title>Re:Bring forth ye Olde English Grammar Nazis</title>
+	<author>biryokumaru</author>
+	<datestamp>1265479500000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext>It's not a grammar note, but <a href="http://www.hammergallery.com/images/peoplepictures/people\%20pictures.htm" title="hammergallery.com">this link</a> [hammergallery.com] to the human Statue of Liberty thing would've been nice to include.</htmltext>
+<tokenext>It 's not a grammar note , but this link [ hammergallery.com ] to the human Statue of Liberty thing would 've been nice to include .</tokentext>
+<sentencetext>It's not a grammar note, but this link [hammergallery.com] to the human Statue of Liberty thing would've been nice to include.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050410</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051296</id>
+	<title>Shame they don't show the photographs.</title>
+	<author>Anonymous</author>
+	<datestamp>1265540100000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>It would have been nice to see how they looked.</p></htmltext>
+<tokenext>It would have been nice to see how they looked .</tokentext>
+<sentencetext>It would have been nice to see how they looked.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31054972</id>
+	<title>Old photos</title>
+	<author>Black Parrot</author>
+	<datestamp>1265538420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>The video embedded at the link above touches on another long-forgotten piece of history: a sketch of the photographers who captured arial views of assemblages of tens of thousands of soldiers returning from WW-I, carefully choreographed and arranged to form a Liberty Bell, a Stature of Liberty, a US flag... as forgotten as the origin of the WW-I term razzle-dazzle.</p></div><p>Fans of old photos should look up the classic survey of the San Francisco earthquake, which were taken by kite-borne cameras.</p><p>Oh, and Linux fans will want to check out S.S. War Penguin at the razzle-dazzle link.</p></div>
+	</htmltext>
+<tokenext>The video embedded at the link above touches on another long-forgotten piece of history : a sketch of the photographers who captured arial views of assemblages of tens of thousands of soldiers returning from WW-I , carefully choreographed and arranged to form a Liberty Bell , a Stature of Liberty , a US flag... as forgotten as the origin of the WW-I term razzle-dazzle.Fans of old photos should look up the classic survey of the San Francisco earthquake , which were taken by kite-borne cameras.Oh , and Linux fans will want to check out S.S. War Penguin at the razzle-dazzle link .</tokentext>
+<sentencetext>The video embedded at the link above touches on another long-forgotten piece of history: a sketch of the photographers who captured arial views of assemblages of tens of thousands of soldiers returning from WW-I, carefully choreographed and arranged to form a Liberty Bell, a Stature of Liberty, a US flag... as forgotten as the origin of the WW-I term razzle-dazzle.Fans of old photos should look up the classic survey of the San Francisco earthquake, which were taken by kite-borne cameras.Oh, and Linux fans will want to check out S.S. War Penguin at the razzle-dazzle link.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051192</id>
+	<title>Re:Off topic</title>
+	<author>Anonymous</author>
+	<datestamp>1265538300000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Do you work for them or something?</p><p>I mean, do you seriously suppose that nobody knows how advertising works on the internet? The ad is not <em>on slashdot</em>, it was targeted <strong>at you</strong> personally because your browser reported that you have been browsing sites that the ad server associates with you having an interest in scantily clad models..</p><p>AdBlockPlus ffs!</p></htmltext>
+<tokenext>Do you work for them or something ? I mean , do you seriously suppose that nobody knows how advertising works on the internet ?
+The ad is not on slashdot , it was targeted at you personally because your browser reported that you have been browsing sites that the ad server associates with you having an interest in scantily clad models..AdBlockPlus ffs !</tokentext>
+<sentencetext>Do you work for them or something?I mean, do you seriously suppose that nobody knows how advertising works on the internet?
+The ad is not on slashdot, it was targeted at you personally because your browser reported that you have been browsing sites that the ad server associates with you having an interest in scantily clad models..AdBlockPlus ffs!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050788</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050474</id>
+	<title>Public Domain</title>
+	<author>Anonymous</author>
+	<datestamp>1265479260000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Follow the "snowflakes" link and look at the bottom of the page:</p><p><div class="quote"><p>Copyright/Public domain works<br>
+
+Wilson Bentley did not copyright his photographs and thus they are in the public domain and free to use for any purpose.<br>
+HOWEVER<br>
+No materials or images from this (or any other) website may be resold in any form (print or electronic).<br>
+The Public Domain status does not give you the right to resell material unless you have access to the original source and permission from the owner to reproduce the material. Any published works of Public Domain material is only "Royalty free" if explicitly stated.</p></div><p>WTF? Someone just doesn't understand what Public Domain really is.</p></div>
+	</htmltext>
+<tokenext>Follow the " snowflakes " link and look at the bottom of the page : Copyright/Public domain works Wilson Bentley did not copyright his photographs and thus they are in the public domain and free to use for any purpose .
+HOWEVER No materials or images from this ( or any other ) website may be resold in any form ( print or electronic ) .
+The Public Domain status does not give you the right to resell material unless you have access to the original source and permission from the owner to reproduce the material .
+Any published works of Public Domain material is only " Royalty free " if explicitly stated.WTF ?
+Someone just does n't understand what Public Domain really is .</tokentext>
+<sentencetext>Follow the "snowflakes" link and look at the bottom of the page:Copyright/Public domain works
+
+Wilson Bentley did not copyright his photographs and thus they are in the public domain and free to use for any purpose.
+HOWEVER
+No materials or images from this (or any other) website may be resold in any form (print or electronic).
+The Public Domain status does not give you the right to resell material unless you have access to the original source and permission from the owner to reproduce the material.
+Any published works of Public Domain material is only "Royalty free" if explicitly stated.WTF?
+Someone just doesn't understand what Public Domain really is.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050768</id>
+	<title>Dazzle Camouflage</title>
+	<author>AtomicSnarl</author>
+	<datestamp>1265483700000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext>For those wondering how wild colors and stripes on ships would hide them from U-Boats -- it didn't.  It made it hard for the U-Boat captains to properly evaluate their targets.  The colors and pattern would disrupt the length, angle, and speed clues seen though binoculars at a distance, and through the periscope when preparing to fire torpedoes.
+<br> <br>
+Radar didn't exist during WWI, so U-Boats cruised on the surface with lookouts who could eyeball ships or ship smoke at 10 miles, maybe 20 on a good day.  Given their <a href="http://techcenter.davidson.k12.nc.us/Group9/seawar.htm" title="k12.nc.us">15-18 knot surface speed</a> [k12.nc.us] and 6-8 knot submerged speed, the U-Boat now had only 30 minutes or so to get into proper position ahead of the approaching ship -- about 4000-6000 yards (2-3 nautical miles) ahead and to one side of the approaching target.  <a href="http://en.wikipedia.org/wiki/List\_of\_torpedoes" title="wikipedia.org">WWI German torpedoes</a> [wikipedia.org] could travel 6600 yards at 36 knots, for a max run time of just over 5 minutes.  A target ship moving at 12 knots would move 400 yards in a minute.  A 600 foot ship travels it's length in only 30 seconds.  It's this tiny window that the Razzle-Dazzle would screw up.  If the U-Boat captain guessed wrong on the ships movement due to painted false bow waves and extra bow/stern lines, the firing solution would be bad.
+<br> <br>
+Remember that the ship view from the U-Boat was usually against cloudy skies of some sort in the North Atlantic.  Add in the blue haze with distance, and the yellows, purples, and pinks start to blur into the background blue-gray sky.  Now think of that sight through a wet periscope a few feet above the water, and you get the idea.
+<br> <br>
+WWII had a brilliant camoufalge example in the bizarre sounding <a href="http://www.airplane-pictures.net/image8237.html" title="airplane-pictures.net">Pink Spitfires</a> [airplane-pictures.net] used for <a href="http://www.ipmsstockholm.org/magazine/2006/05/stuff\_eng\_profile\_pr\_spitfires.htm" title="ipmsstockholm.org">reconnaissance</a> [ipmsstockholm.org].  The pink shade was selected to blend against the just-past-sunset twilight sky and clouds when those aircraft flew, and it was very effective.</htmltext>
+<tokenext>For those wondering how wild colors and stripes on ships would hide them from U-Boats -- it did n't .
+It made it hard for the U-Boat captains to properly evaluate their targets .
+The colors and pattern would disrupt the length , angle , and speed clues seen though binoculars at a distance , and through the periscope when preparing to fire torpedoes .
+Radar did n't exist during WWI , so U-Boats cruised on the surface with lookouts who could eyeball ships or ship smoke at 10 miles , maybe 20 on a good day .
+Given their 15-18 knot surface speed [ k12.nc.us ] and 6-8 knot submerged speed , the U-Boat now had only 30 minutes or so to get into proper position ahead of the approaching ship -- about 4000-6000 yards ( 2-3 nautical miles ) ahead and to one side of the approaching target .
+WWI German torpedoes [ wikipedia.org ] could travel 6600 yards at 36 knots , for a max run time of just over 5 minutes .
+A target ship moving at 12 knots would move 400 yards in a minute .
+A 600 foot ship travels it 's length in only 30 seconds .
+It 's this tiny window that the Razzle-Dazzle would screw up .
+If the U-Boat captain guessed wrong on the ships movement due to painted false bow waves and extra bow/stern lines , the firing solution would be bad .
+Remember that the ship view from the U-Boat was usually against cloudy skies of some sort in the North Atlantic .
+Add in the blue haze with distance , and the yellows , purples , and pinks start to blur into the background blue-gray sky .
+Now think of that sight through a wet periscope a few feet above the water , and you get the idea .
+WWII had a brilliant camoufalge example in the bizarre sounding Pink Spitfires [ airplane-pictures.net ] used for reconnaissance [ ipmsstockholm.org ] .
+The pink shade was selected to blend against the just-past-sunset twilight sky and clouds when those aircraft flew , and it was very effective .</tokentext>
+<sentencetext>For those wondering how wild colors and stripes on ships would hide them from U-Boats -- it didn't.
+It made it hard for the U-Boat captains to properly evaluate their targets.
+The colors and pattern would disrupt the length, angle, and speed clues seen though binoculars at a distance, and through the periscope when preparing to fire torpedoes.
+Radar didn't exist during WWI, so U-Boats cruised on the surface with lookouts who could eyeball ships or ship smoke at 10 miles, maybe 20 on a good day.
+Given their 15-18 knot surface speed [k12.nc.us] and 6-8 knot submerged speed, the U-Boat now had only 30 minutes or so to get into proper position ahead of the approaching ship -- about 4000-6000 yards (2-3 nautical miles) ahead and to one side of the approaching target.
+WWI German torpedoes [wikipedia.org] could travel 6600 yards at 36 knots, for a max run time of just over 5 minutes.
+A target ship moving at 12 knots would move 400 yards in a minute.
+A 600 foot ship travels it's length in only 30 seconds.
+It's this tiny window that the Razzle-Dazzle would screw up.
+If the U-Boat captain guessed wrong on the ships movement due to painted false bow waves and extra bow/stern lines, the firing solution would be bad.
+Remember that the ship view from the U-Boat was usually against cloudy skies of some sort in the North Atlantic.
+Add in the blue haze with distance, and the yellows, purples, and pinks start to blur into the background blue-gray sky.
+Now think of that sight through a wet periscope a few feet above the water, and you get the idea.
+WWII had a brilliant camoufalge example in the bizarre sounding Pink Spitfires [airplane-pictures.net] used for reconnaissance [ipmsstockholm.org].
+The pink shade was selected to blend against the just-past-sunset twilight sky and clouds when those aircraft flew, and it was very effective.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31056192</id>
+	<title>Good collection of his photos &amp; data here</title>
+	<author>penguinchris</author>
+	<datestamp>1265547240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Bentley donated the original glass plates to the Buffalo Museum of Science (a city known for snow itself, though Bentley did most of his work in Vermont as far as I know). They have many of them scanned, and include data about each photo as well. <a href="http://www.bentley.sciencebuff.org/collection.asp" title="sciencebuff.org">See it here.</a> [sciencebuff.org]</p><p>I'm from Buffalo and have been to the museum countless times; after learning about Bentley I am always amazed that they don't capitalize on it with some sort of exhibit. Seems like it would be a nice attraction to a museum that otherwise seems to be having trouble encouraging attendance and keeping up the collections.</p></htmltext>
+<tokenext>Bentley donated the original glass plates to the Buffalo Museum of Science ( a city known for snow itself , though Bentley did most of his work in Vermont as far as I know ) .
+They have many of them scanned , and include data about each photo as well .
+See it here .
+[ sciencebuff.org ] I 'm from Buffalo and have been to the museum countless times ; after learning about Bentley I am always amazed that they do n't capitalize on it with some sort of exhibit .
+Seems like it would be a nice attraction to a museum that otherwise seems to be having trouble encouraging attendance and keeping up the collections .</tokentext>
+<sentencetext>Bentley donated the original glass plates to the Buffalo Museum of Science (a city known for snow itself, though Bentley did most of his work in Vermont as far as I know).
+They have many of them scanned, and include data about each photo as well.
+See it here.
+[sciencebuff.org]I'm from Buffalo and have been to the museum countless times; after learning about Bentley I am always amazed that they don't capitalize on it with some sort of exhibit.
+Seems like it would be a nice attraction to a museum that otherwise seems to be having trouble encouraging attendance and keeping up the collections.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051336</id>
+	<title>Contemporary Counterpart</title>
+	<author>Phat\_Tony</author>
+	<datestamp>1265540820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>As a photographer, I've been a fan of Snowflake Bentley for a long time.<br> <br>
+His contemporary counterpart is <a href="http://www.its.caltech.edu/~atomic/snowcrystals/photos/photos.htm" title="caltech.edu">Ken Libbrecht.</a> [caltech.edu]</htmltext>
+<tokenext>As a photographer , I 've been a fan of Snowflake Bentley for a long time .
+His contemporary counterpart is Ken Libbrecht .
+[ caltech.edu ]</tokentext>
+<sentencetext>As a photographer, I've been a fan of Snowflake Bentley for a long time.
+His contemporary counterpart is Ken Libbrecht.
+[caltech.edu]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31053018</id>
+	<title>Re:Bring forth ye Olde English Grammar Nazis</title>
+	<author>siride</author>
+	<datestamp>1265565600000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext>No, "thy" is quite correct here, although "sayeth" isn't.  The singular imperative quite boringly had no ending in Early Modern English (or late Middle Engish -- whichever the OP was going for).  "Thine" was the original form, and over time came only to be used before words starting with a vowel or when standing alone (as "mine" still is) and "thy", a shortened form, was used before consonants and eventually took over as the sole adjectival form (as "my" still is).</htmltext>
+<tokenext>No , " thy " is quite correct here , although " sayeth " is n't .
+The singular imperative quite boringly had no ending in Early Modern English ( or late Middle Engish -- whichever the OP was going for ) .
+" Thine " was the original form , and over time came only to be used before words starting with a vowel or when standing alone ( as " mine " still is ) and " thy " , a shortened form , was used before consonants and eventually took over as the sole adjectival form ( as " my " still is ) .</tokentext>
+<sentencetext>No, "thy" is quite correct here, although "sayeth" isn't.
+The singular imperative quite boringly had no ending in Early Modern English (or late Middle Engish -- whichever the OP was going for).
+"Thine" was the original form, and over time came only to be used before words starting with a vowel or when standing alone (as "mine" still is) and "thy", a shortened form, was used before consonants and eventually took over as the sole adjectival form (as "my" still is).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050770</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31053930</id>
+	<title>Re:Dazzle Camouflage</title>
+	<author>Yo\_mama</author>
+	<datestamp>1265573760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>In addition to the pink spitfires, there were pink ships: <a href="http://en.wikipedia.org/wiki/Mountbatten\_pink" title="wikipedia.org">http://en.wikipedia.org/wiki/Mountbatten\_pink</a> [wikipedia.org] [Wikipedia]</p><p>A couple of the photos in the "razzle dazzle" article were of WWII ships and not WWI as implied. Razzle Dazzle itself was not an official term used by the US Navy and I don't believe the Royal Navy either, albeit I'm less sure of that.</p></htmltext>
+<tokenext>In addition to the pink spitfires , there were pink ships : http : //en.wikipedia.org/wiki/Mountbatten \ _pink [ wikipedia.org ] [ Wikipedia ] A couple of the photos in the " razzle dazzle " article were of WWII ships and not WWI as implied .
+Razzle Dazzle itself was not an official term used by the US Navy and I do n't believe the Royal Navy either , albeit I 'm less sure of that .</tokentext>
+<sentencetext>In addition to the pink spitfires, there were pink ships: http://en.wikipedia.org/wiki/Mountbatten\_pink [wikipedia.org] [Wikipedia]A couple of the photos in the "razzle dazzle" article were of WWII ships and not WWI as implied.
+Razzle Dazzle itself was not an official term used by the US Navy and I don't believe the Royal Navy either, albeit I'm less sure of that.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050768</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31151686</id>
+	<title>Re:Shame they don't show the photographs.</title>
+	<author>Anonymous</author>
+	<datestamp>1266249660000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>It would have been nice to see how they looked.</p></div><p>They truly are beautiful.  I have a collection that has been handed down to me, and I can tell you first-hand that they are very intricate and detailed - and each is one of a kind; some very beautiful, and others not so attractive but still incredible to look at.</p></div>
+	</htmltext>
+<tokenext>It would have been nice to see how they looked.They truly are beautiful .
+I have a collection that has been handed down to me , and I can tell you first-hand that they are very intricate and detailed - and each is one of a kind ; some very beautiful , and others not so attractive but still incredible to look at .</tokentext>
+<sentencetext>It would have been nice to see how they looked.They truly are beautiful.
+I have a collection that has been handed down to me, and I can tell you first-hand that they are very intricate and detailed - and each is one of a kind; some very beautiful, and others not so attractive but still incredible to look at.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051296</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31059190</id>
+	<title>Dr Max Box</title>
+	<author>dugeen</author>
+	<datestamp>1265627160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>No doubt this material would have been of enormous use to poor Dr Max Box and his quest for two identical snowflakes.</htmltext>
+<tokenext>No doubt this material would have been of enormous use to poor Dr Max Box and his quest for two identical snowflakes .</tokentext>
+<sentencetext>No doubt this material would have been of enormous use to poor Dr Max Box and his quest for two identical snowflakes.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31052748</id>
+	<title>Re:Dazzle Camouflage</title>
+	<author>couchslug</author>
+	<datestamp>1265562420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>"Pink" and "broken outlines" still works, note that Stealth aircraft are black to appeal to aircrew. Black isn't optimal for the night ops required by stealth systems, which is why WWII night fighters were often a lighter color.</p><p>Factory stealth camo:</p><p><a href="http://www.fas.org/man/dod-101/sys/ac/f-117-camo.jpg" title="fas.org">http://www.fas.org/man/dod-101/sys/ac/f-117-camo.jpg</a> [fas.org]</p></htmltext>
+<tokenext>" Pink " and " broken outlines " still works , note that Stealth aircraft are black to appeal to aircrew .
+Black is n't optimal for the night ops required by stealth systems , which is why WWII night fighters were often a lighter color.Factory stealth camo : http : //www.fas.org/man/dod-101/sys/ac/f-117-camo.jpg [ fas.org ]</tokentext>
+<sentencetext>"Pink" and "broken outlines" still works, note that Stealth aircraft are black to appeal to aircrew.
+Black isn't optimal for the night ops required by stealth systems, which is why WWII night fighters were often a lighter color.Factory stealth camo:http://www.fas.org/man/dod-101/sys/ac/f-117-camo.jpg [fas.org]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050768</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050530</id>
+	<title>Fascinating</title>
+	<author>Anonymous</author>
+	<datestamp>1265479980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Maybe tomorrow we can hear about Charles Dickens.</p></htmltext>
+<tokenext>Maybe tomorrow we can hear about Charles Dickens .</tokentext>
+<sentencetext>Maybe tomorrow we can hear about Charles Dickens.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051430</id>
+	<title>Resources</title>
+	<author>Phat\_Tony</author>
+	<datestamp>1265542500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Two Books by Wilson "Snowflake" Bentley:<br> <br>
+
+<a href="http://www.amazon.com/Snowflakes-Photographs-W-Bentley/dp/0486412539/ref=sr\_1\_2?ie=UTF8&amp;s=books&amp;qid=1265538487&amp;sr=8-2" title="amazon.com">Snowflakes in Photographs</a> [amazon.com] <br>
+<a href="http://www.amazon.com/Snow-Crystals-Dover-photography-collections/dp/0486202879/ref=sr\_1\_4?ie=UTF8&amp;s=books&amp;qid=1265538487&amp;sr=8-4" title="amazon.com">Snow Crystals</a> [amazon.com] <br> <br>
+Three books about Wilson "Snowflake" Bentley:<br> <br>
+<a href="http://www.amazon.com/Snowflake-Man-Biography-Wilson-Bentley/dp/0939923718/ref=sr\_1\_5?ie=UTF8&amp;s=books&amp;qid=1265538487&amp;sr=8-5" title="amazon.com">The Snowflake Man: A Biography of Wilson A. Bentley</a> [amazon.com] <br>
+<a href="http://www.amazon.com/My-Brother-Loved-Snowflakes-Snowflake/dp/1563976897/ref=sr\_1\_6?ie=UTF8&amp;s=books&amp;qid=1265538487&amp;sr=8-6" title="amazon.com">My Brother Loved Snowflakes: The Story of Wilson A. Bentley, the Snowflake Man</a> [amazon.com] <br>
+<a href="http://www.amazon.com/Snowflake-Bentley-Jacqueline-Briggs-Martin/dp/0547248296/ref=ntt\_at\_ep\_dpi\_1" title="amazon.com">Snowflake Bentley</a> [amazon.com]</htmltext>
+<tokenext>Two Books by Wilson " Snowflake " Bentley : Snowflakes in Photographs [ amazon.com ] Snow Crystals [ amazon.com ] Three books about Wilson " Snowflake " Bentley : The Snowflake Man : A Biography of Wilson A. Bentley [ amazon.com ] My Brother Loved Snowflakes : The Story of Wilson A. Bentley , the Snowflake Man [ amazon.com ] Snowflake Bentley [ amazon.com ]</tokentext>
+<sentencetext>Two Books by Wilson "Snowflake" Bentley: 
+
+Snowflakes in Photographs [amazon.com] 
+Snow Crystals [amazon.com]  
+Three books about Wilson "Snowflake" Bentley: 
+The Snowflake Man: A Biography of Wilson A. Bentley [amazon.com] 
+My Brother Loved Snowflakes: The Story of Wilson A. Bentley, the Snowflake Man [amazon.com] 
+Snowflake Bentley [amazon.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050466</id>
+	<title>He was using Ninnle, of course.</title>
+	<author>Anonymous</author>
+	<datestamp>1265479140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>Ninnle was able to do so much, even back then.<br><br>Ninnle Linux...the choice of a Ninnle generation.</htmltext>
+<tokenext>Ninnle was able to do so much , even back then.Ninnle Linux...the choice of a Ninnle generation .</tokentext>
+<sentencetext>Ninnle was able to do so much, even back then.Ninnle Linux...the choice of a Ninnle generation.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31052044</id>
+	<title>Why?</title>
+	<author>Anonymous</author>
+	<datestamp>1265553960000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It's said that no flake is equal to another, which is amazing de per se.</p><p>But I'm intrigued by the constant symmetry.</p><p>I can understand crystals and why they form natural patterns, like prisms or cubes, but given that everyone is different why an arm (or leg) is equal to the other? Maybe they form together (hence they grow identical) and then split somehow?</p><p>Any geologist or spelunker in the room?</p></htmltext>
+<tokenext>It 's said that no flake is equal to another , which is amazing de per se.But I 'm intrigued by the constant symmetry.I can understand crystals and why they form natural patterns , like prisms or cubes , but given that everyone is different why an arm ( or leg ) is equal to the other ?
+Maybe they form together ( hence they grow identical ) and then split somehow ? Any geologist or spelunker in the room ?</tokentext>
+<sentencetext>It's said that no flake is equal to another, which is amazing de per se.But I'm intrigued by the constant symmetry.I can understand crystals and why they form natural patterns, like prisms or cubes, but given that everyone is different why an arm (or leg) is equal to the other?
+Maybe they form together (hence they grow identical) and then split somehow?Any geologist or spelunker in the room?</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_07_0036212_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31052576
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050936
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050410
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_07_0036212_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050486
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050410
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_07_0036212_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31053500
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31052044
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_07_0036212_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31052748
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050768
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_07_0036212_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051782
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050768
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_07_0036212_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31053018
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050770
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050410
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_07_0036212_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051738
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050768
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_07_0036212_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051192
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050788
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_07_0036212_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31058492
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050768
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_07_0036212_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31053930
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050768
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_07_0036212_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31057610
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050788
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_07_0036212_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31053596
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051296
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_07_0036212_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31151686
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051296
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_07_0036212.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050768
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051738
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31052748
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31058492
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31053930
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051782
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_07_0036212.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051430
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_07_0036212.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051296
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31151686
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31053596
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_07_0036212.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050788
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31057610
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051192
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_07_0036212.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050474
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_07_0036212.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31052044
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31053500
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_07_0036212.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31051374
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_07_0036212.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050416
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_07_0036212.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050410
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050486
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050936
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31052576
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31050770
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_07_0036212.31053018
+</commentlist>
+</conversation>

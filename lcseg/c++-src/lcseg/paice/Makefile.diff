@@ -1,0 +1,12 @@
+a10
+all: paice.o
+
+.
+a21
+
+
+.PHONY: clean
+
+clean:
+	rm -f paice.o demo.o demo *~ core
+.

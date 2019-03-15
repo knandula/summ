@@ -1,0 +1,9 @@
+c432
+char*
+.
+c440
+    if( !isalpha( *word_end ) ) return( word );
+.
+c506
+  return( word ); 
+.

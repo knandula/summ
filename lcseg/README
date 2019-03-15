@@ -1,0 +1,199 @@
+Copyright Notice
+                
+Copyright © 2003-2007 by The Trustees of Columbia University in the 
+City of New York  
+________________________________________________________________________
+
+1) Introduction
+
+This is LCseg, another lexical cohesion segmenter. It divides
+unrestricted texts into topically cohesive units. This work is
+described in (Galley et al., 03).
+
+A copy of the license agreement you or your institution signed is
+included in LICENSE.TXT for your reference.
+
+Feel free to use LCseg for any kind of research or educational work.
+It is distributed with the hope that it will be useful, but it comes
+without ANY warranty. The author of LCseg and Columbia University are
+not obligated to provide any kind of support, consulting, training, or
+assistance with regard to the use, operation, and performance of
+LCseg. The program is provided "AS IS", and the author is not
+responsible for providing any upgrades, fixes, or revisions to 
+make LCseg compatible with any particular environment. 
+
+If you do use LCseg for any research described in a publication, the
+author would greatly appreciate that you include a reference or
+footnote in your publication to acknowledge your use of this program.
+
+________________________________________________________________________
+
+2) Installation
+
+If you run LCseg on GNU/Linux, you may not need to recompile it. To
+determine if the LCseg binary works on your platform, please run:
+
+$ cd c++-src && make test
+
+If this produces a segmented list of words, you can skip to Section 4.
+________________________________________________________________________
+
+3) Compilation
+
+LCseg was implemented in ANSI/ISO C++. In order to build LCseg, you
+will need gcc and g++ version 2.95 or higher (tested up to version
+4.1.1), Berkeley DB 4.1 or higher, Sun's Java and some tools and
+resources freely available on the Internet (see below). 
+
+With earlier versions, LCseg was also successfully compiled and tested
+on Microsoft Windows XP (with Cygwin and gcc/g++) and SunOS 5.8, but
+LCseg may no longer be compatible.
+
+Tools you will need in order to compile LCseg:
+
+a) Boost C++ Libraries: http://www.boost.org/
+The Tokenizer library is the only component of boost used by LCseg. 
+Note that you do NOT need to compile the library in order to use
+this tokenizer.
+
+b) Berkeley DB: http://www.oracle.com/database/berkeley-db.html
+Compilation was successful with version 4.5 and earlier releases. 
+
+You may need to make some configuration changes before compiling the
+segmenter. Please modify the file Env.mak in the c++-src directory so
+that it reflects your environment. You need to specify where the
+boost library is located (BOOST), and the path to the Berkeley DB
+(BERKELEY). You may use Paice's stemmer to avoid depending on the
+Berkeley DB (for this, you need to change the STEMARG variable).
+
+Then, just move to the c++-src source directory and type 'make', then
+'make test' to check that the executable is configured properly. 
+
+________________________________________________________________________
+   
+4) Using LCseg
+
+The bin/ directory contains pre-compiled binaries for GNU/Linux
+(segment.i686.out). You shouldn't run this executable directly; 
+instead, use the Perl script bin/segment, which reads plain text from 
+standard input, and writes a segmented text to standard output. 
+Any gold-standard segmentation provided in the input (==========) 
+is automatically stripped off.
+
+Sample usage (from LCseg's base directory):
+
+$ cat samples/dummy_plain.txt | bin/segment
+
+'segment' uses default algorithm parameters that perform quite well on
+a development set of 3000 concatenated texts (not provided) extracted
+from 3 different corpora: TDT, WSJ, and Brown. To use different
+parameters, you may specify:
+
+-n <n>  : number of segments (default: undefined)
+-a <n>  : 'alpha' defines a threshold for lexical cohesion
+          scores: mean - alpha*stddev/5 (default: a=3)
+-w <n>  : size of the analysis window (default: 2)
+-h <n>  : 'hiatus' parameter of the algorithm
+-s <n>  : order of the moving average filter (default: 0)
+-m <n>  : generate a Matlab with lexical cohesion scores
+
+Note that -a is the single most important parameter to control the
+number of segments. If LCseg produces on average too many segments on
+your data, you may want to values than the default. See the FAQ included
+in this distribution for more information.
+
+________________________________________________________________________
+
+5) Evaluation
+   
+The archive corpora_directory.tar.bz2 (which can be downloaded
+separately) contains more than 50 MB of "artificial" reference
+segmented texts (created by concatenating random chunks of texts
+extracted from a given corpus). There are 700 concatenated texts 
+from the Brown corpus, 500 from TDT, and 500 from the WSJ. 
+
+The ebin/ sub-directory contains several scripts to perform
+evaluations of segmentation error on this data. Scripts are provided
+to perform both Pk and WindowDiff evaluation:
+
+a) eval.pk and eval.wd
+
+Run any of these two scripts e.g. as:
+$ ./eval.pk -r REF_FILE -h HYP_FILE
+to get segmentation error (Pk here).
+
+b) eval.allDocs and eval.statAll
+
+You can use these scripts to evaluate LCseg (and other topic 
+segmenters) on 3 corpora and 2 different settings (number of segments 
+are either known or unknown).  eval.allDocs performs Pk and WindowDiff 
+evaluation on all 1700 documents, and eval.statAll merges all results 
+in one table.
+
+-------------------------------------------------------------------
+
+6) ACL-03 evaluation results
+
+LCseg was originally implemented in Perl. This implementation
+was used to perform the experiments presented in the ACL-03 paper.
+
+The tool was later re-implemented in C++ in order to get better
+performance and to provide the tool with a better design. In this
+process, some minor bugs were discovered and corrected in the C++
+version. Experiments consequently provided different results (slightly
+improved, but difference are not statistically significant).  The
+following tables summarize the differences:
+
+Pk evaluation
+
+	  |     Brown              TDT              WSJ       
+	  | known  unknown    known  unknown   known  unknown
+	  |
+ACL03 |  8.69   10.49      6.15    6.95    12.21   15.31
+1.x   |  8.79    9.67*     5.04*   6.85*   11.81*  15.00*
+---------------------------------------------------------
+imprv | -0.10    0.82      1.11    0.10     0.40    0.31
+
+WindowDiff evaluation
+
+	  |     Brown              TDT              WSJ       
+	  | known  unknown    known  unknown   known  unknown
+	  |
+ACL03 |  9.42   11.37      8.41    9.09    18.25   22.14
+1.x   |  9.98   11.16*     7.09*   9.10    17.88*  21.83*
+---------------------------------------------------------
+imprv | -0.56    0.21      1.32   -0.01     0.37    0.31
+
+9 of the 12 experiments result in lower error rate.
+
+To reproduce these results, first make sure that the ebin/logs 
+directory does not contain any 'test.*' file. Then run:
+
+$ ./eval.allDocs --lcseg --k --unk --brown --tdt --wsj
+(this computes WindowDiff and Pk on all documents)
+
+$ ./eval.allStat --k --unk --brown --tdt --wsj
+(creates a table as shown below)
+
+You should get the same output as in ebin/RESULTS. 
+  
+________________________________________________________________________
+
+Reference
+
+Michel Galley, Kathleen McKeown, Eric Fosler-Lussier, Hongyan Jing. 
+Discourse Segmentation of Multi-party Conversation. 2003. 
+In the proceedings of the 41st Annual Meeting of the Association for 
+Computational Linguistics (ACL 03). Sapporo, Japan. 
+
+________________________________________________________________________
+
+Contact 
+
+If you find any bug, find LCseg difficult to install on your platform,
+or find inaccuracies in the documentation, please send me email.
+I may accommodate reasonable requests for assistance.
+
+Michel Galley
+galley@cs.columbia.edu
+http://www.cs.columbia.edu/~galley

@@ -1,0 +1,643 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article10_02_27_219201</id>
+	<title>Delta Rocket Crashes In Mongolia</title>
+	<author>kdawson</author>
+	<datestamp>1267298760000</datestamp>
+	<htmltext>Dr La writes <i>"Two metal objects, one cylindrical and a smaller round one, <a href="http://en.news.mn/news/4464">crashed near Buren Soum in the Tuv province of Mongolia</a>, in an empty field, on 19 February. They are <a href="http://ubpost.mongolnews.mn/index.php?option=com\_content&amp;task=view&amp;id=4455&amp;Itemid=36">parts of an American Delta II rocket stage</a> (nr. 35939, 2009-052C) that launched the military STSS Demo 1 &amp; 2 satellites in September 2009. Both articles linked above say that the larger of the two objects is 7.5 meters in diameter, but in <a href="http://resource.news.mn/en/fileLibrary/photo/middle/12670589306534357810608418014060/-379548670.jpg">this photo</a> it looks more like 7.5 feet. It is marked with the serial number '02728.' (The military <a href="http://en.wikipedia.org/wiki/STSS\_Demo">STSS program</a> is intended for space-based detection and tracking of missiles.) In the months leading up to the February 19 orbital decay over Mongolia, the fall of the rocket stage was followed by amateur satellite trackers. <a href="http://www.satobs.org/seesat/Feb-2010/0238.html">Based on their final orbit determinations</a> just hours before the decay, the decay must have occurred near 3:32 UTC on February 19."</i></htmltext>
+<tokenext>Dr La writes " Two metal objects , one cylindrical and a smaller round one , crashed near Buren Soum in the Tuv province of Mongolia , in an empty field , on 19 February .
+They are parts of an American Delta II rocket stage ( nr .
+35939 , 2009-052C ) that launched the military STSS Demo 1 &amp; 2 satellites in September 2009 .
+Both articles linked above say that the larger of the two objects is 7.5 meters in diameter , but in this photo it looks more like 7.5 feet .
+It is marked with the serial number '02728 .
+' ( The military STSS program is intended for space-based detection and tracking of missiles .
+) In the months leading up to the February 19 orbital decay over Mongolia , the fall of the rocket stage was followed by amateur satellite trackers .
+Based on their final orbit determinations just hours before the decay , the decay must have occurred near 3 : 32 UTC on February 19 .
+"</tokentext>
+<sentencetext>Dr La writes "Two metal objects, one cylindrical and a smaller round one, crashed near Buren Soum in the Tuv province of Mongolia, in an empty field, on 19 February.
+They are parts of an American Delta II rocket stage (nr.
+35939, 2009-052C) that launched the military STSS Demo 1 &amp; 2 satellites in September 2009.
+Both articles linked above say that the larger of the two objects is 7.5 meters in diameter, but in this photo it looks more like 7.5 feet.
+It is marked with the serial number '02728.
+' (The military STSS program is intended for space-based detection and tracking of missiles.
+) In the months leading up to the February 19 orbital decay over Mongolia, the fall of the rocket stage was followed by amateur satellite trackers.
+Based on their final orbit determinations just hours before the decay, the decay must have occurred near 3:32 UTC on February 19.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31306096</id>
+	<title>Obligatory</title>
+	<author>PapaBoojum</author>
+	<datestamp>1267375440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Space Junk (updated)</p><p>she was walking all alone<br>down the street in the alley<br>her name was Sally<br>she never saw it<br>when she was hit by space junk<br>
+&nbsp; &nbsp; in New York, Miami Beach<br>
+&nbsp; &nbsp; heavy metal fell in Cuba<br>
+&nbsp; &nbsp; Mongolia, Saudi Arabia<br>
+&nbsp; &nbsp; on christmas eve said NORAD<br>
+&nbsp; &nbsp; a Soviet Sputnik hit Africa<br>
+&nbsp; &nbsp; India, Venezuela<br>
+&nbsp; &nbsp; (in Texas, Kansas)<br>
+&nbsp; &nbsp; it's falling fast Peru too<br>
+&nbsp; &nbsp; it keeps coming<br>and now i'm mad about space junk<br>i'm all burned out about space junk<br>oooh walk &amp; talk about space junk<br>it smashed my baby's head<br>and now my Sally's dead</p></htmltext>
+<tokenext>Space Junk ( updated ) she was walking all alonedown the street in the alleyher name was Sallyshe never saw itwhen she was hit by space junk Â   Â   in New York , Miami Beach Â   Â   heavy metal fell in Cuba Â   Â   Mongolia , Saudi Arabia Â   Â   on christmas eve said NORAD Â   Â   a Soviet Sputnik hit Africa Â   Â   India , Venezuela Â   Â   ( in Texas , Kansas ) Â   Â   it 's falling fast Peru too Â   Â   it keeps comingand now i 'm mad about space junki 'm all burned out about space junkoooh walk &amp; talk about space junkit smashed my baby 's headand now my Sally 's dead</tokentext>
+<sentencetext>Space Junk (updated)she was walking all alonedown the street in the alleyher name was Sallyshe never saw itwhen she was hit by space junk
+Â  Â  in New York, Miami Beach
+Â  Â  heavy metal fell in Cuba
+Â  Â  Mongolia, Saudi Arabia
+Â  Â  on christmas eve said NORAD
+Â  Â  a Soviet Sputnik hit Africa
+Â  Â  India, Venezuela
+Â  Â  (in Texas, Kansas)
+Â  Â  it's falling fast Peru too
+Â  Â  it keeps comingand now i'm mad about space junki'm all burned out about space junkoooh walk &amp; talk about space junkit smashed my baby's headand now my Sally's dead</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31304282</id>
+	<title>In an empty field?</title>
+	<author>Anonymous</author>
+	<datestamp>1267355820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Interesting that the teaser lists that the rocket fell in an empty field. Mongolia is high ranked among the lowest population density in the world [1], and home to a large part of the Gobi Desert - it would be pretty amazing if the rocket did NOT hit an empty field there.</p><p>As someone who has actually been there a few years back, pretty much all fields are either empty with random horses grazing, or littered with old Russian 60's farming equipment in decay, oh, and I see the websites are 1) hosted in Mongolia; 2) not surprisingly slashdotted</p><p>(No offence against Mongolia, I love the country and the people, best wishes to all friends at the Mongolian Technical University from my stay there)</p><p>[1] http://www.worldatlas.com/aatlas/populations/ctydensityl.htm</p></htmltext>
+<tokenext>Interesting that the teaser lists that the rocket fell in an empty field .
+Mongolia is high ranked among the lowest population density in the world [ 1 ] , and home to a large part of the Gobi Desert - it would be pretty amazing if the rocket did NOT hit an empty field there.As someone who has actually been there a few years back , pretty much all fields are either empty with random horses grazing , or littered with old Russian 60 's farming equipment in decay , oh , and I see the websites are 1 ) hosted in Mongolia ; 2 ) not surprisingly slashdotted ( No offence against Mongolia , I love the country and the people , best wishes to all friends at the Mongolian Technical University from my stay there ) [ 1 ] http : //www.worldatlas.com/aatlas/populations/ctydensityl.htm</tokentext>
+<sentencetext>Interesting that the teaser lists that the rocket fell in an empty field.
+Mongolia is high ranked among the lowest population density in the world [1], and home to a large part of the Gobi Desert - it would be pretty amazing if the rocket did NOT hit an empty field there.As someone who has actually been there a few years back, pretty much all fields are either empty with random horses grazing, or littered with old Russian 60's farming equipment in decay, oh, and I see the websites are 1) hosted in Mongolia; 2) not surprisingly slashdotted(No offence against Mongolia, I love the country and the people, best wishes to all friends at the Mongolian Technical University from my stay there)[1] http://www.worldatlas.com/aatlas/populations/ctydensityl.htm</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31306656</id>
+	<title>Why didn't it burn up?</title>
+	<author>newdsfornerds</author>
+	<datestamp>1267379220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>So, why didn't it burn up? Not enough velocity? Not enough mass?</htmltext>
+<tokenext>So , why did n't it burn up ?
+Not enough velocity ?
+Not enough mass ?</tokentext>
+<sentencetext>So, why didn't it burn up?
+Not enough velocity?
+Not enough mass?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31304418</id>
+	<title>That Sure Was A Close One!</title>
+	<author>Anonymous</author>
+	<datestamp>1267358760000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Wow, that was a near thing!  Good thing this landing occurred in this empty field, otherwise it might have.... uhhhh.... fallen in the next empty field?</p></htmltext>
+<tokenext>Wow , that was a near thing !
+Good thing this landing occurred in this empty field , otherwise it might have.... uhhhh.... fallen in the next empty field ?</tokentext>
+<sentencetext>Wow, that was a near thing!
+Good thing this landing occurred in this empty field, otherwise it might have.... uhhhh.... fallen in the next empty field?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303928</id>
+	<title>Rocket Crashes?</title>
+	<author>Anonymous</author>
+	<datestamp>1267349580000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>That title is just a tiny bit sensationalist... I had images failed launch flashing through my mind. A final stage dropping to earth was a bit of a disappointment<nobr> <wbr></nobr>:-/</p></htmltext>
+<tokenext>That title is just a tiny bit sensationalist... I had images failed launch flashing through my mind .
+A final stage dropping to earth was a bit of a disappointment : -/</tokentext>
+<sentencetext>That title is just a tiny bit sensationalist... I had images failed launch flashing through my mind.
+A final stage dropping to earth was a bit of a disappointment :-/</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31308702</id>
+	<title>Track the rockets!</title>
+	<author>Hoysala</author>
+	<datestamp>1267350720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Preferably through land-based detection and tracking of rockets.</htmltext>
+<tokenext>Preferably through land-based detection and tracking of rockets .</tokentext>
+<sentencetext>Preferably through land-based detection and tracking of rockets.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303722</id>
+	<title>Not crushed - terminal velocity?</title>
+	<author>Animats</author>
+	<datestamp>1267390020000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>
+It seems surprising that the tank isn't crushed, but <a href="http://ecoble.com/2008/04/21/space-junk-the-strangest-trash-not-on-the-planet/" title="ecoble.com">other tanks have come down from space</a> [ecoble.com] without being crushed flat.</p></htmltext>
+<tokenext>It seems surprising that the tank is n't crushed , but other tanks have come down from space [ ecoble.com ] without being crushed flat .</tokentext>
+<sentencetext>
+It seems surprising that the tank isn't crushed, but other tanks have come down from space [ecoble.com] without being crushed flat.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303886</id>
+	<title>Next US war</title>
+	<author>Anonymous</author>
+	<datestamp>1267349040000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>On February 19th Mongolia declared war on the US after a missile attack that left one yak dead and several others startled. On February 20th Mongolia surrendered to the US and demanded war reparations totaling 20 billion dollars as well as one yak and roughly 10 gallons of milk lost from the startled yaks.</p></htmltext>
+<tokenext>On February 19th Mongolia declared war on the US after a missile attack that left one yak dead and several others startled .
+On February 20th Mongolia surrendered to the US and demanded war reparations totaling 20 billion dollars as well as one yak and roughly 10 gallons of milk lost from the startled yaks .</tokentext>
+<sentencetext>On February 19th Mongolia declared war on the US after a missile attack that left one yak dead and several others startled.
+On February 20th Mongolia surrendered to the US and demanded war reparations totaling 20 billion dollars as well as one yak and roughly 10 gallons of milk lost from the startled yaks.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31304968</id>
+	<title>Lucky it landed somewhere remote</title>
+	<author>physburn</author>
+	<datestamp>1267366620000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>1</modscore>
+	<htmltext>Lucky it landed somewhere so remote. On day a some
+rocket parts will land somewhere with a high population
+i fear.
+<p>
+---
+</p><p>
+<a href="http://www.feeddistiller.com/blogs/Space\%20Craft/feed.html" title="feeddistiller.com">Space Craft</a> [feeddistiller.com] Feed @ <a href="http://www.feeddistiller.com/" title="feeddistiller.com">Feed Distiller</a> [feeddistiller.com]</p></htmltext>
+<tokenext>Lucky it landed somewhere so remote .
+On day a some rocket parts will land somewhere with a high population i fear .
+--- Space Craft [ feeddistiller.com ] Feed @ Feed Distiller [ feeddistiller.com ]</tokentext>
+<sentencetext>Lucky it landed somewhere so remote.
+On day a some
+rocket parts will land somewhere with a high population
+i fear.
+---
+
+Space Craft [feeddistiller.com] Feed @ Feed Distiller [feeddistiller.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303656</id>
+	<title>Yeah this happened.</title>
+	<author>Anonymous</author>
+	<datestamp>1267389060000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>It hit me on the head dammit!</p></htmltext>
+<tokenext>It hit me on the head dammit !</tokentext>
+<sentencetext>It hit me on the head dammit!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303852</id>
+	<title>Why don't they just send it into the sun?</title>
+	<author>Anonymous</author>
+	<datestamp>1267348440000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>A few years back, when I was living in Puerto Rico, I had to take care of my uncle's dog for a while. He was a big Golden Retriever and his name was Sasu. After about 3 days, I was extremely turned on and without a boyfriend, so this dog in my pussy seemed like a pretty good idea.</p><p>One day, I decided to go for a walk and take the dog with me. I was conveniently wearing a skirt and once we reached a pretty secluded street, I pulled up my skirt and got on all fours. At first the dog just sniffed my butt around but once he got the idea, he got on top of me and started humping my butt through my panties. He kept banging against my clit and my juices were flowing to pretty much everywhere. I didn't let him inside me yet because I was too afraid. I mean, think about it. That's pretty fucking gross.</p><p>But anyways. Whenever I got back home, I sat on the front porch. My uncle had come back and was ready to pick up the dog but he was inside talking to my sister. My uncle told me to stay outside with Sasu for a while, so I did. While we were out there, I was sitting on a bench with my legs spread open and Sasu kept trying to stick his nose in my crotch. Usually, I'd push his face away and close my legs, but I was extremely wet and was dripping everywhere. So I let Sasu lick it up. Since I had never been eaten out before, I really didn't know that what I was doing was sexual in the least, but I realized that it felt really good and was only making me wetter. Even after I came Sasu was still licking it all up and the front of my skirt was soaked in a combination of my pussy juice and Sasu's saliva. Once I had to go back inside, I just twisted my skirt to the side and went to my room to change.</p></htmltext>
+<tokenext>A few years back , when I was living in Puerto Rico , I had to take care of my uncle 's dog for a while .
+He was a big Golden Retriever and his name was Sasu .
+After about 3 days , I was extremely turned on and without a boyfriend , so this dog in my pussy seemed like a pretty good idea.One day , I decided to go for a walk and take the dog with me .
+I was conveniently wearing a skirt and once we reached a pretty secluded street , I pulled up my skirt and got on all fours .
+At first the dog just sniffed my butt around but once he got the idea , he got on top of me and started humping my butt through my panties .
+He kept banging against my clit and my juices were flowing to pretty much everywhere .
+I did n't let him inside me yet because I was too afraid .
+I mean , think about it .
+That 's pretty fucking gross.But anyways .
+Whenever I got back home , I sat on the front porch .
+My uncle had come back and was ready to pick up the dog but he was inside talking to my sister .
+My uncle told me to stay outside with Sasu for a while , so I did .
+While we were out there , I was sitting on a bench with my legs spread open and Sasu kept trying to stick his nose in my crotch .
+Usually , I 'd push his face away and close my legs , but I was extremely wet and was dripping everywhere .
+So I let Sasu lick it up .
+Since I had never been eaten out before , I really did n't know that what I was doing was sexual in the least , but I realized that it felt really good and was only making me wetter .
+Even after I came Sasu was still licking it all up and the front of my skirt was soaked in a combination of my pussy juice and Sasu 's saliva .
+Once I had to go back inside , I just twisted my skirt to the side and went to my room to change .</tokentext>
+<sentencetext>A few years back, when I was living in Puerto Rico, I had to take care of my uncle's dog for a while.
+He was a big Golden Retriever and his name was Sasu.
+After about 3 days, I was extremely turned on and without a boyfriend, so this dog in my pussy seemed like a pretty good idea.One day, I decided to go for a walk and take the dog with me.
+I was conveniently wearing a skirt and once we reached a pretty secluded street, I pulled up my skirt and got on all fours.
+At first the dog just sniffed my butt around but once he got the idea, he got on top of me and started humping my butt through my panties.
+He kept banging against my clit and my juices were flowing to pretty much everywhere.
+I didn't let him inside me yet because I was too afraid.
+I mean, think about it.
+That's pretty fucking gross.But anyways.
+Whenever I got back home, I sat on the front porch.
+My uncle had come back and was ready to pick up the dog but he was inside talking to my sister.
+My uncle told me to stay outside with Sasu for a while, so I did.
+While we were out there, I was sitting on a bench with my legs spread open and Sasu kept trying to stick his nose in my crotch.
+Usually, I'd push his face away and close my legs, but I was extremely wet and was dripping everywhere.
+So I let Sasu lick it up.
+Since I had never been eaten out before, I really didn't know that what I was doing was sexual in the least, but I realized that it felt really good and was only making me wetter.
+Even after I came Sasu was still licking it all up and the front of my skirt was soaked in a combination of my pussy juice and Sasu's saliva.
+Once I had to go back inside, I just twisted my skirt to the side and went to my room to change.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31304696</id>
+	<title>Oh lawd</title>
+	<author>Anonymous</author>
+	<datestamp>1267363380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><blockquote><div><p>The military STSS program is intended for space-based detection and tracking of missiles.</p></div></blockquote><p>
+The irony.</p></div>
+	</htmltext>
+<tokenext>The military STSS program is intended for space-based detection and tracking of missiles .
+The irony .</tokentext>
+<sentencetext>The military STSS program is intended for space-based detection and tracking of missiles.
+The irony.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31353560</id>
+	<title>Re:What happens next time?</title>
+	<author>Anonymous</author>
+	<datestamp>1267629120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Yes, the guys who're launching rockets are really should ask them what if their rockets fall on their own heads. What would happened if that junk killed someone?</p></htmltext>
+<tokenext>Yes , the guys who 're launching rockets are really should ask them what if their rockets fall on their own heads .
+What would happened if that junk killed someone ?</tokentext>
+<sentencetext>Yes, the guys who're launching rockets are really should ask them what if their rockets fall on their own heads.
+What would happened if that junk killed someone?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31304992</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31305356</id>
+	<title>Hits in Southern Africa as well...</title>
+	<author>nicc777</author>
+	<datestamp>1267370040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><a href="http://www.csir.co.za/enews/2008\_dec/sac\_03.html" title="csir.co.za" rel="nofollow">A little while ago</a> [csir.co.za], but still interesting I think.</htmltext>
+<tokenext>A little while ago [ csir.co.za ] , but still interesting I think .</tokentext>
+<sentencetext>A little while ago [csir.co.za], but still interesting I think.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303690</id>
+	<title>Decay happens over a period of time</title>
+	<author>BitZtream</author>
+	<datestamp>1267389540000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Not at a precise moment in time.</p><blockquote><div><p> before the decay, the decay must have occurred near 3:32 UTC on February 19."</p></div></blockquote><p>Probably occurred near 3:25, and 3:45 too, and probably yesterday, and the day before and the day before and pretty much the entire time between when the fuel stopped producing thrust and the time it hit the ground.</p></div>
+	</htmltext>
+<tokenext>Not at a precise moment in time .
+before the decay , the decay must have occurred near 3 : 32 UTC on February 19 .
+" Probably occurred near 3 : 25 , and 3 : 45 too , and probably yesterday , and the day before and the day before and pretty much the entire time between when the fuel stopped producing thrust and the time it hit the ground .</tokentext>
+<sentencetext>Not at a precise moment in time.
+before the decay, the decay must have occurred near 3:32 UTC on February 19.
+"Probably occurred near 3:25, and 3:45 too, and probably yesterday, and the day before and the day before and pretty much the entire time between when the fuel stopped producing thrust and the time it hit the ground.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31304992</id>
+	<title>What happens next time?</title>
+	<author>Anonymous</author>
+	<datestamp>1267366860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p> <i>In the months leading up to the February 19 orbital decay over Mongolia, the fall of the rocket stage was followed by amateur satellite trackers.</i>
+</p><p>And what happens when one of these drops on Beijing?  Or Vancouver?  Or San Francisco?  I thought the flight paths were calculated so the boosters dropped in the ocean?
+
+</p><p>I used to think where they came down was no accident.  Now I'm wondering if they're just playing the odds.</p></htmltext>
+<tokenext>In the months leading up to the February 19 orbital decay over Mongolia , the fall of the rocket stage was followed by amateur satellite trackers .
+And what happens when one of these drops on Beijing ?
+Or Vancouver ?
+Or San Francisco ?
+I thought the flight paths were calculated so the boosters dropped in the ocean ?
+I used to think where they came down was no accident .
+Now I 'm wondering if they 're just playing the odds .</tokentext>
+<sentencetext> In the months leading up to the February 19 orbital decay over Mongolia, the fall of the rocket stage was followed by amateur satellite trackers.
+And what happens when one of these drops on Beijing?
+Or Vancouver?
+Or San Francisco?
+I thought the flight paths were calculated so the boosters dropped in the ocean?
+I used to think where they came down was no accident.
+Now I'm wondering if they're just playing the odds.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31304452</id>
+	<title>Re:Could not connect to the database server</title>
+	<author>Anonymous</author>
+	<datestamp>1267359600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Even metal bounces after a ~200 kilometer fall</p></htmltext>
+<tokenext>Even metal bounces after a ~ 200 kilometer fall</tokentext>
+<sentencetext>Even metal bounces after a ~200 kilometer fall</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303800</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303948</id>
+	<title>Re:How do you say...</title>
+	<author>Anonymous</author>
+	<datestamp>1267349880000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>I guess you mean "Steptoe and Son", the original.</htmltext>
+<tokenext>I guess you mean " Steptoe and Son " , the original .</tokentext>
+<sentencetext>I guess you mean "Steptoe and Son", the original.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303676</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31312014</id>
+	<title>Just happened to have a cannonball handy?</title>
+	<author>kimgkimg</author>
+	<datestamp>1267379100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>What's up with the cannonball?  So they just happened to carry a supply of these in the truck?</htmltext>
+<tokenext>What 's up with the cannonball ?
+So they just happened to carry a supply of these in the truck ?</tokentext>
+<sentencetext>What's up with the cannonball?
+So they just happened to carry a supply of these in the truck?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303686</id>
+	<title>space debris</title>
+	<author>Anonymous</author>
+	<datestamp>1267389420000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>This is one of the few cases where a space tether isn't the best option for disposal of space debris as this object was much too large to burn up in the atmosphere.  With electrodynamic tethers, you can de-orbit debris although I would imagine that it would be fairly difficult to control where it deorbits.  This kind of debris is probably best dealt with by using a space tether to raise the orbit before the satellite becomes non-functional.  Although in the case of rocket stages like the ones that apparently landed in a field, a few explosive charges to break the object into more manageable pieces before it re-enters dangerously might be in order.</p></htmltext>
+<tokenext>This is one of the few cases where a space tether is n't the best option for disposal of space debris as this object was much too large to burn up in the atmosphere .
+With electrodynamic tethers , you can de-orbit debris although I would imagine that it would be fairly difficult to control where it deorbits .
+This kind of debris is probably best dealt with by using a space tether to raise the orbit before the satellite becomes non-functional .
+Although in the case of rocket stages like the ones that apparently landed in a field , a few explosive charges to break the object into more manageable pieces before it re-enters dangerously might be in order .</tokentext>
+<sentencetext>This is one of the few cases where a space tether isn't the best option for disposal of space debris as this object was much too large to burn up in the atmosphere.
+With electrodynamic tethers, you can de-orbit debris although I would imagine that it would be fairly difficult to control where it deorbits.
+This kind of debris is probably best dealt with by using a space tether to raise the orbit before the satellite becomes non-functional.
+Although in the case of rocket stages like the ones that apparently landed in a field, a few explosive charges to break the object into more manageable pieces before it re-enters dangerously might be in order.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303676</id>
+	<title>How do you say...</title>
+	<author>Anonymous</author>
+	<datestamp>1267389300000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Sanford and Son in Mongolian?</p></htmltext>
+<tokenext>Sanford and Son in Mongolian ?</tokentext>
+<sentencetext>Sanford and Son in Mongolian?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31306650</id>
+	<title>Re:space debris</title>
+	<author>Anonymous</author>
+	<datestamp>1267379160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>You do understand that you failed to tie your above post and all of the ones following it to the topic of the article, right? </p><p>It's too bad, because it could have been somewhat informative if you had deorbited your brain from whatever it is high on long enough to communicate on the same wavelength as the rest of the readers.   </p></htmltext>
+<tokenext>You do understand that you failed to tie your above post and all of the ones following it to the topic of the article , right ?
+It 's too bad , because it could have been somewhat informative if you had deorbited your brain from whatever it is high on long enough to communicate on the same wavelength as the rest of the readers .</tokentext>
+<sentencetext>You do understand that you failed to tie your above post and all of the ones following it to the topic of the article, right?
+It's too bad, because it could have been somewhat informative if you had deorbited your brain from whatever it is high on long enough to communicate on the same wavelength as the rest of the readers.   </sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303686</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303742</id>
+	<title>Sketchy evidence?</title>
+	<author>1 a bee</author>
+	<datestamp>1267390200000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>I'm no expert in spaceships and such, so all I can go on are the linked articles. This passage from the Mongol News, however (the only article I could find that mentions anything about a Delta rocket) is not terribly trust inspiring:<p><div class="quote"><p>According to a team comprising specialists from defense, emergency and astrology, who inspected the object, the two objects described by local people as meteoroids, were parts of U.S delivery rocket Delta-2.</p></div><p>
+I for one would take this with a pinch of salt. Especially if it comes from an astrologer, or from one who can't tell one from an astronomer.
+</p></div>
+	</htmltext>
+<tokenext>I 'm no expert in spaceships and such , so all I can go on are the linked articles .
+This passage from the Mongol News , however ( the only article I could find that mentions anything about a Delta rocket ) is not terribly trust inspiring : According to a team comprising specialists from defense , emergency and astrology , who inspected the object , the two objects described by local people as meteoroids , were parts of U.S delivery rocket Delta-2 .
+I for one would take this with a pinch of salt .
+Especially if it comes from an astrologer , or from one who ca n't tell one from an astronomer .</tokentext>
+<sentencetext>I'm no expert in spaceships and such, so all I can go on are the linked articles.
+This passage from the Mongol News, however (the only article I could find that mentions anything about a Delta rocket) is not terribly trust inspiring:According to a team comprising specialists from defense, emergency and astrology, who inspected the object, the two objects described by local people as meteoroids, were parts of U.S delivery rocket Delta-2.
+I for one would take this with a pinch of salt.
+Especially if it comes from an astrologer, or from one who can't tell one from an astronomer.
+
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31304842</id>
+	<title>Re:Next US war</title>
+	<author>Dunbal</author>
+	<datestamp>1267365120000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>On February 21st the United States refused to acknowledge the surrender of Mongolia, claiming that for too long yaks have been infringing on copyrights and patents owned by American cows on mooing and milk production respectively. It announced that yaks are the hallmark of rogue, terrorist nations such as Mongolia, demanded that Mongolia switch its bovines immediately to American cows which could be purchased at reasonable rates from America or it's European partners, and further demanded that Mongolia license the rights to pay the additional fee for milk production and mooing (at discounted herd rates). Additionally the Department of Homeland Security has placed all yaks on the no-fly list.</p><p>The ball is in Mongolia's court.</p></htmltext>
+<tokenext>On February 21st the United States refused to acknowledge the surrender of Mongolia , claiming that for too long yaks have been infringing on copyrights and patents owned by American cows on mooing and milk production respectively .
+It announced that yaks are the hallmark of rogue , terrorist nations such as Mongolia , demanded that Mongolia switch its bovines immediately to American cows which could be purchased at reasonable rates from America or it 's European partners , and further demanded that Mongolia license the rights to pay the additional fee for milk production and mooing ( at discounted herd rates ) .
+Additionally the Department of Homeland Security has placed all yaks on the no-fly list.The ball is in Mongolia 's court .</tokentext>
+<sentencetext>On February 21st the United States refused to acknowledge the surrender of Mongolia, claiming that for too long yaks have been infringing on copyrights and patents owned by American cows on mooing and milk production respectively.
+It announced that yaks are the hallmark of rogue, terrorist nations such as Mongolia, demanded that Mongolia switch its bovines immediately to American cows which could be purchased at reasonable rates from America or it's European partners, and further demanded that Mongolia license the rights to pay the additional fee for milk production and mooing (at discounted herd rates).
+Additionally the Department of Homeland Security has placed all yaks on the no-fly list.The ball is in Mongolia's court.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303886</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303970</id>
+	<title>Oh No!</title>
+	<author>oldhack</author>
+	<datestamp>1267350180000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>
+This just might bring forth the Ghingis Khan II.
+</p><p>
+Ain't that how the Ghingis Khan Classic came about?</p></htmltext>
+<tokenext>This just might bring forth the Ghingis Khan II .
+Ai n't that how the Ghingis Khan Classic came about ?</tokentext>
+<sentencetext>
+This just might bring forth the Ghingis Khan II.
+Ain't that how the Ghingis Khan Classic came about?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31308230</id>
+	<title>Re:I wonder how soon before the technology</title>
+	<author>tloh</author>
+	<datestamp>1267390260000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>How much do you think the Mongolians would demand for the tech transfer?  You do know enough about geography to be aware they are two separate sovereign countries, right?</p><p>On the other hand,  they might value the thing a little differently than one would a tech asset.</p><p>from the article:</p><p><div class="quote"><p>According to a team comprising specialists from defense, emergency and <b>astrology</b>, who inspected the object....</p></div></div>
+	</htmltext>
+<tokenext>How much do you think the Mongolians would demand for the tech transfer ?
+You do know enough about geography to be aware they are two separate sovereign countries , right ? On the other hand , they might value the thing a little differently than one would a tech asset.from the article : According to a team comprising specialists from defense , emergency and astrology , who inspected the object... .</tokentext>
+<sentencetext>How much do you think the Mongolians would demand for the tech transfer?
+You do know enough about geography to be aware they are two separate sovereign countries, right?On the other hand,  they might value the thing a little differently than one would a tech asset.from the article:According to a team comprising specialists from defense, emergency and astrology, who inspected the object....
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303880</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31305316</id>
+	<title>Re:Could not connect to the database server</title>
+	<author>Anonymous</author>
+	<datestamp>1267369680000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>I've been to Mongolia.  In the steppes and desert areas the ground is sometimes a *very* hard surface.  Also it is possible the objects bounced or rolled a few metres before coming to a stop.  There's not quite enough resolution in the pictures to tell for certain, but the lower left corner of the upper photo (below where the guy is bending over to look at the debris) looks a bit like there is a shallow pit and some whitish, crushed rock.  It's also February -- the ground is probably frozen.  In <a href="http://www.mk.ru/science/article/2010/02/25/437154-na-mongoliyu-upali-dva-nlo-foto.html" title="www.mk.ru" rel="nofollow">this picture</a> [www.mk.ru] you can see patches of snow.</p></htmltext>
+<tokenext>I 've been to Mongolia .
+In the steppes and desert areas the ground is sometimes a * very * hard surface .
+Also it is possible the objects bounced or rolled a few metres before coming to a stop .
+There 's not quite enough resolution in the pictures to tell for certain , but the lower left corner of the upper photo ( below where the guy is bending over to look at the debris ) looks a bit like there is a shallow pit and some whitish , crushed rock .
+It 's also February -- the ground is probably frozen .
+In this picture [ www.mk.ru ] you can see patches of snow .</tokentext>
+<sentencetext>I've been to Mongolia.
+In the steppes and desert areas the ground is sometimes a *very* hard surface.
+Also it is possible the objects bounced or rolled a few metres before coming to a stop.
+There's not quite enough resolution in the pictures to tell for certain, but the lower left corner of the upper photo (below where the guy is bending over to look at the debris) looks a bit like there is a shallow pit and some whitish, crushed rock.
+It's also February -- the ground is probably frozen.
+In this picture [www.mk.ru] you can see patches of snow.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303800</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31312814</id>
+	<title>Re:Next US war</title>
+	<author>tokul</author>
+	<datestamp>1267475280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>On February 20th Mongolia surrendered to the US and demanded war reparations totaling 20 billion dollars</p></div>
+</blockquote><p>
+They could also bill US for littering.</p></div>
+	</htmltext>
+<tokenext>On February 20th Mongolia surrendered to the US and demanded war reparations totaling 20 billion dollars They could also bill US for littering .</tokentext>
+<sentencetext>On February 20th Mongolia surrendered to the US and demanded war reparations totaling 20 billion dollars
+
+They could also bill US for littering.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303886</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303880</id>
+	<title>I wonder how soon before the technology</title>
+	<author>Anonymous</author>
+	<datestamp>1267348920000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>from that rocket makes its way into Chinese appliances that we buy at Wal-mart.</p></htmltext>
+<tokenext>from that rocket makes its way into Chinese appliances that we buy at Wal-mart .</tokentext>
+<sentencetext>from that rocket makes its way into Chinese appliances that we buy at Wal-mart.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303800</id>
+	<title>Could not connect to the database server</title>
+	<author>Anonymous</author>
+	<datestamp>1267347900000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>It seems the UB post has been slashdotted.</p><p>The squashed thing hasn't disturbed the ground at all. I wouldn't expect a crater but a few displaced rocks would be expected. Thats what happened on Mars when the rover backshells impacted anyway. So maybe somebody dragged it to the site where the pictures were taken. It certainly looks like it came down with a hell of a thump.</p><p>Also the sphere beside the squashed thing looks like it would have either been previously inside or attached to the larger object, or it would have rolled and bounced away. The picture looks somewhat staged for that reason.</p><p>Definitely orbital or launcher debris though.</p></htmltext>
+<tokenext>It seems the UB post has been slashdotted.The squashed thing has n't disturbed the ground at all .
+I would n't expect a crater but a few displaced rocks would be expected .
+Thats what happened on Mars when the rover backshells impacted anyway .
+So maybe somebody dragged it to the site where the pictures were taken .
+It certainly looks like it came down with a hell of a thump.Also the sphere beside the squashed thing looks like it would have either been previously inside or attached to the larger object , or it would have rolled and bounced away .
+The picture looks somewhat staged for that reason.Definitely orbital or launcher debris though .</tokentext>
+<sentencetext>It seems the UB post has been slashdotted.The squashed thing hasn't disturbed the ground at all.
+I wouldn't expect a crater but a few displaced rocks would be expected.
+Thats what happened on Mars when the rover backshells impacted anyway.
+So maybe somebody dragged it to the site where the pictures were taken.
+It certainly looks like it came down with a hell of a thump.Also the sphere beside the squashed thing looks like it would have either been previously inside or attached to the larger object, or it would have rolled and bounced away.
+The picture looks somewhat staged for that reason.Definitely orbital or launcher debris though.</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_27_219201_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303948
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303676
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_27_219201_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31353560
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31304992
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_27_219201_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31304842
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303886
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_27_219201_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31308230
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303880
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_27_219201_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31312814
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303886
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_27_219201_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31306650
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303686
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_27_219201_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31304452
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303800
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_10_02_27_219201_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31305316
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303800
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_27_219201.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303928
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_27_219201.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303800
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31305316
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31304452
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_27_219201.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31312014
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_27_219201.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31306656
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_27_219201.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303886
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31304842
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31312814
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_27_219201.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303686
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31306650
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_27_219201.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303742
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_27_219201.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303676
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303948
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_27_219201.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303690
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_27_219201.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31304992
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31353560
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation10_02_27_219201.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31303880
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment10_02_27_219201.31308230
+</commentlist>
+</conversation>

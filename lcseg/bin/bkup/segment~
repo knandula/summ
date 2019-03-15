@@ -1,0 +1,161 @@
+#!/usr/bin/perl
+
+#####################################################
+# Segment one or more text files by topics.
+#
+# Created by Michel Galley (galley@cs.columbia.edu)
+# $Id: segment,v 1.1.1.1 2006/11/14 00:22:30 galley Exp $
+#####################################################
+
+use strict;
+use vars qw($BASEDIR $HOST $USER);
+use Fatal qw(open close);
+use Getopt::Std;
+
+BEGIN {
+	my $trueloc = $0;
+	while (-l $trueloc) { $trueloc = readlink($trueloc); }
+	$BASEDIR = `dirname $trueloc`; chop $BASEDIR;
+	$BASEDIR .= '/..';
+	$HOST = $ENV{HOSTNAME} || 'localhost';
+	$USER = $ENV{USER} || 'user';
+}
+
+## Architecture type:
+our $ARCH = 'i686';
+#my $ARCH = `arch`; chop $ARCH;
+
+## Points to main executable:
+our $LCSEG = "$BASEDIR/bin/segment.$ARCH.out";
+
+## Define some environment variables that LCseg needs:
+our $ENV = "LCSEGDIR=$BASEDIR LD_LIBRARY_PATH=$BASEDIR/sharedlibs";
+
+## Topic segmentation separator:
+our $SEP = '==========';
+
+## Default algorithm parameters: 
+our %args 
+   = ( h => 11, w => 2, a => 0.5, p => 0.1, # see acl paper
+	   c => 15,  # minimum segment size (1 line)
+	   s => 0,  # smoothing (default: none)
+	   n => 0
+	);
+
+## Usage:
+our $help_msg = <<MSG;
+Usage: $0 [options] [algorithm parameters] <text file>
+options:
+ -E <string>   : file extension (used only if segmenting 2+ files) 
+                 (default: .tsegs)
+ -m <file>     : generate a Matlab file displaying the lexical cohesion score
+                 of each sentence
+ -l            : print to stdout the lexical cohesion score of each sentence
+ -S <file>     : provide a custom list of stop words
+ -t            : use the TextTiling (Hearst, 94) algorithm instead of LCSeg.
+ -H            : print this help message
+ -V            : be verbose 
+algorithm parameters: (see paper for more details)
+ -n <integer>  : number of segments (default: undefined)
+ -h <integer>  : 'hiatus' parameter (def: $args{h})
+ -w <integer>  : size of analysis window (default: $args{w})
+ -a <real>     : 'alpha' parameter (in mu - alpha*sigma) (default: $args{a})
+ -p <real>     : 'plimit' parameter (default: $args{p})
+ -c <integer>  : minimum segment size (default: $args{c})
+ -s <integer>  : smoothing (default window size: $args{s})
+MSG
+getopts("HVE:n:m:lh:w:a:p:c:s:S:t",\%args);
+die "$help_msg\n" if $args{H};
+our $verbose = $args{V};
+delete $args{V};
+
+## File extension of segmented texts:
+my $ext = $args{E} || 'tsegs';
+delete $args{E};
+
+## Command line options to pass to lcseg:
+our $args_str = join ' ', map { "-$_ $args{$_}" } keys %args; 
+
+## Content words stored in:
+our $tmpbase = "/tmp/lcseg.tmp.$HOST.$USER.$$";
+
+## Segment 1 file (result sent to stdout):
+if($#ARGV <= 0) {
+	segment_file($ARGV[0]);
+} 
+## Segment 2+ files (result saved to):
+else {
+	foreach(@ARGV) { segment_file($_,"$_.$ext") }
+}
+
+## Done.
+unlink "$tmpbase.in","$tmpbase.cln";
+exit(0);
+
+#### Subroutines: ####
+
+# Segment one text file:
+sub segment_file {
+	my ($infile,$outfile) = @_;
+	## Remove segmentation:
+	remove_segs($infile,"$tmpbase.in");
+	## Create cleaned-up file: 
+	cleanup_file("$tmpbase.in","$tmpbase.cln");
+	# Segment file:
+	my $COMMAND = "$ENV $LCSEG -o $tmpbase.in -f $tmpbase.cln $args_str";
+	$COMMAND .= ($outfile) ? " > $outfile" : '';
+	print STDERR "segmenting: $infile\n" if $infile;
+	print STDERR "running: $COMMAND\n" if $verbose;
+	system $COMMAND
+}
+
+# Create input file from stdin:
+sub remove_segs {
+	my ($infile,$outfile) = @_;
+	my $ifh = *STDIN;
+	open($ifh,$infile) if $infile;
+	open(O,">$outfile");
+	while(<STDIN>) { print O $_ unless /^$SEP/ }
+	close(O);
+	close($ifh);
+}
+
+# Cleanup an entire file:
+sub cleanup_file {
+	my ($infile,$outfile) = @_;
+	open(I,$infile);
+	open(O,">$outfile");
+	while(<I>) {
+	  print O '',cleanup($_),"\n";
+	}
+	close(I);
+	close(O);
+}
+
+# Remove all tokens that do not help topic segmentation
+# (only keep content words):
+sub cleanup { 
+	local $_ = shift;
+
+   tr/A-Z/a-z/;
+
+   # Simplify the matching:
+   s=$= =;
+   s=^= =;
+
+   s=[.,;:-@\#\$\%\&\?\!\*\]\[\(\)\{\}\<\>]= =g;
+   s=\'(re|ve|ll)(\W|$)= $2=g;
+   s=n\'t(\W|^)= $2=g;
+   s=\'([smdt])(\W|$)= $2=g;
+   s=([^\'])\' =$1 =g;
+	#s=(\w)\'(\w)=${1}A${2}=g; # HACK: o'clock --> oAclock 
+   s=(\`\`|\'\'|\")= =g;
+	#s=(\d)/(\d)=${1}0${2}=g;  # HACK: 1/2 --> 102 
+	s=(\w)/(\w)=$1 $2=g;
+
+   # Remove extra spaces:
+   s=\s+= =g;
+   s=(^\s+|\s+$)==g;
+
+	return $_;
+}

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+../bin/segeval.i686.out $@

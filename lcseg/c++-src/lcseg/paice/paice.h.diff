@@ -1,0 +1,3 @@
+c19
+extern char* PaiceStem( char *word );
+.

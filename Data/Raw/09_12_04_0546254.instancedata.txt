@@ -1,0 +1,1201 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_12_04_0546254</id>
+	<title>Copyright and the Games Industry</title>
+	<author>Soulskill</author>
+	<datestamp>1259956260000</datestamp>
+	<htmltext>A recent post at the Press Start To Drink blog examined <a href="http://pressstarttodrink.blogspot.com/2009/11/cease-and-desist-games-culture-and.html">the relationship the games industry has with copyright laws</a>.  More so than in some other creative industries, the reactions of game companies to derivative works are widely varied and often unpredictable, ranging anywhere from active support to situations like the <a href="https://games.slashdot.org/story/09/05/12/0643208/Square-Enix-Shuts-Down-Fan-Made-Chrono-Trigger-Sequel"> <em>Chrono Trigger: Crimson Echoes</em> debacle</a>. Quoting:
+<i>"... even within the gaming industry, there is a tension between IP holders and fan producers/poachers. Some companies, such as Epic and Square Enix, remain incredibly protective of their Intellectual Property, threatening those that use their creations, even for non-profit, cultural reasons, with legal suits. Other companies, like Valve, seem to, if not embrace, at least tolerate, and perhaps even tacitly encourage this kind of fan engagement with their work. Lessig suggests, 'The opportunity to create and transform becomes weakened in a world in which creation requires permission and creativity must check with a lawyer.' Indeed, the more developers and publishers that take up Valve's position, the more creativity and innovation will emerge out of video game fan communities, already known for their intense fandom and desire to add to, alter, and re-imagine their favorite gaming universes."</i></htmltext>
+<tokenext>A recent post at the Press Start To Drink blog examined the relationship the games industry has with copyright laws .
+More so than in some other creative industries , the reactions of game companies to derivative works are widely varied and often unpredictable , ranging anywhere from active support to situations like the Chrono Trigger : Crimson Echoes debacle .
+Quoting : " ... even within the gaming industry , there is a tension between IP holders and fan producers/poachers .
+Some companies , such as Epic and Square Enix , remain incredibly protective of their Intellectual Property , threatening those that use their creations , even for non-profit , cultural reasons , with legal suits .
+Other companies , like Valve , seem to , if not embrace , at least tolerate , and perhaps even tacitly encourage this kind of fan engagement with their work .
+Lessig suggests , 'The opportunity to create and transform becomes weakened in a world in which creation requires permission and creativity must check with a lawyer .
+' Indeed , the more developers and publishers that take up Valve 's position , the more creativity and innovation will emerge out of video game fan communities , already known for their intense fandom and desire to add to , alter , and re-imagine their favorite gaming universes .
+"</tokentext>
+<sentencetext>A recent post at the Press Start To Drink blog examined the relationship the games industry has with copyright laws.
+More so than in some other creative industries, the reactions of game companies to derivative works are widely varied and often unpredictable, ranging anywhere from active support to situations like the  Chrono Trigger: Crimson Echoes debacle.
+Quoting:
+"... even within the gaming industry, there is a tension between IP holders and fan producers/poachers.
+Some companies, such as Epic and Square Enix, remain incredibly protective of their Intellectual Property, threatening those that use their creations, even for non-profit, cultural reasons, with legal suits.
+Other companies, like Valve, seem to, if not embrace, at least tolerate, and perhaps even tacitly encourage this kind of fan engagement with their work.
+Lessig suggests, 'The opportunity to create and transform becomes weakened in a world in which creation requires permission and creativity must check with a lawyer.
+' Indeed, the more developers and publishers that take up Valve's position, the more creativity and innovation will emerge out of video game fan communities, already known for their intense fandom and desire to add to, alter, and re-imagine their favorite gaming universes.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321886</id>
+	<title>I kind of wish we had a Comiket...</title>
+	<author>zalas</author>
+	<datestamp>1259919780000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext>In Japan, you have a ton of people making derivative works (doujin) and selling them at low volume at various events, the biggest of which being <a href="http://en.wikipedia.org/wiki/Comiket" title="wikipedia.org">Comiket</a> [wikipedia.org], which half a million people attend.  A lot of times, these derivative works are with the approval of the original creators, who set out guidelines as to what they consider proper and improper derivative works.  The biggest content creator I can think of is Nihon Falcom (Japanese video game maker), who recently offered fairly liberal access to their entire library of music.</htmltext>
+<tokenext>In Japan , you have a ton of people making derivative works ( doujin ) and selling them at low volume at various events , the biggest of which being Comiket [ wikipedia.org ] , which half a million people attend .
+A lot of times , these derivative works are with the approval of the original creators , who set out guidelines as to what they consider proper and improper derivative works .
+The biggest content creator I can think of is Nihon Falcom ( Japanese video game maker ) , who recently offered fairly liberal access to their entire library of music .</tokentext>
+<sentencetext>In Japan, you have a ton of people making derivative works (doujin) and selling them at low volume at various events, the biggest of which being Comiket [wikipedia.org], which half a million people attend.
+A lot of times, these derivative works are with the approval of the original creators, who set out guidelines as to what they consider proper and improper derivative works.
+The biggest content creator I can think of is Nihon Falcom (Japanese video game maker), who recently offered fairly liberal access to their entire library of music.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322174</id>
+	<title>Re:Epic is not evil</title>
+	<author>Anonymous</author>
+	<datestamp>1259924940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>not sent by Epic themselves but rather their trigger-happy crack legal team</p></div></blockquote><p>With all due respect, that's complete and utter apologist bullshit.  Anyone on Epic's payroll is Epic.  Nobody forced Epic to pay legal attack dogs, and nobody else was responsible for them doing what they were paid to do.  Epic are not the victims here.</p></div>
+	</htmltext>
+<tokenext>not sent by Epic themselves but rather their trigger-happy crack legal teamWith all due respect , that 's complete and utter apologist bullshit .
+Anyone on Epic 's payroll is Epic .
+Nobody forced Epic to pay legal attack dogs , and nobody else was responsible for them doing what they were paid to do .
+Epic are not the victims here .</tokentext>
+<sentencetext>not sent by Epic themselves but rather their trigger-happy crack legal teamWith all due respect, that's complete and utter apologist bullshit.
+Anyone on Epic's payroll is Epic.
+Nobody forced Epic to pay legal attack dogs, and nobody else was responsible for them doing what they were paid to do.
+Epic are not the victims here.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321920</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30325494</id>
+	<title>Speaking of Squenix...</title>
+	<author>Pluvius</author>
+	<datestamp>1259950020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>One thing I never got: Why hasn't <a href="http://www.nuklearpower.com/" title="nuklearpower.com">Brian Clevinger</a> [nuklearpower.com] been sued off of his ass yet?</p><p>Rob</p></htmltext>
+<tokenext>One thing I never got : Why has n't Brian Clevinger [ nuklearpower.com ] been sued off of his ass yet ? Rob</tokentext>
+<sentencetext>One thing I never got: Why hasn't Brian Clevinger [nuklearpower.com] been sued off of his ass yet?Rob</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324210</id>
+	<title>Re:Copyright and Plagarism</title>
+	<author>PixelBread</author>
+	<datestamp>1259944620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Microsoft gave away IE for free in order to disuade netscape navigator from charging for its browser and taking control of the market I believe. They also offered perks to people for promoting it.</htmltext>
+<tokenext>Microsoft gave away IE for free in order to disuade netscape navigator from charging for its browser and taking control of the market I believe .
+They also offered perks to people for promoting it .</tokentext>
+<sentencetext>Microsoft gave away IE for free in order to disuade netscape navigator from charging for its browser and taking control of the market I believe.
+They also offered perks to people for promoting it.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322384</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30328300</id>
+	<title>Re:No such thing</title>
+	<author>Ash Vince</author>
+	<datestamp>1259918700000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Intellectual property is a bankrupt and indefensible notion.</p></div><p>I am not so sure about this. If I spend many hours thinking of very novel and original way of doing something useful, should I not be able to live off the resulting earnings for a while before the person who did not invest any time in the idea can just copy it and undercut me? Since they did not have to invest the time in its invention, their costs will be lower so I cannot compete on that basis.</p><p>In my ideal world I would freely share all my ideas for the good of mankind, but unfortunately the good of mankind does not pay for a roof over my head and put food in my belly. Until it does I want to be able to do something I enjoy and earn money for it, since this beats earning money for doing something I hate.</p><p>Many people often answer this with the service argument, but this does not always work. Some things simply do not suit the software as a service model, especially computer games since many people are resistant to pay for play.</p><p>I cannot help but think that until we have abandoned the concept of money, then we will always have to allow a certain level of IP protection to someone who invents something original. So the real debate should maybe become about how much IP protection there should be and how long it should last.</p><p>And as a final note, I am just going to rehash one of Richard Stallmans recent points: That the whole GPL and open source concept relies on copyright law. Without the law of copyright and IP then some private company could just take any open source product they liked and then sell it or a derivative product for a profit.</p></div>
+	</htmltext>
+<tokenext>Intellectual property is a bankrupt and indefensible notion.I am not so sure about this .
+If I spend many hours thinking of very novel and original way of doing something useful , should I not be able to live off the resulting earnings for a while before the person who did not invest any time in the idea can just copy it and undercut me ?
+Since they did not have to invest the time in its invention , their costs will be lower so I can not compete on that basis.In my ideal world I would freely share all my ideas for the good of mankind , but unfortunately the good of mankind does not pay for a roof over my head and put food in my belly .
+Until it does I want to be able to do something I enjoy and earn money for it , since this beats earning money for doing something I hate.Many people often answer this with the service argument , but this does not always work .
+Some things simply do not suit the software as a service model , especially computer games since many people are resistant to pay for play.I can not help but think that until we have abandoned the concept of money , then we will always have to allow a certain level of IP protection to someone who invents something original .
+So the real debate should maybe become about how much IP protection there should be and how long it should last.And as a final note , I am just going to rehash one of Richard Stallmans recent points : That the whole GPL and open source concept relies on copyright law .
+Without the law of copyright and IP then some private company could just take any open source product they liked and then sell it or a derivative product for a profit .</tokentext>
+<sentencetext>Intellectual property is a bankrupt and indefensible notion.I am not so sure about this.
+If I spend many hours thinking of very novel and original way of doing something useful, should I not be able to live off the resulting earnings for a while before the person who did not invest any time in the idea can just copy it and undercut me?
+Since they did not have to invest the time in its invention, their costs will be lower so I cannot compete on that basis.In my ideal world I would freely share all my ideas for the good of mankind, but unfortunately the good of mankind does not pay for a roof over my head and put food in my belly.
+Until it does I want to be able to do something I enjoy and earn money for it, since this beats earning money for doing something I hate.Many people often answer this with the service argument, but this does not always work.
+Some things simply do not suit the software as a service model, especially computer games since many people are resistant to pay for play.I cannot help but think that until we have abandoned the concept of money, then we will always have to allow a certain level of IP protection to someone who invents something original.
+So the real debate should maybe become about how much IP protection there should be and how long it should last.And as a final note, I am just going to rehash one of Richard Stallmans recent points: That the whole GPL and open source concept relies on copyright law.
+Without the law of copyright and IP then some private company could just take any open source product they liked and then sell it or a derivative product for a profit.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321750</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30332334</id>
+	<title>Re:Copyright and Plagarism</title>
+	<author>tepples</author>
+	<datestamp>1259944380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>All of the works you mentioned are primarily computer programs. Most video games, on the other hand, are primarily works-other-than-computer-programs: meshes, textures, music, sound effects, scripts, etc.</htmltext>
+<tokenext>All of the works you mentioned are primarily computer programs .
+Most video games , on the other hand , are primarily works-other-than-computer-programs : meshes , textures , music , sound effects , scripts , etc .</tokentext>
+<sentencetext>All of the works you mentioned are primarily computer programs.
+Most video games, on the other hand, are primarily works-other-than-computer-programs: meshes, textures, music, sound effects, scripts, etc.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322384</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324524</id>
+	<title>Re:Copyright and Plagarism</title>
+	<author>kz45</author>
+	<datestamp>1259946060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>"Do we HAVE to go over this again?"</p><p>Yes.  Just because you don't agree with the notion that piracy is a form of theft, doesn't mean that we won't go over it again.</p><p>"Obviously, nobody wants to spend thousands of hours creating something then letting someone else (a corporation) sell it without royalties. Or letting people download it for free off the internet."</p><p>You listed applications that were given out for free willingly.  It's a different story when a company does not want you to give out their apps for free and you decide to do it anyway.</p><p>Do we have to go over this again?</p><p>My problem is that many people (and it seems like you too) feel it is their "right" to download and freely distribute intellectual property.  Yet, in the same breath feel that people using GNU software in proprietary apps and violating the license is wrong when it's really the same thing: license violation.</p><p>Businesses aren't just going to sit and allow you to take away their revenue stream (and it will not lead to all software, music, and movies being given away for free).  It will just lead to more DRM like protections for music and movies and all software being hosted remotely as service.</p><p>Don't blame the companies on these things, because you gave them no choice.</p></htmltext>
+<tokenext>" Do we HAVE to go over this again ? " Yes .
+Just because you do n't agree with the notion that piracy is a form of theft , does n't mean that we wo n't go over it again .
+" Obviously , nobody wants to spend thousands of hours creating something then letting someone else ( a corporation ) sell it without royalties .
+Or letting people download it for free off the internet .
+" You listed applications that were given out for free willingly .
+It 's a different story when a company does not want you to give out their apps for free and you decide to do it anyway.Do we have to go over this again ? My problem is that many people ( and it seems like you too ) feel it is their " right " to download and freely distribute intellectual property .
+Yet , in the same breath feel that people using GNU software in proprietary apps and violating the license is wrong when it 's really the same thing : license violation.Businesses are n't just going to sit and allow you to take away their revenue stream ( and it will not lead to all software , music , and movies being given away for free ) .
+It will just lead to more DRM like protections for music and movies and all software being hosted remotely as service.Do n't blame the companies on these things , because you gave them no choice .</tokentext>
+<sentencetext>"Do we HAVE to go over this again?"Yes.
+Just because you don't agree with the notion that piracy is a form of theft, doesn't mean that we won't go over it again.
+"Obviously, nobody wants to spend thousands of hours creating something then letting someone else (a corporation) sell it without royalties.
+Or letting people download it for free off the internet.
+"You listed applications that were given out for free willingly.
+It's a different story when a company does not want you to give out their apps for free and you decide to do it anyway.Do we have to go over this again?My problem is that many people (and it seems like you too) feel it is their "right" to download and freely distribute intellectual property.
+Yet, in the same breath feel that people using GNU software in proprietary apps and violating the license is wrong when it's really the same thing: license violation.Businesses aren't just going to sit and allow you to take away their revenue stream (and it will not lead to all software, music, and movies being given away for free).
+It will just lead to more DRM like protections for music and movies and all software being hosted remotely as service.Don't blame the companies on these things, because you gave them no choice.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322384</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321956</id>
+	<title>And then some companies switch...</title>
+	<author>IBBoard</author>
+	<datestamp>1259920800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Some companies support "modders" making derivative works, some block or threaten legal action, but some start one way and switch. I don't suppose the Devs want to do it, but Legal probably get twitchy these days.</p><p>The main one that irks me is Relic. Dawn of War was a great game with a good modding community. Dawn of War 2 came along and (in part because of the GfWL networking) really locked down on modding such that most of the community gave up. There were some incredible mods and textures for DoW1, and any "pure graphics" changes were user-side only and didn't break games. Mods were properly handled and a handshake before the game failed if you weren't running the same Mods. Then DoW2 was released, it was "more complex" (like that ever stopped the community!) and modding didn't get anywhere near the same support (plus even textures needed to be put in as mods the last I saw). You can't even easily add custom badges and banners, FFS!</p><p>I can see the point of copyright and intellectual property to some degree - working hard on something and then having someone else duplicate or modify it or appear to be an official part of it without your permission and without credit or recompense, potentially making a bad impression on those who don't know it isn't official, is wrong and serves no good purpose. The problem is that corporations take it too far.</p></htmltext>
+<tokenext>Some companies support " modders " making derivative works , some block or threaten legal action , but some start one way and switch .
+I do n't suppose the Devs want to do it , but Legal probably get twitchy these days.The main one that irks me is Relic .
+Dawn of War was a great game with a good modding community .
+Dawn of War 2 came along and ( in part because of the GfWL networking ) really locked down on modding such that most of the community gave up .
+There were some incredible mods and textures for DoW1 , and any " pure graphics " changes were user-side only and did n't break games .
+Mods were properly handled and a handshake before the game failed if you were n't running the same Mods .
+Then DoW2 was released , it was " more complex " ( like that ever stopped the community !
+) and modding did n't get anywhere near the same support ( plus even textures needed to be put in as mods the last I saw ) .
+You ca n't even easily add custom badges and banners , FFS ! I can see the point of copyright and intellectual property to some degree - working hard on something and then having someone else duplicate or modify it or appear to be an official part of it without your permission and without credit or recompense , potentially making a bad impression on those who do n't know it is n't official , is wrong and serves no good purpose .
+The problem is that corporations take it too far .</tokentext>
+<sentencetext>Some companies support "modders" making derivative works, some block or threaten legal action, but some start one way and switch.
+I don't suppose the Devs want to do it, but Legal probably get twitchy these days.The main one that irks me is Relic.
+Dawn of War was a great game with a good modding community.
+Dawn of War 2 came along and (in part because of the GfWL networking) really locked down on modding such that most of the community gave up.
+There were some incredible mods and textures for DoW1, and any "pure graphics" changes were user-side only and didn't break games.
+Mods were properly handled and a handshake before the game failed if you weren't running the same Mods.
+Then DoW2 was released, it was "more complex" (like that ever stopped the community!
+) and modding didn't get anywhere near the same support (plus even textures needed to be put in as mods the last I saw).
+You can't even easily add custom badges and banners, FFS!I can see the point of copyright and intellectual property to some degree - working hard on something and then having someone else duplicate or modify it or appear to be an official part of it without your permission and without credit or recompense, potentially making a bad impression on those who don't know it isn't official, is wrong and serves no good purpose.
+The problem is that corporations take it too far.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322974</id>
+	<title>Re:Copyright and Plagarism</title>
+	<author>Anonymous</author>
+	<datestamp>1259937480000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><div class="quote"><p>I'm getting fed up with these two concepts. There is only one kind of Plagarism...</p> </div><p>...misspelled.</p><p><div class="quote"><p>cheating. If you didn't do the work on your paper, then you're cheating.</p></div><p> <a href="http://dictionary.reference.com/browse/plagiarism" title="reference.com">plagiarism</a> [reference.com]<nobr> <wbr></nobr>/pledrzm, -dirz-/<br>-noun<br>1.     the unauthorized use or close imitation of the language and thoughts of another author and the representation of them as one's own original work.</p><p>English? YOU FAIL IT!</p><p><div class="quote"><p>Copyright is the idea that you control the copies of your creation. Obviously, nobody wants to spend thousands of hours creating something then letting someone else (a corporation) sell it without royalties.</p></div><p>I've spent hundreds of hours developing articles for Everything2. I shudder to think at the hours which have gone into Wikipedia. Human Emotion? YOU FAIL IT!</p><p><div class="quote"><p>However, Copyright has turned into this idea where as soon as you make a "Dark cloaked figure who kills people for a living" you can go bully anyone else for doing something like it.</p></div><p>The courts let you do that. They also provide a mechanism for recovering the costs of frivolous lawsuits. Understanding Jurisprudence? YOU FAIL IT!</p><p><div class="quote"><p>IP is not a failed idea. Our system is what's broken (or more likely, those who are in charge of the system).</p></div><p>you are the government<br>you are jurisprudence<br>you are the volition<br>you are jurisdiction<br><a href="http://www.sing365.com/music/lyric.nsf/You-Are-The-Government-lyrics-Bad-Religion/3B00A2FB1FEF5ACB482569690029BC56" title="sing365.com">and I make a difference too</a> [sing365.com] </p></div>
+	</htmltext>
+<tokenext>I 'm getting fed up with these two concepts .
+There is only one kind of Plagarism... ...misspelled.cheating. If you did n't do the work on your paper , then you 're cheating .
+plagiarism [ reference.com ] /pledrzm , -dirz-/-noun1 .
+the unauthorized use or close imitation of the language and thoughts of another author and the representation of them as one 's own original work.English ?
+YOU FAIL IT ! Copyright is the idea that you control the copies of your creation .
+Obviously , nobody wants to spend thousands of hours creating something then letting someone else ( a corporation ) sell it without royalties.I 've spent hundreds of hours developing articles for Everything2 .
+I shudder to think at the hours which have gone into Wikipedia .
+Human Emotion ?
+YOU FAIL IT ! However , Copyright has turned into this idea where as soon as you make a " Dark cloaked figure who kills people for a living " you can go bully anyone else for doing something like it.The courts let you do that .
+They also provide a mechanism for recovering the costs of frivolous lawsuits .
+Understanding Jurisprudence ?
+YOU FAIL IT ! IP is not a failed idea .
+Our system is what 's broken ( or more likely , those who are in charge of the system ) .you are the governmentyou are jurisprudenceyou are the volitionyou are jurisdictionand I make a difference too [ sing365.com ]</tokentext>
+<sentencetext>I'm getting fed up with these two concepts.
+There is only one kind of Plagarism... ...misspelled.cheating. If you didn't do the work on your paper, then you're cheating.
+plagiarism [reference.com] /pledrzm, -dirz-/-noun1.
+the unauthorized use or close imitation of the language and thoughts of another author and the representation of them as one's own original work.English?
+YOU FAIL IT!Copyright is the idea that you control the copies of your creation.
+Obviously, nobody wants to spend thousands of hours creating something then letting someone else (a corporation) sell it without royalties.I've spent hundreds of hours developing articles for Everything2.
+I shudder to think at the hours which have gone into Wikipedia.
+Human Emotion?
+YOU FAIL IT!However, Copyright has turned into this idea where as soon as you make a "Dark cloaked figure who kills people for a living" you can go bully anyone else for doing something like it.The courts let you do that.
+They also provide a mechanism for recovering the costs of frivolous lawsuits.
+Understanding Jurisprudence?
+YOU FAIL IT!IP is not a failed idea.
+Our system is what's broken (or more likely, those who are in charge of the system).you are the governmentyou are jurisprudenceyou are the volitionyou are jurisdictionand I make a difference too [sing365.com] 
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322064</id>
+	<title>title goes here.</title>
+	<author>Tei</author>
+	<datestamp>1259922300000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>A mod, modificacion of a game, often have to distribute files of the original game modified. On some games this is allowed, so is not gray area, is white area, but on others theres not text that allow you to do that.</p><p>Is sad, but mods that use a popular IP are... popular. Not all mods are based on movies, books, etc..  but there are big group of then. These mods are almost all gray area, very few have the authorization of the owner of the ip.</p><p>Modding use to be something that add value to a game and the studio that created that game. People are more inclined to buy a game where there are a strong mod community and cool mods.</p><p>But Microsoft changed this with the concept of DLC's.  Now companies salivate with the idea to create these mods thenselves,...  small amateurist modificatios that can be created in a hour of work, and sell for $10 or $4. As a result, modding is something that remove value from a game.  DLC's is modding done by the original authors. It was created on the consoles, because consoles can't have modding, but now is leaking and poisoning the PC world.  Games like Total War have started to encript the datafiles, to stop modding from flourish.</p><p>Modders thenselves have changed. The original profile for a modder where Hackers, in the old sense of creative people that like to hack fun stuff.  Thats what created these hacked wolfesten.exe's.  Nowdays the modder scene is a hybrid of indie and amateur developpers. Amateur people that have a voice, and claim for quality in the SDK. Mods tend to be total conversions (everywhere but a few games, like the TES serie), made by people that invest time and maybe money, and some expect that to help then take a position in the game industry and get experience in game developping.</p><p>So modding is more or less dyiing. And the companys will change his opinion and modders, and there will be some badwill.. and probably we will return again to the hackers, times, where to change the weapon speed on a MW2 server, you first need to hack the exe. So we hare returning to these wolfestein.exe times.</p></htmltext>
+<tokenext>A mod , modificacion of a game , often have to distribute files of the original game modified .
+On some games this is allowed , so is not gray area , is white area , but on others theres not text that allow you to do that.Is sad , but mods that use a popular IP are... popular. Not all mods are based on movies , books , etc.. but there are big group of then .
+These mods are almost all gray area , very few have the authorization of the owner of the ip.Modding use to be something that add value to a game and the studio that created that game .
+People are more inclined to buy a game where there are a strong mod community and cool mods.But Microsoft changed this with the concept of DLC 's .
+Now companies salivate with the idea to create these mods thenselves,... small amateurist modificatios that can be created in a hour of work , and sell for $ 10 or $ 4 .
+As a result , modding is something that remove value from a game .
+DLC 's is modding done by the original authors .
+It was created on the consoles , because consoles ca n't have modding , but now is leaking and poisoning the PC world .
+Games like Total War have started to encript the datafiles , to stop modding from flourish.Modders thenselves have changed .
+The original profile for a modder where Hackers , in the old sense of creative people that like to hack fun stuff .
+Thats what created these hacked wolfesten.exe 's .
+Nowdays the modder scene is a hybrid of indie and amateur developpers .
+Amateur people that have a voice , and claim for quality in the SDK .
+Mods tend to be total conversions ( everywhere but a few games , like the TES serie ) , made by people that invest time and maybe money , and some expect that to help then take a position in the game industry and get experience in game developping.So modding is more or less dyiing .
+And the companys will change his opinion and modders , and there will be some badwill.. and probably we will return again to the hackers , times , where to change the weapon speed on a MW2 server , you first need to hack the exe .
+So we hare returning to these wolfestein.exe times .</tokentext>
+<sentencetext>A mod, modificacion of a game, often have to distribute files of the original game modified.
+On some games this is allowed, so is not gray area, is white area, but on others theres not text that allow you to do that.Is sad, but mods that use a popular IP are... popular. Not all mods are based on movies, books, etc..  but there are big group of then.
+These mods are almost all gray area, very few have the authorization of the owner of the ip.Modding use to be something that add value to a game and the studio that created that game.
+People are more inclined to buy a game where there are a strong mod community and cool mods.But Microsoft changed this with the concept of DLC's.
+Now companies salivate with the idea to create these mods thenselves,...  small amateurist modificatios that can be created in a hour of work, and sell for $10 or $4.
+As a result, modding is something that remove value from a game.
+DLC's is modding done by the original authors.
+It was created on the consoles, because consoles can't have modding, but now is leaking and poisoning the PC world.
+Games like Total War have started to encript the datafiles, to stop modding from flourish.Modders thenselves have changed.
+The original profile for a modder where Hackers, in the old sense of creative people that like to hack fun stuff.
+Thats what created these hacked wolfesten.exe's.
+Nowdays the modder scene is a hybrid of indie and amateur developpers.
+Amateur people that have a voice, and claim for quality in the SDK.
+Mods tend to be total conversions (everywhere but a few games, like the TES serie), made by people that invest time and maybe money, and some expect that to help then take a position in the game industry and get experience in game developping.So modding is more or less dyiing.
+And the companys will change his opinion and modders, and there will be some badwill.. and probably we will return again to the hackers, times, where to change the weapon speed on a MW2 server, you first need to hack the exe.
+So we hare returning to these wolfestein.exe times.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322616</id>
+	<title>Japanese people hates openess</title>
+	<author>Anonymous</author>
+	<datestamp>1259933760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>It's not so a complex matter. I don't know why, but Japanese publishers hates opening up their resources. Programmers prefer closed, hard-coded software structure design with less capability of modding. Take a look at Doom. Highly moddable. Any<nobr> <wbr></nobr>.wad accepted. Engine licensed open-source. Take a look at any Japanese PC game(Bio Hazard, Lost Planet, whatever). Any moddable feature? Where's the Mod Dev Kit? Where's the seperate vanilla mod folder or file? Any GPL, Apache, BSD licensed component? None, because they hates opening things up. Even if you establish an open project, some people dislike opening everything up in Japan.</p><p># Not a racism, I'm just happened to born in Japan.</p></htmltext>
+<tokenext>It 's not so a complex matter .
+I do n't know why , but Japanese publishers hates opening up their resources .
+Programmers prefer closed , hard-coded software structure design with less capability of modding .
+Take a look at Doom .
+Highly moddable .
+Any .wad accepted .
+Engine licensed open-source .
+Take a look at any Japanese PC game ( Bio Hazard , Lost Planet , whatever ) .
+Any moddable feature ?
+Where 's the Mod Dev Kit ?
+Where 's the seperate vanilla mod folder or file ?
+Any GPL , Apache , BSD licensed component ?
+None , because they hates opening things up .
+Even if you establish an open project , some people dislike opening everything up in Japan. # Not a racism , I 'm just happened to born in Japan .</tokentext>
+<sentencetext>It's not so a complex matter.
+I don't know why, but Japanese publishers hates opening up their resources.
+Programmers prefer closed, hard-coded software structure design with less capability of modding.
+Take a look at Doom.
+Highly moddable.
+Any .wad accepted.
+Engine licensed open-source.
+Take a look at any Japanese PC game(Bio Hazard, Lost Planet, whatever).
+Any moddable feature?
+Where's the Mod Dev Kit?
+Where's the seperate vanilla mod folder or file?
+Any GPL, Apache, BSD licensed component?
+None, because they hates opening things up.
+Even if you establish an open project, some people dislike opening everything up in Japan.# Not a racism, I'm just happened to born in Japan.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30325642</id>
+	<title>Path to the Dark Side: PC Gaming Prioritization</title>
+	<author>portal42</author>
+	<datestamp>1259950740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>The war between open and closed source has coalesced in the gaming community. Take Infinity Ward vs Steam for example. Both have great games; however one allows for open source utilization and private dedicated hosting, while the other has recently chosen to horde their source code and even the rights to multiplayer dedicated hosting. You would not think that these two giants would be conspiring, especially with both of their track records in the gaming community, but I have drawn some dangerous conclusions for the entire gaming community in my mind about such things:
+
+We must examine the recent developments to come to this insane conclusion of mine: Both corporate giants Infinity Ward and Steam have sold out to each other: <a href="http://www.gamepolitics.com/2009/11/06/non-steam-digital-deliverers-uninterested-selling-mw2" title="gamepolitics.com" rel="nofollow">http://www.gamepolitics.com/2009/11/06/non-steam-digital-deliverers-uninterested-selling-mw2</a> [gamepolitics.com] You can&rsquo;t play Call of Duty:Modern Warfare 2 without steam on the PC version, and at the same time Infinity Ward has decided to not allow the PC version to have private dedicated servers! This is a dangerous leap towards PC gaming prioritization, all in the name of &ldquo;keeping the PC on a level playing field with consoles&rdquo;. How many more people will buy into the amazing DRM abilities of Steam and then lock every open source aspect of their game? Will Valve follow suit?
+
+
+I fear that there is an inevitable slow prioritization happening in the PC gaming world. For once the PC world becomes as DRM restricted as efficiently as the console world, both console and PC gamers will be screwed in quality, hosting, and pricing. I do not believe that anything good can come from this new trend seen emerge with the Steam/Infinity Ward convergence with the CoD:MW2 release. Unless PC gamers are able to restrict themselves from supporting these colossal game giants to protest their move to not allow things like their disabled dedicated server capabilities, we will be allowing these companies to succumb to the inevitable greed that will prosper in this world of PC gaming prioritization. The scary part is Infinity Ward is apart of Activision, and Activision is apart of Blizzard. You can see how the conspiracies can fly off the handle from here.</htmltext>
+<tokenext>The war between open and closed source has coalesced in the gaming community .
+Take Infinity Ward vs Steam for example .
+Both have great games ; however one allows for open source utilization and private dedicated hosting , while the other has recently chosen to horde their source code and even the rights to multiplayer dedicated hosting .
+You would not think that these two giants would be conspiring , especially with both of their track records in the gaming community , but I have drawn some dangerous conclusions for the entire gaming community in my mind about such things : We must examine the recent developments to come to this insane conclusion of mine : Both corporate giants Infinity Ward and Steam have sold out to each other : http : //www.gamepolitics.com/2009/11/06/non-steam-digital-deliverers-uninterested-selling-mw2 [ gamepolitics.com ] You can ‚ Ä ô t play Call of Duty : Modern Warfare 2 without steam on the PC version , and at the same time Infinity Ward has decided to not allow the PC version to have private dedicated servers !
+This is a dangerous leap towards PC gaming prioritization , all in the name of ‚ Ä ú keeping the PC on a level playing field with consoles ‚ Ä ù .
+How many more people will buy into the amazing DRM abilities of Steam and then lock every open source aspect of their game ?
+Will Valve follow suit ?
+I fear that there is an inevitable slow prioritization happening in the PC gaming world .
+For once the PC world becomes as DRM restricted as efficiently as the console world , both console and PC gamers will be screwed in quality , hosting , and pricing .
+I do not believe that anything good can come from this new trend seen emerge with the Steam/Infinity Ward convergence with the CoD : MW2 release .
+Unless PC gamers are able to restrict themselves from supporting these colossal game giants to protest their move to not allow things like their disabled dedicated server capabilities , we will be allowing these companies to succumb to the inevitable greed that will prosper in this world of PC gaming prioritization .
+The scary part is Infinity Ward is apart of Activision , and Activision is apart of Blizzard .
+You can see how the conspiracies can fly off the handle from here .</tokentext>
+<sentencetext>The war between open and closed source has coalesced in the gaming community.
+Take Infinity Ward vs Steam for example.
+Both have great games; however one allows for open source utilization and private dedicated hosting, while the other has recently chosen to horde their source code and even the rights to multiplayer dedicated hosting.
+You would not think that these two giants would be conspiring, especially with both of their track records in the gaming community, but I have drawn some dangerous conclusions for the entire gaming community in my mind about such things:
+
+We must examine the recent developments to come to this insane conclusion of mine: Both corporate giants Infinity Ward and Steam have sold out to each other: http://www.gamepolitics.com/2009/11/06/non-steam-digital-deliverers-uninterested-selling-mw2 [gamepolitics.com] You can‚Äôt play Call of Duty:Modern Warfare 2 without steam on the PC version, and at the same time Infinity Ward has decided to not allow the PC version to have private dedicated servers!
+This is a dangerous leap towards PC gaming prioritization, all in the name of ‚Äúkeeping the PC on a level playing field with consoles‚Äù.
+How many more people will buy into the amazing DRM abilities of Steam and then lock every open source aspect of their game?
+Will Valve follow suit?
+I fear that there is an inevitable slow prioritization happening in the PC gaming world.
+For once the PC world becomes as DRM restricted as efficiently as the console world, both console and PC gamers will be screwed in quality, hosting, and pricing.
+I do not believe that anything good can come from this new trend seen emerge with the Steam/Infinity Ward convergence with the CoD:MW2 release.
+Unless PC gamers are able to restrict themselves from supporting these colossal game giants to protest their move to not allow things like their disabled dedicated server capabilities, we will be allowing these companies to succumb to the inevitable greed that will prosper in this world of PC gaming prioritization.
+The scary part is Infinity Ward is apart of Activision, and Activision is apart of Blizzard.
+You can see how the conspiracies can fly off the handle from here.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322158</id>
+	<title>I can understand the companies</title>
+	<author>Anonymous</author>
+	<datestamp>1259924580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I can understand square/enix, the developers of this "fan-sequel" tried to get fame for doing another chrono trigger.
+Chrono Trigger is a brand, it was probably the most famous rpg on the snes.
+Square build up this brand, why should they let somebody else make use of it?
+The creators of the chrono sequel could have also made their own rpg, but probably noone would care, so they make a rpg in the chrono trigger scenario, so they get world famous for doing the chronotrigger sequel.
+You know if you want to make a game related to a film, like batman, you also need to pay the licence holders of batman money, for creating a game with the tag "batman".
+And above else this game could also be a bad game and would damage the brand then, which would lead to less income for square, which square needs to be able to exist.</htmltext>
+<tokenext>I can understand square/enix , the developers of this " fan-sequel " tried to get fame for doing another chrono trigger .
+Chrono Trigger is a brand , it was probably the most famous rpg on the snes .
+Square build up this brand , why should they let somebody else make use of it ?
+The creators of the chrono sequel could have also made their own rpg , but probably noone would care , so they make a rpg in the chrono trigger scenario , so they get world famous for doing the chronotrigger sequel .
+You know if you want to make a game related to a film , like batman , you also need to pay the licence holders of batman money , for creating a game with the tag " batman " .
+And above else this game could also be a bad game and would damage the brand then , which would lead to less income for square , which square needs to be able to exist .</tokentext>
+<sentencetext>I can understand square/enix, the developers of this "fan-sequel" tried to get fame for doing another chrono trigger.
+Chrono Trigger is a brand, it was probably the most famous rpg on the snes.
+Square build up this brand, why should they let somebody else make use of it?
+The creators of the chrono sequel could have also made their own rpg, but probably noone would care, so they make a rpg in the chrono trigger scenario, so they get world famous for doing the chronotrigger sequel.
+You know if you want to make a game related to a film, like batman, you also need to pay the licence holders of batman money, for creating a game with the tag "batman".
+And above else this game could also be a bad game and would damage the brand then, which would lead to less income for square, which square needs to be able to exist.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322478</id>
+	<title>Re:Epic is not evil</title>
+	<author>mcvos</author>
+	<datestamp>1259930940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><blockquote><div><p>not sent by Epic themselves but rather their trigger-happy crack legal team</p></div></blockquote><p>With all due respect, that's complete and utter apologist bullshit.  Anyone on Epic's payroll is Epic.  Nobody forced Epic to pay legal attack dogs, and nobody else was responsible for them doing what they were paid to do.</p></div><p>Epic's apology could mean something if they fired and sued that crack legal team for hurting their name.</p></div>
+	</htmltext>
+<tokenext>not sent by Epic themselves but rather their trigger-happy crack legal teamWith all due respect , that 's complete and utter apologist bullshit .
+Anyone on Epic 's payroll is Epic .
+Nobody forced Epic to pay legal attack dogs , and nobody else was responsible for them doing what they were paid to do.Epic 's apology could mean something if they fired and sued that crack legal team for hurting their name .</tokentext>
+<sentencetext>not sent by Epic themselves but rather their trigger-happy crack legal teamWith all due respect, that's complete and utter apologist bullshit.
+Anyone on Epic's payroll is Epic.
+Nobody forced Epic to pay legal attack dogs, and nobody else was responsible for them doing what they were paid to do.Epic's apology could mean something if they fired and sued that crack legal team for hurting their name.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322174</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324704</id>
+	<title>Re:Copyright and Plagarism</title>
+	<author>Anonymous</author>
+	<datestamp>1259946900000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>First of all, no I don't know those money booths where you can get cash for free.</p><p>Second, that's a completely flawed analogy. The purpose of copyright is to encourage people to create music/video/software. If people are doing those things without the copyright incentive, that means that we don't need copyright after all.</p></htmltext>
+<tokenext>First of all , no I do n't know those money booths where you can get cash for free.Second , that 's a completely flawed analogy .
+The purpose of copyright is to encourage people to create music/video/software .
+If people are doing those things without the copyright incentive , that means that we do n't need copyright after all .</tokentext>
+<sentencetext>First of all, no I don't know those money booths where you can get cash for free.Second, that's a completely flawed analogy.
+The purpose of copyright is to encourage people to create music/video/software.
+If people are doing those things without the copyright incentive, that means that we don't need copyright after all.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324104</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322170</id>
+	<title>Re:Epic is not evil</title>
+	<author>jez9999</author>
+	<datestamp>1259924820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>The event cited (C&amp;D over a gift doll) was actually done in error and was not sent by Epic themselves but rather their trigger-happy crack legal team. Mark Rein (PR dude) later explained the incident [epicgames.com] as an accident and publicly apologized for it.</i></p><p>Yup.  I didn't rape her, your Honour, but rather my trigger-happy penis.  I later explained the incident as an accident and publicly apologized for it.</p></htmltext>
+<tokenext>The event cited ( C&amp;D over a gift doll ) was actually done in error and was not sent by Epic themselves but rather their trigger-happy crack legal team .
+Mark Rein ( PR dude ) later explained the incident [ epicgames.com ] as an accident and publicly apologized for it.Yup .
+I did n't rape her , your Honour , but rather my trigger-happy penis .
+I later explained the incident as an accident and publicly apologized for it .</tokentext>
+<sentencetext>The event cited (C&amp;D over a gift doll) was actually done in error and was not sent by Epic themselves but rather their trigger-happy crack legal team.
+Mark Rein (PR dude) later explained the incident [epicgames.com] as an accident and publicly apologized for it.Yup.
+I didn't rape her, your Honour, but rather my trigger-happy penis.
+I later explained the incident as an accident and publicly apologized for it.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321920</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322124</id>
+	<title>Re:Epic is not evil</title>
+	<author>jonwil</author>
+	<datestamp>1259923800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Electronic Arts is not all that evil either in that they have allowed all kinds of liberal use of the IP for the Command &amp; Conquer series including its use for the Red Alert: A Path Beyond mod and (more notably) the RenegadeX mod for UT3.</p><p>Microsoft (as owner of the Halo franchise) will go hard on anyone making any kind of game that uses anything from the Halo IP.</p><p>Nintendo are one of the worst in the industry and will shut down anything that even smells like an IP violation.</p><p>Vivendi Universal Games (owners of Blizzard and Activision plus former studios like Sierra) seem to be negative against fan mods based on the way they have shut down fan-made Space Quest games (for example)</p><p>ID Software seem to be friendly to modders from what I have seen (they even released source code to many of their games and I expect the Doom III engine will follow suit once its no longer in use and assuming any legal issues can be resolved)</p></htmltext>
+<tokenext>Electronic Arts is not all that evil either in that they have allowed all kinds of liberal use of the IP for the Command &amp; Conquer series including its use for the Red Alert : A Path Beyond mod and ( more notably ) the RenegadeX mod for UT3.Microsoft ( as owner of the Halo franchise ) will go hard on anyone making any kind of game that uses anything from the Halo IP.Nintendo are one of the worst in the industry and will shut down anything that even smells like an IP violation.Vivendi Universal Games ( owners of Blizzard and Activision plus former studios like Sierra ) seem to be negative against fan mods based on the way they have shut down fan-made Space Quest games ( for example ) ID Software seem to be friendly to modders from what I have seen ( they even released source code to many of their games and I expect the Doom III engine will follow suit once its no longer in use and assuming any legal issues can be resolved )</tokentext>
+<sentencetext>Electronic Arts is not all that evil either in that they have allowed all kinds of liberal use of the IP for the Command &amp; Conquer series including its use for the Red Alert: A Path Beyond mod and (more notably) the RenegadeX mod for UT3.Microsoft (as owner of the Halo franchise) will go hard on anyone making any kind of game that uses anything from the Halo IP.Nintendo are one of the worst in the industry and will shut down anything that even smells like an IP violation.Vivendi Universal Games (owners of Blizzard and Activision plus former studios like Sierra) seem to be negative against fan mods based on the way they have shut down fan-made Space Quest games (for example)ID Software seem to be friendly to modders from what I have seen (they even released source code to many of their games and I expect the Doom III engine will follow suit once its no longer in use and assuming any legal issues can be resolved)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321920</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30331938</id>
+	<title>Re:Divineo and the slippery slope</title>
+	<author>Abcd1234</author>
+	<datestamp>1259939100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>with no need for licensing or control over their platforms there is no revenue stream</i></p><p>Well, other than, you know... selling consoles and in-house developed games and thus actually making money on their product like any normal business.</p><p>I know, *crazy*.</p></htmltext>
+<tokenext>with no need for licensing or control over their platforms there is no revenue streamWell , other than , you know... selling consoles and in-house developed games and thus actually making money on their product like any normal business.I know , * crazy * .</tokentext>
+<sentencetext>with no need for licensing or control over their platforms there is no revenue streamWell, other than, you know... selling consoles and in-house developed games and thus actually making money on their product like any normal business.I know, *crazy*.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30323174</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321928</id>
+	<title>Touhou</title>
+	<author>Anonymous</author>
+	<datestamp>1259920320000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>I was reading about a series of Japanese games called the Touhou project a few weeks back. What was interesting is that while the single author of the franchise enforces his copyright to the games themselves, he doesn't on the characters and settings that games revolves around.</p><p>This has allowed many groups to create works (primary comics, but also remixed music and other things) based off his work. He doesn't mind people even selling these things. All they're required to do, is to make sure that they state they're not an original work.</p><p>This has made him and his franchise surprising successful, but it seems he is now worried that it'll grow beyond his control. After a project announced that they would produce an short animated film with some well known voice actors, he ranted in his blog that about it. Some people would argue that Touhou is currently better known for the community's work rather then the creator's original work, and unless he starts really enforcing his copyright, this may not change. On the other hand, if he did that, it would also kill off most his community.</p><p>Stuck behind a rock and a hard place.</p></htmltext>
+<tokenext>I was reading about a series of Japanese games called the Touhou project a few weeks back .
+What was interesting is that while the single author of the franchise enforces his copyright to the games themselves , he does n't on the characters and settings that games revolves around.This has allowed many groups to create works ( primary comics , but also remixed music and other things ) based off his work .
+He does n't mind people even selling these things .
+All they 're required to do , is to make sure that they state they 're not an original work.This has made him and his franchise surprising successful , but it seems he is now worried that it 'll grow beyond his control .
+After a project announced that they would produce an short animated film with some well known voice actors , he ranted in his blog that about it .
+Some people would argue that Touhou is currently better known for the community 's work rather then the creator 's original work , and unless he starts really enforcing his copyright , this may not change .
+On the other hand , if he did that , it would also kill off most his community.Stuck behind a rock and a hard place .</tokentext>
+<sentencetext>I was reading about a series of Japanese games called the Touhou project a few weeks back.
+What was interesting is that while the single author of the franchise enforces his copyright to the games themselves, he doesn't on the characters and settings that games revolves around.This has allowed many groups to create works (primary comics, but also remixed music and other things) based off his work.
+He doesn't mind people even selling these things.
+All they're required to do, is to make sure that they state they're not an original work.This has made him and his franchise surprising successful, but it seems he is now worried that it'll grow beyond his control.
+After a project announced that they would produce an short animated film with some well known voice actors, he ranted in his blog that about it.
+Some people would argue that Touhou is currently better known for the community's work rather then the creator's original work, and unless he starts really enforcing his copyright, this may not change.
+On the other hand, if he did that, it would also kill off most his community.Stuck behind a rock and a hard place.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30323662</id>
+	<title>Re:Copyright and Plagarism</title>
+	<author>PPalmgren</author>
+	<datestamp>1259941920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>IP is not a failed idea.  Our system is what's broken (or more likely, those who are in charge of the system).</p></div><p>If the system can be broken by having the wrong people in charge of it, then it is a broken system.  A proper system has checks and balances for that.</p></div>
+	</htmltext>
+<tokenext>IP is not a failed idea .
+Our system is what 's broken ( or more likely , those who are in charge of the system ) .If the system can be broken by having the wrong people in charge of it , then it is a broken system .
+A proper system has checks and balances for that .</tokentext>
+<sentencetext>IP is not a failed idea.
+Our system is what's broken (or more likely, those who are in charge of the system).If the system can be broken by having the wrong people in charge of it, then it is a broken system.
+A proper system has checks and balances for that.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30334338</id>
+	<title>Valve cares.</title>
+	<author>yanguang</author>
+	<datestamp>1260020880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>At least they bother to embrace their fanbase. Do companies think before they go shooting their own fans?</p></htmltext>
+<tokenext>At least they bother to embrace their fanbase .
+Do companies think before they go shooting their own fans ?</tokentext>
+<sentencetext>At least they bother to embrace their fanbase.
+Do companies think before they go shooting their own fans?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322166</id>
+	<title>Re:No such thing</title>
+	<author>Anonymous</author>
+	<datestamp>1259924820000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>grow up you sad, pathetic thief. When you actually get a fucking job you will realise that there is value in the works of others. Till then, go tidy your room and beg your mommy for some allowance to buy sweets. ok?</p></htmltext>
+<tokenext>grow up you sad , pathetic thief .
+When you actually get a fucking job you will realise that there is value in the works of others .
+Till then , go tidy your room and beg your mommy for some allowance to buy sweets .
+ok ?</tokentext>
+<sentencetext>grow up you sad, pathetic thief.
+When you actually get a fucking job you will realise that there is value in the works of others.
+Till then, go tidy your room and beg your mommy for some allowance to buy sweets.
+ok?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321750</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858</id>
+	<title>Copyright and Plagarism</title>
+	<author>Anonymous</author>
+	<datestamp>1259919300000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I'm getting fed up with these two concepts. There is only one kind of Plagarism... cheating.  If you didn't do the work on your paper, then you're cheating.  If you didn't provide sources, you better have research.  If you don't have research, your paper is baseless and should be given a failing grade.</p><p>Copyright is the idea that you control the copies of your creation. Obviously, nobody wants to spend thousands of hours creating something then letting someone else (a corporation) sell it without royalties. Or letting people download it for free off the internet.  (Hey Pirates, you think you aren't stealing? Well why don't you download a random assortment of bits.  Oh that's right, because you want somebody else's *work*).</p><p>However, Copyright has turned into this idea where as soon as you make a "Dark cloaked figure who kills people for a living" you can go bully anyone else for doing something like it. No, it lets you own your words.  Not something like your words, your words only.</p><p>Trademarks protect against people making Harry Potter books or Mickey Mouse movies.  There is no need and purpose for copyright to cover that issue.</p><p>IP is not a failed idea.  Our system is what's broken (or more likely, those who are in charge of the system).</p></htmltext>
+<tokenext>I 'm getting fed up with these two concepts .
+There is only one kind of Plagarism... cheating. If you did n't do the work on your paper , then you 're cheating .
+If you did n't provide sources , you better have research .
+If you do n't have research , your paper is baseless and should be given a failing grade.Copyright is the idea that you control the copies of your creation .
+Obviously , nobody wants to spend thousands of hours creating something then letting someone else ( a corporation ) sell it without royalties .
+Or letting people download it for free off the internet .
+( Hey Pirates , you think you are n't stealing ?
+Well why do n't you download a random assortment of bits .
+Oh that 's right , because you want somebody else 's * work * ) .However , Copyright has turned into this idea where as soon as you make a " Dark cloaked figure who kills people for a living " you can go bully anyone else for doing something like it .
+No , it lets you own your words .
+Not something like your words , your words only.Trademarks protect against people making Harry Potter books or Mickey Mouse movies .
+There is no need and purpose for copyright to cover that issue.IP is not a failed idea .
+Our system is what 's broken ( or more likely , those who are in charge of the system ) .</tokentext>
+<sentencetext>I'm getting fed up with these two concepts.
+There is only one kind of Plagarism... cheating.  If you didn't do the work on your paper, then you're cheating.
+If you didn't provide sources, you better have research.
+If you don't have research, your paper is baseless and should be given a failing grade.Copyright is the idea that you control the copies of your creation.
+Obviously, nobody wants to spend thousands of hours creating something then letting someone else (a corporation) sell it without royalties.
+Or letting people download it for free off the internet.
+(Hey Pirates, you think you aren't stealing?
+Well why don't you download a random assortment of bits.
+Oh that's right, because you want somebody else's *work*).However, Copyright has turned into this idea where as soon as you make a "Dark cloaked figure who kills people for a living" you can go bully anyone else for doing something like it.
+No, it lets you own your words.
+Not something like your words, your words only.Trademarks protect against people making Harry Potter books or Mickey Mouse movies.
+There is no need and purpose for copyright to cover that issue.IP is not a failed idea.
+Our system is what's broken (or more likely, those who are in charge of the system).</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322574</id>
+	<title>IP is not a failed idea...</title>
+	<author>Anonymous</author>
+	<datestamp>1259932800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>...just the last outgrowth of greedy, late capitalism gone wild in despair.</p><p>An attempt to extend land grab nowadays, when practically all land is grabbed.</p><p>Just Say No to IP.</p><p>(Note: I haven't any issues with copyright, with trademark -- and to some extent with patents -- if applied with measure).</p></htmltext>
+<tokenext>...just the last outgrowth of greedy , late capitalism gone wild in despair.An attempt to extend land grab nowadays , when practically all land is grabbed.Just Say No to IP .
+( Note : I have n't any issues with copyright , with trademark -- and to some extent with patents -- if applied with measure ) .</tokentext>
+<sentencetext>...just the last outgrowth of greedy, late capitalism gone wild in despair.An attempt to extend land grab nowadays, when practically all land is grabbed.Just Say No to IP.
+(Note: I haven't any issues with copyright, with trademark -- and to some extent with patents -- if applied with measure).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321920</id>
+	<title>Epic is not evil</title>
+	<author>MachDelta</author>
+	<datestamp>1259920200000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>The author really should have done more research for this article. Epic games is, typically, not one of the overly protective companies desperately trying to nail down every fan with an idea in the name of Intellectual Property enforcement. The event cited (C&amp;D over a gift doll) was actually done in <b>error</b> and was not sent by Epic themselves but rather their trigger-happy crack legal team. Mark Rein (PR dude) later <a href="http://forums.epicgames.com/showthread.php?t=565444" title="epicgames.com">explained the incident</a> [epicgames.com] as an accident and publicly apologized for it.</p><p>Typically, Epic has been more in stride with Valve in that they actively encourage people to mess with their games in not-for profit ways. They have also released free SDK's and source code for their engines. They've <a href="http://www.makesomethingunreal.com/" title="makesomethingunreal.com">held contests</a> [makesomethingunreal.com] (with cash prizes, noless) in order to cultivate talent and often recruit employees from the community. They've even taken a mod to retail status (Tactical Ops) just like Valve did with Counter Strike. They've also helped to pioneer the feature of community made mods and maps being offered on consoles.</p><p>On the whole, Epic is one of the least "evil" gaming companies on the planet right now. And while they're not immune to making mistakes, I personally don't believe they deserve to be unfairly placed on the wrong side of this particular fence.</p></htmltext>
+<tokenext>The author really should have done more research for this article .
+Epic games is , typically , not one of the overly protective companies desperately trying to nail down every fan with an idea in the name of Intellectual Property enforcement .
+The event cited ( C&amp;D over a gift doll ) was actually done in error and was not sent by Epic themselves but rather their trigger-happy crack legal team .
+Mark Rein ( PR dude ) later explained the incident [ epicgames.com ] as an accident and publicly apologized for it.Typically , Epic has been more in stride with Valve in that they actively encourage people to mess with their games in not-for profit ways .
+They have also released free SDK 's and source code for their engines .
+They 've held contests [ makesomethingunreal.com ] ( with cash prizes , noless ) in order to cultivate talent and often recruit employees from the community .
+They 've even taken a mod to retail status ( Tactical Ops ) just like Valve did with Counter Strike .
+They 've also helped to pioneer the feature of community made mods and maps being offered on consoles.On the whole , Epic is one of the least " evil " gaming companies on the planet right now .
+And while they 're not immune to making mistakes , I personally do n't believe they deserve to be unfairly placed on the wrong side of this particular fence .</tokentext>
+<sentencetext>The author really should have done more research for this article.
+Epic games is, typically, not one of the overly protective companies desperately trying to nail down every fan with an idea in the name of Intellectual Property enforcement.
+The event cited (C&amp;D over a gift doll) was actually done in error and was not sent by Epic themselves but rather their trigger-happy crack legal team.
+Mark Rein (PR dude) later explained the incident [epicgames.com] as an accident and publicly apologized for it.Typically, Epic has been more in stride with Valve in that they actively encourage people to mess with their games in not-for profit ways.
+They have also released free SDK's and source code for their engines.
+They've held contests [makesomethingunreal.com] (with cash prizes, noless) in order to cultivate talent and often recruit employees from the community.
+They've even taken a mod to retail status (Tactical Ops) just like Valve did with Counter Strike.
+They've also helped to pioneer the feature of community made mods and maps being offered on consoles.On the whole, Epic is one of the least "evil" gaming companies on the planet right now.
+And while they're not immune to making mistakes, I personally don't believe they deserve to be unfairly placed on the wrong side of this particular fence.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321894</id>
+	<title>Interesting split in developer perspectives.</title>
+	<author>Anonymous</author>
+	<datestamp>1259919960000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Would Valve be any more approving of, say, people selling Half-Life comic books as SE is of their properties?  Especially with more risque contents?<br>While Valve in particular may be relatively forgiving, it seems less of a single sliding scale between PC/free and console/not free and more of a dichotomy of PC devs smiling upon derivatives as long as they're games that reuse assets, and console devs smiling upon derivatives as long as they're not games and don't reuse assets.</p></htmltext>
+<tokenext>Would Valve be any more approving of , say , people selling Half-Life comic books as SE is of their properties ?
+Especially with more risque contents ? While Valve in particular may be relatively forgiving , it seems less of a single sliding scale between PC/free and console/not free and more of a dichotomy of PC devs smiling upon derivatives as long as they 're games that reuse assets , and console devs smiling upon derivatives as long as they 're not games and do n't reuse assets .</tokentext>
+<sentencetext>Would Valve be any more approving of, say, people selling Half-Life comic books as SE is of their properties?
+Especially with more risque contents?While Valve in particular may be relatively forgiving, it seems less of a single sliding scale between PC/free and console/not free and more of a dichotomy of PC devs smiling upon derivatives as long as they're games that reuse assets, and console devs smiling upon derivatives as long as they're not games and don't reuse assets.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324104</id>
+	<title>Re:Copyright and Plagarism</title>
+	<author>kalirion</author>
+	<datestamp>1259944140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Hey, you know those money booths where you can get real cash for free?  I'm going to use those as an excuse to rob a bank now.</p></htmltext>
+<tokenext>Hey , you know those money booths where you can get real cash for free ?
+I 'm going to use those as an excuse to rob a bank now .</tokentext>
+<sentencetext>Hey, you know those money booths where you can get real cash for free?
+I'm going to use those as an excuse to rob a bank now.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322384</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30326384</id>
+	<title>Re:Divineo and the slippery slope</title>
+	<author>hldn</author>
+	<datestamp>1259953980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>In the first round I guess the "homebrew" community will get what it wants...of course if it hold up after appeal it will have the side effect of destroying the console industry (with no need for licensing or control over their platforms there is no revenue stream) but hey at least they would be open right?</p></div><p>i fail to see a problem.  if someone wants to sell a piece of hardware, they shouldn't have control over how the consumer uses it.</p></div>
+	</htmltext>
+<tokenext>In the first round I guess the " homebrew " community will get what it wants...of course if it hold up after appeal it will have the side effect of destroying the console industry ( with no need for licensing or control over their platforms there is no revenue stream ) but hey at least they would be open right ? i fail to see a problem .
+if someone wants to sell a piece of hardware , they should n't have control over how the consumer uses it .</tokentext>
+<sentencetext>In the first round I guess the "homebrew" community will get what it wants...of course if it hold up after appeal it will have the side effect of destroying the console industry (with no need for licensing or control over their platforms there is no revenue stream) but hey at least they would be open right?i fail to see a problem.
+if someone wants to sell a piece of hardware, they shouldn't have control over how the consumer uses it.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30323174</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30325676</id>
+	<title>Re:title goes here.</title>
+	<author>Monkeedude1212</author>
+	<datestamp>1259950920000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>I agree on some points but not all. Modding is still very prevalent in PC games but has taken a different path then it used to. It is true, that every mod to be released now-a-days is a Total Conversion, I haven't seen a simple "Mod" in a long time. But I think its mostly in part to more and more source code being available to change. The times when you would simply Modify weapon damage and speed and jumping have changed because NOW you have access to put in your own models and textures and even tweak some aspects of the engine itself. Those people who would spend a Month pumping out a mod will now spend 5 months pumping out a TC.</p><p>But in recent developments, it has actually turned into a profitable hobby. Alot of these people would -LOVE- to get into serious game development, but simply don't have the time to start up a game themselves, they need to be hired by one of these large companies. Valve is an -EXCELLENT- example of a company who hires hobbyists. Counter-strike was developed by 1 man in his basement. The guy who made the Minerva Mod was hired on to make maps in upcoming HL2 games. The team who made Portal had a demo of Portal (Narbacular Drop I think it was called?) in an old quake/doom engine, and Valve hired them after it being demo'd at a fair. The lead developer behind the flash version of Portal created his own additional storyline content - and Valve purchased it and they worked with Microsoft to release it for profit on the Xbox Live Arcade version of Portal.</p><p>Modding is no longer about modding the original game - but rather creating something of your own. It is NOT dying, the only sense of it dying is that the PC market is dying. But Companies that develop for the PC mainly (Like Valve, and Epic, and even Blizzard) tend to be a little more lenient with their IP because they know that when the community creates something amazing, they have an opportunity to add it to their assets.</p><p>As long as there are PC developers, there will be a modding community, their motives just might change.</p></htmltext>
+<tokenext>I agree on some points but not all .
+Modding is still very prevalent in PC games but has taken a different path then it used to .
+It is true , that every mod to be released now-a-days is a Total Conversion , I have n't seen a simple " Mod " in a long time .
+But I think its mostly in part to more and more source code being available to change .
+The times when you would simply Modify weapon damage and speed and jumping have changed because NOW you have access to put in your own models and textures and even tweak some aspects of the engine itself .
+Those people who would spend a Month pumping out a mod will now spend 5 months pumping out a TC.But in recent developments , it has actually turned into a profitable hobby .
+Alot of these people would -LOVE- to get into serious game development , but simply do n't have the time to start up a game themselves , they need to be hired by one of these large companies .
+Valve is an -EXCELLENT- example of a company who hires hobbyists .
+Counter-strike was developed by 1 man in his basement .
+The guy who made the Minerva Mod was hired on to make maps in upcoming HL2 games .
+The team who made Portal had a demo of Portal ( Narbacular Drop I think it was called ?
+) in an old quake/doom engine , and Valve hired them after it being demo 'd at a fair .
+The lead developer behind the flash version of Portal created his own additional storyline content - and Valve purchased it and they worked with Microsoft to release it for profit on the Xbox Live Arcade version of Portal.Modding is no longer about modding the original game - but rather creating something of your own .
+It is NOT dying , the only sense of it dying is that the PC market is dying .
+But Companies that develop for the PC mainly ( Like Valve , and Epic , and even Blizzard ) tend to be a little more lenient with their IP because they know that when the community creates something amazing , they have an opportunity to add it to their assets.As long as there are PC developers , there will be a modding community , their motives just might change .</tokentext>
+<sentencetext>I agree on some points but not all.
+Modding is still very prevalent in PC games but has taken a different path then it used to.
+It is true, that every mod to be released now-a-days is a Total Conversion, I haven't seen a simple "Mod" in a long time.
+But I think its mostly in part to more and more source code being available to change.
+The times when you would simply Modify weapon damage and speed and jumping have changed because NOW you have access to put in your own models and textures and even tweak some aspects of the engine itself.
+Those people who would spend a Month pumping out a mod will now spend 5 months pumping out a TC.But in recent developments, it has actually turned into a profitable hobby.
+Alot of these people would -LOVE- to get into serious game development, but simply don't have the time to start up a game themselves, they need to be hired by one of these large companies.
+Valve is an -EXCELLENT- example of a company who hires hobbyists.
+Counter-strike was developed by 1 man in his basement.
+The guy who made the Minerva Mod was hired on to make maps in upcoming HL2 games.
+The team who made Portal had a demo of Portal (Narbacular Drop I think it was called?
+) in an old quake/doom engine, and Valve hired them after it being demo'd at a fair.
+The lead developer behind the flash version of Portal created his own additional storyline content - and Valve purchased it and they worked with Microsoft to release it for profit on the Xbox Live Arcade version of Portal.Modding is no longer about modding the original game - but rather creating something of your own.
+It is NOT dying, the only sense of it dying is that the PC market is dying.
+But Companies that develop for the PC mainly (Like Valve, and Epic, and even Blizzard) tend to be a little more lenient with their IP because they know that when the community creates something amazing, they have an opportunity to add it to their assets.As long as there are PC developers, there will be a modding community, their motives just might change.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322064</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30329908</id>
+	<title>Re:Touhou Hijack</title>
+	<author>Raptor851</author>
+	<datestamp>1259925840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Most of the doujin games based off touhou are NOT free, they're sold.  Check out himeya shop online, they have a pretty good listing of them and are one of the few companies that buy them up and resell them to US customers.</htmltext>
+<tokenext>Most of the doujin games based off touhou are NOT free , they 're sold .
+Check out himeya shop online , they have a pretty good listing of them and are one of the few companies that buy them up and resell them to US customers .</tokentext>
+<sentencetext>Most of the doujin games based off touhou are NOT free, they're sold.
+Check out himeya shop online, they have a pretty good listing of them and are one of the few companies that buy them up and resell them to US customers.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322890</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322384</id>
+	<title>Re:Copyright and Plagarism</title>
+	<author>selven</author>
+	<datestamp>1259928960000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><p><div class="quote"><p>Obviously, nobody wants to spend thousands of hours creating something then letting someone else (a corporation) sell it without royalties. Or letting people download it for free off the internet.</p></div><p>Linux.<br>Firefox.<br>MySQL.<br>Apache.<br>Gnome.<br>KDE.</p><p>And if you're going to redefine your original statement so that GPL counts as payment, I give you:</p><p><a href="http://code.google.com/chromium/terms.html" title="google.com">Chromium (browser and OS)</a> [google.com]<br><a href="http://www.openbsd.org/" title="openbsd.org">Open BSD</a> [openbsd.org]<br><a href="http://www.freebsd.org/" title="freebsd.org">Free BSD</a> [freebsd.org] </p><p><div class="quote"><p>Hey Pirates, you think you aren't stealing?</p></div><p>Do we HAVE to go over this again?</p></div>
+	</htmltext>
+<tokenext>Obviously , nobody wants to spend thousands of hours creating something then letting someone else ( a corporation ) sell it without royalties .
+Or letting people download it for free off the internet.Linux.Firefox.MySQL.Apache.Gnome.KDE.And if you 're going to redefine your original statement so that GPL counts as payment , I give you : Chromium ( browser and OS ) [ google.com ] Open BSD [ openbsd.org ] Free BSD [ freebsd.org ] Hey Pirates , you think you are n't stealing ? Do we HAVE to go over this again ?</tokentext>
+<sentencetext>Obviously, nobody wants to spend thousands of hours creating something then letting someone else (a corporation) sell it without royalties.
+Or letting people download it for free off the internet.Linux.Firefox.MySQL.Apache.Gnome.KDE.And if you're going to redefine your original statement so that GPL counts as payment, I give you:Chromium (browser and OS) [google.com]Open BSD [openbsd.org]Free BSD [freebsd.org] Hey Pirates, you think you aren't stealing?Do we HAVE to go over this again?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30326440</id>
+	<title>Re:Copyright and Plagarism</title>
+	<author>thePowerOfGrayskull</author>
+	<datestamp>1259954160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Does that invalidate his points? I don't think so - replace "nobody" with " not everybody".  Not to mention that this software is not produced for free, and is often supported by the deep pockets of corporations or friendly donors.</htmltext>
+<tokenext>Does that invalidate his points ?
+I do n't think so - replace " nobody " with " not everybody " .
+Not to mention that this software is not produced for free , and is often supported by the deep pockets of corporations or friendly donors .</tokentext>
+<sentencetext>Does that invalidate his points?
+I don't think so - replace "nobody" with " not everybody".
+Not to mention that this software is not produced for free, and is often supported by the deep pockets of corporations or friendly donors.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322384</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322092</id>
+	<title>Re:Copyright and Plagarism</title>
+	<author>Anonymous</author>
+	<datestamp>1259922780000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>IP is only 3 centuries old in the anglosaxon world, 2 for the rest of Europe and 1 for the rest of the world, and in that time it has become a cesspit of creation murdering nonsense that has been slowly making sure creativity in this world is killed because your ideas might make vague use of common tropes someone else with the money wants to sue you about, making sure most of the artistic creation of the last 10 millenia could get sued the fuck off if it was made today. The ideals of feeding the public domain while removing the need for the patronage system were very worthy, but they just created an even more oppressive system of patronage because from a social class standpoint, artists have to be either wildly successfully distributed or will not be able to distribute full time anyway, making things moot. Clinging on the idea of IP as implemented is thinking you can make the Titanic float by repainting the grand staircase.</p></htmltext>
+<tokenext>IP is only 3 centuries old in the anglosaxon world , 2 for the rest of Europe and 1 for the rest of the world , and in that time it has become a cesspit of creation murdering nonsense that has been slowly making sure creativity in this world is killed because your ideas might make vague use of common tropes someone else with the money wants to sue you about , making sure most of the artistic creation of the last 10 millenia could get sued the fuck off if it was made today .
+The ideals of feeding the public domain while removing the need for the patronage system were very worthy , but they just created an even more oppressive system of patronage because from a social class standpoint , artists have to be either wildly successfully distributed or will not be able to distribute full time anyway , making things moot .
+Clinging on the idea of IP as implemented is thinking you can make the Titanic float by repainting the grand staircase .</tokentext>
+<sentencetext>IP is only 3 centuries old in the anglosaxon world, 2 for the rest of Europe and 1 for the rest of the world, and in that time it has become a cesspit of creation murdering nonsense that has been slowly making sure creativity in this world is killed because your ideas might make vague use of common tropes someone else with the money wants to sue you about, making sure most of the artistic creation of the last 10 millenia could get sued the fuck off if it was made today.
+The ideals of feeding the public domain while removing the need for the patronage system were very worthy, but they just created an even more oppressive system of patronage because from a social class standpoint, artists have to be either wildly successfully distributed or will not be able to distribute full time anyway, making things moot.
+Clinging on the idea of IP as implemented is thinking you can make the Titanic float by repainting the grand staircase.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30323058</id>
+	<title>Re:No such thing</title>
+	<author>mcgrew</author>
+	<datestamp>1259938200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>Intellectual property is a bankrupt and indefensible notion.</i></p><p>In the US, it's unconstitutional. IP is property, all right, but constitutionally this "property" belongs to the people. The copyright holder merely has a "limited" time monopoly on its publication and distribution. Unfortunately, Professor Lessig lost his <a href="http://en.wikipedia.org/wiki/Eldred\_v.\_Ashcroft" title="wikipedia.org">Eldred</a> [wikipedia.org] <a href="http://cyber.law.harvard.edu/eldredvreno/" title="harvard.edu">case</a> [harvard.edu], and the SCOTUS ruled that "limited" means whatever Congress says it means.</p><p>But Steamboat Willie, Star Trek, and all the other intellectual properties, all belong to <b>us</b>. It says so right in the <a href="http://www.archives.gov/exhibits/charters/constitution\_transcript.html" title="archives.gov">Constitution.</a> [archives.gov]</p><blockquote><div><p>Section. 8.</p><p>The Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the common Defence and general Welfare of the United States; but all Duties, Imposts and Excises shall be uniform throughout the United States;</p><p>To borrow Money on the credit of the United States;</p><p>To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes;</p><p>To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the United States;</p><p>To coin Money, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;</p><p>To provide for the Punishment of counterfeiting the Securities and current Coin of the United States;</p><p>To establish Post Offices and post Roads;</p><p><b>To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries;</b></p><p>To constitute Tribunals inferior to the supreme Court;</p><p>To define and punish Piracies and Felonies committed on the high Seas, and Offences against the Law of Nations;</p><p>To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land and Water;</p><p>To raise and support Armies, but no Appropriation of Money to that Use shall be for a longer Term than two Years;</p><p>To provide and maintain a Navy;</p><p>To make Rules for the Government and Regulation of the land and naval Forces;</p><p>To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions;</p><p>To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the United States, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress;</p><p>To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government of the United States, and to exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be, for the Erection of Forts, Magazines, Arsenals, dock-Yards, and other needful Buildings;--And</p><p>To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof.</p></div></blockquote></div>
+	</htmltext>
+<tokenext>Intellectual property is a bankrupt and indefensible notion.In the US , it 's unconstitutional .
+IP is property , all right , but constitutionally this " property " belongs to the people .
+The copyright holder merely has a " limited " time monopoly on its publication and distribution .
+Unfortunately , Professor Lessig lost his Eldred [ wikipedia.org ] case [ harvard.edu ] , and the SCOTUS ruled that " limited " means whatever Congress says it means.But Steamboat Willie , Star Trek , and all the other intellectual properties , all belong to us .
+It says so right in the Constitution .
+[ archives.gov ] Section. 8.The Congress shall have Power To lay and collect Taxes , Duties , Imposts and Excises , to pay the Debts and provide for the common Defence and general Welfare of the United States ; but all Duties , Imposts and Excises shall be uniform throughout the United States ; To borrow Money on the credit of the United States ; To regulate Commerce with foreign Nations , and among the several States , and with the Indian Tribes ; To establish an uniform Rule of Naturalization , and uniform Laws on the subject of Bankruptcies throughout the United States ; To coin Money , regulate the Value thereof , and of foreign Coin , and fix the Standard of Weights and Measures ; To provide for the Punishment of counterfeiting the Securities and current Coin of the United States ; To establish Post Offices and post Roads ; To promote the Progress of Science and useful Arts , by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries ; To constitute Tribunals inferior to the supreme Court ; To define and punish Piracies and Felonies committed on the high Seas , and Offences against the Law of Nations ; To declare War , grant Letters of Marque and Reprisal , and make Rules concerning Captures on Land and Water ; To raise and support Armies , but no Appropriation of Money to that Use shall be for a longer Term than two Years ; To provide and maintain a Navy ; To make Rules for the Government and Regulation of the land and naval Forces ; To provide for calling forth the Militia to execute the Laws of the Union , suppress Insurrections and repel Invasions ; To provide for organizing , arming , and disciplining , the Militia , and for governing such Part of them as may be employed in the Service of the United States , reserving to the States respectively , the Appointment of the Officers , and the Authority of training the Militia according to the discipline prescribed by Congress ; To exercise exclusive Legislation in all Cases whatsoever , over such District ( not exceeding ten Miles square ) as may , by Cession of particular States , and the Acceptance of Congress , become the Seat of the Government of the United States , and to exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be , for the Erection of Forts , Magazines , Arsenals , dock-Yards , and other needful Buildings ; --AndTo make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers , and all other Powers vested by this Constitution in the Government of the United States , or in any Department or Officer thereof .</tokentext>
+<sentencetext>Intellectual property is a bankrupt and indefensible notion.In the US, it's unconstitutional.
+IP is property, all right, but constitutionally this "property" belongs to the people.
+The copyright holder merely has a "limited" time monopoly on its publication and distribution.
+Unfortunately, Professor Lessig lost his Eldred [wikipedia.org] case [harvard.edu], and the SCOTUS ruled that "limited" means whatever Congress says it means.But Steamboat Willie, Star Trek, and all the other intellectual properties, all belong to us.
+It says so right in the Constitution.
+[archives.gov]Section. 8.The Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the common Defence and general Welfare of the United States; but all Duties, Imposts and Excises shall be uniform throughout the United States;To borrow Money on the credit of the United States;To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes;To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the United States;To coin Money, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;To provide for the Punishment of counterfeiting the Securities and current Coin of the United States;To establish Post Offices and post Roads;To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries;To constitute Tribunals inferior to the supreme Court;To define and punish Piracies and Felonies committed on the high Seas, and Offences against the Law of Nations;To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land and Water;To raise and support Armies, but no Appropriation of Money to that Use shall be for a longer Term than two Years;To provide and maintain a Navy;To make Rules for the Government and Regulation of the land and naval Forces;To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions;To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the United States, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress;To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government of the United States, and to exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be, for the Erection of Forts, Magazines, Arsenals, dock-Yards, and other needful Buildings;--AndTo make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321750</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321828</id>
+	<title>Torrent</title>
+	<author>Hadlock</author>
+	<datestamp>1259918640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Someone post the torrent already, preferably with both projects in the same<nobr> <wbr></nobr>.torrent<br>
+&nbsp; <br>For, uh, my student paper on IP laws. I need this as a first hand source. Thanks!</p></htmltext>
+<tokenext>Someone post the torrent already , preferably with both projects in the same .torrent ¬ † For , uh , my student paper on IP laws .
+I need this as a first hand source .
+Thanks !</tokentext>
+<sentencetext>Someone post the torrent already, preferably with both projects in the same .torrent
+¬† For, uh, my student paper on IP laws.
+I need this as a first hand source.
+Thanks!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30323174</id>
+	<title>Divineo and the slippery slope</title>
+	<author>grapeape</author>
+	<datestamp>1259939040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Kind of odd that this comes up a day after Ninendo lost the preliminary hearing in a rather important case against Divineo in France.</p><p>To summarize Nintendo sued Divineo over the production of flash cards for the Nintendo DS.  The judge ruled that consoles should operate more like "windows" and that anyone should be able to develop for them without the companies approval.</p><p><a href="http://www.assentek.com/communique-presse-nintendo-vs-assentek-linker" title="assentek.com">http://www.assentek.com/communique-presse-nintendo-vs-assentek-linker</a> [assentek.com]</p><p>In the first round I guess the "homebrew" community will get what it wants...of course if it hold up after appeal it will have the side effect of destroying the console industry (with no need for licensing or control over their platforms there is no revenue stream) but hey at least they would be open right?</p></htmltext>
+<tokenext>Kind of odd that this comes up a day after Ninendo lost the preliminary hearing in a rather important case against Divineo in France.To summarize Nintendo sued Divineo over the production of flash cards for the Nintendo DS .
+The judge ruled that consoles should operate more like " windows " and that anyone should be able to develop for them without the companies approval.http : //www.assentek.com/communique-presse-nintendo-vs-assentek-linker [ assentek.com ] In the first round I guess the " homebrew " community will get what it wants...of course if it hold up after appeal it will have the side effect of destroying the console industry ( with no need for licensing or control over their platforms there is no revenue stream ) but hey at least they would be open right ?</tokentext>
+<sentencetext>Kind of odd that this comes up a day after Ninendo lost the preliminary hearing in a rather important case against Divineo in France.To summarize Nintendo sued Divineo over the production of flash cards for the Nintendo DS.
+The judge ruled that consoles should operate more like "windows" and that anyone should be able to develop for them without the companies approval.http://www.assentek.com/communique-presse-nintendo-vs-assentek-linker [assentek.com]In the first round I guess the "homebrew" community will get what it wants...of course if it hold up after appeal it will have the side effect of destroying the console industry (with no need for licensing or control over their platforms there is no revenue stream) but hey at least they would be open right?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30325440</id>
+	<title>Re:I can understand the companies</title>
+	<author>shutdown -p now</author>
+	<datestamp>1259949840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>I can understand square/enix, the developers of this "fan-sequel" tried to get fame for doing another chrono trigger. Chrono Trigger is a brand, it was probably the most famous rpg on the snes. Square build up this brand, why should they let somebody else make use of it?</p></div><p>Why not? Fame isn't a limited resource, some fans making a mod don't "steal" it from Square Enix. So long as it's non-profit, and clearly identifies all original property rights (not plagiarism)...</p></div>
+	</htmltext>
+<tokenext>I can understand square/enix , the developers of this " fan-sequel " tried to get fame for doing another chrono trigger .
+Chrono Trigger is a brand , it was probably the most famous rpg on the snes .
+Square build up this brand , why should they let somebody else make use of it ? Why not ?
+Fame is n't a limited resource , some fans making a mod do n't " steal " it from Square Enix .
+So long as it 's non-profit , and clearly identifies all original property rights ( not plagiarism ) .. .</tokentext>
+<sentencetext>I can understand square/enix, the developers of this "fan-sequel" tried to get fame for doing another chrono trigger.
+Chrono Trigger is a brand, it was probably the most famous rpg on the snes.
+Square build up this brand, why should they let somebody else make use of it?Why not?
+Fame isn't a limited resource, some fans making a mod don't "steal" it from Square Enix.
+So long as it's non-profit, and clearly identifies all original property rights (not plagiarism)...
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322158</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30325220</id>
+	<title>Re:Epic is not evil</title>
+	<author>neai</author>
+	<datestamp>1259948940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Epic gave their players right to use and redistribute their content, straight in the EULA.
+
+(c)              We just LOVE the idea of you using and distributing content or script from any prior Epic Games, Unreal franchise game in Unreal Tournament 2004 Mod. Therefore we grant you a license to use content from any prior Epic Games Unreal franchise game in your Unreal Tournament 2004 Mods. For the sake of clarity you will not gain any ownership whatsoever in any Epic content or script nor can you use any Epic content outside the scope of the rights granted here. Any attempt to do so will bring about the wrath of our attorneys.
+
+The UDK EULA gives you right to use and redistribute included UT3 code for commercial purposes of your own game.
+
+Also, US copyright law obliges them to pursue any copyright infringments. Any failures to do so may and will be used against them in court. So if you don't like that, go pester your politicians.</htmltext>
+<tokenext>Epic gave their players right to use and redistribute their content , straight in the EULA .
+( c ) We just LOVE the idea of you using and distributing content or script from any prior Epic Games , Unreal franchise game in Unreal Tournament 2004 Mod .
+Therefore we grant you a license to use content from any prior Epic Games Unreal franchise game in your Unreal Tournament 2004 Mods .
+For the sake of clarity you will not gain any ownership whatsoever in any Epic content or script nor can you use any Epic content outside the scope of the rights granted here .
+Any attempt to do so will bring about the wrath of our attorneys .
+The UDK EULA gives you right to use and redistribute included UT3 code for commercial purposes of your own game .
+Also , US copyright law obliges them to pursue any copyright infringments .
+Any failures to do so may and will be used against them in court .
+So if you do n't like that , go pester your politicians .</tokentext>
+<sentencetext>Epic gave their players right to use and redistribute their content, straight in the EULA.
+(c)              We just LOVE the idea of you using and distributing content or script from any prior Epic Games, Unreal franchise game in Unreal Tournament 2004 Mod.
+Therefore we grant you a license to use content from any prior Epic Games Unreal franchise game in your Unreal Tournament 2004 Mods.
+For the sake of clarity you will not gain any ownership whatsoever in any Epic content or script nor can you use any Epic content outside the scope of the rights granted here.
+Any attempt to do so will bring about the wrath of our attorneys.
+The UDK EULA gives you right to use and redistribute included UT3 code for commercial purposes of your own game.
+Also, US copyright law obliges them to pursue any copyright infringments.
+Any failures to do so may and will be used against them in court.
+So if you don't like that, go pester your politicians.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321920</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30326742</id>
+	<title>Re:No such thing</title>
+	<author>Anonymous</author>
+	<datestamp>1259955060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>"Intellectual property is a bankrupt and indefensible notion. Scratch a weasel word, find a thief."<nobr> <wbr></nobr>... sez the Pirate looking to get all things digital for free, but calling everyone else thieves.</p></htmltext>
+<tokenext>" Intellectual property is a bankrupt and indefensible notion .
+Scratch a weasel word , find a thief .
+" ... sez the Pirate looking to get all things digital for free , but calling everyone else thieves .</tokentext>
+<sentencetext>"Intellectual property is a bankrupt and indefensible notion.
+Scratch a weasel word, find a thief.
+" ... sez the Pirate looking to get all things digital for free, but calling everyone else thieves.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321750</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322890</id>
+	<title>Re:Touhou Hijack</title>
+	<author>Anonymous</author>
+	<datestamp>1259936640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>*ahem* I'm not a lawyer, especially not a japanese lawyer, but as I'm aware, the reason they can make fangames is because japanese copyright law DOESN'T care if the product is free. Zun prolly would care if someone made their own touhou 13.0 and SOLD it, but if its free then it's protected</p></htmltext>
+<tokenext>* ahem * I 'm not a lawyer , especially not a japanese lawyer , but as I 'm aware , the reason they can make fangames is because japanese copyright law DOES N'T care if the product is free .
+Zun prolly would care if someone made their own touhou 13.0 and SOLD it , but if its free then it 's protected</tokentext>
+<sentencetext>*ahem* I'm not a lawyer, especially not a japanese lawyer, but as I'm aware, the reason they can make fangames is because japanese copyright law DOESN'T care if the product is free.
+Zun prolly would care if someone made their own touhou 13.0 and SOLD it, but if its free then it's protected</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321928</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324574</id>
+	<title>Look at the big picture.</title>
+	<author>Anonymous</author>
+	<datestamp>1259946360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>You are very misguided.  Other responders have enumerated the ways.  I will only add this one:</p><p><i>Copyright is the idea that you control the copies of your creation</i></p><p>Ostensibly, yes.  However in actuality a digital copy is an entirely passive entity.  It cannot be controlled by its author.  So in an effort to seem to maintain control, copyright law aspires to give you control over something that <i>can</i> be controlled...specifically...other people.</p><p>Everyone in the world, in fact, if the law is to serve its purpose.</p><p>And as history has shown time and time again, the moment people feel a chain on them, they yank on it.</p><p>Laws that punish those who harm others are one thing.  Laws which go against the grain of human nature are quite another.  And one is much more likely to succeed than the other.</p></htmltext>
+<tokenext>You are very misguided .
+Other responders have enumerated the ways .
+I will only add this one : Copyright is the idea that you control the copies of your creationOstensibly , yes .
+However in actuality a digital copy is an entirely passive entity .
+It can not be controlled by its author .
+So in an effort to seem to maintain control , copyright law aspires to give you control over something that can be controlled...specifically...other people.Everyone in the world , in fact , if the law is to serve its purpose.And as history has shown time and time again , the moment people feel a chain on them , they yank on it.Laws that punish those who harm others are one thing .
+Laws which go against the grain of human nature are quite another .
+And one is much more likely to succeed than the other .</tokentext>
+<sentencetext>You are very misguided.
+Other responders have enumerated the ways.
+I will only add this one:Copyright is the idea that you control the copies of your creationOstensibly, yes.
+However in actuality a digital copy is an entirely passive entity.
+It cannot be controlled by its author.
+So in an effort to seem to maintain control, copyright law aspires to give you control over something that can be controlled...specifically...other people.Everyone in the world, in fact, if the law is to serve its purpose.And as history has shown time and time again, the moment people feel a chain on them, they yank on it.Laws that punish those who harm others are one thing.
+Laws which go against the grain of human nature are quite another.
+And one is much more likely to succeed than the other.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322300</id>
+	<title>Re:Touhou</title>
+	<author>Anonymous</author>
+	<datestamp>1259927280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p> <em>Stuck behind a rock and a hard place.</em> </p><p>Many unpaid workers make copies of his work much more popular than it would otherwise be and he's somehow "stuck"? I think he has an entitlement problem.</p><p>---</p><p> <em>Ownership, by definition, is the right to control something. Any ethical (not legal) argument based on "because they own it" is bogus.</em> </p></htmltext>
+<tokenext>Stuck behind a rock and a hard place .
+Many unpaid workers make copies of his work much more popular than it would otherwise be and he 's somehow " stuck " ?
+I think he has an entitlement problem.--- Ownership , by definition , is the right to control something .
+Any ethical ( not legal ) argument based on " because they own it " is bogus .</tokentext>
+<sentencetext> Stuck behind a rock and a hard place.
+Many unpaid workers make copies of his work much more popular than it would otherwise be and he's somehow "stuck"?
+I think he has an entitlement problem.--- Ownership, by definition, is the right to control something.
+Any ethical (not legal) argument based on "because they own it" is bogus. </sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321928</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322054</id>
+	<title>Re:Epic is not evil</title>
+	<author>Anonymous</author>
+	<datestamp>1259922180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Epic not evil? Read up on the working conditions of their game developers, and how they sabotage any initiative to improve industry-wide conditions, then come back and say that.</p><p>Back on topic: Capcom is actually pretty good about not just tolerating, but actually supporting fanmade stuff. Their official <a href="http://capcom-unity.com/" title="capcom-unity.com" rel="nofollow">blog</a> [capcom-unity.com] often has links to fan projects they think are awesome, including a 2.5D remake of Mega Man 2.</p></htmltext>
+<tokenext>Epic not evil ?
+Read up on the working conditions of their game developers , and how they sabotage any initiative to improve industry-wide conditions , then come back and say that.Back on topic : Capcom is actually pretty good about not just tolerating , but actually supporting fanmade stuff .
+Their official blog [ capcom-unity.com ] often has links to fan projects they think are awesome , including a 2.5D remake of Mega Man 2 .</tokentext>
+<sentencetext>Epic not evil?
+Read up on the working conditions of their game developers, and how they sabotage any initiative to improve industry-wide conditions, then come back and say that.Back on topic: Capcom is actually pretty good about not just tolerating, but actually supporting fanmade stuff.
+Their official blog [capcom-unity.com] often has links to fan projects they think are awesome, including a 2.5D remake of Mega Man 2.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321920</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30325920</id>
+	<title>Re:Copyright and Plagarism</title>
+	<author>Anonymous</author>
+	<datestamp>1259951940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>(Hey Rapists, you think you aren't murdering? Well why don't you go have forced sex with a random inanimate object? Oh that's right, because you want somebody else's *life*).</p></htmltext>
+<tokenext>( Hey Rapists , you think you are n't murdering ?
+Well why do n't you go have forced sex with a random inanimate object ?
+Oh that 's right , because you want somebody else 's * life * ) .</tokentext>
+<sentencetext>(Hey Rapists, you think you aren't murdering?
+Well why don't you go have forced sex with a random inanimate object?
+Oh that's right, because you want somebody else's *life*).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321750</id>
+	<title>No such thing</title>
+	<author>deprecated</author>
+	<datestamp>1259917380000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Intellectual property is a bankrupt and indefensible notion. Scratch a weasel word, find a thief.</p></htmltext>
+<tokenext>Intellectual property is a bankrupt and indefensible notion .
+Scratch a weasel word , find a thief .</tokentext>
+<sentencetext>Intellectual property is a bankrupt and indefensible notion.
+Scratch a weasel word, find a thief.</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30323058
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321750
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30332334
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322384
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30328300
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321750
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30325676
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322064
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324210
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322384
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30326384
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30323174
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30325220
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321920
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324574
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322054
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321920
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30325920
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30323662
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322166
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321750
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30326440
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322384
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322170
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321920
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322092
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322300
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321928
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_25</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322478
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322174
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321920
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30325440
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322158
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324704
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324104
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322384
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322974
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322574
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324524
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322384
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322124
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321920
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30326742
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321750
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30331938
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30323174
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_04_0546254_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30329908
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322890
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321928
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_04_0546254.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30323174
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30326384
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30331938
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_04_0546254.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321750
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322166
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30326742
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30328300
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30323058
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_04_0546254.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321894
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_04_0546254.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322064
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30325676
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_04_0546254.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321858
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322974
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30323662
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322384
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30326440
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324210
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324524
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30332334
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324104
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324704
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322092
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30325920
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322574
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30324574
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_04_0546254.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321928
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322300
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322890
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30329908
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_04_0546254.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321920
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322124
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322170
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322174
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322478
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30325220
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322054
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_04_0546254.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30322158
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30325440
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_04_0546254.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_04_0546254.30321956
+</commentlist>
+</conversation>

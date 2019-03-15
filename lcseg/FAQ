@@ -1,0 +1,200 @@
+==================================================================
+Q: How do I run LCseg?
+
+A: First, make sure that the text you intend to segment has exactly
+one sentence per line. LCseg will work otherwise, but you might get
+sentences split into two.
+
+Use bin/segment, and not bin/segment.{i686,sun4}.out. 
+In some cases, you might get errors like this: 
+'error while loading shared libraries: libdb-4.0.so: cannot open shared object file'.
+If so, add the sharelibs directory to your LD_LIBRARY_PATH environment variable.
+
+You can run './bin/segment -H' to get more information.
+Here's how to segment a sample plain text:
+
+$ ./bin/segment samples/dummy_plain.txt 
+==========
+friend
+friendliness
+friendly
+friends
+==========
+frequence
+frequences
+frequencies
+frequency
+frequent
+frequented
+frequently
+frequents
+==========
+friction
+frictional
+frictionally
+frictions
+==========
+frustrate
+frustrated
+frustrates
+frustrating
+frustration
+frustrations
+==========
+
+If instead you get an error message like the following: 
+
+/proj/nlptools/segmentationTools/lcseg-1.6/data/pandk_loose.db: No such file or directory
+
+then you need to modify bin/segment to have $BASEDIR point to the correct
+directory.
+
+==================================================================
+Q: How fast is LCseg?
+
+A: See below the time needed to segment 20 documents of various lengths
+   (1000, 2000, 5000, 10000, 20000, and 50000 words). Go to the 
+   'corpora/len' directory if you want to reproduce these results.
+   All experiments performed on an Intel Pentium 4 CPU 3.00GHz.
+
+    Time to segment 20 documents of 1000 tokens each:
+    $ time ../bin/segment `find 1000 -name '*.ref'` 2> /dev/null
+    real    0m1.874s
+    user    0m0.300s
+    sys     0m0.330s
+
+	etc..
+
+    $ time ../bin/segment `find 2000 -name '*.ref'` 2> /dev/null
+    real    0m2.208s
+    user    0m0.720s
+    sys     0m0.350s
+    $ time ../bin/segment `find 5000 -name '*.ref'` 2> /dev/null
+    real    0m3.261s
+    user    0m1.690s
+    sys     0m0.310s
+    $ time ../bin/segment `find 10000 -name '*.ref'` 2> /dev/null
+    real    0m5.513s
+    user    0m3.910s
+    sys     0m0.250s
+    $ time ../bin/segment `find 20000 -name '*.ref'` 2> /dev/null
+    real    0m10.795s
+    user    0m9.000s
+    sys     0m0.390s
+    $ time ../bin/segment `find 50000 -name '*.ref'` 2> /dev/null
+    real    0m47.750s
+    user    0m40.150s
+    sys     0m0.640s
+
+==================================================================
+Q: LCseg produces too many (or too few) segments!
+
+A: By using the '-n' command-line parameter, you can force LCseg
+   to produce a specific number of segments (the actual number of 
+   segments might be lower if the text is too short for the requested 
+   number of segments).
+   
+   If you do not want to provide any hard-coded number of segments,
+   you can change LCseg's sensitivity to topic shifts by using the 
+   '-a' command-line parameter.
+
+   Experiment on 20 documents of 1000 words:
+
+     '-a' parameter value   | avg. # of segments
+     -------------------------------------------
+       -1                   |      2.6
+       -0.5                 |      4.1
+        0                   |      4.9
+        0.5 (default)       |      6.1
+        1                   |      8.2
+        1.5                 |      9.7
+        2                   |     10.2
+
+   Same experiment, but with documents of 5000 words:
+
+     '-a' parameter value   | avg. # of segments
+     -------------------------------------------
+       -1                   |      4.6
+       -0.5                 |      6.3
+        0                   |      8.5
+        0.5 (default)       |     11.7
+        1                   |     19.8 
+        1.5                 |     37.9
+        2                   |     45.3
+
+   To reproduce the experiments above, but with different values, go 
+   to corpora/len, and run:
+
+    $ ../../bin/segment -a 0.1 `find 1000 -name '*.ref'` 2> /dev/null
+    $ cat `find 1000 -name '*.tsegs'` | grep ^====== | wc -l
+
+==================================================================
+Q: How to use LCseg as a feature?
+
+A: LCseg assesses the degree of lexical cohesion based on repetitions of
+the same stems (other cues such as synonyms are not used). It produces a
+score between 0 and 1 at each sentence break (0 == no cohesion). 
+To get this score, simply run:
+
+$ ./bin/segment -l samples/dummy_plain.txt 
+1              0
+1              0
+0.644357       0
+0              1
+0.764725       0
+1              0
+1              0
+1              0
+1              0
+1              0
+0.764725       0
+0              1
+0.644357       0
+1              0
+0.658382       0
+0              1
+0.752684       0
+1              0
+1              0
+1              0
+1              0
+
+The (LC) score appears in the first column. The first score corresponds
+to the cohesion value between the first and second line, etc. 
+See samples/lcplot.eps to get an idea of how this value (straight line)
+correlates with reference segmentation (vertical dashed lines) on a sample 
+WSJ text.
+
+LCseg uses the second column to segment texts: these values are derived
+from the first column. More specifically, for each minimum in LC, LCseg
+computes the average between the two relative differences between the
+minimum value at that point and the highest LC values it can find on both
+sides by only considering monotonically increasing scores.
+
+If you want to manually inspect these values, you can store them in a
+Matlab script that will let you plot them:
+
+$ ./bin/segment -m wsj_sample_plot.m samples/wsj_sample.txt
+
+Then just run wsj_sample_plot inside Matlab. Make sure matlab/vline.m is
+in your Matlab path (or run wsj_sample_plot.m from within the 'matlab'
+sub-directory).
+
+==================================================================
+Q: How do you use the TextTiling algorithm (Hearst, 94) with LCseg?
+
+A: Run 'bin/segment -t'. You need to increase the window size (parameter -w)
+to get reasonable results ('-w 7' seems to work quite well).
+
+Performance of TextTiling on the 1700 documents in the 
+corpora sub-directory with w=7 
+(error rates, i.e. lower is better):
+
+    Pk         = 0.1696 
+    WindowDiff = 0.2029
+
+Performance of LCseg on the same data (w=2):
+
+    Pk         = 0.0949 
+    WindowDiff = 0.1257
+

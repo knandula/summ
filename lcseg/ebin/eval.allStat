@@ -1,0 +1,37 @@
+#!/usr/bin/perl
+
+# Prints experimental results in two columns (1st: Pk, 2nd: WindowDiff)
+
+use strict;
+
+die "Usage: $0 <log-dir> [<log-dir> ... <log-dir>]\n" unless $#ARGV>=0;
+
+my $NAME='test';
+my @corpora = ('tdt','brown','wsj');
+my @type = ('k','unk');
+
+foreach(@ARGV) { eval_one_dir($_) }
+exit 0;
+
+sub eval_one_dir {
+	my $dir = shift;
+	my $id = `ls $dir/$NAME.* | head -1`; chop $id;
+	$id =~ s/^.*$NAME\..*?\.(.*)\..*$/$1/;
+	print "Experiment ID: $id ($dir)\n";
+	print "\t\tPk\tWD\n";
+	# Avg:
+	my ($pk_sum,$wd_sum,$count) = (0,0);
+	foreach my $c (sort @corpora) {
+	  foreach my $t (sort @type) {
+		my $pk = `cat $dir/$NAME.$t.*.$c 2> /dev/null | ./eval.oneStat -f 1`; 
+		my $wd = `cat $dir/$NAME.$t.*.$c 2> /dev/null | ./eval.oneStat -f 2`; 
+		chop $pk; chop $wd;
+		$pk =~ s/\s.*//; $wd =~ s/\s.*\s(\d*)\s*$//; my $n = $1;
+		printf "$c(t=$t):\t%.4f\t%.4f\t($n)\n", $pk, $wd;
+		$pk_sum += $pk*$n;	
+		$wd_sum += $wd*$n;	
+		$count += $n;
+	  }
+	}
+	printf("total avg: pk=%.4f wd=%.4f\n",($pk_sum/$count),($wd_sum/$count));
+}

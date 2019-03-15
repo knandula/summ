@@ -1,0 +1,75 @@
+#!/usr/bin/perl
+
+# Segments (using <segmenter>) a given file
+# <file> containing reference segmentation, 
+# and return Pk and WindowDiff error scores.
+# Prints also execution time.
+
+use strict;
+use vars qw($opt_h $opt_b $opt_v $opt_E $opt_k);
+use Getopt::Std;
+use Benchmark;
+
+my $help_msg = <<MSG;
+Usage: $0 [options] <segmenter> <file>
+where:
+  <segmenter> : segmentation program
+  <file>      : document to segment
+options:
+  -H : help
+  -k : keep segmented files
+  -b : provide the nb of boundaries to the segmenter
+  -E : skip error evaluation (only print execution time)
+  -v : verbose output
+MSG
+getopts('bEvk');
+die $help_msg, "\n" if $opt_h or $#ARGV < 1;
+my $segmenter = $ARGV[0];
+my $f         = $ARGV[1];
+splice(@ARGV,0,2);
+
+my $clean = "/tmp/clean.$$.txt";
+my $hyp   = "/tmp/hyp.$$.txt";
+system "eval.removeSeg < $f > $clean";
+
+# Determine if the # of segments is predefined:
+my $segtxt = "";
+if($opt_b) {
+  my $n = `cat $f | grep \"========\" | wc -l`;
+  chop $n;
+  $n-=1;
+  $segtxt .= "-n $n ";
+}
+
+# Process parameters:
+my $args = join(' ',@ARGV);
+$segtxt .= "$args ";
+
+# Time it:
+my $t0 = new Benchmark;
+system "$segmenter $segtxt < $clean > $hyp";
+my $t1 = new Benchmark;
+
+# 
+my $diff = timestr(timediff($t1,$t0));
+$diff =~ /([\.\d]+)\s*CPU/;
+my $cpu = $1;
+my $pk=0; my $wd=0;
+my $DEVNULL = '';
+$DEVNULL = ' 2> /dev/null' unless $opt_v;
+unless($opt_E) {
+  $pk=`eval.pk -r $f -h $hyp $DEVNULL`;
+  $wd=`eval.wd -r $f -h $hyp $DEVNULL`;
+  chop $pk; chop $wd;
+  print "$f\t$pk\t$wd\n";
+} else {
+  print "$f\t$pk\t$wd\t$cpu\n";
+}
+
+# Cleanup:
+unless($opt_k) {
+	unlink $hyp;
+} else {
+	print STDERR "segmented file: $hyp\n";
+}
+unlink $clean;

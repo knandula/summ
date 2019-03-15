@@ -1,0 +1,1081 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_12_19_0419205</id>
+	<title>Charities Upset Over Chase Facebook Contest</title>
+	<author>ScuttleMonkey</author>
+	<datestamp>1261229340000</datestamp>
+	<htmltext>ssv03 writes <i>"The New York Times is reporting that Chase Community Giving of Chase Bank recently held a <a href="http://www.nytimes.com/2009/12/19/us/19charity.html?\_r=1">contest on Facebook</a> in which users were encouraged to vote for their favorite charities. At the end of the contest, the 100 charities with the most votes would win $25,000 and advance to the next round to have a chance to win $1 million. Initially, the vote counts for each organization were made public, but two days before voting ended they were hidden, and the final totals have still not been released. While Chase had no official leader board during the voting, several organizations were keeping track of projected winners. Those projections were almost identical to the final results, yet several organizations including Students for Sensible Drug Policy (SSDP), Marijuana Policy Project and several anti-abortion groups were not finalists. They had been performing very well (some within the top 20) until the vote counters were removed. Chase Bank has so far refused to discuss the issue with the organizations.  SSDP has <a href="http://ssdp.org/documents/Chase-Boycott-Release.pdf">spoken out in a press release</a> (PDF) and is calling for a boycott."</i></htmltext>
+<tokenext>ssv03 writes " The New York Times is reporting that Chase Community Giving of Chase Bank recently held a contest on Facebook in which users were encouraged to vote for their favorite charities .
+At the end of the contest , the 100 charities with the most votes would win $ 25,000 and advance to the next round to have a chance to win $ 1 million .
+Initially , the vote counts for each organization were made public , but two days before voting ended they were hidden , and the final totals have still not been released .
+While Chase had no official leader board during the voting , several organizations were keeping track of projected winners .
+Those projections were almost identical to the final results , yet several organizations including Students for Sensible Drug Policy ( SSDP ) , Marijuana Policy Project and several anti-abortion groups were not finalists .
+They had been performing very well ( some within the top 20 ) until the vote counters were removed .
+Chase Bank has so far refused to discuss the issue with the organizations .
+SSDP has spoken out in a press release ( PDF ) and is calling for a boycott .
+"</tokentext>
+<sentencetext>ssv03 writes "The New York Times is reporting that Chase Community Giving of Chase Bank recently held a contest on Facebook in which users were encouraged to vote for their favorite charities.
+At the end of the contest, the 100 charities with the most votes would win $25,000 and advance to the next round to have a chance to win $1 million.
+Initially, the vote counts for each organization were made public, but two days before voting ended they were hidden, and the final totals have still not been released.
+While Chase had no official leader board during the voting, several organizations were keeping track of projected winners.
+Those projections were almost identical to the final results, yet several organizations including Students for Sensible Drug Policy (SSDP), Marijuana Policy Project and several anti-abortion groups were not finalists.
+They had been performing very well (some within the top 20) until the vote counters were removed.
+Chase Bank has so far refused to discuss the issue with the organizations.
+SSDP has spoken out in a press release (PDF) and is calling for a boycott.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30500134</id>
+	<title>Burn baby burn</title>
+	<author>stoat</author>
+	<datestamp>1261254960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Just set the pile on fire to spite all crybabies. Then point to this thread when little johnny the orphan asks for new socks.</p></htmltext>
+<tokenext>Just set the pile on fire to spite all crybabies .
+Then point to this thread when little johnny the orphan asks for new socks .</tokentext>
+<sentencetext>Just set the pile on fire to spite all crybabies.
+Then point to this thread when little johnny the orphan asks for new socks.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498504</id>
+	<title>Re:Good for Chase.</title>
+	<author>Anonymous</author>
+	<datestamp>1261238640000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><blockquote><div><p>The thought that people are putting the legalization of a recreational drug over say giving somebody a hot meal sickens me.</p></div></blockquote><p>The thought that people are putting giving someone a hot meal over say giving a good professional education sickens me.</p><p>The fact is that most of the people whose lives have been destroyed by drug-related arrests are not bored college kids looking for recreation. If your dad is rich enough your arrest will be stricken off police records. If you can pay a good enough lawyer you'll get probation. If you are poor you'll get a rap sheet that will haunt you forever.</p><p>Disclaimer: I have never used drugs, not even marijuana. But I support total legalization of all drugs.</p></div>
+	</htmltext>
+<tokenext>The thought that people are putting the legalization of a recreational drug over say giving somebody a hot meal sickens me.The thought that people are putting giving someone a hot meal over say giving a good professional education sickens me.The fact is that most of the people whose lives have been destroyed by drug-related arrests are not bored college kids looking for recreation .
+If your dad is rich enough your arrest will be stricken off police records .
+If you can pay a good enough lawyer you 'll get probation .
+If you are poor you 'll get a rap sheet that will haunt you forever.Disclaimer : I have never used drugs , not even marijuana .
+But I support total legalization of all drugs .</tokentext>
+<sentencetext>The thought that people are putting the legalization of a recreational drug over say giving somebody a hot meal sickens me.The thought that people are putting giving someone a hot meal over say giving a good professional education sickens me.The fact is that most of the people whose lives have been destroyed by drug-related arrests are not bored college kids looking for recreation.
+If your dad is rich enough your arrest will be stricken off police records.
+If you can pay a good enough lawyer you'll get probation.
+If you are poor you'll get a rap sheet that will haunt you forever.Disclaimer: I have never used drugs, not even marijuana.
+But I support total legalization of all drugs.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30506184</id>
+	<title>Re:Good for Chase.</title>
+	<author>Anonymous</author>
+	<datestamp>1261299960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>The trolls posting to slashdot are the idiots who need to put down the keyboard for long enough to see that there are other human being starving and dying and suffering. The though that people are putting their frivolous opinions online over say giving somebody a hot meal sickens <b>me</b>.</p></htmltext>
+<tokenext>The trolls posting to slashdot are the idiots who need to put down the keyboard for long enough to see that there are other human being starving and dying and suffering .
+The though that people are putting their frivolous opinions online over say giving somebody a hot meal sickens me .</tokentext>
+<sentencetext>The trolls posting to slashdot are the idiots who need to put down the keyboard for long enough to see that there are other human being starving and dying and suffering.
+The though that people are putting their frivolous opinions online over say giving somebody a hot meal sickens me.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498100</id>
+	<title>Me</title>
+	<author>Anonymous</author>
+	<datestamp>1261233180000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>Give the money back, you bailout spending fuckers.</p></htmltext>
+<tokenext>Give the money back , you bailout spending fuckers .</tokentext>
+<sentencetext>Give the money back, you bailout spending fuckers.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498944</id>
+	<title>501(c)(3) defined by the IRS</title>
+	<author>drew30319</author>
+	<datestamp>1261243560000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext>I run a 501(c)(3) that I formed in 2006. My organization was also in the running for the Chase Contest but was not one of the winners.  While disappointed, I'm pleased that Chase undertook this contest using this approach.  Generally corporate contests and donations go to the large charities; Chase at least gave us a chance.  Following is the IRS information on being a 501(c)(3); note that the first paragraph states <b>"[...]it may not be an action organization, i.e., it may not attempt to influence legislation as a substantial part of its activities[...]"</b><blockquote><div><p>Exemption Requirements - Section 501(c)(3) Organizations</p><p>
+
+To be tax-exempt under section 501(c)(3) of the Internal Revenue Code, an organization must be organized and operated exclusively for exempt purposes set forth in section 501(c)(3), and none of its earnings may inure to any private shareholder or individual. In addition, it may not be an action organization, i.e., it may not attempt to influence legislation as a substantial part of its activities and it may not participate in any campaign activity for or against political candidates.</p><p>
+
+Organizations described in section 501(c)(3) are commonly referred to as charitable organizations. Organizations described in section 501(c)(3), other than testing for public safety organizations, are eligible to receive tax-deductible contributions in accordance with Code section 170.</p><p>
+
+The organization must not be organized or operated for the benefit of private interests, and no part of a section 501(c)(3) organization's net earnings may inure to the benefit of any private shareholder or individual. If the organization engages in an excess benefit transaction with a person having substantial influence over the organization, an excise tax may be imposed on the person and any organization managers agreeing to the transaction.</p><p>
+
+Section 501(c)(3) organizations are restricted in how much political and legislative (lobbying) activities they may conduct. For a detailed discussion, see Political and Lobbying Activities. For more information about lobbying activities by charities, see the article Lobbying Issues; for more information about political activities of charities, see the FY-2002 CPE topic Election Year Issues.</p></div>
+</blockquote></div>
+	</htmltext>
+<tokenext>I run a 501 ( c ) ( 3 ) that I formed in 2006 .
+My organization was also in the running for the Chase Contest but was not one of the winners .
+While disappointed , I 'm pleased that Chase undertook this contest using this approach .
+Generally corporate contests and donations go to the large charities ; Chase at least gave us a chance .
+Following is the IRS information on being a 501 ( c ) ( 3 ) ; note that the first paragraph states " [ ... ] it may not be an action organization , i.e. , it may not attempt to influence legislation as a substantial part of its activities [ ... ] " Exemption Requirements - Section 501 ( c ) ( 3 ) Organizations To be tax-exempt under section 501 ( c ) ( 3 ) of the Internal Revenue Code , an organization must be organized and operated exclusively for exempt purposes set forth in section 501 ( c ) ( 3 ) , and none of its earnings may inure to any private shareholder or individual .
+In addition , it may not be an action organization , i.e. , it may not attempt to influence legislation as a substantial part of its activities and it may not participate in any campaign activity for or against political candidates .
+Organizations described in section 501 ( c ) ( 3 ) are commonly referred to as charitable organizations .
+Organizations described in section 501 ( c ) ( 3 ) , other than testing for public safety organizations , are eligible to receive tax-deductible contributions in accordance with Code section 170 .
+The organization must not be organized or operated for the benefit of private interests , and no part of a section 501 ( c ) ( 3 ) organization 's net earnings may inure to the benefit of any private shareholder or individual .
+If the organization engages in an excess benefit transaction with a person having substantial influence over the organization , an excise tax may be imposed on the person and any organization managers agreeing to the transaction .
+Section 501 ( c ) ( 3 ) organizations are restricted in how much political and legislative ( lobbying ) activities they may conduct .
+For a detailed discussion , see Political and Lobbying Activities .
+For more information about lobbying activities by charities , see the article Lobbying Issues ; for more information about political activities of charities , see the FY-2002 CPE topic Election Year Issues .</tokentext>
+<sentencetext>I run a 501(c)(3) that I formed in 2006.
+My organization was also in the running for the Chase Contest but was not one of the winners.
+While disappointed, I'm pleased that Chase undertook this contest using this approach.
+Generally corporate contests and donations go to the large charities; Chase at least gave us a chance.
+Following is the IRS information on being a 501(c)(3); note that the first paragraph states "[...]it may not be an action organization, i.e., it may not attempt to influence legislation as a substantial part of its activities[...]"Exemption Requirements - Section 501(c)(3) Organizations
+
+To be tax-exempt under section 501(c)(3) of the Internal Revenue Code, an organization must be organized and operated exclusively for exempt purposes set forth in section 501(c)(3), and none of its earnings may inure to any private shareholder or individual.
+In addition, it may not be an action organization, i.e., it may not attempt to influence legislation as a substantial part of its activities and it may not participate in any campaign activity for or against political candidates.
+Organizations described in section 501(c)(3) are commonly referred to as charitable organizations.
+Organizations described in section 501(c)(3), other than testing for public safety organizations, are eligible to receive tax-deductible contributions in accordance with Code section 170.
+The organization must not be organized or operated for the benefit of private interests, and no part of a section 501(c)(3) organization's net earnings may inure to the benefit of any private shareholder or individual.
+If the organization engages in an excess benefit transaction with a person having substantial influence over the organization, an excise tax may be imposed on the person and any organization managers agreeing to the transaction.
+Section 501(c)(3) organizations are restricted in how much political and legislative (lobbying) activities they may conduct.
+For a detailed discussion, see Political and Lobbying Activities.
+For more information about lobbying activities by charities, see the article Lobbying Issues; for more information about political activities of charities, see the FY-2002 CPE topic Election Year Issues.
+
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498416</id>
+	<title>Re:Good for Chase.</title>
+	<author>maxume</author>
+	<datestamp>1261237440000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I often masturbate instead of thinking of the hungry.</p></htmltext>
+<tokenext>I often masturbate instead of thinking of the hungry .</tokentext>
+<sentencetext>I often masturbate instead of thinking of the hungry.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30500870</id>
+	<title>No need to boycott for silly reasons, rather...</title>
+	<author>nonsensical</author>
+	<datestamp>1261222080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Just realize the interest rate they're giving on Savings accounts is<nobr> <wbr></nobr>.01\%  not 1\% or a 10th of a percent, but a hundredth of a percent, practically zero.  There is no incentive to save your money with chase.</htmltext>
+<tokenext>Just realize the interest rate they 're giving on Savings accounts is .01 \ % not 1 \ % or a 10th of a percent , but a hundredth of a percent , practically zero .
+There is no incentive to save your money with chase .</tokentext>
+<sentencetext>Just realize the interest rate they're giving on Savings accounts is .01\%  not 1\% or a 10th of a percent, but a hundredth of a percent, practically zero.
+There is no incentive to save your money with chase.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498452</id>
+	<title>Re:Good for Chase.</title>
+	<author>evanbd</author>
+	<datestamp>1261237800000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>And the thought of people's lives being ruined over doing something that did no harm to anyone <em>doesn't</em> sicken you?</p></htmltext>
+<tokenext>And the thought of people 's lives being ruined over doing something that did no harm to anyone does n't sicken you ?</tokentext>
+<sentencetext>And the thought of people's lives being ruined over doing something that did no harm to anyone doesn't sicken you?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30500098</id>
+	<title>Re:Marketing, not charity</title>
+	<author>Ozlanthos</author>
+	<datestamp>1261254540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Given the vast disparity between the ill-effects of using marijuana, and the ill-effects induced by being incarcerated for mere "possession" of it, I'd have to put the rationalization of this country's marijuana laws far above most of what chase considers more "acceptable" use of it's charitable contributions.
+<br>
+<br>
+-Oz</htmltext>
+<tokenext>Given the vast disparity between the ill-effects of using marijuana , and the ill-effects induced by being incarcerated for mere " possession " of it , I 'd have to put the rationalization of this country 's marijuana laws far above most of what chase considers more " acceptable " use of it 's charitable contributions .
+-Oz</tokentext>
+<sentencetext>Given the vast disparity between the ill-effects of using marijuana, and the ill-effects induced by being incarcerated for mere "possession" of it, I'd have to put the rationalization of this country's marijuana laws far above most of what chase considers more "acceptable" use of it's charitable contributions.
+-Oz</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498208</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498142</id>
+	<title>Re:Charities?</title>
+	<author>Anonymous</author>
+	<datestamp>1261233780000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p><div class="quote"><p><div class="quote"><p>Students for Sensible Drug Policy (SSDP), Marijuana Policy Project and several anti-abortion groups were not finalists</p></div><p>In what ways are these charities? I thought charity is about giving to people in need, not supporting political organisations.</p></div><p>Plenty of anti-abortion groups are about helping and educating pregnant women, not advancing political change.  Anti-abortion doesn't always mean anti-choice (as strange as it sounds).  The MPP probably believe they're helping glaucoma patients.  I don't know what the SSDP does.</p></div>
+	</htmltext>
+<tokenext>Students for Sensible Drug Policy ( SSDP ) , Marijuana Policy Project and several anti-abortion groups were not finalistsIn what ways are these charities ?
+I thought charity is about giving to people in need , not supporting political organisations.Plenty of anti-abortion groups are about helping and educating pregnant women , not advancing political change .
+Anti-abortion does n't always mean anti-choice ( as strange as it sounds ) .
+The MPP probably believe they 're helping glaucoma patients .
+I do n't know what the SSDP does .</tokentext>
+<sentencetext>Students for Sensible Drug Policy (SSDP), Marijuana Policy Project and several anti-abortion groups were not finalistsIn what ways are these charities?
+I thought charity is about giving to people in need, not supporting political organisations.Plenty of anti-abortion groups are about helping and educating pregnant women, not advancing political change.
+Anti-abortion doesn't always mean anti-choice (as strange as it sounds).
+The MPP probably believe they're helping glaucoma patients.
+I don't know what the SSDP does.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498112</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30500156</id>
+	<title>Re:Non-embarassing charities</title>
+	<author>RAMMS+EIN</author>
+	<datestamp>1261255260000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Obviously Chase meant the top "non-embarassing to a big company" charities. Can you imagine if Chase had to donate $1M to the Marijuana Policy Project? I'm sure the board freaked out at the thought of "chase" and "MJ" being in the same sentence and said, "do whatever is necessary to make sure we don't get that association."</p></div><p>And yet here we are having a whole discussion about exactly that. And I'm sure<nobr> <wbr></nobr>/. isn't the only place on the Net where this is happening.</p></div>
+	</htmltext>
+<tokenext>Obviously Chase meant the top " non-embarassing to a big company " charities .
+Can you imagine if Chase had to donate $ 1M to the Marijuana Policy Project ?
+I 'm sure the board freaked out at the thought of " chase " and " MJ " being in the same sentence and said , " do whatever is necessary to make sure we do n't get that association .
+" And yet here we are having a whole discussion about exactly that .
+And I 'm sure / .
+is n't the only place on the Net where this is happening .</tokentext>
+<sentencetext>Obviously Chase meant the top "non-embarassing to a big company" charities.
+Can you imagine if Chase had to donate $1M to the Marijuana Policy Project?
+I'm sure the board freaked out at the thought of "chase" and "MJ" being in the same sentence and said, "do whatever is necessary to make sure we don't get that association.
+"And yet here we are having a whole discussion about exactly that.
+And I'm sure /.
+isn't the only place on the Net where this is happening.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498176</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30499118</id>
+	<title>Re:Non-embarassing charities</title>
+	<author>electrosoccertux</author>
+	<datestamp>1261245120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I think it's odd they felt the same way about a group of people that don't want dead what will one day otherwise become a child in the real world.</p></htmltext>
+<tokenext>I think it 's odd they felt the same way about a group of people that do n't want dead what will one day otherwise become a child in the real world .</tokentext>
+<sentencetext>I think it's odd they felt the same way about a group of people that don't want dead what will one day otherwise become a child in the real world.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498176</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30499454</id>
+	<title>Re:Non-embarassing charities</title>
+	<author>Alsee</author>
+	<datestamp>1261247640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>Can you imagine if Chase had to donate $1M to the Marijuana Policy Project? I'm sure the board freaked out at the thought of "chase" and "MJ" being in the same sentence and said, "do whatever is necessary to make sure we don't get that association."</i></p><p>If Citibank were offering a free toaster for opening a new savings account, and Chase were offering an ounce bag of weed, I can sure as hell tell you it's not my bread that's going to be getting toasted.</p><p>-</p></htmltext>
+<tokenext>Can you imagine if Chase had to donate $ 1M to the Marijuana Policy Project ?
+I 'm sure the board freaked out at the thought of " chase " and " MJ " being in the same sentence and said , " do whatever is necessary to make sure we do n't get that association .
+" If Citibank were offering a free toaster for opening a new savings account , and Chase were offering an ounce bag of weed , I can sure as hell tell you it 's not my bread that 's going to be getting toasted.-</tokentext>
+<sentencetext>Can you imagine if Chase had to donate $1M to the Marijuana Policy Project?
+I'm sure the board freaked out at the thought of "chase" and "MJ" being in the same sentence and said, "do whatever is necessary to make sure we don't get that association.
+"If Citibank were offering a free toaster for opening a new savings account, and Chase were offering an ounce bag of weed, I can sure as hell tell you it's not my bread that's going to be getting toasted.-</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498176</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498448</id>
+	<title>Re:Good for Chase.</title>
+	<author>KazW</author>
+	<datestamp>1261237800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>The people who are voting for the drug organizations are idiots who need to put down the bong for long enough to see that there are other human being starving and dying and suffering. The thought that people are putting the legalization of a recreational drug over say giving somebody a hot meal sickens me.</p></div><p>While throwing someone in prison for smoking or growing something completely natural, destroys their credibility, severely affects their ability to get most jobs and ruins their life isn't such a problem with you?<br> <br>I'm not saying people who are starving are unimportant, far from it, but to say that it's simply a matter of a recreational drug is pure ignorance on your part, and it is you who sickens me.</p></div>
+	</htmltext>
+<tokenext>The people who are voting for the drug organizations are idiots who need to put down the bong for long enough to see that there are other human being starving and dying and suffering .
+The thought that people are putting the legalization of a recreational drug over say giving somebody a hot meal sickens me.While throwing someone in prison for smoking or growing something completely natural , destroys their credibility , severely affects their ability to get most jobs and ruins their life is n't such a problem with you ?
+I 'm not saying people who are starving are unimportant , far from it , but to say that it 's simply a matter of a recreational drug is pure ignorance on your part , and it is you who sickens me .</tokentext>
+<sentencetext>The people who are voting for the drug organizations are idiots who need to put down the bong for long enough to see that there are other human being starving and dying and suffering.
+The thought that people are putting the legalization of a recreational drug over say giving somebody a hot meal sickens me.While throwing someone in prison for smoking or growing something completely natural, destroys their credibility, severely affects their ability to get most jobs and ruins their life isn't such a problem with you?
+I'm not saying people who are starving are unimportant, far from it, but to say that it's simply a matter of a recreational drug is pure ignorance on your part, and it is you who sickens me.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30502242</id>
+	<title>Chase = Crooks, See http://www.chase-sucks.com/</title>
+	<author>Anonymous</author>
+	<datestamp>1261245240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Chase = Crooks, See http://www.chase-sucks.com/</p></htmltext>
+<tokenext>Chase = Crooks , See http : //www.chase-sucks.com/</tokentext>
+<sentencetext>Chase = Crooks, See http://www.chase-sucks.com/</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30500924</id>
+	<title>You take the good with the bad.</title>
+	<author>Caspian</author>
+	<datestamp>1261222980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Is this really surprising, people? REALLY? They're just playing CYA. Chase obviously doesn't want to step on any political "hot buttons" <i>on either side of the aisle</i>, so they're somewhat arbitrarily disqualifying charities affiliated with both "liberal" causes (less restrictive laws on marijuana) and "conservative" causes (anti-abortion). Although I'm sad to see the former disqualified, if it means one of my banks (full disclosure: I am a Chase customer) doesn't give money to some anti-choice lunatics, I'm happy.</p><p>Chase might not have predicted that highly politically charged charities would make it into the top $foo list. Not every charity is something everyone can get behind, like the Stop Grinding Baby Kittens Into Soup Foundation. (I will now stand back and wait for one of you knuckleheads to talk about how you support the grinding of baby kittens into soup...)</p></htmltext>
+<tokenext>Is this really surprising , people ?
+REALLY ? They 're just playing CYA .
+Chase obviously does n't want to step on any political " hot buttons " on either side of the aisle , so they 're somewhat arbitrarily disqualifying charities affiliated with both " liberal " causes ( less restrictive laws on marijuana ) and " conservative " causes ( anti-abortion ) .
+Although I 'm sad to see the former disqualified , if it means one of my banks ( full disclosure : I am a Chase customer ) does n't give money to some anti-choice lunatics , I 'm happy.Chase might not have predicted that highly politically charged charities would make it into the top $ foo list .
+Not every charity is something everyone can get behind , like the Stop Grinding Baby Kittens Into Soup Foundation .
+( I will now stand back and wait for one of you knuckleheads to talk about how you support the grinding of baby kittens into soup... )</tokentext>
+<sentencetext>Is this really surprising, people?
+REALLY? They're just playing CYA.
+Chase obviously doesn't want to step on any political "hot buttons" on either side of the aisle, so they're somewhat arbitrarily disqualifying charities affiliated with both "liberal" causes (less restrictive laws on marijuana) and "conservative" causes (anti-abortion).
+Although I'm sad to see the former disqualified, if it means one of my banks (full disclosure: I am a Chase customer) doesn't give money to some anti-choice lunatics, I'm happy.Chase might not have predicted that highly politically charged charities would make it into the top $foo list.
+Not every charity is something everyone can get behind, like the Stop Grinding Baby Kittens Into Soup Foundation.
+(I will now stand back and wait for one of you knuckleheads to talk about how you support the grinding of baby kittens into soup...)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30499116</id>
+	<title>Sour grapes...</title>
+	<author>oscarwumpus</author>
+	<datestamp>1261245120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>...taste better after a little sensible drug use.
+
+Allegedly.</htmltext>
+<tokenext>...taste better after a little sensible drug use .
+Allegedly .</tokentext>
+<sentencetext>...taste better after a little sensible drug use.
+Allegedly.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30499608</id>
+	<title>I hate Chase</title>
+	<author>antgly</author>
+	<datestamp>1261249020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I've always hated Chase, their fees, and etc. and this article isn't helping.</htmltext>
+<tokenext>I 've always hated Chase , their fees , and etc .
+and this article is n't helping .</tokentext>
+<sentencetext>I've always hated Chase, their fees, and etc.
+and this article isn't helping.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498108</id>
+	<title>Hello, dear ladies and gentlemen, Christmas gifts</title>
+	<author>Anonymous</author>
+	<datestamp>1261233300000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext><a href="http://www.etradingitems.com/" title="etradingitems.com" rel="nofollow">http://www.etradingitems.com/</a> [etradingitems.com]
+
+Hello, dear ladies and gentlemen,
+Christmas gifts ready for you be proud?
+If it is not so. I am here to introduce you to the best use of things.
+Christmas factory outlets.
+Buy now proposed a "Christmas gift '. A rare opportunity, what are you waiting for? Quickly move your mouse bar.
+Activities As of December 26
+
+1. sport shoes : Jordan<nobr> <wbr></nobr>,Nike, adidas, Puma, Gucci, LV, UGG , etc. including women shoes and kids shoes.
+2. T-Shirts : BBC T-Shirts, Bape T-Shirts, Armani T-Shirts, Polo T-Shirts,etc.
+3. Hoodies : Bape hoody, hoody, AFF hoody, GGG hoody, ED hoody<nobr> <wbr></nobr>,etc.
+4. Jeans : Levis jeans , Gucci jeans, jeans, Bape jeans , DG jeans<nobr> <wbr></nobr>,etc.
+
+<a href="http://www.etradingitems.com/" title="etradingitems.com" rel="nofollow">http://www.etradingitems.com/</a> [etradingitems.com]</htmltext>
+<tokenext>http : //www.etradingitems.com/ [ etradingitems.com ] Hello , dear ladies and gentlemen , Christmas gifts ready for you be proud ?
+If it is not so .
+I am here to introduce you to the best use of things .
+Christmas factory outlets .
+Buy now proposed a " Christmas gift ' .
+A rare opportunity , what are you waiting for ?
+Quickly move your mouse bar .
+Activities As of December 26 1. sport shoes : Jordan ,Nike , adidas , Puma , Gucci , LV , UGG , etc .
+including women shoes and kids shoes .
+2. T-Shirts : BBC T-Shirts , Bape T-Shirts , Armani T-Shirts , Polo T-Shirts,etc .
+3. Hoodies : Bape hoody , hoody , AFF hoody , GGG hoody , ED hoody ,etc .
+4. Jeans : Levis jeans , Gucci jeans , jeans , Bape jeans , DG jeans ,etc .
+http : //www.etradingitems.com/ [ etradingitems.com ]</tokentext>
+<sentencetext>http://www.etradingitems.com/ [etradingitems.com]
+
+Hello, dear ladies and gentlemen,
+Christmas gifts ready for you be proud?
+If it is not so.
+I am here to introduce you to the best use of things.
+Christmas factory outlets.
+Buy now proposed a "Christmas gift '.
+A rare opportunity, what are you waiting for?
+Quickly move your mouse bar.
+Activities As of December 26
+
+1. sport shoes : Jordan ,Nike, adidas, Puma, Gucci, LV, UGG , etc.
+including women shoes and kids shoes.
+2. T-Shirts : BBC T-Shirts, Bape T-Shirts, Armani T-Shirts, Polo T-Shirts,etc.
+3. Hoodies : Bape hoody, hoody, AFF hoody, GGG hoody, ED hoody ,etc.
+4. Jeans : Levis jeans , Gucci jeans, jeans, Bape jeans , DG jeans ,etc.
+http://www.etradingitems.com/ [etradingitems.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30508132</id>
+	<title>Well, duh!</title>
+	<author>Anonymous</author>
+	<datestamp>1261319820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>Chase is a major portion of the Central Bank (also known as the Federal Reserve Board). I saw that ad on Facebook and thought: "Yeah, right, Chase, charity. Uh huh." They have as much interest in charity as I have in another Bush regime.</htmltext>
+<tokenext>Chase is a major portion of the Central Bank ( also known as the Federal Reserve Board ) .
+I saw that ad on Facebook and thought : " Yeah , right , Chase , charity .
+Uh huh .
+" They have as much interest in charity as I have in another Bush regime .</tokentext>
+<sentencetext>Chase is a major portion of the Central Bank (also known as the Federal Reserve Board).
+I saw that ad on Facebook and thought: "Yeah, right, Chase, charity.
+Uh huh.
+" They have as much interest in charity as I have in another Bush regime.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30502556</id>
+	<title>Re:Charities?</title>
+	<author>Blakey Rat</author>
+	<datestamp>1261339260000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Non-profit != charity.</p><p>Political action groups are registered as non-profits. That doesn't make them charities, and that makes it entirely reasonable that they would be excluded from this program. I'm not sure what the fuss is about really.</p></htmltext>
+<tokenext>Non-profit ! = charity.Political action groups are registered as non-profits .
+That does n't make them charities , and that makes it entirely reasonable that they would be excluded from this program .
+I 'm not sure what the fuss is about really .</tokentext>
+<sentencetext>Non-profit != charity.Political action groups are registered as non-profits.
+That doesn't make them charities, and that makes it entirely reasonable that they would be excluded from this program.
+I'm not sure what the fuss is about really.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498134</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30501192</id>
+	<title>Re:Charities?</title>
+	<author>BitZtream</author>
+	<datestamp>1261226820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>501c3 is non-profit, charity and non-profit are not one and the same.</p></htmltext>
+<tokenext>501c3 is non-profit , charity and non-profit are not one and the same .</tokentext>
+<sentencetext>501c3 is non-profit, charity and non-profit are not one and the same.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498134</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498238</id>
+	<title>Re:Marketing, not charity</title>
+	<author>Culture20</author>
+	<datestamp>1261234860000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>In both of those cases, you can be sure that they'd get plenty of blurbs in every news medium.  They're getting blurbs now, but it's being tied to how secretive they are with money.  Not sure I want to bank with them.</htmltext>
+<tokenext>In both of those cases , you can be sure that they 'd get plenty of blurbs in every news medium .
+They 're getting blurbs now , but it 's being tied to how secretive they are with money .
+Not sure I want to bank with them .</tokentext>
+<sentencetext>In both of those cases, you can be sure that they'd get plenty of blurbs in every news medium.
+They're getting blurbs now, but it's being tied to how secretive they are with money.
+Not sure I want to bank with them.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498208</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30501928</id>
+	<title>Big fucking deal</title>
+	<author>Anonymous</author>
+	<datestamp>1261238760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>It's Chase's money, go fuck yourself.</p></htmltext>
+<tokenext>It 's Chase 's money , go fuck yourself .</tokentext>
+<sentencetext>It's Chase's money, go fuck yourself.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30500788</id>
+	<title>blatant dishonesty if you aks me.</title>
+	<author>crsuperman34</author>
+	<datestamp>1261221060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Why would Chase be concerned with ignominy? Any charitable organization (except those chase found to be exempt) winning is purely fortuitous. The true commercial nature of this contest is adverse to the charitable benefits anways.</htmltext>
+<tokenext>Why would Chase be concerned with ignominy ?
+Any charitable organization ( except those chase found to be exempt ) winning is purely fortuitous .
+The true commercial nature of this contest is adverse to the charitable benefits anways .</tokentext>
+<sentencetext>Why would Chase be concerned with ignominy?
+Any charitable organization (except those chase found to be exempt) winning is purely fortuitous.
+The true commercial nature of this contest is adverse to the charitable benefits anways.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498412</id>
+	<title>Re:Good for Chase.</title>
+	<author>Psyborgue</author>
+	<datestamp>1261237380000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext>The fact that so many people are imprisoned or have otherwise have their lives ruined by the great war against drugs (self ownership) sickens me.  Chase chose to put up a vote to determine what people believe sickens them most.  Who are you or Chase to interfere?</htmltext>
+<tokenext>The fact that so many people are imprisoned or have otherwise have their lives ruined by the great war against drugs ( self ownership ) sickens me .
+Chase chose to put up a vote to determine what people believe sickens them most .
+Who are you or Chase to interfere ?</tokentext>
+<sentencetext>The fact that so many people are imprisoned or have otherwise have their lives ruined by the great war against drugs (self ownership) sickens me.
+Chase chose to put up a vote to determine what people believe sickens them most.
+Who are you or Chase to interfere?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30499202</id>
+	<title>It's Chase's money, isn't it?</title>
+	<author>frozentier</author>
+	<datestamp>1261245660000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>If this is simply Chase giving money - their own money - to a charity, they can legally give it to whoever they want.  It might be different if this was a lottery and the organizations had money invested, but they don't.  This is just a popularity contest.  If you're a finalist on American Idol, you're in the top 3, and they decide to boot you off the show because they find out you used to use pot, then you're shit out of luck, you know?  If Chase decided "screw it, we're not giving money to anyone", they have a right to do that.</htmltext>
+<tokenext>If this is simply Chase giving money - their own money - to a charity , they can legally give it to whoever they want .
+It might be different if this was a lottery and the organizations had money invested , but they do n't .
+This is just a popularity contest .
+If you 're a finalist on American Idol , you 're in the top 3 , and they decide to boot you off the show because they find out you used to use pot , then you 're shit out of luck , you know ?
+If Chase decided " screw it , we 're not giving money to anyone " , they have a right to do that .</tokentext>
+<sentencetext>If this is simply Chase giving money - their own money - to a charity, they can legally give it to whoever they want.
+It might be different if this was a lottery and the organizations had money invested, but they don't.
+This is just a popularity contest.
+If you're a finalist on American Idol, you're in the top 3, and they decide to boot you off the show because they find out you used to use pot, then you're shit out of luck, you know?
+If Chase decided "screw it, we're not giving money to anyone", they have a right to do that.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498584</id>
+	<title>Re:Good for Chase.</title>
+	<author>Anonymous</author>
+	<datestamp>1261239540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>The people who are voting for the drug organizations are idiots who need to put down the bong for long enough to see that there are other human being starving and dying and suffering.</p></div><p>That's precisely what pisses a lot of us off! Our society is currently spending untold $billions right now harassing potheads who are hurting no one but themselves. We could (and should) be using those resources to help those who are starving, dying, and suffering.</p></div>
+	</htmltext>
+<tokenext>The people who are voting for the drug organizations are idiots who need to put down the bong for long enough to see that there are other human being starving and dying and suffering.That 's precisely what pisses a lot of us off !
+Our society is currently spending untold $ billions right now harassing potheads who are hurting no one but themselves .
+We could ( and should ) be using those resources to help those who are starving , dying , and suffering .</tokentext>
+<sentencetext>The people who are voting for the drug organizations are idiots who need to put down the bong for long enough to see that there are other human being starving and dying and suffering.That's precisely what pisses a lot of us off!
+Our society is currently spending untold $billions right now harassing potheads who are hurting no one but themselves.
+We could (and should) be using those resources to help those who are starving, dying, and suffering.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498242</id>
+	<title>Like Darth Vader said:</title>
+	<author>kurt555gs</author>
+	<datestamp>1261234920000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>" I am altering the deal, pray that I do not alter it any further ".</p><p>Banks, Ugh!</p></htmltext>
+<tokenext>" I am altering the deal , pray that I do not alter it any further " .Banks , Ugh !</tokentext>
+<sentencetext>" I am altering the deal, pray that I do not alter it any further ".Banks, Ugh!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498664</id>
+	<title>Re:Charities?</title>
+	<author>Anonymous</author>
+	<datestamp>1261240560000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>Many organizations in the US that push for policy changes are federally registered as 501c3 charities.</p></div></blockquote><p>All being registered as a 501c means is that you are a non profit/not for profit, it has nothing to do with whether or not you are a charity.</p></div>
+	</htmltext>
+<tokenext>Many organizations in the US that push for policy changes are federally registered as 501c3 charities.All being registered as a 501c means is that you are a non profit/not for profit , it has nothing to do with whether or not you are a charity .</tokentext>
+<sentencetext>Many organizations in the US that push for policy changes are federally registered as 501c3 charities.All being registered as a 501c means is that you are a non profit/not for profit, it has nothing to do with whether or not you are a charity.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498134</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30499740</id>
+	<title>Re:Marketing, not charity</title>
+	<author>Anonymous</author>
+	<datestamp>1261250280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>The reason a corporation give money to a charity isn't because it believes in the charity, but because it will get a blurb in paper saying how good they are and increase the brand good will.  Does anyone really expect a corporation to spend $25000 so it can be on the news with a headline "Chase supports legalizing Drugs".</p></div><p>The alternative (which they chose) was headlines suggesting Chase can't be trusted to honor their commitments.  This is a bank.  Their other commitments include keeping peoples' money.  What message does it send when they (appear to) not pay certain people contrary to previously-agreed rules?</p></div>
+	</htmltext>
+<tokenext>The reason a corporation give money to a charity is n't because it believes in the charity , but because it will get a blurb in paper saying how good they are and increase the brand good will .
+Does anyone really expect a corporation to spend $ 25000 so it can be on the news with a headline " Chase supports legalizing Drugs " .The alternative ( which they chose ) was headlines suggesting Chase ca n't be trusted to honor their commitments .
+This is a bank .
+Their other commitments include keeping peoples ' money .
+What message does it send when they ( appear to ) not pay certain people contrary to previously-agreed rules ?</tokentext>
+<sentencetext>The reason a corporation give money to a charity isn't because it believes in the charity, but because it will get a blurb in paper saying how good they are and increase the brand good will.
+Does anyone really expect a corporation to spend $25000 so it can be on the news with a headline "Chase supports legalizing Drugs".The alternative (which they chose) was headlines suggesting Chase can't be trusted to honor their commitments.
+This is a bank.
+Their other commitments include keeping peoples' money.
+What message does it send when they (appear to) not pay certain people contrary to previously-agreed rules?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498208</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498912</id>
+	<title>Re:Non-embarassing charities</title>
+	<author>Anonymous</author>
+	<datestamp>1261243320000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>Can you imagine if Chase had to donate $1M to the Marijuana Policy Project?</p></div><p>That's even more difficult to imagine than a Rage Against The Machine song topping the charts at Christmas. <a href="http://bit.ly/inthename" title="bit.ly" rel="nofollow">Oh wait</a> [bit.ly]...</p></div>
+	</htmltext>
+<tokenext>Can you imagine if Chase had to donate $ 1M to the Marijuana Policy Project ? That 's even more difficult to imagine than a Rage Against The Machine song topping the charts at Christmas .
+Oh wait [ bit.ly ] .. .</tokentext>
+<sentencetext>Can you imagine if Chase had to donate $1M to the Marijuana Policy Project?That's even more difficult to imagine than a Rage Against The Machine song topping the charts at Christmas.
+Oh wait [bit.ly]...
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498176</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498134</id>
+	<title>Re:Charities?</title>
+	<author>CRCulver</author>
+	<datestamp>1261233720000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext>Many organizations in the US that push for policy changes are federally registered as 501c3 charities.</htmltext>
+<tokenext>Many organizations in the US that push for policy changes are federally registered as 501c3 charities .</tokentext>
+<sentencetext>Many organizations in the US that push for policy changes are federally registered as 501c3 charities.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498112</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498774</id>
+	<title>A Credit Card company changing the rules?</title>
+	<author>duncan</author>
+	<datestamp>1261241700000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Wow, a credit card company changing the rules in the middle of the game.</p><p>How Shocking!</p></htmltext>
+<tokenext>Wow , a credit card company changing the rules in the middle of the game.How Shocking !</tokentext>
+<sentencetext>Wow, a credit card company changing the rules in the middle of the game.How Shocking!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498714</id>
+	<title>Re:Non-embarassing charities</title>
+	<author>Idiomatick</author>
+	<datestamp>1261241100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Which is weird because if they came in first then clearly the people are ok with it....<nobr> <wbr></nobr>/shrugs/ I don't get the logic.</htmltext>
+<tokenext>Which is weird because if they came in first then clearly the people are ok with it.... /shrugs/ I do n't get the logic .</tokentext>
+<sentencetext>Which is weird because if they came in first then clearly the people are ok with it.... /shrugs/ I don't get the logic.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498176</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498176</id>
+	<title>Non-embarassing charities</title>
+	<author>Anonymous</author>
+	<datestamp>1261234200000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>Obviously Chase meant the top "non-embarassing to a big company" charities.  Can you imagine if Chase had to donate $1M to the Marijuana Policy Project?  I'm sure the board freaked out at the thought of "chase" and "MJ" being in the same sentence and said, "do whatever is necessary to make sure we don't get that association."</p></htmltext>
+<tokenext>Obviously Chase meant the top " non-embarassing to a big company " charities .
+Can you imagine if Chase had to donate $ 1M to the Marijuana Policy Project ?
+I 'm sure the board freaked out at the thought of " chase " and " MJ " being in the same sentence and said , " do whatever is necessary to make sure we do n't get that association .
+"</tokentext>
+<sentencetext>Obviously Chase meant the top "non-embarassing to a big company" charities.
+Can you imagine if Chase had to donate $1M to the Marijuana Policy Project?
+I'm sure the board freaked out at the thought of "chase" and "MJ" being in the same sentence and said, "do whatever is necessary to make sure we don't get that association.
+"</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30507004</id>
+	<title>Re:Good for Chase.</title>
+	<author>Anonymous</author>
+	<datestamp>1261307220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Why the disclaimer?</p><p>Have you had a cup of coffee, a drag from a cigarette, a glass of beer?  Then you are a recreational drug user.</p><p>When you use these false dichotomies in your arguments, you are implicitly validating them.</p><p>Kudos for your position.</p></htmltext>
+<tokenext>Why the disclaimer ? Have you had a cup of coffee , a drag from a cigarette , a glass of beer ?
+Then you are a recreational drug user.When you use these false dichotomies in your arguments , you are implicitly validating them.Kudos for your position .</tokentext>
+<sentencetext>Why the disclaimer?Have you had a cup of coffee, a drag from a cigarette, a glass of beer?
+Then you are a recreational drug user.When you use these false dichotomies in your arguments, you are implicitly validating them.Kudos for your position.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498504</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498466</id>
+	<title>Re:Good for Chase.</title>
+	<author>quarrelinastraw</author>
+	<datestamp>1261238220000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><i>there are other human being starving and dying and suffering</i><p>Yeah, like the many people  dead or wounded due to gang violence fueled by the street drug trade, or the many people addicted to drugs who can't get medical or treatment help because they will get arrested or simply ignored, the people dying in Afghanistan and Iraq due to terrorist groups funded largely by the heroin trade.
+
+</p><p>I could go on, but you're an idiot if you think the current US policy toward narcotics doesn't cause starving, dying and suffering.
+
+</p><p>People who think caring about drug policy is for bong-toting fratboys sicken me.</p></htmltext>
+<tokenext>there are other human being starving and dying and sufferingYeah , like the many people dead or wounded due to gang violence fueled by the street drug trade , or the many people addicted to drugs who ca n't get medical or treatment help because they will get arrested or simply ignored , the people dying in Afghanistan and Iraq due to terrorist groups funded largely by the heroin trade .
+I could go on , but you 're an idiot if you think the current US policy toward narcotics does n't cause starving , dying and suffering .
+People who think caring about drug policy is for bong-toting fratboys sicken me .</tokentext>
+<sentencetext>there are other human being starving and dying and sufferingYeah, like the many people  dead or wounded due to gang violence fueled by the street drug trade, or the many people addicted to drugs who can't get medical or treatment help because they will get arrested or simply ignored, the people dying in Afghanistan and Iraq due to terrorist groups funded largely by the heroin trade.
+I could go on, but you're an idiot if you think the current US policy toward narcotics doesn't cause starving, dying and suffering.
+People who think caring about drug policy is for bong-toting fratboys sicken me.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498132</id>
+	<title>Charities?</title>
+	<author>Anonymous</author>
+	<datestamp>1261233720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>Students for Sensible Drug Policy (SSDP), Marijuana Policy Project and several anti-abortion groups don't sound like very <i>charitable</i> organizations. They sound like political groups that may be non-profit.</htmltext>
+<tokenext>Students for Sensible Drug Policy ( SSDP ) , Marijuana Policy Project and several anti-abortion groups do n't sound like very charitable organizations .
+They sound like political groups that may be non-profit .</tokentext>
+<sentencetext>Students for Sensible Drug Policy (SSDP), Marijuana Policy Project and several anti-abortion groups don't sound like very charitable organizations.
+They sound like political groups that may be non-profit.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498982</id>
+	<title>Interesting</title>
+	<author>Anonymous</author>
+	<datestamp>1261243980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>including Students for Sensible Drug Policy (SSDP), Marijuana Policy Project and several anti-abortion groups</p></div><p>My first thought was "hey, if you set up a vote like that, you've gotta accept it if people happen to like, say, pro-marijuana projects" and then I saw "anti-abortion groups", at which point I was thinking "obviously they can't fund religious nut-job terrorists." Then I realized that I was being a hypocrite, and I'm still sorting through the cognitive dissonance fall-out.</p></div>
+	</htmltext>
+<tokenext>including Students for Sensible Drug Policy ( SSDP ) , Marijuana Policy Project and several anti-abortion groupsMy first thought was " hey , if you set up a vote like that , you 've got ta accept it if people happen to like , say , pro-marijuana projects " and then I saw " anti-abortion groups " , at which point I was thinking " obviously they ca n't fund religious nut-job terrorists .
+" Then I realized that I was being a hypocrite , and I 'm still sorting through the cognitive dissonance fall-out .</tokentext>
+<sentencetext>including Students for Sensible Drug Policy (SSDP), Marijuana Policy Project and several anti-abortion groupsMy first thought was "hey, if you set up a vote like that, you've gotta accept it if people happen to like, say, pro-marijuana projects" and then I saw "anti-abortion groups", at which point I was thinking "obviously they can't fund religious nut-job terrorists.
+" Then I realized that I was being a hypocrite, and I'm still sorting through the cognitive dissonance fall-out.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498136</id>
+	<title>Re:Charities?</title>
+	<author>gzipped\_tar</author>
+	<datestamp>1261233780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I thought "charities" in the US were about agendas with a tax deduction. Then again, I'm not an American, so I may be wrong.</htmltext>
+<tokenext>I thought " charities " in the US were about agendas with a tax deduction .
+Then again , I 'm not an American , so I may be wrong .</tokentext>
+<sentencetext>I thought "charities" in the US were about agendas with a tax deduction.
+Then again, I'm not an American, so I may be wrong.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498112</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30511728</id>
+	<title>Some intern...</title>
+	<author>hesaigo999ca</author>
+	<datestamp>1261409040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Some cute intern probably came up with this great idea thinking it would be small time and had no real implications other then doing a good deed for some charity, and thought it would be down played. Whether there was any "special" treatment to win the contest, I think definitely the person who thought this idea up, did not foresee the fact that make something visible right to the end, then make it invisible, would make it evidently problematic for them.</p></htmltext>
+<tokenext>Some cute intern probably came up with this great idea thinking it would be small time and had no real implications other then doing a good deed for some charity , and thought it would be down played .
+Whether there was any " special " treatment to win the contest , I think definitely the person who thought this idea up , did not foresee the fact that make something visible right to the end , then make it invisible , would make it evidently problematic for them .</tokentext>
+<sentencetext>Some cute intern probably came up with this great idea thinking it would be small time and had no real implications other then doing a good deed for some charity, and thought it would be down played.
+Whether there was any "special" treatment to win the contest, I think definitely the person who thought this idea up, did not foresee the fact that make something visible right to the end, then make it invisible, would make it evidently problematic for them.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498112</id>
+	<title>Charities?</title>
+	<author>Jojoba86</author>
+	<datestamp>1261233360000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><p><div class="quote"><p>Students for Sensible Drug Policy (SSDP), Marijuana Policy Project and several anti-abortion groups were not finalists</p></div><p>In what ways are these charities? I thought charity is about giving to people in need, not supporting political organisations.</p></div>
+	</htmltext>
+<tokenext>Students for Sensible Drug Policy ( SSDP ) , Marijuana Policy Project and several anti-abortion groups were not finalistsIn what ways are these charities ?
+I thought charity is about giving to people in need , not supporting political organisations .</tokentext>
+<sentencetext>Students for Sensible Drug Policy (SSDP), Marijuana Policy Project and several anti-abortion groups were not finalistsIn what ways are these charities?
+I thought charity is about giving to people in need, not supporting political organisations.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498208</id>
+	<title>Marketing, not charity</title>
+	<author>Anonymous</author>
+	<datestamp>1261234620000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext>The reason a corporation give money to a charity isn't because it believes in the charity, but because it will get a blurb in paper saying how good they are and increase the brand good will.  Does anyone really expect a corporation to spend $25000 so it can be on the news with a headline "Chase supports legalizing Drugs".  I won't even get to the quagmire around abortion.  I'm sure if they do this again, they'll pre-screen organizations that are allowed to participate.  Frankly I'd been more concerned if they screened out an organization that helps people get out of credit card debt.</htmltext>
+<tokenext>The reason a corporation give money to a charity is n't because it believes in the charity , but because it will get a blurb in paper saying how good they are and increase the brand good will .
+Does anyone really expect a corporation to spend $ 25000 so it can be on the news with a headline " Chase supports legalizing Drugs " .
+I wo n't even get to the quagmire around abortion .
+I 'm sure if they do this again , they 'll pre-screen organizations that are allowed to participate .
+Frankly I 'd been more concerned if they screened out an organization that helps people get out of credit card debt .</tokentext>
+<sentencetext>The reason a corporation give money to a charity isn't because it believes in the charity, but because it will get a blurb in paper saying how good they are and increase the brand good will.
+Does anyone really expect a corporation to spend $25000 so it can be on the news with a headline "Chase supports legalizing Drugs".
+I won't even get to the quagmire around abortion.
+I'm sure if they do this again, they'll pre-screen organizations that are allowed to participate.
+Frankly I'd been more concerned if they screened out an organization that helps people get out of credit card debt.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498820</id>
+	<title>Re:Marketing, not charity</title>
+	<author>ModernGeek</author>
+	<datestamp>1261242360000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>Those non profit get out of debt corporations are just collection agencies for the credit card companies. I'd be
+even more concerned if one of those won the contest. Imagine how good it would look for them as they evaded taxes, got great PR, free advertising, and collected old debts all at once.</htmltext>
+<tokenext>Those non profit get out of debt corporations are just collection agencies for the credit card companies .
+I 'd be even more concerned if one of those won the contest .
+Imagine how good it would look for them as they evaded taxes , got great PR , free advertising , and collected old debts all at once .</tokentext>
+<sentencetext>Those non profit get out of debt corporations are just collection agencies for the credit card companies.
+I'd be
+even more concerned if one of those won the contest.
+Imagine how good it would look for them as they evaded taxes, got great PR, free advertising, and collected old debts all at once.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498208</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350</id>
+	<title>Good for Chase.</title>
+	<author>Anonymous</author>
+	<datestamp>1261236420000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>The people who are voting for the drug organizations are idiots who need to put down the bong for long enough to see that there are other human being starving and dying and suffering. The thought that people are putting the legalization of a recreational drug over say giving somebody a hot meal sickens me.</p></htmltext>
+<tokenext>The people who are voting for the drug organizations are idiots who need to put down the bong for long enough to see that there are other human being starving and dying and suffering .
+The thought that people are putting the legalization of a recreational drug over say giving somebody a hot meal sickens me .</tokentext>
+<sentencetext>The people who are voting for the drug organizations are idiots who need to put down the bong for long enough to see that there are other human being starving and dying and suffering.
+The thought that people are putting the legalization of a recreational drug over say giving somebody a hot meal sickens me.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498464</id>
+	<title>Democracy</title>
+	<author>jirka</author>
+	<datestamp>1261238160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>That's the problem with democracy.  People might vote for something you don't like.  This is a lesson that many dictators learned the hard way (and solved in the same way as Chase).  It's really better to start cheating from the very start and just pretend people are actually voting.</p></htmltext>
+<tokenext>That 's the problem with democracy .
+People might vote for something you do n't like .
+This is a lesson that many dictators learned the hard way ( and solved in the same way as Chase ) .
+It 's really better to start cheating from the very start and just pretend people are actually voting .</tokentext>
+<sentencetext>That's the problem with democracy.
+People might vote for something you don't like.
+This is a lesson that many dictators learned the hard way (and solved in the same way as Chase).
+It's really better to start cheating from the very start and just pretend people are actually voting.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498978</id>
+	<title>expect any less from chase</title>
+	<author>Anonymous</author>
+	<datestamp>1261243920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>they suck.. when are people going to realize this? stop doing your banking with these mega corporations.<br>You keep empowering them everytime you put your money into them.<br>I'm not saying hide your money under your bed or in your backyard, just stop doing business with these megacorporations.</p></htmltext>
+<tokenext>they suck.. when are people going to realize this ?
+stop doing your banking with these mega corporations.You keep empowering them everytime you put your money into them.I 'm not saying hide your money under your bed or in your backyard , just stop doing business with these megacorporations .</tokentext>
+<sentencetext>they suck.. when are people going to realize this?
+stop doing your banking with these mega corporations.You keep empowering them everytime you put your money into them.I'm not saying hide your money under your bed or in your backyard, just stop doing business with these megacorporations.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30502288</id>
+	<title>For the record...</title>
+	<author>Anonymous</author>
+	<datestamp>1261246440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I cancelled my Chase Visa this week.  Not because of the boycott but becaue their customer service sucks donkey balls.  The kicker was it took talking to about 8 people to cancel an account.  My favorite was the stupid bitch who wanted my birthday (which was supplied with year) AND my age.  I told the "fucking bitch" to do the math herself (this was asshole number 7 - ok not that I am a saint).  She had to transfer to someone with the sense to go off script and cancel the account without an exact birthdate and age.  What was the issue?  They admitted receipt of money, on time, that they fucked up, but wouldn't let a $25 paypal purchase go through for 24 hours until after they fixed their own fuckup.  I don't need a "business" credit card like (purchases of thousands are not uncommon as are travel/meal expenses - who wants to find out about a problem because their card was declined?  And the CC company can't fix?  Even after seeing their mistake?).  Any other good card would call if their is a problem.</p></htmltext>
+<tokenext>I cancelled my Chase Visa this week .
+Not because of the boycott but becaue their customer service sucks donkey balls .
+The kicker was it took talking to about 8 people to cancel an account .
+My favorite was the stupid bitch who wanted my birthday ( which was supplied with year ) AND my age .
+I told the " fucking bitch " to do the math herself ( this was asshole number 7 - ok not that I am a saint ) .
+She had to transfer to someone with the sense to go off script and cancel the account without an exact birthdate and age .
+What was the issue ?
+They admitted receipt of money , on time , that they fucked up , but would n't let a $ 25 paypal purchase go through for 24 hours until after they fixed their own fuckup .
+I do n't need a " business " credit card like ( purchases of thousands are not uncommon as are travel/meal expenses - who wants to find out about a problem because their card was declined ?
+And the CC company ca n't fix ?
+Even after seeing their mistake ? ) .
+Any other good card would call if their is a problem .</tokentext>
+<sentencetext>I cancelled my Chase Visa this week.
+Not because of the boycott but becaue their customer service sucks donkey balls.
+The kicker was it took talking to about 8 people to cancel an account.
+My favorite was the stupid bitch who wanted my birthday (which was supplied with year) AND my age.
+I told the "fucking bitch" to do the math herself (this was asshole number 7 - ok not that I am a saint).
+She had to transfer to someone with the sense to go off script and cancel the account without an exact birthdate and age.
+What was the issue?
+They admitted receipt of money, on time, that they fucked up, but wouldn't let a $25 paypal purchase go through for 24 hours until after they fixed their own fuckup.
+I don't need a "business" credit card like (purchases of thousands are not uncommon as are travel/meal expenses - who wants to find out about a problem because their card was declined?
+And the CC company can't fix?
+Even after seeing their mistake?).
+Any other good card would call if their is a problem.</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30502556
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498134
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498112
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498452
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30500098
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498208
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30501192
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498134
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498112
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498664
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498134
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498112
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498136
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498112
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498820
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498208
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498412
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498416
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498912
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498176
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30506184
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498714
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498176
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30499454
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498176
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498466
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498584
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498142
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498112
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498448
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30500156
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498176
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30499740
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498208
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498238
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498208
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30507004
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498504
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_12_19_0419205_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30499118
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498176
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_19_0419205.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498350
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498466
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498416
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498448
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498584
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498504
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30507004
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498412
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30506184
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498452
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_19_0419205.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498208
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30499740
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498820
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30500098
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498238
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_19_0419205.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30499202
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_19_0419205.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498944
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_19_0419205.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498112
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498136
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498134
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30501192
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498664
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30502556
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498142
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_19_0419205.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498108
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_19_0419205.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498100
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_19_0419205.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498242
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_19_0419205.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498176
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498714
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30499118
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30499454
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498912
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30500156
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_19_0419205.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30498132
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_12_19_0419205.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_12_19_0419205.30500134
+</commentlist>
+</conversation>
